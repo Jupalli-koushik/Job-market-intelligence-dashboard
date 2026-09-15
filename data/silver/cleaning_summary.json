@@ -1,0 +1,19 @@
+{
+  "bronze_run": "data\\bronze\\20260827T062819Z",
+  "raw_postings_loaded": 1800,
+  "unique_postings_written": 1285,
+  "skill_columns": [
+    "sql",
+    "python",
+    "power_bi",
+    "tableau",
+    "excel",
+    "azure",
+    "aws",
+    "spark",
+    "r",
+    "snowflake",
+    "dbt",
+    "genai_llm"
+  ]
+}

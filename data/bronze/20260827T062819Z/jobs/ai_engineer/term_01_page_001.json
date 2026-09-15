@@ -1,0 +1,1536 @@
+{
+  "url": "https://api.adzuna.com/v1/api/jobs/in/search/1",
+  "params": {
+    "results_per_page": 50,
+    "content-type": "application/json",
+    "where": "India",
+    "what": "AI engineer"
+  },
+  "fetched_at_utc": "2026-08-27T06:29:12.037474+00:00",
+  "status_code": 200,
+  "response_url": "https://api.adzuna.com/v1/api/jobs/in/search/1?app_id=cd9c749f&app_key=b57cfdd3348942d64d752847c03738bf&results_per_page=50&content-type=application%2Fjson&where=India&what=AI+engineer",
+  "body": {
+    "count": 8522,
+    "results": [
+      {
+        "created": "2026-08-12T01:59:43Z",
+        "title": "AI Engineer",
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Capco"
+        },
+        "longitude": 73.84735,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Pune, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Pune"
+          ]
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "description": "This job is with Capco, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Title: GenAI Developer/ Engineer About Us \u201cCapco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities acros\u2026",
+        "latitude": 18.5062,
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139879?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=4FA42B1D1023E22F4C86456DE8F7475C671CCA5C",
+        "id": "5837139879",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODM3MTM5ODc5In0.Hca35EO6pF-vXl51KNrc4sMNSwXDvbwr0Wqxnm0MAbQ"
+      },
+      {
+        "company": {
+          "display_name": "Morningstar",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "title": "AI Engineer",
+        "created": "2026-08-18T18:03:43Z",
+        "description": "This job is with Morningstar, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Role: AI Engineer Location: Vashi, Navi Mumbai (4 days working from office) About the Role We're looking for a Marketing AI / Machine Learning Engineer to join the Analytics Engineering team within Marketing Intelligence and Operations (MIOps). This role focuses on building and operationalizing AI-driven systems\u2026",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Mumbai, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ]
+        },
+        "longitude": 72.84415,
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723676?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=F83D2913763A01EA6FBE321571CA8B989BE3F382",
+        "latitude": 19.00821,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODQ2NzIzNjc2In0.B058foL0r-orQufNMsLQtxJ9T8bAwUS0Lq0khusitw0",
+        "contract_time": "full_time",
+        "id": "5846723676"
+      },
+      {
+        "location": {
+          "area": [
+            "India"
+          ],
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "description": "This job is with Capco, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Title: AI Engineer About Us \u201cCapco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across globe, we su\u2026",
+        "company": {
+          "display_name": "Capco",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "title": "AI Engineer_Agentic AI",
+        "created": "2026-08-12T01:59:40Z",
+        "contract_time": "full_time",
+        "id": "5837139696",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODM3MTM5Njk2In0.GCG4kUkxse6W1X6nQvClJ1buxEyN376iM8ffFnSV7vE",
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139696?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=F6AC54DA864F82265C9E4C3E0DF265E6D6BD9B3B"
+      },
+      {
+        "latitude": 17.40275,
+        "redirect_url": "https://www.adzuna.in/land/ad/5837843493?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=5E0C8C3247A2AD900AF871DEA26972E8B217674E",
+        "id": "5837843493",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODM3ODQzNDkzIn0.Lwj0_QaKviw9WWoqAHf5SdpTUPksG09PLc1e-nkV8Jk",
+        "created": "2026-08-12T11:59:19Z",
+        "title": "Principal AI Engineer",
+        "company": {
+          "display_name": "Cornerstone OnDemand",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 78.50806,
+        "location": {
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "description": "This job is with Cornerstone OnDemand, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Title: Principal AI Engineer Location: Hyderabad, India Years of Experience: 8-10 years of hands-on software engineering experience , including building and scaling AI-powered systems in production Position Overview We are seeking a Principal AI Engineer to design, build, and scale AI-driven systems\u2026",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5837138874?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=7B98A355CD49D625344473D012C1DB1D463E167C",
+        "latitude": 17.40275,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNzEzODg3NCIsInMiOiJRRTQxbnVDaDhSRzhndmZQRUExc0xRIn0.W1PWFZxmDHb72YOTp3XGyKUesFGjPO2sJ0K0umsphHI",
+        "contract_time": "full_time",
+        "id": "5837138874",
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Cornerstone OnDemand"
+        },
+        "created": "2026-08-12T01:59:18Z",
+        "title": "AI Engineer - India",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "This job is with Cornerstone OnDemand, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Title : AI Engineer Location : Hyderabad, India Years of Experience: 3 This role is Office Based, Hyderabad Office Job Title: AI Engineer Location: Hyderabad, India Years of Experience: 3-4 years of hands-on software engineering experience , building and operating production systems Position Overvie\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 78.50806,
+        "location": {
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        }
+      },
+      {
+        "longitude": 76.983738,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Haryana",
+            "Gurgaon"
+          ],
+          "display_name": "Gurgaon, Haryana"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "description": "This job is with Criteo, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. What You'll Do: Our mission is to architect strategic frameworks and end-to-end processes that create company-wide alignment in our commercial ways of working. We operationalize these frameworks through AI-enabled workflows, ensuring scalable, consistent, and efficient execution across the Client Solutions organizati\u2026",
+        "company": {
+          "display_name": "Criteo",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "title": "Senior AI Engineer",
+        "created": "2026-08-15T00:04:14Z",
+        "contract_time": "full_time",
+        "id": "5842114998",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODQyMTE0OTk4In0.pM7GWpbMl84PliIcfX1XlUwHjJkrzyDlC5oJFJXif3A",
+        "latitude": 28.323996,
+        "redirect_url": "https://www.adzuna.in/land/ad/5842114998?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=3534192D19DE8AEA60B550C584A743C75C56F683"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjcyMzA1MiIsInMiOiJRRTQxbnVDaDhSRzhndmZQRUExc0xRIn0.umP8qOBwpqTfXW1iyDfvQ8hK8BSVK0XNpkcSlEwV-4Y",
+        "contract_time": "full_time",
+        "id": "5846723052",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723052?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=4546177A65DE17A9D0D3A70E139296629275753C",
+        "latitude": 18.5062,
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description As a Lead AI Engineer , you will stand at the forefront of innovation, architecting, developing, and deploying groundbreaking AI solutions that redefine what's possible. We are seeking a visionary and highly motivated Leader eager to leverage advanced AI models and platforms \u2026",
+        "longitude": 73.84735,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "India",
+            "Maharashtra",
+            "Pune"
+          ],
+          "display_name": "Pune, Maharashtra",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "company": {
+          "display_name": "Deutsche Bank",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-08-18T18:03:33Z",
+        "title": "Lead AI Engineer, Director"
+      },
+      {
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Standard Chartered Bank"
+        },
+        "title": "AI Engineer (India, China)",
+        "created": "2026-08-25T00:07:49Z",
+        "description": "This job is with Standard Chartered Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Summary This role could be based in India or China. When you start the application process you will be presented with a drop-down menu showing all countries, please ensure that you only select a country where the role is based We are seeking a skilled AI Engineer to design, build, and deploy mach\u2026",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 77.59837,
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5854537872?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=71FDDD42F1439DDFA00C96C1342A4501A4014B38",
+        "latitude": 12.95703,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NDUzNzg3MiIsInMiOiJRRTQxbnVDaDhSRzhndmZQRUExc0xRIn0.Nl4qTa-pSXEbNQwRbAYlTi2lSKLXABdaDpTuoTVqD_Y",
+        "contract_time": "full_time",
+        "id": "5854537872"
+      },
+      {
+        "title": "VP of AI Engineering, HR Technology",
+        "created": "2026-07-10T23:42:23Z",
+        "company": {
+          "display_name": "MSCI",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "display_name": "Bangalore, Karnataka"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "description": "This job is with MSCI, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Your Team Responsibilities: MSCI's HR Technology team builds and operates the platforms and applications that support approximately 6,300 employees across global offices. The team is actively building an agentic application layer - intelligent tools for recruiting, compensation, position management, HR operations, and \u2026",
+        "redirect_url": "https://www.adzuna.in/land/ad/5795883295?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=9D47E50EE05A106030EEF126CD55EFD7B274AD23",
+        "id": "5795883295",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1Nzk1ODgzMjk1In0.j50j6ciWAiDs_SL8qQe7CQ9P0UIImdxyHxnCkohiRtg"
+      },
+      {
+        "company": {
+          "display_name": "S&P Global",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-08-25T00:07:48Z",
+        "title": "Lead AI Engineer (Agentic Systems)",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Engineering Jobs",
+          "tag": "engineering-jobs"
+        },
+        "description": "This job is with S&P Global, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About the Role: Grade Level (for internal use): 11 Lead AI Engineer (Agentic Systems) Role Summary As the Lead AI Engineer (Agentic Systems), you will help architect and build the organization's next generation of autonomous AI workflows. This is a multidisciplinary technical role operating at the intersection of\u2026",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India"
+          ],
+          "display_name": "India"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.in/land/ad/5854537869?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=0D1F0CD08FA2848B37CFCAC7D2C7C8E59C20C70D",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODU0NTM3ODY5In0.R5x4pE2li24yEdw9BWwArA1Fo7EMRJPLoDmhrXc4tps",
+        "contract_time": "full_time",
+        "id": "5854537869"
+      },
+      {
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description Our Technology, Data and Innovation (TDI) strategy is focused on strengthening engineering expertise, introducing an agile delivery model, as well as modernising the bank's IT infrastructure with long-term investments and taking advantage of cloud computing. You will be worki\u2026",
+        "longitude": 73.84735,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Pune, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Pune"
+          ]
+        },
+        "created": "2026-08-18T18:03:38Z",
+        "title": "Senior Engineer - Java  AI Engineer, AVP",
+        "salary_is_predicted": "0",
+        "company": {
+          "display_name": "Deutsche Bank",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODQ2NzIzMzg2In0.jjar0WbNSfTW9VLItqtKxH9lDuJrrJOCDoOJ4ZPvKT8",
+        "id": "5846723386",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723386?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=A307DCEC2A771E4E743DC5A7FD4BF8E126664593",
+        "latitude": 18.5062
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723241?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=0084818D71681FAC4F572D55AE1C6BC637792931",
+        "id": "5846723241",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjcyMzI0MSIsInMiOiJRRTQxbnVDaDhSRzhndmZQRUExc0xRIn0.1Nqx88GccFwYSQjZd7n5zVCHmuFC4wN8K6zYe9FT_8k",
+        "title": "AI Solutions Engineer",
+        "created": "2026-08-18T18:03:36Z",
+        "company": {
+          "display_name": "HP",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "description": "This job is with HP, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. AI Solutions Engineer Description - Job Summary \u2022 This role is responsible for specializing in development and deployment of machine learning models that drive innovation and business value. The role researches and implements appropriate ML algorithms and tools, runs machine learning tests and experiments, and trains and\u2026"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODQ4NjUwODc4In0.S9DON9voYajZ-J1HM6y9E4FhX52L-a3IJ6iFCT2zS0Q",
+        "contract_time": "full_time",
+        "id": "5848650878",
+        "redirect_url": "https://www.adzuna.in/land/ad/5848650878?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=419465CB07DDFB0813054DE5E63DA7A64F7FB40E",
+        "latitude": 19.00821,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "description": "This job is with Morningstar, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Role Title - Manager - AI Solutions Engineering & Transformation About Morningstar Morningstar, Inc. is a leading provider of independent investment insights in North America, Europe, Australia, and Asia. The Company offers an extensive line of products and services for individual investors, financial advisors, \u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 72.84415,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Mumbai, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ]
+        },
+        "company": {
+          "display_name": "Morningstar",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-08-20T00:04:21Z",
+        "title": "AI Solutions Engineering & Transformation Manager"
+      },
+      {
+        "title": "Principal Software Engineer - AI",
+        "created": "2026-08-19T14:05:01Z",
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Moody's"
+        },
+        "description": "This job is with Moody's, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Moody's, we unite the brightest minds to turn today\u2019s risks into tomorrow\u2019s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are\u2014with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Mo\u2026",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5847959803?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=24850D9B9C940C34EAB88A822280AD413E8F4422",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODQ3OTU5ODAzIn0.zPbSk5fy8LeBpBqKZIAFitVTWkR_8V2BLz0_MVKc2a4",
+        "id": "5847959803",
+        "contract_time": "full_time"
+      },
+      {
+        "latitude": 19.00821,
+        "redirect_url": "https://www.adzuna.in/land/ad/5849296984?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=0A191BDA79A9488C219C85C064E1A39B35A8C176",
+        "contract_time": "full_time",
+        "id": "5849296984",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODQ5Mjk2OTg0In0.C6LleOemSFadE6-UwHVrJVhriZgINB3dKKT0bqODusE",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Kyndryl"
+        },
+        "salary_is_predicted": "0",
+        "title": "Forward Deployed Engineer - AI",
+        "created": "2026-08-20T10:04:35Z",
+        "longitude": 72.84415,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "display_name": "Mumbai, Maharashtra",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "description": "This job is with Kyndryl, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Who We Are At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world's leading businesses. We are at the heart of progress; with proven expertise and a continuous flow of AI-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edg\u2026",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        }
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0OTI5Njk4MiIsInMiOiJRRTQxbnVDaDhSRzhndmZQRUExc0xRIn0.yQ-wGIAlHjM8GrH4c_mMJQ8I4pkcpkSKcZ3sjWyEp5c",
+        "contract_time": "full_time",
+        "id": "5849296982",
+        "redirect_url": "https://www.adzuna.in/land/ad/5849296982?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=36C18D54267272C62E582921B1963DD65131601D",
+        "latitude": 19.00821,
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "This job is with Kyndryl, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Who We Are At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world's leading businesses. We are at the heart of progress; with proven expertise and a continuous flow of AI-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edg\u2026",
+        "longitude": 72.84415,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "display_name": "Mumbai, Maharashtra",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0",
+        "company": {
+          "display_name": "Kyndryl",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Forward Deployed Engineer - AI",
+        "created": "2026-08-20T10:04:35Z"
+      },
+      {
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "description": "This job is with Kyndryl, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Who We Are At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world's leading businesses. We are at the heart of progress; with proven expertise and a continuous flow of AI-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edg\u2026",
+        "longitude": 72.84415,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Mumbai, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ]
+        },
+        "salary_is_predicted": "0",
+        "company": {
+          "display_name": "Kyndryl",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-08-12T01:59:18Z",
+        "title": "Forward Deployed Engineer - AI",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODM3MTM4ODQwIn0.kr3KjUSsd08yi_2WqgV0-wmjltP92l8Jkx1eQ4drRVk",
+        "contract_time": "full_time",
+        "id": "5837138840",
+        "redirect_url": "https://www.adzuna.in/land/ad/5837138840?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=40362641C35152AD00EABB8F0660BC8D5E8AD5FB",
+        "latitude": 19.00821
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5812528326?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=49C4923894D7225CE54B73D5335A8532D348414D",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODEyNTI4MzI2In0.hiLw19skBDm2pGnXuyyhS1bouQsm0gH7nN7NsXU_bZ8",
+        "id": "5812528326",
+        "contract_time": "full_time",
+        "created": "2026-07-23T22:17:08Z",
+        "title": "Natural Language Processing (NLP)-AI Platform Engineer",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Accenture"
+        },
+        "salary_is_predicted": "0",
+        "category": {
+          "label": "Engineering Jobs",
+          "tag": "engineering-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "This job is with Accenture, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Project Role :AI Platform Engineer Project Role Description : Develops applications and systems that utilize AI to improve performance and efficiency, including but not limited to deep learning, neural networks, chatbots, natural language processing. Must have skills : Natural Language Processing (NLP) Good to hav\u2026",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "display_name": "Bangalore, Karnataka"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Danaher"
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-08-18T18:03:43Z",
+        "title": "Senior Engineer, AI Security & Automation",
+        "description": "This job is with Danaher, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Bring more to life. At Danaher, our work saves lives. And each of us plays a part. Fueled by our culture of continuous improvement, we turn ideas into impact \u2013 innovating at the speed of life. Our 60,000 associates work across the globe at more than 15 unique businesses within life sciences, diagnostics, and biotech\u2026",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": 73.84735,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Pune"
+          ],
+          "display_name": "Pune, Maharashtra"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723645?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=57423B65CB85D11E8ABA2646ADDB4E34CEF8A873",
+        "latitude": 18.5062,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjcyMzY0NSIsInMiOiJRRTQxbnVDaDhSRzhndmZQRUExc0xRIn0.5i5ZxFsWSFIZ_4L0QYt84XqyhZ7Ys60bCubIyi4TozE",
+        "contract_time": "full_time",
+        "id": "5846723645"
+      },
+      {
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "description": "This job is with Kyndryl, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Who We Are At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world's leading businesses. We are at the heart of progress; with proven expertise and a continuous flow of AI-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edg\u2026",
+        "longitude": 72.84415,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "display_name": "Mumbai, Maharashtra",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "title": "Principal Forward Deployed Engineer - AI",
+        "created": "2026-08-12T01:59:32Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Kyndryl"
+        },
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODM3MTM5MjY3In0.jtc6s-DQcSZF4_1oari2JVrOFtjBncHPZH2Gd3cnWV8",
+        "id": "5837139267",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139267?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=C6DEB629E4BE812F0C3651AEE75A58225842533D",
+        "latitude": 19.00821
+      },
+      {
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "This job is with Moody's, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Moody's, we unite the brightest minds to turn today\u2019s risks into tomorrow\u2019s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are\u2014with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Mo\u2026",
+        "location": {
+          "display_name": "India",
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "company": {
+          "display_name": "Moody's",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-08-18T18:03:40Z",
+        "title": "Applied AI Sr Associate Engineer",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODQ2NzIzNDg3In0.uPT4axqnvLZCJlTthiMuXmczq_d4JCMXApk56BawfE8",
+        "contract_time": "full_time",
+        "id": "5846723487",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723487?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=AAEC18DE235C6161C4201783DA62A327D21A6AD6"
+      },
+      {
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description Engineer is responsible for managing or performing work across multiple areas of the bank's overall IT Platform/Infrastructure including analysis, development, and administration You\u2019ll be a seasoned software engineer with 5 years of experience , joining a team of enthusiasti\u2026",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 73.84735,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Pune, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Pune"
+          ]
+        },
+        "title": "SAS DMS AI Full Stack Engineer, AS",
+        "created": "2026-08-22T12:06:25Z",
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deutsche Bank"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1MjE2NDQ3NCIsInMiOiJRRTQxbnVDaDhSRzhndmZQRUExc0xRIn0.8a6Ey64O7rr5dOHokaknifbWyD_as1kJqfe5g4Ot9LE",
+        "id": "5852164474",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.in/land/ad/5852164474?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=5D6A5D7D4197ED6A942EBB6E63D6B671B40BDF23",
+        "latitude": 18.5062
+      },
+      {
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "engineering-jobs",
+          "label": "Engineering Jobs"
+        },
+        "description": "This job is with Aristocrat, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Aristocrat, we're on a mission to bring happiness to life through the power of play. We believe our innovative and inclusive culture drives our success. We're committed to making a positive impact in the gaming industry. As a Technical Lead - AI Specialist / Automation Engineer, you'll have the chance to devel\u2026",
+        "longitude": 77.3225,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "India",
+            "Uttar Pradesh",
+            "Ghaziabad",
+            "Noida"
+          ],
+          "display_name": "Noida, Ghaziabad",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "title": "Technical Lead - AI Specialist / Automation Engineer",
+        "created": "2026-07-15T14:16:25Z",
+        "company": {
+          "display_name": "Aristocrat",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMDkzMTQ4OCIsInMiOiJRRTQxbnVDaDhSRzhndmZQRUExc0xRIn0.B4ezOaCWk6PLsKD7Oz2iFViAkcq_tiGVKFJuoVIG93Q",
+        "id": "5800931488",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.in/land/ad/5800931488?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=F2FC8C34DF646B8BD1FF7AD1A0C4D86756781E6A",
+        "latitude": 28.56579
+      },
+      {
+        "company": {
+          "display_name": "HP",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-08-19T14:04:56Z",
+        "title": "Sr Engineer - AI Agentic API Management",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "This job is with HP, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Sr Engineer - AI Agentic API Management Description - We are seeking an experienced engineering leader to design, build, and operate API Management layers for enterprise AI services. The role focuses on enabling secure, governed, and scalable access to managed AI services (LLMs, AI APIs, and agentic systems) through a ce\u2026",
+        "redirect_url": "https://www.adzuna.in/land/ad/5847959723?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=5B9722A82DD970AB799493C2746FC7AC4A7924A4",
+        "contract_time": "full_time",
+        "id": "5847959723",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODQ3OTU5NzIzIn0.1GIjgsOfHQ5O4vx2g4G0G2b3LOne9mDkOXlQGzi88gY"
+      },
+      {
+        "longitude": 88.34373,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Kolkata, West Bengal",
+          "area": [
+            "India",
+            "West Bengal",
+            "Kolkata"
+          ]
+        },
+        "description": " We Are Hiring: Assistant Professor in Computer Science & Engineering (AI & ML) Are you a passionate academician in Computer Science, Artificial Intelligence, Machine Learning, Data Science, or allied emerging technologies ? Do you want to build a career in a research-driven, innovation-focused university that values teaching excellence, publications, funded projects, and AI-enabled learning ? Brainware University invites applications from highly motivated, research-oriented, and student-centri\u2026",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "teaching-jobs",
+          "label": "Teaching Jobs"
+        },
+        "created": "2026-08-04T17:45:09Z",
+        "title": "Assistant Professor in Computer Science & Engineering (AI & ML)",
+        "salary_is_predicted": "0",
+        "company": {
+          "display_name": "Brainware University",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5827735875",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNzczNTg3NSIsInMiOiJRRTQxbnVDaDhSRzhndmZQRUExc0xRIn0.gdpQHyA0M4ADjmTYxHq9tLmqF4TodGgV0gQ3esb7yKM",
+        "latitude": 22.57285,
+        "redirect_url": "https://www.adzuna.in/land/ad/5827735875?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=A32DF398CE6A95DB5710331E493DCD91E3BB3718"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5840277215?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=817439CCDF8218C791BFF8B4BC9C17C1FA9D6F0A",
+        "latitude": 12.95703,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0MDI3NzIxNSIsInMiOiJRRTQxbnVDaDhSRzhndmZQRUExc0xRIn0.R2VEEt6rJ-XWB1OJ0we3OdSx47qb-7HWJTAXn5c09Zw",
+        "contract_time": "full_time",
+        "id": "5840277215",
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Standard Chartered Bank"
+        },
+        "created": "2026-08-13T18:00:01Z",
+        "title": "Lead - Full-Stack Quality Engineering & AI (India,Malaysia)",
+        "description": "This job is with Standard Chartered Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Summary This role could be based in India and Malaysia. When you start the application process you will be presented with a drop down menu showing all countries, please ensure that you select a country where the role is based To lead and govern end-to-end test delivery and governance for the GCIO\u2026",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 77.59837,
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        }
+      },
+      {
+        "longitude": 78.50806,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "description": "This job is with Cornerstone OnDemand, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description: Senior AI Engineer This role is Office Based, Hyderabad Office We are seeking an enthusiastic Senior AI Engineer to join our team and contribute to the development of intelligent talent technology. This is a hands-on opportunity for those early in their career to gain experience with AI\u2026",
+        "created": "2026-08-20T10:04:40Z",
+        "title": "Senior Al Engineer - India",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Cornerstone OnDemand"
+        },
+        "salary_is_predicted": "0",
+        "id": "5849297003",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0OTI5NzAwMyIsInMiOiJRRTQxbnVDaDhSRzhndmZQRUExc0xRIn0.Ub0uuzlYad0-Hm4PLuLUjoRDo1rMVAXiwlmbcQlEkuU",
+        "latitude": 17.40275,
+        "redirect_url": "https://www.adzuna.in/land/ad/5849297003?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=59E187CD66EEC38347BE9DFF3778069805DD9A86"
+      },
+      {
+        "category": {
+          "label": "Sales Jobs",
+          "tag": "sales-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "ROLE OVERVIEW QualiZeal is looking for a Manager / Senior Manager to drive AI-led pre-sales, bid management and solution engineering. The role will lead end-to-end RFP/RFI/RFQ pursuits, translate client needs into differentiated AI solutions, and coordinate sales, architecture, AI/engineering, delivery and commercial teams. Candidates must have hands-on involvement in at least 8\u201310 AI proposals and strong experience in enterprise solutioning and proposal defence. KEY RESPONSIBILITIES Own end-to\u2026",
+        "longitude": 78.50806,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Hyderabad, Telangana",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "company": {
+          "display_name": "QualiZeal",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "title": "Presales Manager",
+        "created": "2026-08-21T17:26:37Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODUwOTgzNDUwIn0.xJ-A4tSa1uhTbMekL23lzi1yzhdPgIjy22cUZ0zj7Rc",
+        "id": "5850983450",
+        "redirect_url": "https://www.adzuna.in/land/ad/5850983450?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=F345EC69D78DC0E68F4D110B64986F8660C71192",
+        "latitude": 17.40275
+      },
+      {
+        "contract_time": "full_time",
+        "id": "5841509248",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODQxNTA5MjQ4In0.5jxbi51iz-HV-PVLdoZBEkAUdvXbnouPDCgLZt9zUqM",
+        "latitude": 17.40275,
+        "redirect_url": "https://www.adzuna.in/land/ad/5841509248?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=DA0173F94E1A4245DA1ABD330AA8E305BE4A2D9D",
+        "longitude": 78.50806,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Hyderabad, Telangana",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "description": "This job is with Cornerstone OnDemand, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description Job Title: Senior AI Engineer Company: Cornerstone OnDemand Product Line: Workforce AI Employment Type: Full-Time Experience Level: 8-10 years Role Overview Cornerstone OnDemand is seeking a Senior AI Engineer to build AI-native products within our Workforce AI product line. This role is\u2026",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Cornerstone OnDemand"
+        },
+        "title": "Senior Al Engineer - India",
+        "created": "2026-08-14T14:19:18Z"
+      },
+      {
+        "title": "Senior Al Engineer | Java, LLM & Gen AI",
+        "created": "2026-08-12T01:59:19Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Cornerstone OnDemand"
+        },
+        "salary_is_predicted": "0",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 78.50806,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "description": "This job is with Cornerstone OnDemand, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Senior AI Engineer | Hyderabad | Java, LLM, Gen AI | Hybrid Java \u00b7 LLM \u00b7 Gen AI \u00b7 Microservices \u00b7 GraphQL \u00b7 DataStructures & Algorithms Companyoverview Cornerstone OnDemand builds intelligent products that helporganizations learn and perform at scale. We value ownership, clarity, andpragmatic engineerin\u2026",
+        "latitude": 17.40275,
+        "redirect_url": "https://www.adzuna.in/land/ad/5837138942?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=77F8F83550E3A80561A9130E188DE6DC1A228931",
+        "id": "5837138942",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODM3MTM4OTQyIn0.6fLpSoDAeQ6Re3IgKDT-5bG2nl1uvO7H2BcEbrxjIcY"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5818525036?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=2671AE69A78CCE2C08C33FEF75E941F05918E3E4",
+        "latitude": 28.62523,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODE4NTI1MDM2In0.W_opj5GMWC8KUdZPDesxy7PjR4G8XR9LXLhOvZ6-pgs",
+        "id": "5818525036",
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "ACNS AI SOLUTIONS LLP"
+        },
+        "title": "Technical Sales Representative / IT Business Development Executive",
+        "created": "2026-07-28T21:19:17Z",
+        "description": "About ACNS AI Solutions LLP At ACNS AI Solutions LLP, we don't just build standard commercial AI wrappers; we engineer next-generation, industrial-grade software infrastructure from first principles. We specialize in autonomous cognitive architectures, cloud-native infrastructure, and advanced state-of-the-art AI paradigms (including State Space Models/Mamba architectures, Liquid Neural Networks, and high-fidelity enterprise intelligence ecosystems). From reshaping large-scale digital infrastru\u2026",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "sales-jobs",
+          "label": "Sales Jobs"
+        },
+        "longitude": 77.224601,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Delhi, India",
+          "area": [
+            "India",
+            "Delhi"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        }
+      },
+      {
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Nomiso"
+        },
+        "created": "2026-08-08T17:59:47Z",
+        "title": "Sales Director",
+        "description": "Join Nomiso and help shape the future of AI-powered Enterprise Engineering. At Nomiso, we're not building another SaaS product or another services company. We're building an AI Co-Engineering company \u2014helping enterprises transform software engineering and operations through AI. Our platforms, ByteLens and Intelli-Q , enable organizations to improve engineering productivity, software quality, and operational intelligence using enterprise-grade AI. As we scale, we're looking for a Director \u2013 Sale\u2026",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "sales-jobs",
+          "label": "Sales Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 77.224601,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Delhi"
+          ],
+          "display_name": "Delhi, India"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5833434723?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=EB8B7EAA3F9B437F891FDBDE530E87B0F6BD37E4",
+        "latitude": 28.62523,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODMzNDM0NzIzIn0.TWD9uLVTc_w5o8sP2bBxcPOYiDCZfqb6oxv65iomHXU",
+        "id": "5833434723"
+      },
+      {
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "This job is with MSD, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description Specialist, Business Analyst - Content Review Automation (AI-enabled MLR / Content Catalyst) The Opportunity Based in Hyderabad, join a global healthcare biopharma company and be part of a 130- year legacy of success backed by ethical integrity, forward momentum, and an inspiring mission to achieve new m\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 78.50806,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Hyderabad, Telangana",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ]
+        },
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "MSD"
+        },
+        "title": "Specialist, Business Analyst \u2013 Content Review Automation (AI-enabled MLR / Content Catalyst)",
+        "created": "2026-07-03T00:54:29Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NTc3Mjc5NiIsInMiOiJRRTQxbnVDaDhSRzhndmZQRUExc0xRIn0.EkbBUz3SytuWfAIig_CI1Bvzcx4v4M3k1AnzJFAdKPQ",
+        "contract_time": "full_time",
+        "id": "5785772796",
+        "redirect_url": "https://www.adzuna.in/land/ad/5785772796?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=3917B16DBD5FED744B5E879B784653310421F260",
+        "latitude": 17.40275
+      },
+      {
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "Job Title : Senior Manager, GenAI Governance & Security Experience : 4 \u20137 Years This track focuses on the safety, compliance, and ethical deployment of GenAI systems, safeguarding the enterprise against hallucinations, data leaks, and adversarial attacks. Role Overview : Define and operationalize the security posture and governance framework for all GenAI initiatives. Act as the primary liaison between AI engineering and legal/compliance teams. Key Responsibilities Guardrail Architecture : Desi\u2026",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India"
+          ],
+          "display_name": "India"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "EXL",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "title": "Senior Manager, GenAI Governance & Security",
+        "created": "2026-08-18T13:09:25Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjI5OTA2MiIsInMiOiJRRTQxbnVDaDhSRzhndmZQRUExc0xRIn0.CmoLFeC_fbZ5LQPTo9EmQmiyZ6fE8TJZh5Xk3YGvrA8",
+        "id": "5846299062",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846299062?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=612C8AB486229FCB70D8BC0D1846D1901DA61D29"
+      },
+      {
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description As a Lead AI Engineer , you will stand at the forefront of innovation, architecting, developing, and deploying groundbreaking AI solutions that redefine what's possible. We are seeking a visionary and highly motivated Engineer eager to leverage advanced AI models and platform\u2026",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "longitude": 73.84735,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Pune, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Pune"
+          ]
+        },
+        "title": "AI Specialist",
+        "created": "2026-08-18T18:03:35Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deutsche Bank"
+        },
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODQ2NzIzMjEzIn0.9qiaALQH4Yyuxsf8U0-2kyCGJDsIk8sloPwubatikUI",
+        "id": "5846723213",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723213?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=9AF29DE0C286540A437786D2B1F8204CD029F22D",
+        "latitude": 18.5062
+      },
+      {
+        "created": "2026-08-13T16:19:07Z",
+        "title": "Senior Sales Manager - GCC",
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "AQM Technologies"
+        },
+        "longitude": 72.84415,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Mumbai, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "description": "Role: Senior Sales Manager \u2013 International Sales (GCC Experience Mandatory) Role Type: Individual Contributor Location: Mumbai Experience: 15 Years Employment Type: Full-Time About AQM Technologies AQM Technologies is a leading Quality Engineering and Digital Assurance company helping enterprises accelerate digital transformation through innovative technology solutions. AQM's portfolio includes Quality Engineering, Software Testing, AI-led Testing, Digital Engineering, Cybersecurity, and Digita\u2026",
+        "category": {
+          "label": "Sales Jobs",
+          "tag": "sales-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 19.00821,
+        "redirect_url": "https://www.adzuna.in/land/ad/5840224801?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=5CA67F161C611FEFC8A6694F24C190CB596D3493",
+        "id": "5840224801",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODQwMjI0ODAxIn0.0JlhYBOUHCVEAcM0OQcMID8GtUlbC1FfLTOBb_ZJr8k"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5841755314?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=5995B0BA28C2A7985D8DEC71CFBFF80A993541DD",
+        "latitude": 19.00821,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODQxNzU1MzE0In0.wVEqtgVWl-maZQZXp2xwgdyvZvwWs5_eb-U7uuDgejM",
+        "id": "5841755314",
+        "contract_time": "full_time",
+        "title": "Vice President - GCC Sales (Global Capability Centers)",
+        "created": "2026-08-14T16:34:27Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "AQM Technologies"
+        },
+        "salary_is_predicted": "0",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "sales-jobs",
+          "label": "Sales Jobs"
+        },
+        "description": "Role: Vice President / Sales Head \u2013 GCC Sales (Global Capability Centers) Location: Mumbai Experience: 20 Years Employment Type: Full-Time About AQM Technologies AQM Technologies is a leading provider of Quality Engineering, Software Testing, AI-led Testing, Digital Engineering, Cybersecurity, and Digital Transformation services. We partner with global enterprises to deliver innovative, scalable, and business-focused technology solutions. Role Overview AQM Technologies is seeking a dynamic and \u2026",
+        "longitude": 72.84415,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Mumbai, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana"
+        },
+        "longitude": 78.50806,
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "This job is with Cornerstone OnDemand, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About Cornerstone: Cornerstone powers the future-ready workforce with modern, AI-driven employment solutions. Our platform enables companies to develop, manage, and engage their talent-unlocking growth and innovation across organizations of all sizes. In this role you will Design, develop, and deploy pr\u2026",
+        "created": "2026-08-12T01:59:19Z",
+        "title": "Senior Principal Al Engineer",
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Cornerstone OnDemand"
+        },
+        "id": "5837138914",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNzEzODkxNCIsInMiOiJRRTQxbnVDaDhSRzhndmZQRUExc0xRIn0.xvHWFWVNvIAV01Ko7kFIqyVksOw3lfsvyuwzvBY6p3Y",
+        "latitude": 17.40275,
+        "redirect_url": "https://www.adzuna.in/land/ad/5837138914?se=QE41nuCh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=cd9c749f&v=D55902F72783C58CC4708CC6012C052107B7819B"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODMyNzY5OTIyIn0.PoeqbVWOIwaEn75qy9j2QPws0jTrk06e-vbrcPlkOno",
+        "id": "5832769922",
+        "contract_time": "full_time",
+        "salary_max": 1200000,
+        "salary_min": 960000,
+        "redirect_url": "https://www.adzuna.in/details/5832769922?utm_medium=api&utm_source=cd9c749f",
+        "contract_type": "permanent",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "Company Profile LeadRat CRM is a fast-growing SaaS company providing CRM and sales automation solutions for the real estate industry. With offices in Bengaluru, Pune, Gurugram, and Dubai , we are building innovative AI-powered products that help businesses automate, scale, and grow. AI Engineer \u2013 LLM / Generative AI Location: Bengaluru (HSR Layout) Experience: 2\u20133 Years Employment Type: Full-Time Job Summary We are looking for an AI Engineer with hands-on experience in Generative AI and Large L\u2026",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "display_name": "Bangalore, Karnataka"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2026-08-08T06:52:26Z",
+        "title": "AI Engineer",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Leadrat"
+        },
+        "salary_is_predicted": "0"
+      },
+      {
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Arohana Tech Solutions Private Limited"
+        },
+        "title": "AI Engineering",
+        "created": "2026-07-25T06:50:26Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "We are looking for an AI Engineer to enhance and operationalize KAI's GenAI architecture. The role will focus on strengthening the retrieval evidence pipeline, improving chunking/contextualization, implementing evaluation frameworks, and collaborating closely with Product/PM, SMEs, and platform/engineering teams to deliver measurable improvements in answer quality, reliability, and trust. Required Skills & Experience \u2022 3-6 years in AI Engineering with 1 year in GenAI/RAG systems. \u2022 Experience w\u2026",
+        "salary_min": 1500000,
+        "redirect_url": "https://www.adzuna.in/details/5814756829?utm_medium=api&utm_source=cd9c749f",
+        "contract_time": "part_time",
+        "salary_max": 1980000,
+        "id": "5814756829",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNDc1NjgyOSIsInMiOiJRRTQxbnVDaDhSRzhndmZQRUExc0xRIn0.0fzOIJbLdqTSbG8qz2OjooFXQ91YLNRRScs396IvTGs"
+      },
+      {
+        "contract_type": "contract",
+        "latitude": 19.02,
+        "salary_max": 2500000,
+        "id": "5836227802",
+        "salary_is_predicted": "0",
+        "company": {
+          "display_name": "Kooe Private Limited",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-08-11T06:57:29Z",
+        "longitude": 73.02,
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.in/details/5836227802?utm_medium=api&utm_source=cd9c749f",
+        "salary_min": 2000000,
+        "contract_time": "part_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODM2MjI3ODAyIn0.xIk3CIRQRs75Xw8A8EzGw6xz6nc2ouSKmYheZPV_YIQ",
+        "title": "AI Engineer",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Navi Mumbai"
+          ],
+          "display_name": "Navi Mumbai, Maharashtra"
+        },
+        "description": "Job Title: AI Engineer Experience: 4\u20135 Years Location: Seawoods, Navi Mumbai \u2013 Work From Office Employment Type: 6 month(extendable ) Contract Role Overview We are seeking a hands-on AI Engineer with 4\u20135 years of experience in building and deploying production-grade Agentic AI and Large Language Model (LLM) solutions . The ideal candidate will have strong experience with LangGraph, multi-agent architectures, AI orchestration, LLM applications, APIs, enterprise integrations, and production deplo\u2026"
+      },
+      {
+        "salary_max": 1800000,
+        "id": "5805537218",
+        "contract_type": "permanent",
+        "latitude": 26.7441,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "longitude": 75.9469,
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Durapid Technologies Pvt Ltd"
+        },
+        "created": "2026-07-18T06:32:04Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNTUzNzIxOCIsInMiOiJRRTQxbnVDaDhSRzhndmZQRUExc0xRIn0.ua7szdLq8DwtGay_k12xK-F0cUKUVG_aOk9xO9mDEZo",
+        "contract_time": "full_time",
+        "salary_min": 1500000,
+        "redirect_url": "https://www.adzuna.in/details/5805537218?utm_medium=api&utm_source=cd9c749f",
+        "description": "Calling all AI Engineer Experts! Experience: 6\u201310 Years Notice Period: Immediate to 15 Days Looking for professionals with strong experience in AI | RAG | Agentic | Azure | LangGraph/LangChain | Vector Database | Role Responsibilities Design, develop, and deploy scalable AI/ML models and solutions leveraging RAG, Agentic systems, and modern LLM frameworks (e.g., LangChain, LangGraph). Integrate AI models with backend services and cloud infrastructure (preferably on Microsoft Azure). Design and \u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Rajasthan",
+            "Jaipur"
+          ],
+          "display_name": "Jaipur, Rajasthan"
+        },
+        "title": "AI Engineer"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/details/5821684867?utm_medium=api&utm_source=cd9c749f",
+        "latitude": 12.99422,
+        "contract_type": "permanent",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODIxNjg0ODY3In0.Qp3YtpR78W1TawcKiCGk75iptcNfoYGOcDQy5AUbwPM",
+        "id": "5821684867",
+        "title": "AI Engineer",
+        "created": "2026-07-31T04:46:34Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Telradsol"
+        },
+        "salary_is_predicted": "0",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "Job Description -AI Engineer About Company: Teleradiology Solutions (TRS) is a pioneer in teleradiology, delivering round-the-clock diagnostic radiology reporting and support to hospitals and healthcare providers across India, the US, and other global markets. Founded in 2002 by two Yale-trained physicians and headquartered in Ardmore, PA, TRS today serves over 150 hospitals across 21 countries. The company pairs a network of board-certified radiologists \u2014 including ABR-certified specialists \u2014 \u2026",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore",
+            "Hoodi"
+          ],
+          "display_name": "Hoodi, Bangalore"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 77.69694
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODM1ODE3NjQ2In0.VkQuvX7UbIJGXaQLaMYuEHRMHdibG3V91McSLJpd-yM",
+        "contract_time": "full_time",
+        "id": "5835817646",
+        "redirect_url": "https://www.adzuna.in/details/5835817646?utm_medium=api&utm_source=cd9c749f",
+        "latitude": 17.40275,
+        "description": "Function: AI Engineering / Applied AI Delivery About the Role We're hiring an AI Engineer to design, build, and ship production AI systems \u2014 not prototypes, not notebooks. This is a builder's role: you'll own the path from \"we think an LLM/agent could solve this\" to a system running reliably in production, under real load, with real failure modes. We are being deliberately selective here. This role is not for someone who has \"used ChatGPT a lot\" or built a weekend RAG demo. We want people who h\u2026",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": 78.50806,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana"
+        },
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Capgemini"
+        },
+        "created": "2026-08-10T22:49:51Z",
+        "title": "AI Engineer"
+      },
+      {
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Capgemini"
+        },
+        "title": "AI Engineer",
+        "created": "2026-08-10T22:49:51Z",
+        "description": "Function: AI Engineering / Applied AI Delivery About the Role We're hiring an AI Engineer to design, build, and ship production AI systems \u2014 not prototypes, not notebooks. This is a builder's role: you'll own the path from \"we think an LLM/agent could solve this\" to a system running reliably in production, under real load, with real failure modes. We are being deliberately selective here. This role is not for someone who has \"used ChatGPT a lot\" or built a weekend RAG demo. We want people who h\u2026",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India"
+          ],
+          "display_name": "India"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.in/details/5835817647?utm_medium=api&utm_source=cd9c749f",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODM1ODE3NjQ3In0.u2rn8XhIqfGU0Z2ixQchkQuYRZk71zQnaPZ74_gg-Ho",
+        "contract_time": "full_time",
+        "id": "5835817647"
+      },
+      {
+        "title": "AI Engineer",
+        "location": {
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "display_name": "Mumbai, Maharashtra",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "About the role We are seeking an AI Engineer to build and implement AI systems for content production at scale. You'll work at the intersection of engineering and content designing prompt pipelines, integrating generative models, and building the tooling that turns source material into finished creative output. The ideal candidate is technically strong but also has taste: someone who understands story and craft, and can tell the difference between output that's technically correct and output th\u2026",
+        "redirect_url": "https://www.adzuna.in/details/5805537188?utm_medium=api&utm_source=cd9c749f",
+        "salary_min": 1200000,
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1ODA1NTM3MTg4In0.O2tmSN6j1fOA04iDIcK8ykn1R9C0jjewnmtUSeZndzg",
+        "created": "2026-07-18T06:32:04Z",
+        "company": {
+          "display_name": "Kuku FM",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "longitude": 72.84415,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "latitude": 19.00821,
+        "contract_type": "permanent",
+        "id": "5805537188",
+        "salary_max": 2000000
+      },
+      {
+        "salary_is_predicted": "0",
+        "company": {
+          "display_name": "ECS ME LLC",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-08-20T05:00:46Z",
+        "title": "AI Engineer",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "We are seeking an innovative and results-driven AI Engineer to design, develop, and deploy artificial intelligence, machine learning, Generative AI, and full-stack solutions that solve real business challenges. The ideal candidate will have experience building AI-powered applications, training and integrating machine learning models, developing LLM and Generative AI solutions, building scalable web applications, and deploying enterprise solutions on cloud platforms. The candidate should have st\u2026",
+        "longitude": 78.51234,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad",
+            "Kyasaram"
+          ],
+          "display_name": "Kyasaram, Hyderabad"
+        },
+        "redirect_url": "https://www.adzuna.in/details/5848973608?utm_medium=api&utm_source=cd9c749f",
+        "contract_type": "permanent",
+        "latitude": 17.38256,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0ODk3MzYwOCIsInMiOiJRRTQxbnVDaDhSRzhndmZQRUExc0xRIn0.hbcySSpqZJ9Y-LKQiQ6kMhVDPkWujW94s-DtJwk4vBk",
+        "id": "5848973608"
+      },
+      {
+        "longitude": 72.84415,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "display_name": "Mumbai, Maharashtra"
+        },
+        "description": "Job Description As an AI Engineer, you will work closely with our AI and Technology team to design, develop, and implement Artificial Intelligence solutions for real-world applications. You will gain hands-on experience in AI development, Machine Learning, Large Language Models (LLMs), workflow automation, backend development, APIs, and software engineering while working on live industry projects. Key Responsibilities \u2022 Develop AI-powered applications and automation workflows. \u2022 Assist in build\u2026",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "company": {
+          "display_name": "Brainwonders",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "AI Engineer",
+        "created": "2026-08-07T07:20:37Z",
+        "id": "5831392979",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzMTM5Mjk3OSIsInMiOiJRRTQxbnVDaDhSRzhndmZQRUExc0xRIn0._m2Wk0Z4Sxyy5cLWO3S1citynaetGc6rbOb2cI3OAms",
+        "latitude": 19.00821,
+        "redirect_url": "https://www.adzuna.in/details/5831392979?utm_medium=api&utm_source=cd9c749f"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "AION"
+        },
+        "salary_is_predicted": "0",
+        "title": "AI Engineer",
+        "created": "2026-07-22T19:07:29Z",
+        "location": {
+          "area": [
+            "India"
+          ],
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "description": "About aion Aion is the enterprise AI platform, a full-stack solution for building, fine-tuning, and deploying AI at scale. Whether an organization is modernizing internal operations, launching AI-powered products, or transforming customer experiences, Aion takes them from concept to production on a single, unified platform. We work differently than most AI companies: our teams deploy alongside our customers, turning production-ready AI into real business outcomes in weeks, not quarters. We\u2019re a\u2026",
+        "redirect_url": "https://www.adzuna.in/details/5810904593?utm_medium=api&utm_source=cd9c749f",
+        "contract_time": "full_time",
+        "id": "5810904593",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMDkwNDU5MyIsInMiOiJRRTQxbnVDaDhSRzhndmZQRUExc0xRIn0.Pchm4mb4d9PLtuPD17Ng4ccWkFEbVaF5nJ7_ApPuWUw"
+      },
+      {
+        "title": "AI Engineer",
+        "created": "2026-06-19T20:41:15Z",
+        "company": {
+          "display_name": "SAP Fioneer",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "India",
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "description": "About SAP Fioneer At SAP Fioneer, innovation drives everything we do. Spun out from SAP, we combine agility, cutting-edge delivery, and financial services expertise to build the next generation of banking and Insurance software. Our mission: Enable insurers to achieve speed, scalability, and cost-efficiency through digital innovation, cloud-native technology, and solutions that cover core banking processes end-to-end. With rapid global growth, a lean structure, and a collaborative culture, SAP \u2026",
+        "redirect_url": "https://www.adzuna.in/details/5769457291?utm_medium=api&utm_source=cd9c749f",
+        "id": "5769457291",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUUU0MW51Q2g4Ukc4Z3ZmUEVBMXNMUSIsImkiOiI1NzY5NDU3MjkxIn0.LBhrSzpbQqFx0ke2up9jl0DLsJDBRKoxfXFZsVoKpkY"
+      }
+    ],
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "mean": 1815084.12
+  }
+}

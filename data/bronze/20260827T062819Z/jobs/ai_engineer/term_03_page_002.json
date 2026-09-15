@@ -1,0 +1,1468 @@
+{
+  "url": "https://api.adzuna.com/v1/api/jobs/in/search/2",
+  "params": {
+    "results_per_page": 50,
+    "content-type": "application/json",
+    "where": "India",
+    "what": "AI"
+  },
+  "fetched_at_utc": "2026-08-27T06:29:26.445972+00:00",
+  "status_code": 200,
+  "response_url": "https://api.adzuna.com/v1/api/jobs/in/search/2?app_id=cd9c749f&app_key=b57cfdd3348942d64d752847c03738bf&results_per_page=50&content-type=application%2Fjson&where=India&what=AI",
+  "body": {
+    "results": [
+      {
+        "location": {
+          "area": [
+            "India",
+            "Delhi",
+            "New Delhi"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "New Delhi, Delhi"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5785772098?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=B26B7FB6A299BC3A2BFD29BF94BF59C981A24A29",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "created": "2026-07-03T00:54:22Z",
+        "title": "AI Data Specialist - Marathi",
+        "longitude": 77.21808,
+        "latitude": 28.62623,
+        "description": "This job is with RWS, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. We are looking for AI Data Specialists to support the improvement of AI-generated content in Marathi . Job Type: Freelance Location: Work from home Work Schedule: Part-time - 10 hours per week. Flexible - work whenever you want. Start Date: Immediately Duration: TBC Rate: 4 USD per hour (rates vary per country. If you a\u2026",
+        "id": "5785772098",
+        "salary_is_predicted": "0",
+        "company": {
+          "display_name": "RWS",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NTc3MjA5OCIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.6cRWzuEMNj2vDAsizn5K8WkdLMYHV5ONmHxOauWypx0",
+        "contract_time": "full_time",
+        "contract_type": "contract",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "RWS"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NTc3MDY2NCIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.MxmqvkcyA8BXxHsAVhbLbsJlSaMZi5vI_bSI5Bunfnk",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_type": "contract",
+        "created": "2026-07-03T00:54:10Z",
+        "title": "AI Data Specialist - Telugu",
+        "longitude": 77.21808,
+        "location": {
+          "display_name": "New Delhi, Delhi",
+          "area": [
+            "India",
+            "Delhi",
+            "New Delhi"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5785770664?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=D13E17364CDB48C8A2B963F62AC42C33A76C021B",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "latitude": 28.62623,
+        "id": "5785770664",
+        "salary_is_predicted": "0",
+        "description": "This job is with RWS, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. We are looking for AI Data Specialists to support the improvement of AI-generated content in Telugu. Job Type: Freelance Location: Work from home Work Schedule: Part-time - 10 hours per week. Flexible - work whenever you want. Start Date: Immediately Duration: TBC Rate: 4 USD per hour (rates vary per country. If you are\u2026"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzMTk2NjUxOSIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.hmLCBUUwKgdMwBIS_Td7jv_97t1gqmvDB0YYLHPTRx4",
+        "company": {
+          "display_name": "Oracle",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Technical Project Manager (AI)",
+        "created": "2026-08-07T17:56:37Z",
+        "redirect_url": "https://www.adzuna.in/land/ad/5831966519?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=B6016844BE7363DD24A87AA14FDEB19887408D02",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "display_name": "Bangalore, Karnataka"
+        },
+        "id": "5831966519",
+        "salary_is_predicted": "0",
+        "description": "Contractor-Billable 15 years of overall experience and minimum 7 years of experience in Technical Project Management Extensive hands-on experience as an architect/ technical lead in at least one or two of the specified domains within the Oracle technology stack : Analytics \u2013 OAC, ODI & Oracle BI tools Integration \u2013 OIC, SOA Extension Development \u2013 VBCS, APEX, JAVA Proficiency/ expertise in GenAI, RAG, LLMs, AI governance, prompt engineering, evaluation, or AI project delivery is desired Strong \u2026"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Eight"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1MjQ3NzQ2MSIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.U7F0VsHR9MOKx-frWB-B-qg4g_LjPqhf1GdchoUXuMU",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5852477461?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=F463C797E5BE4AD5D9A1432256690BDD65412C20",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Creative & Design Jobs",
+          "tag": "creative-design-jobs"
+        },
+        "title": "Director AI Films & Series",
+        "created": "2026-08-22T17:36:15Z",
+        "description": "We at Eight Network are creating long-form series and films. We have a slate of shows going into production this year, with the video app launch due soon. The role: Own the creative execution of IPs. Envision, direct, edit and turn locked scripts into shows people watch twice. You will lead with a team of shot artists, AI creative technologists, editors and sound. Must have -4 years directing fiction, ads, or independent narrative work (shorts, features, series) -A strong visual storytelling in\u2026",
+        "id": "5852477461",
+        "salary_is_predicted": "0"
+      },
+      {
+        "description": "This job is with Cornerstone OnDemand, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Technical Program Manager - AI | Pune of Hyderabad | Hybrid Cornerstone is seeking a Technical Program Manager tosupport the delivery of our AI product initiatives. This role sits at theintersection of engineering execution and product coordination, helping ensurethat cross-functional programs are well-\u2026",
+        "salary_is_predicted": "0",
+        "id": "5837139093",
+        "latitude": 18.5062,
+        "location": {
+          "area": [
+            "India",
+            "Maharashtra",
+            "Pune"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Pune, Maharashtra"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139093?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=2772544A0222DFB4CD1C23BB92D2546C9231A16F",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "longitude": 73.84735,
+        "title": "Technical Program Manager - AI",
+        "created": "2026-08-12T01:59:27Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNzEzOTA5MyIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.igFXbQXPW_38yDgj0XWgYb-5r-MNo1w6uFMEiMJrGqE",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Cornerstone OnDemand"
+        }
+      },
+      {
+        "description": "This job is with Standard Chartered Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Summary \u2022 Drive the implementation and adoption of AI-enabled capabilities across the Enterprise Architecture function, leveraging approved enterprise AI platforms and technologies \u2022 Working closely with the AI Factory, the role will identify, design, and deliver AI-driven solutions that improve \u2026",
+        "salary_is_predicted": "0",
+        "id": "5838614260",
+        "latitude": 12.95703,
+        "redirect_url": "https://www.adzuna.in/land/ad/5838614260?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=EACA17BC5BB03D127A3B4E1290937D6BBB1FE90A",
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "title": "AVP - AI Automation & Architecture Enablement",
+        "created": "2026-08-12T22:00:54Z",
+        "longitude": 77.59837,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzODYxNDI2MCIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.VnJny-JXIjzIxO-FVqPIBe2LMrO2K_pJpP8f-8_Ax7g",
+        "company": {
+          "display_name": "Standard Chartered Bank",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Morningstar"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0ODY1MDg3OCIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.kEPNd1Au-qcCaWqWKFi4MBmEJNt18qIa6JHLsyg5gp8",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 72.84415,
+        "title": "AI Solutions Engineering & Transformation Manager",
+        "created": "2026-08-20T00:04:21Z",
+        "location": {
+          "display_name": "Mumbai, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5848650878?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=419465CB07DDFB0813054DE5E63DA7A64F7FB40E",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "latitude": 19.00821,
+        "salary_is_predicted": "0",
+        "id": "5848650878",
+        "description": "This job is with Morningstar, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Role Title - Manager - AI Solutions Engineering & Transformation About Morningstar Morningstar, Inc. is a leading provider of independent investment insights in North America, Europe, Australia, and Asia. The Company offers an extensive line of products and services for individual investors, financial advisors, \u2026"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUks3TnB1Q2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODM3MTM5NDY2In0.wcmcjrCZ_BSbfU6DM907N-S_TfjrNTtE_QQOIy5R55I",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Warner Bros. Discovery"
+        },
+        "id": "5837139466",
+        "salary_is_predicted": "0",
+        "description": "This job is with Warner Bros. Discovery, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Welcome to Warner Bros. Discovery\u2026 the stuff dreams are made of. Who We Are\u2026 When we say, \u201cthe stuff dreams are made of,\u201d we\u2019re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD\u2019s vast portfolio of iconic content and beloved brands,\u2026",
+        "latitude": 17.40275,
+        "created": "2026-08-12T01:59:37Z",
+        "title": "Staff Solutions Architect - AI/ML",
+        "longitude": 78.50806,
+        "location": {
+          "display_name": "Hyderabad, Telangana",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139466?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=1E765756A9433CA0A39B7D4539310652A3F8EB3A",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        }
+      },
+      {
+        "location": {
+          "display_name": "India",
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5842123317?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=D48A570432213C820C7D0E8F9A67BA5C66811421",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Pre-Sales Consultant -AI & Analytics",
+        "created": "2026-08-15T00:26:17Z",
+        "description": "About Aarvian Aarvian is an enterprise AI transformation consulting firm that helps organizations turn AI into measurable business outcomes through purpose-driven strategy, domain expertise, and trusted innovation \u2014 moving clients from AI experimentation to enterprise adoption across AI & ML advisory, data and infrastructure operations, generative AI and agentic solutions, and intelligent automation. Role Overview We are looking for a Pre-Sales Consultant / Manager who combines genuine technica\u2026",
+        "id": "5842123317",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0MjEyMzMxNyIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.ofakYPq011g45KYj0YByQF1eI4dkT5S7R9h-sWH47_E",
+        "company": {
+          "display_name": "Aarvian",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "description": "This job is with Danaher, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Bring more to life. At Danaher, our work saves lives. And each of us plays a part. Fueled by our culture of continuous improvement, we turn ideas into impact \u2013 innovating at the speed of life. Our 60,000 associates work across the globe at more than 15 unique businesses within life sciences, diagnostics, and biotech\u2026",
+        "salary_is_predicted": "0",
+        "id": "5846723645",
+        "location": {
+          "area": [
+            "India",
+            "Maharashtra",
+            "Pune"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Pune, Maharashtra"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723645?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=57423B65CB85D11E8ABA2646ADDB4E34CEF8A873",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Senior Engineer, AI Security & Automation",
+        "created": "2026-08-18T18:03:43Z",
+        "longitude": 73.84735,
+        "latitude": 18.5062,
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Danaher",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjcyMzY0NSIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.hKsRYkBkPKZkW1Zt0Lk6Hlpncv-mJYXao2KZWwogMY0"
+      },
+      {
+        "description": "This job is with Novartis, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Summary At Novartis, we reimagine medicine to improve and extend people's lives. In this role, you will play a critical part in advancing our Procurement digital transformation agenda by shaping and delivering innovative, AI\u2011enabled technology solutions. You will lead the design, development, and deployment of inte\u2026",
+        "salary_is_predicted": "0",
+        "id": "5785772741",
+        "redirect_url": "https://www.adzuna.in/land/ad/5785772741?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=D566995D48A58365D1033AF12EFCC858382C334F",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "location": {
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India"
+          ]
+        },
+        "created": "2026-07-03T00:54:29Z",
+        "title": "Sr. Procurement AI & Analytics Lead",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Novartis"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUks3TnB1Q2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1Nzg1NzcyNzQxIn0.eW7hQchmHhES8Yp37fWVq1h0E-jOq6-2IDgorVXAj9g"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Aurolab"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUks3TnB1Q2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODUwOTgyNTExIn0.9GGK7odixqprItemCVxvKjs9dCop6MUOA2KFTb9y7Vo",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Madurai, Tamil Nadu",
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Madurai"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5850982511?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=743FF007639FF79997F1A8C70900FB11ACFDA87A",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Animation Designer | AI Video Creator",
+        "created": "2026-08-21T17:25:31Z",
+        "longitude": 78.1158,
+        "latitude": 9.91051,
+        "description": "Role Overview The Animation Designer will be responsible for creating animated videos to support marketing campaigns and training modules. The candidate will initially work with the Counsellor Connect team for online module creation, followed by future domestic marketing initiatives with the respective team. Key Responsibilities Develop animated videos using AI platforms for campaigns, product promotions, and training modules. Create AI-generated videos and animations using effective prompts an\u2026",
+        "salary_is_predicted": "0",
+        "id": "5850982511"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNzEzOTI2NyIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.dFGPTJgvO8JiDMrUH2MigGPmI8DHGJ8WRYeB_kJ6xbk",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Kyndryl"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "latitude": 19.00821,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139267?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=C6DEB629E4BE812F0C3651AEE75A58225842533D",
+        "location": {
+          "display_name": "Mumbai, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "title": "Principal Forward Deployed Engineer - AI",
+        "longitude": 72.84415,
+        "created": "2026-08-12T01:59:32Z",
+        "description": "This job is with Kyndryl, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Who We Are At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world's leading businesses. We are at the heart of progress; with proven expertise and a continuous flow of AI-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edg\u2026",
+        "salary_is_predicted": "0",
+        "id": "5837139267"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyOTA2MDIxNCIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.6QT57DO8Jx6qmjIycP3qeSthVnK6v3WfjwSA87qORlY",
+        "company": {
+          "display_name": "PALMONAS",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "id": "5829060214",
+        "description": "Position: Senior Executive - Imaging (Photography & AI) Department: Creative Role Overview The Senior Executive - Imaging will be responsible for leading image production workflows across photography post-production and AI-powered imaging solutions. This role combines technical expertise, visual quality control, and workflow optimization to ensure high-quality outputs for catalog, campaigns, social media, and digital platforms. Key Responsibilities Execute advanced image retouching, color corre\u2026",
+        "title": "Senior Photography & AI Content Specialist",
+        "created": "2026-08-05T17:44:34Z",
+        "category": {
+          "tag": "creative-design-jobs",
+          "label": "Creative & Design Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5829060214?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=0AEEDA2FAB785500D3DF940DDA9B8608E84ABE94",
+        "location": {
+          "display_name": "India",
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        }
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUks3TnB1Q2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODU2NjY1MjQwIn0.81nq9cmT6nmdU2lMIODQtuhYE4s9ENdUHQx0croIJew",
+        "company": {
+          "display_name": "Leap",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "AI Video Editor- Performance Ads",
+        "created": "2026-08-26T15:55:29Z",
+        "redirect_url": "https://www.adzuna.in/land/ad/5856665240?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=9EDBCBFCFBEFD99A02C39115D59A3E22A79B38E0",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka"
+        },
+        "salary_is_predicted": "0",
+        "id": "5856665240",
+        "description": "We\u2019re hiring an AI Video Editor (Performance ) to build high-performing UGC-style ad creatives at scale. This is not a traditional editing role. We\u2019re looking for someone who deeply understands performance creatives for Meta, knows what makes users stop scrolling, and can leverage AI-first video workflows to create, iterate, and optimize winning ad creatives faster. You\u2019ll work closely with the Growth and creative team to produce UGC-style performance ads using AI tools, experiment with new cre\u2026"
+      },
+      {
+        "id": "5854537713",
+        "salary_is_predicted": "0",
+        "description": "This job is with Standard Chartered Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Summary Role Purpose Ensure the safe, reliable and compliant operation of data pipelines and AI/ML solutions across the bank by: Proactively monitoring data quality, data flows and AI/ML model performance in production. Detecting and escalating issues early (e.g., data breaks, model drift, bias, \u2026",
+        "created": "2026-08-25T00:07:27Z",
+        "title": "Specialist, Data & AI Monitoring Ops",
+        "longitude": 80.24963,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5854537713?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=9220719B57166218B6C186CF781A6CE1C2C27A62",
+        "location": {
+          "display_name": "Chennai, Tamil Nadu",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Chennai"
+          ]
+        },
+        "latitude": 13.06041,
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Standard Chartered Bank",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUks3TnB1Q2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODU0NTM3NzEzIn0.-sMq2CgumKwP5FBSIj-E2lvgfrNG_9x9IgGLoMi_47U"
+      },
+      {
+        "latitude": 19.00821,
+        "category": {
+          "tag": "creative-design-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Creative & Design Jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5818522966?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=8ABBB2CA90C68ECF3F7172C0979E6DFB0F40A73F",
+        "location": {
+          "display_name": "Mumbai, Maharashtra",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ]
+        },
+        "title": "Generative AI Artist and Graphic Designer",
+        "created": "2026-07-28T21:17:29Z",
+        "longitude": 72.84415,
+        "description": "What do we do? Madzilla Studios is an AI-first, hybrid creative studio focused on innovative visual storytelling through films and design. The team combines generative AI filmmakers and artists with traditional production teams and design principles using the latest in tech, to deliver distinctive visual identities and digital experiences. Madzilla Studios values experimentation, collaboration, and a strong design culture, providing space for artists to push creative boundaries. The studio work\u2026",
+        "id": "5818522966",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUks3TnB1Q2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODE4NTIyOTY2In0.34mJO1NW4qoVw-CqNJzra0FJz03j3NZU6yZ92SCTA9s",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Madzilla Studios"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "MyOperator"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzMzQzNTIyNCIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.Uug7suF5ymbigzFRH-HglLG7mkaSJiQrym_MQxRgVXo",
+        "id": "5833435224",
+        "salary_is_predicted": "0",
+        "description": "Role Overview MyOperator is transitioning from a Cloud Telephony leader to India's leading Business AI Operator \u2014 and this role is the first-line commercial owner of that shift. As Manager Inside Sales, AI Products, you will own the inside sales team's performance against new ARR targets for MyOperator's AI-driven communication suite. You will translate company-level growth goals into team plans, coach a team of Sales Executives and Team Leaders, and iterate the pitch and process until the AI p\u2026",
+        "title": "Sales Manager - AI (Inside Sales)",
+        "created": "2026-08-08T18:04:13Z",
+        "redirect_url": "https://www.adzuna.in/land/ad/5833435224?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=8F1ED7F5E9FED275B548293F2237D96B7796823F",
+        "location": {
+          "display_name": "India",
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+          "tag": "sales-jobs",
+          "label": "Sales Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "MyOperator"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUks3TnB1Q2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODMzNDM1MDEzIn0.kUygqYG7tthdF9_9WU0R5I2xRi2gYhn8v8-JVGK5Fjo",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2026-08-08T18:03:06Z",
+        "title": "Inside Sales Executive - AI & SAAS",
+        "redirect_url": "https://www.adzuna.in/land/ad/5833435013?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=5D4BDF0102272757271236EFBE6609A12D294E5C",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India"
+          ],
+          "display_name": "India"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Sales Jobs",
+          "tag": "sales-jobs"
+        },
+        "salary_is_predicted": "0",
+        "id": "5833435013",
+        "description": "Role Overview We are hiring a Inside Sales Executive \u2013 SaaS & AI Solutions (Inbound) to convert high-intent inbound leads into revenue. You will own the end-to-end sales cycle \u2014from discovery to closure\u2014while positioning MyOperator\u2019s AI-driven communication solutions to solve real business problems. This role is ideal for someone who has experience in consultative selling, handling monthly revenue targets, and closing SaaS or B2B deals . About MyOperator MyOperator is a Business AI Operator, a \u2026"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NTg4MzI5NSIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.zvK9jHC7_JqFt52qzbu8Ezd20kHGL2uSpL68pS9rRmQ",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "MSCI"
+        },
+        "description": "This job is with MSCI, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Your Team Responsibilities: MSCI's HR Technology team builds and operates the platforms and applications that support approximately 6,300 employees across global offices. The team is actively building an agentic application layer - intelligent tools for recruiting, compensation, position management, HR operations, and \u2026",
+        "id": "5795883295",
+        "salary_is_predicted": "0",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5795883295?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=9D47E50EE05A106030EEF126CD55EFD7B274AD23",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "title": "VP of AI Engineering, HR Technology",
+        "created": "2026-07-10T23:42:23Z"
+      },
+      {
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Jabil",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUks3TnB1Q2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODUyMTY0NTAzIn0.09R7CrOL9TJ1mnSgkD5ZOoQkF4xPuV1YoJ6DGA2NJ8s",
+        "id": "5852164503",
+        "salary_is_predicted": "0",
+        "description": "This job is with Jabil, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Jabil (NYSE: JBL), we are proud to be a trusted partner for the world's top brands, offering comprehensive engineering, supply chain, and manufacturing solutions. With 60 years of experience across industries and a vast network of over 100 sites worldwide, Jabil combines global reach with local expertise to deliver\u2026",
+        "created": "2026-08-22T12:06:29Z",
+        "title": "Full Stack AI Lead Developer",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5852164503?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=8AE8A524A39A19BFA427B906BDC3446F6D7C7468",
+        "location": {
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India"
+        }
+      },
+      {
+        "company": {
+          "display_name": "Tech it!",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjMwMDM3MCIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.velMSCknaP72BqmVl6Jnjg1Dwzbt0R6nddGOFqjOTkM",
+        "contract_type": "contract",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846300370?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=155438A9D6285492C84718E7BC7F31F6ABBD85F6",
+        "location": {
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "title": "Graphics Designer Intern (AI Native)",
+        "created": "2026-08-18T13:10:13Z",
+        "description": "Location: Gurgaon | Work from Office Experience: 0\u20131 year / Freshers Type: Internship About the Role We\u2019re looking for a Graphics Designer Intern who is excited about using AI as a core part of the creative workflow; not just as a tool, but as a way to think, ideate and execute faster. You\u2019ll work on creative assets for D2C & e-commerce brands , including product creatives, campaign visuals, social media assets, website banners and more. What You\u2019ll Do Create high-quality visual creatives for e\u2026",
+        "id": "5846300370",
+        "salary_is_predicted": "0"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzMDQxNzUwMSIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.zmRNUS-wj_m17cdMQ-ncPaM9KQhx7iJ9XW1V0Dxet_Y",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Jagran New Media"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 28.56579,
+        "created": "2026-08-06T17:51:44Z",
+        "title": "Content Writer - Science , Technology & AI",
+        "longitude": 77.3225,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Uttar Pradesh",
+            "Ghaziabad",
+            "Noida"
+          ],
+          "display_name": "Noida, Ghaziabad"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5830417501?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=A59A2733359969BC74EA7D683A49C7A96773570B",
+        "category": {
+          "tag": "scientific-qa-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Scientific & QA Jobs"
+        },
+        "id": "5830417501",
+        "salary_is_predicted": "0",
+        "description": "Jagran New Media (JNM) is the digital wing of Jagran Prakashan Limited (JPL), India's leading media group, with interests in print, OOH, radio, and digital. JPL publishes Dainik Jagran, the world's largest-read Hindi daily, and owns Radio City. JNM creates online content across news, education, lifestyle, entertainment, health, and youth, reaching over 109 million users through its 9 digital platforms. Role Snapshot: The ideal candidate should be able to translate complex scientific and technol\u2026"
+      },
+      {
+        "title": "Applied AI Sr Associate Engineer",
+        "created": "2026-08-18T18:03:40Z",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India"
+          ],
+          "display_name": "India"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723487?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=AAEC18DE235C6161C4201783DA62A327D21A6AD6",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "id": "5846723487",
+        "salary_is_predicted": "0",
+        "description": "This job is with Moody's, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Moody's, we unite the brightest minds to turn today\u2019s risks into tomorrow\u2019s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are\u2014with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Mo\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Moody's"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUks3TnB1Q2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODQ2NzIzNDg3In0.tmNI7DuJ9nghEc-7JRlki5AdwjMaikco9CNBBA_z2LQ",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "salary_is_predicted": "0",
+        "id": "5846723668",
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description We are looking for a Senior BI Developer (10\u201312 years) with primary expertise in Tableau / BI and secondary strength in Oracle database development . The ideal candidate will specialize in building enterprise-scale BI solutions , crafting high-impact dashboards , and enabling\u2026",
+        "title": "Senior Tableau Developer and Oracle with AI",
+        "created": "2026-08-18T18:03:43Z",
+        "longitude": 73.84735,
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723668?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=0D28262A41F89C703D7B7B30E21C42CB39447388",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "location": {
+          "display_name": "Pune, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Pune"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "latitude": 18.5062,
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Deutsche Bank",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjcyMzY2OCIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.lVaiMzB6hOI_OQMiDE_fHjQiKGfRWf1umy94lJSpA68"
+      },
+      {
+        "company": {
+          "display_name": "S&P Global",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NDUzNzg2OSIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.PSWL4PTrkp8TFRk58EAFjg8baArnNDusPxn5po5rqs4",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.in/land/ad/5854537869?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=0D1F0CD08FA2848B37CFCAC7D2C7C8E59C20C70D",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Engineering Jobs",
+          "tag": "engineering-jobs"
+        },
+        "location": {
+          "display_name": "India",
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "created": "2026-08-25T00:07:48Z",
+        "title": "Lead AI Engineer (Agentic Systems)",
+        "description": "This job is with S&P Global, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About the Role: Grade Level (for internal use): 11 Lead AI Engineer (Agentic Systems) Role Summary As the Lead AI Engineer (Agentic Systems), you will help architect and build the organization's next generation of autonomous AI workflows. This is a multidisciplinary technical role operating at the intersection of\u2026",
+        "salary_is_predicted": "0",
+        "id": "5854537869"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "SkillsCapital"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1MzYyMTAwNSIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.TVWycfkEjbPfZoURg0lh6bbFYBJE74B6epV30qwiiu0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.in/land/ad/5853621005?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=1C5884345726058CC772323299FC55D859BC5068",
+        "location": {
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India"
+          ]
+        },
+        "category": {
+          "label": "Sales Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "sales-jobs"
+        },
+        "created": "2026-08-23T17:39:12Z",
+        "title": "Founding Business Leader (Agentic AI Talent Intelligence) - Global AI-Native Tech Talent Venture",
+        "description": "Seeking an exceptional Founding Business Leader to lead and scale SkillsCapital's Agentic AI-Driven Talent Intelligence / Talent Intelligence-as-a-Service business globally. This is not a zero-to-one role : the business model and product/technology are validated; customers have demonstrated willingness to pay; paid customers are onboarded/onboarding; core technology is production-ready and deployed; and key team members are in place. Mandate: build the commercial engine and organization for glo\u2026",
+        "id": "5853621005",
+        "salary_is_predicted": "0"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUks3TnB1Q2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODU0MzY2MzM0In0.7B_08NFwLLBL5OzOGxbyZ0oJYR23Yxdx2w-Ty4f-9Gk",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Trovex.ai"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 19.00821,
+        "redirect_url": "https://www.adzuna.in/land/ad/5854366334?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=1FDB74C040D36414A5FBD2A9D3D4435A47A8793A",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "display_name": "Mumbai, Maharashtra"
+        },
+        "category": {
+          "label": "Sales Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "sales-jobs"
+        },
+        "created": "2026-08-24T17:43:17Z",
+        "title": "Enterprise Sales Manager | AI SaaS Startup",
+        "longitude": 72.84415,
+        "description": "Trovex is an AI-powered sales performance platform that helps enterprises improve customer conversations through AI simulations, coaching, and performance analytics. Leading insurers and asset management companies trust Trovex to train and coach more than 50,000 frontline sales professionals , helping them improve sales readiness, product knowledge, objection handling, and customer engagement at scale. Backed by Microsoft for Startups , we're building the next generation of AI-powered sales ena\u2026",
+        "salary_is_predicted": "0",
+        "id": "5854366334"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5853620714?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=B02C2BA79C177226C97936056677A72CB0D27E3F",
+        "category": {
+          "label": "Sales Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "sales-jobs"
+        },
+        "location": {
+          "area": [
+            "India",
+            "Gujarat",
+            "Ahmedabad"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Ahmedabad, Gujarat"
+        },
+        "title": "Junior Business Development Executive - AI Solutions",
+        "created": "2026-08-23T17:38:41Z",
+        "longitude": 72.59465,
+        "latitude": 23.042,
+        "description": "We\u2019re Hiring: Junior Business Development Executive(BDE) \u2013 AI Solutions / Generative AI We\u2019re looking for someone who is good at understanding business challenges, exploring new opportunities, and is genuinely curious about what AI can do for businesses. You\u2019ll be working closely with our AI and technical team to understand what a client actually needs, identify where AI can make a difference, and help turn that conversation into a real solution. What You'll Be Doing \u2022 Find and qualify B2B oppo\u2026",
+        "salary_is_predicted": "0",
+        "id": "5853620714",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Riseascend Technologies"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1MzYyMDcxNCIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.8ioBHY8sFyvelrktIZt5aKMHwBe_WcdVIAK2f8R05pc",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "description": "We are looking for an experienced Solutions Lead to drive end-to-end presales solutioning for strategic Cloud, Data, AI, and Gen AI opportunities. The ideal candidate will own solution architecture, engage with clients and CXOs, lead technical deal pursuits, develop winning proposals, and design scalable business-focused solutions. Key Responsibilities Lead solutioning for large deals, RFPs, proposals, and client presentations. Design Google Cloud, Data, AI, and Gen AI-based solutions aligned t\u2026",
+        "salary_is_predicted": "0",
+        "id": "5849578660",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5849578660?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=9BFAC6830D1477C273CBDF7777A012CFB917D2C7",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "title": "Solutions Lead - Presales (Google Cloud & AI)",
+        "created": "2026-08-20T17:58:11Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Tata Consultancy Services",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0OTU3ODY2MCIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.pBwbJ4R80T0xQzjF8zo-0mvBh01Gm320xIbS4-gxbRo"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyOTA2MDIzMyIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.3pniu3wrEvM3sW7pklm1nS5W__nXolQydpLqK4QzRGk",
+        "company": {
+          "display_name": "Taglynk",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 28.56579,
+        "location": {
+          "area": [
+            "India",
+            "Uttar Pradesh",
+            "Ghaziabad",
+            "Noida"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Noida, Ghaziabad"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5829060233?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=136ADC7B662132B4FEF2235E46E3A9B6AB94F82F",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "longitude": 77.3225,
+        "title": "AI Product Manager (Manufacturing, Renewable & Power)",
+        "created": "2026-08-05T17:44:35Z",
+        "description": "Role Overview We are looking for an experienced AI Product Manager to lead the design, development, and deployment of AI-driven solutions across Manufacturing, Renewable Energy, and Power sectors . The role requires strong domain expertise, product management skills, and the ability to translate business challenges into scalable AI products that deliver measurable business value. Key Responsibilities Define AI product strategy, roadmap, and business cases aligned with organizational goals. Iden\u2026",
+        "id": "5829060233",
+        "salary_is_predicted": "0"
+      },
+      {
+        "id": "5849579029",
+        "salary_is_predicted": "0",
+        "description": "Director Business Analytics, AI & Decision Intelligence About Amber Amber is the leading student housing platform globally, helping students find and book long-term accommodation near their universities. Think of Amber as Booking.com for student housing. Today, Amber serves students from over 160 countries and partners with leading property operators and universities across major education destinations worldwide. Backed by leading investors including Gaja Capital, Amber is building the operatin\u2026",
+        "created": "2026-08-20T17:58:27Z",
+        "title": "Director Business Analytics, AI & Decision Intelligence",
+        "location": {
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5849579029?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=7EF957660763037415F4B38E203A7CFF2ED25EFA",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0OTU3OTAyOSIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.mHjCS34BNalcSLrPljs-3FUgBWEZ4lXQMtGy2utRbpY",
+        "company": {
+          "display_name": "Amber",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUks3TnB1Q2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODQ3OTU5NzIzIn0.EHTbuKqoAnwZwzMXPKjTORIfd-XqHAvbhLKMWvdv3ak",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HP"
+        },
+        "id": "5847959723",
+        "salary_is_predicted": "0",
+        "description": "This job is with HP, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Sr Engineer - AI Agentic API Management Description - We are seeking an experienced engineering leader to design, build, and operate API Management layers for enterprise AI services. The role focuses on enabling secure, governed, and scalable access to managed AI services (LLMs, AI APIs, and agentic systems) through a ce\u2026",
+        "title": "Sr Engineer - AI Agentic API Management",
+        "created": "2026-08-19T14:04:56Z",
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5847959723?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=5B9722A82DD970AB799493C2746FC7AC4A7924A4",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNjEzNjA4MiIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.sXJrrmClcaRicWzlUIyPbpZAKtZU2WU7reR8h4xHxFk",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "TECEZE"
+        },
+        "id": "5806136082",
+        "salary_is_predicted": "0",
+        "description": "Practice Manager \u2013 Cloud, DevOps & AI Practice Company: Teceze Ltd Position: Practice Manager \u2013 Digital Engineering & AI Innovation Practice Area: Cloud & DevOps, AI & Intelligent Automation, Application Modernization Location: Chennai or Bangalore Employment Type: Full-time About Teceze Teceze is a global technology partner focused on operational resilience, digital transformation, and scalable growth. We simplify architectural complexity and accelerate business velocity by uniting next-genera\u2026",
+        "latitude": 13.06041,
+        "title": "Practice Manager \u2013 Cloud, DevOps & AI Practice",
+        "created": "2026-07-18T18:07:29Z",
+        "longitude": 80.24963,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Chennai"
+          ],
+          "display_name": "Chennai, Tamil Nadu"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5806136082?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=42936F3722E5A1C4BA2395B0BA048C7C265703AF",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "created": "2026-08-15T00:04:09Z",
+        "title": "Associate Director, IMO AI, and Business Excellence",
+        "redirect_url": "https://www.adzuna.in/land/ad/5842114975?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=5E2B1036FCB78A81A42F2A05DCC8FBA096A08E0B",
+        "location": {
+          "display_name": "India",
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "id": "5842114975",
+        "description": "This job is with Novartis, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Summary This is a key role in the AI Transformation team within the Integrated Marketing Organization (IMO), focused on technical and solution strategy. The role translates business opportunities into overarching technical solutions, defining what should be built, how it fits the existing technology ecosystem, and \u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUks3TnB1Q2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODQyMTE0OTc1In0.p1WvG59hVos1dSQ5lT_oEXFpszz4INIydkIQkTzbHZI",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Novartis"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0Nzk1OTg0MiIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.HfN4vp6df-Z26-8cZf6JoKqrUmrkrhB9swCINny8eaU",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HP"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "created": "2026-08-19T14:05:02Z",
+        "title": "Senior Data Architect \u2013 Agentic AI Solutions",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5847959842?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=8C0F3BA2FEB781F8976C34A03637DA125BCBC327",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "id": "5847959842",
+        "salary_is_predicted": "0",
+        "description": "This job is with HP, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Senior Data Architect - Agentic AI Solutions Description - We're looking for a Data Architect who has spent their career deep in data and analytics, and is now hands-on with the latest AI technology stacks - someone who can architect AI-ready data for agentic workflows, not just talk about it. This is an individual contr\u2026"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0MTc1NTU3NiIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.ghl89Gl2AzfD9iLIyLqHXvya5YpRRmIHgY0d8iVmKhc",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "MyOperator"
+        },
+        "description": "About MyOperator MyOperator is a Business AI Operator platform that allows businesses, teams, and AI Agents to work in tandem for customer operations, i.e., handle Sales, Support, Escalation, Feedback, and Refund processes. With over 12,000 businesses using our platform, we are the largest in the space. MyOperator is built for people who want to work on ambitious problems at a meaningful scale. We value ownership, speed, critical thinking, and a bias for building things that create real custome\u2026",
+        "salary_is_predicted": "0",
+        "id": "5841755576",
+        "redirect_url": "https://www.adzuna.in/land/ad/5841755576?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=DC46607DD1A4C7797E039F4F8E3779634B247D47",
+        "location": {
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India"
+        },
+        "category": {
+          "label": "Sales Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "sales-jobs"
+        },
+        "title": "Head of Strategic Alliances & Partnerships- AI & SaaS",
+        "created": "2026-08-14T16:34:45Z"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUks3TnB1Q2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODAwOTMxNDg4In0.Eh2P82tgubrOa6JEU1R8jtcZxoD8nMOA9tetHxOFC8Q",
+        "company": {
+          "display_name": "Aristocrat",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "id": "5800931488",
+        "description": "This job is with Aristocrat, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Aristocrat, we're on a mission to bring happiness to life through the power of play. We believe our innovative and inclusive culture drives our success. We're committed to making a positive impact in the gaming industry. As a Technical Lead - AI Specialist / Automation Engineer, you'll have the chance to devel\u2026",
+        "latitude": 28.56579,
+        "created": "2026-07-15T14:16:25Z",
+        "title": "Technical Lead - AI Specialist / Automation Engineer",
+        "longitude": 77.3225,
+        "redirect_url": "https://www.adzuna.in/land/ad/5800931488?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=F2FC8C34DF646B8BD1FF7AD1A0C4D86756781E6A",
+        "location": {
+          "area": [
+            "India",
+            "Uttar Pradesh",
+            "Ghaziabad",
+            "Noida"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Noida, Ghaziabad"
+        },
+        "category": {
+          "tag": "engineering-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Engineering Jobs"
+        }
+      },
+      {
+        "title": "Director Sales (B2B, AI Call Center)",
+        "created": "2026-08-22T17:35:36Z",
+        "redirect_url": "https://www.adzuna.in/land/ad/5852477072?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=7EF5E0949E8F1968AD1AFD12C7E59D7CEAB5C3C7",
+        "location": {
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India"
+        },
+        "category": {
+          "label": "Sales Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "sales-jobs"
+        },
+        "salary_is_predicted": "0",
+        "id": "5852477072",
+        "description": "Client - One of the largest eCommerce players, listed and growing across other business verticals About the Role We are building a new-age AI Services (AI BPO) business that delivers outcomes\u2014not software. This role is for a sales leader who thrives in ambiguity, enjoys selling new ideas, and can operate at the intersection of AI, services, and enterprise problem-solving. This is not a \u201cmanage pipeline\u201d role. This is a 0\u20131 and 1\u201310 sales role where you will work closely with the leadership team\u2026",
+        "company": {
+          "display_name": "TAAS Partners",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUks3TnB1Q2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODUyNDc3MDcyIn0.zxOLdomqsIuYmPYpC3MoARajeShYSzxdZiWrgcHfeJ0",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Acuity Analytics"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjI5OTE1MiIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.e10JKysxcOpcffpgvcPsEP-pKiHBZNixJUNQK1qyGPw",
+        "salary_is_predicted": "0",
+        "id": "5846299152",
+        "description": "Responsibilities Act as the primary point of contact for client governance and provide a high-touch \"Silk Glove Treatment (SGT)\" experience to drive successful adoption of AI and automation solutions. Understand client workflows, operational challenges, and business objectives to identify opportunities for AI-driven productivity improvements and delivery efficiencies Assess use cases, recommend solutions leveraging the Agent Fleet Platform and Agent Fleet Assistant, and support deployment acros\u2026",
+        "title": "Associate/Assistant Director - AI Adoption & Governance",
+        "created": "2026-08-18T13:09:27Z",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846299152?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=BC009E201F611A2FF7A9BA5AF9049EF5BB45393D",
+        "location": {
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India"
+          ]
+        },
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deutsche Bank"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1MjE2NDQ3NCIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.7tuIvPifg1FOMerl1Ulr4YnCYLK1pceaWR2pn8jh61g",
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description Engineer is responsible for managing or performing work across multiple areas of the bank's overall IT Platform/Infrastructure including analysis, development, and administration You\u2019ll be a seasoned software engineer with 5 years of experience , joining a team of enthusiasti\u2026",
+        "id": "5852164474",
+        "salary_is_predicted": "0",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5852164474?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=5D6A5D7D4197ED6A942EBB6E63D6B671B40BDF23",
+        "location": {
+          "display_name": "Pune, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Pune"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "title": "SAS DMS AI Full Stack Engineer, AS",
+        "longitude": 73.84735,
+        "created": "2026-08-22T12:06:25Z",
+        "latitude": 18.5062
+      },
+      {
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5833789458?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=93A1A22947BC00C85E4D2683CCFEF289AB85BC03",
+        "location": {
+          "display_name": "India",
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "title": "Senior Product Support Specialist \u2013 AI & SaaS",
+        "created": "2026-08-09T00:02:04Z",
+        "description": "Role Overview Most support roles focus on responding to customers. This role goes a step further. As a Senior Customer Support Executive at MyOperator, you will own complex customer issues, resolve escalations from Tier 1 support, and help improve the overall effectiveness of the support function. You will work closely with Customer Support Executives, Product, Engineering, and Onboarding teams to ensure customers receive fast, accurate, and complete resolutions. Beyond solving individual probl\u2026",
+        "id": "5833789458",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUks3TnB1Q2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODMzNzg5NDU4In0.kuZlvtuqPLDyvIiByCEyapUuQiqxx1b0yGbxUAjTrn4",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "MyOperator"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "latitude": 18.5062,
+        "title": "Senior Engineer - Java  AI Engineer, AVP",
+        "created": "2026-08-18T18:03:38Z",
+        "longitude": 73.84735,
+        "location": {
+          "display_name": "Pune, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Pune"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723386?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=A307DCEC2A771E4E743DC5A7FD4BF8E126664593",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5846723386",
+        "salary_is_predicted": "0",
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description Our Technology, Data and Innovation (TDI) strategy is focused on strengthening engineering expertise, introducing an agile delivery model, as well as modernising the bank's IT infrastructure with long-term investments and taking advantage of cloud computing. You will be worki\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjcyMzM4NiIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.GNefO1Y8SjhuKZMkL3RL7sJjJno48n-QAGXNQSjyrQU",
+        "company": {
+          "display_name": "Deutsche Bank",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Fin100X.AI | Maha AI"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUks3TnB1Q2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODUyMDM2NjE2In0.m-hvUnCzSI0wN9yV-EzeEk2p_kIwA4qIN-mO25vv7dk",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2026-08-22T09:33:33Z",
+        "title": "Business Development Manager \u2013 AI Intelligence & Strategic Partnerships",
+        "longitude": 72.84415,
+        "redirect_url": "https://www.adzuna.in/land/ad/5852036616?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=4545A3A7E224FEE441C4367C8D557C72E46717F8",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "display_name": "Mumbai, Maharashtra"
+        },
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 19.00821,
+        "salary_is_predicted": "0",
+        "id": "5852036616",
+        "description": "Location: Mumbai Company: FIN100X.AI PRIVATE LIMITED Platforms: Fin AI | Maha AI Experience: 5\u201310 Years Work Mode: Mumbai-based | Stakeholder-facing role We are looking for a Business Development Manager \u2013 AI Intelligence & Strategic Partnerships who can represent our AI intelligence platforms before senior government, BFSI, enterprise and institutional stakeholders. This is not a conventional sales role . The person will work closely with the Founder, Product, AI and Technology teams to unders\u2026"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUks3TnB1Q2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODM3MTM5Mjc2In0.4P96qwzjJVE8EJkDgbo_NzsjgQU5Y2WGI_MyPxyvpYI",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Standard Chartered Bank"
+        },
+        "salary_is_predicted": "0",
+        "id": "5837139276",
+        "description": "This job is with Standard Chartered Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Summary As a Human-Centered AI Data Scientist for Strategy and Talent (S&T) at Standard Chartered, you will work at the forefront of empowering human-centered and trustworthy AI adoption across S&T from vendor-provided and internally-developed AI systems. This role is central in guiding and asses\u2026",
+        "latitude": 12.95703,
+        "title": "Human-Centered AI Data Scientist, Strategy and Talent",
+        "created": "2026-08-12T01:59:32Z",
+        "longitude": 77.59837,
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139276?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=C0F814CBDD0355075DDB000131DE4C8D130504ED",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        }
+      },
+      {
+        "id": "5855679761",
+        "salary_is_predicted": "0",
+        "description": "Looking for AI-enabled performance marketers - part-time or full-time - to personally execute paid acquisition for a Music AI app. You should be great at at least ONE of these two. One: Creative strategy and copy. Ad creatives, landing pages and messaging that can make a customer grasp the product feature and its value in 5-10 seconds. OR Two: Technically rigorous campaigns on Google and Meta - clean A/B tests across creatives, copy and landing pages, with conversion APIs (Meta CAPI, Google Enh\u2026",
+        "latitude": 28.62623,
+        "title": "Performance Marketer (Google  Meta) - Music AI App",
+        "created": "2026-08-25T23:55:36Z",
+        "longitude": 77.21808,
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "pr-advertising-marketing-jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5855679761?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=57EEBD52626A2CEC487D46E22BEB4032DD989086",
+        "location": {
+          "display_name": "New Delhi, Delhi",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Delhi",
+            "New Delhi"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "part_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUks3TnB1Q2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODU1Njc5NzYxIn0.ARZm5mEZfYrUMWtDCyZ-tah31IJ_b7MxsD6q7VvNiPc",
+        "company": {
+          "display_name": "Rawzor Technologies",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NDUzNzczNSIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.pAlnwyJPz9CcPZXUlmDkdRoHgk8taSEjoS4OPVidVI8",
+        "company": {
+          "display_name": "Standard Chartered Bank",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "latitude": 12.95703,
+        "redirect_url": "https://www.adzuna.in/land/ad/5854537735?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=67178ABEC5BF1B4E8A6CBA31FD98D3401D7E66B8",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka"
+        },
+        "title": "Director, OTCR, Strategic & Emerging Risks (AI & ML)",
+        "created": "2026-08-25T00:07:28Z",
+        "longitude": 77.59837,
+        "description": "This job is with Standard Chartered Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Summary This role could be based in India or China. When you start the application process you will be presented with a drop down menu showing all countries, please ensure that you select a country where the role is based. The Operational, Technology and Cyber Risk (OTCR) organisation is instrume\u2026",
+        "id": "5854537735",
+        "salary_is_predicted": "0"
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India"
+          ],
+          "display_name": "India"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5823898276?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=C240F42A1327972600066ED904113360E58E89B6",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "title": "Business Development Manager - AI and LLM Model Training",
+        "created": "2026-08-01T17:33:52Z",
+        "description": "Company Description DeepLLMData is dedicated to fueling cutting-edge AI and large language models (LLMs) with expertly curated human-generated data. We specialize in coding for supervised fine-tuning (SFT) and reinforcement learning with human feedback (RLHF). Our team includes STEM professionals, PhD-level experts, and specialists in mathematics and domain-specific areas. With a robust network of image and video annotators, we also provide high-quality image and video data provisioning for adv\u2026",
+        "id": "5823898276",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUks3TnB1Q2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODIzODk4Mjc2In0.TD-o4343XiTfMyWOiS4LdpiRnsdUtvACWeuKuCO2uRc",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "DeepLLMData"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUks3TnB1Q2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODM3MTM4OTQyIn0.OUdohVaqAdW2YOgHN-WmJUyrBcg50U0T-lpJmqRFbeE",
+        "company": {
+          "display_name": "Cornerstone OnDemand",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5837138942",
+        "salary_is_predicted": "0",
+        "description": "This job is with Cornerstone OnDemand, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Senior AI Engineer | Hyderabad | Java, LLM, Gen AI | Hybrid Java \u00b7 LLM \u00b7 Gen AI \u00b7 Microservices \u00b7 GraphQL \u00b7 DataStructures & Algorithms Companyoverview Cornerstone OnDemand builds intelligent products that helporganizations learn and perform at scale. We value ownership, clarity, andpragmatic engineerin\u2026",
+        "latitude": 17.40275,
+        "created": "2026-08-12T01:59:19Z",
+        "title": "Senior Al Engineer | Java, LLM & Gen AI",
+        "longitude": 78.50806,
+        "redirect_url": "https://www.adzuna.in/land/ad/5837138942?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=77F8F83550E3A80561A9130E188DE6DC1A228931",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana"
+        },
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        }
+      },
+      {
+        "description": "This job is with Capco, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Senior Data Governance - AI Driven Metadata Management Location: Bengaluru Experience: 5 Years About Us \u201cCapco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Av\u2026",
+        "salary_is_predicted": "0",
+        "id": "5837139683",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139683?se=RK7NpuCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=B0A66F366DF85F1F0763D09AE3CE789933FB4F06",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "created": "2026-08-12T01:59:40Z",
+        "title": "Senior Data Governance - AI Driven Metadata Management",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Capco"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNzEzOTY4MyIsInMiOiJSSzdOcHVDaDhSR2haN2djVUpaaXZnIn0.HGpbqItZH5zkdo0wI3Gt-KH5lBp12GBqITdCwy4MHNQ"
+      }
+    ],
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "count": 53846,
+    "mean": 1431863.25
+  }
+}

@@ -1,0 +1,1554 @@
+{
+  "url": "https://api.adzuna.com/v1/api/jobs/in/search/2",
+  "params": {
+    "results_per_page": 50,
+    "content-type": "application/json",
+    "where": "India",
+    "what": "business analyst"
+  },
+  "fetched_at_utc": "2026-08-27T06:29:34.914122+00:00",
+  "status_code": 200,
+  "response_url": "https://api.adzuna.com/v1/api/jobs/in/search/2?app_id=cd9c749f&app_key=b57cfdd3348942d64d752847c03738bf&results_per_page=50&content-type=application%2Fjson&where=India&what=business+analyst",
+  "body": {
+    "results": [
+      {
+        "redirect_url": "https://www.adzuna.in/details/5849257585?utm_medium=api&utm_source=cd9c749f",
+        "salary_is_predicted": "0",
+        "created": "2026-08-20T09:09:55Z",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs"
+        },
+        "contract_time": "full_time",
+        "title": "Business Analyst",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Arena Investors I Quaestor Advisors",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0OTI1NzU4NSIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.3Ptffc9cmtgsw-tRF6P28w0xwREMfq-ur8Nz88u5iEk",
+        "id": "5849257585",
+        "location": {
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India"
+          ]
+        },
+        "description": "Quaestor is looking to expand the Technology Team through the addition of Data Integrity associate. In this role, the individual will reconcile and ensure the accuracy of the data used by Quaestor\u2019s teams. KEY RESPONSIBILITIES Work closely with the Operations Team and IT Team to monitor data within the Arena Data Warehouse and Trading/Risk/Loan/Treasury vendor software. Reconcile data for our Trading, Risk, and Accounting Systems. Create additional data reconciliations as required. Work with in\u2026"
+      },
+      {
+        "title": "Business Analyst",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Trigent Software Private Limited"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Highly desirable to have knowledge in overall US Healthcare domain Evaluating business processes, anticipating requirements, uncovering areas for improvement, and developing and implementing solutions. Leading ongoing reviews of business processes and developing optimization strategies. Performing cost-benefit-analysis to see which option is better amongst the available choices Effectively communicating your insights and plans to cross-functional team members and management. 1 .Utilization Mana\u2026",
+        "location": {
+          "display_name": "India",
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODUxNDA5MDM1In0.Eqc7Zsd2DqwFoo9-vrjMFVH46a0Q3mY00ti5R04F3Ow",
+        "id": "5851409035",
+        "salary_max": 3200000,
+        "redirect_url": "https://www.adzuna.in/details/5851409035?utm_medium=api&utm_source=cd9c749f",
+        "salary_min": 3200000,
+        "created": "2026-08-21T23:36:06Z",
+        "category": {
+          "tag": "healthcare-nursing-jobs",
+          "label": "Healthcare & Nursing Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0"
+      },
+      {
+        "longitude": 77.60024,
+        "title": "Business Analyst",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Acme Services Private Limited"
+        },
+        "id": "5849894192",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0OTg5NDE5MiIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.l8VGkB1NPsyrjNXhNU2NwNKurkVtzktoTTF-RhI3SHI",
+        "latitude": 12.9706,
+        "description": "Job Description: This is an exciting opportunity to join a dynamic Product and Analytics team that drives significant revenue and strategic decisions for Visa. As a BI Developer within the Risk and Identity Solutions organization, your role will involve designing, developing, and maintaining high-impact Power BI dashboards and reports that support business stakeholders across the organization. You must be a hands-on professional who can bridge the gap between raw data and meaningful business na\u2026",
+        "location": {
+          "display_name": "Richmond Town, Bangalore",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore",
+            "Richmond Town"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_max": 1500000,
+        "salary_min": 1400000,
+        "redirect_url": "https://www.adzuna.in/details/5849894192?utm_medium=api&utm_source=cd9c749f",
+        "salary_is_predicted": "0",
+        "created": "2026-08-20T23:35:38Z",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "salary_max": 1800000,
+        "salary_is_predicted": "0",
+        "created": "2026-08-24T23:36:30Z",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_min": 1700000,
+        "redirect_url": "https://www.adzuna.in/details/5854530951?utm_medium=api&utm_source=cd9c749f",
+        "title": "Business Analyst",
+        "longitude": 72.5981,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NDUzMDk1MSIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.Tsx11IGkPJ_Xw7jaLorWBHh6t3P8hvunLS0ewNoTsO8",
+        "latitude": 23.03255,
+        "id": "5854530951",
+        "description": "Job Description: Gather and analyze business requirements from stakeholders. Perform process mapping, gap analysis, and process redesign. Prepare BRD, FRD, functional specifications, and related documentation. Evaluate business solutions and support solution design. Demonstrate strong understanding of airport operations and domain processes. Collaborate with business and technical teams to translate requirements into effective solutions.",
+        "location": {
+          "display_name": "Raikhad, Ahmedabad",
+          "area": [
+            "India",
+            "Gujarat",
+            "Ahmedabad",
+            "Raikhad"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Acme Services Private Limited",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "salary_is_predicted": "0",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "created": "2026-08-21T07:38:50Z",
+        "redirect_url": "https://www.adzuna.in/details/5850376076?utm_medium=api&utm_source=cd9c749f",
+        "id": "5850376076",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODUwMzc2MDc2In0.bmOp82yC1bu7kLjql0ExX5tWsd9TalVTV4oNFGS3zQM",
+        "latitude": 28.323996,
+        "description": "The Position Senior Business Analyst - Technology Practice Group The Expert will leverage their deep domain knowledge and external network to drive C-level/senior candidate recommendations and/or mid-level candidate development. The Expert is expected to function autonomously as required. However, the Segment and Practice experts and consultants work collectively as a team for candidate idea generation, references and client assignment work. This role will be visible to clients and will be expe\u2026",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Haryana",
+            "Gurgaon"
+          ],
+          "display_name": "Gurgaon, Haryana"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Egon Zehnder"
+        },
+        "title": "Business Analyst/ Senior Business Analyst",
+        "longitude": 76.983738
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Lincode Labs India Pvt Ltd"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxNTA5MTY2ODU4LCJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSJ9.h6zoXMWJ-2OT-5SyAF7DXEZ22S0kRmEjNjiJa8jwLDA",
+        "id": 1509166858,
+        "description": "Job Description: Business Analyst (Job Code: BNSAN1) No of Positions: 2 Purpose of Position: Requirements management is one of the core skills of business analysts. Developing technical solutions to business problems, or to advance a company\u2019s sales efforts, begins with defining, analyzing and documenting requirements. Managing requirements at the project level can help fulfill business needs. Skilled business analysts also use requirements to drive the design or review of test cases, process c\u2026",
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka"
+        },
+        "contract_time": "full_time",
+        "title": "Business Analyst",
+        "salary_min": 400000,
+        "redirect_url": "https://www.adzuna.in/details/1509166858?utm_medium=api&utm_source=cd9c749f",
+        "salary_is_predicted": "0",
+        "created": "2020-03-31T19:47:07Z",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_max": 800000
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/details/5846909378?utm_medium=api&utm_source=cd9c749f",
+        "salary_is_predicted": "0",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-08-18T20:42:48Z",
+        "title": "Business Analyst",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "NewVison"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjkwOTM3OCIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.6u53K2J1hPyIzTnfds1-TQcZh_7l5ic0OjTBCApYA-0",
+        "id": "5846909378",
+        "description": "Job Title: Business analyst Role/Job Summary: In this rapidly evolving world, New Vision is always looking for new ways to disrupt the status quo, go to market faster, and optimize customer experiences. We are seeking an experienced business analyst to lead the charge on this mission. The ideal candidate will have big ideas and strategies that foster an environment of collaboration and creativity. This role is ideal for someone with an entrepreneurial mindset and real-world experience distillin\u2026",
+        "location": {
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India"
+        }
+      },
+      {
+        "description": " Hiring: Business Analyst \u2013 General / Motor Insurance Domain  Location: Bangalore, Walton Road  Experience: 4-5 years in the General Insurance Industry (Motor Insurance vertical) We are looking for a Business Analyst with expertise in Motor Insurance to join our team. If you have a strong understanding of the insurance sector and analytical skills, we\u2019d love to connect! Skills:- Business Analysis, General Insurance and Business Analyst",
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka"
+        },
+        "id": "5040689008",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTA0MDY4OTAwOCIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.LLg5J2Ibmh6ufthLlKql0fvdH7OlJydhoi78wY8YdDg",
+        "company": {
+          "display_name": "ProPMO Services Private Limited",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Business Analyst",
+        "contract_time": "full_time",
+        "created": "2025-02-07T12:24:34Z",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/details/5040689008?utm_medium=api&utm_source=cd9c749f",
+        "salary_min": 400000,
+        "salary_max": 800000
+      },
+      {
+        "created": "2024-07-31T03:13:45Z",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/details/4801532684?utm_medium=api&utm_source=cd9c749f",
+        "description": "A Business Analyst job description typically includes: Creating a detailed business analysis, outlining problems, opportunities and solutions for a business Budgeting and forecasting Planning and monitoring Financial modelling Variance Analysis Pricing Reporting Defining business requirements and reporting them back to stakeholders In addition to performing financial and operational modelling, a Business Analyst is expected to develop new models that underpin sound business decisions. A Busines\u2026",
+        "location": {
+          "area": [
+            "India",
+            "Tamil Nadu"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Tamil Nadu, India"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMTUzMjY4NCIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.x05t5sxu1_Xc-3DKhy7sKPz6B1d7yCDUm7nOsOYbhgY",
+        "latitude": 10.989607,
+        "id": "4801532684",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "xyz"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "title": "Business Analyst",
+        "longitude": 78.607338
+      },
+      {
+        "company": {
+          "display_name": "Happiest Resume",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5828879931",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "display_name": "Mumbai, Maharashtra"
+        },
+        "salary_min": 600000,
+        "redirect_url": "https://www.adzuna.in/details/5828879931?utm_medium=api&utm_source=cd9c749f",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyODg3OTkzMSIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.TSDbX0Ac2MW3o5UxCcVOZywGTBxfHCcULsk69PRPP4c",
+        "latitude": 19.00821,
+        "description": "We are seeking a highly skilled Business Analyst to join our team. The ideal candidate will have a strong understanding of business processes and be able to analyze and improve existing systems. The Business Analyst will work closely with stakeholders to identify business needs and develop solutions to meet those needs. This is a fantastic opportunity for a motivated and detail-oriented individual to make a real impact on our organization. The Business Analyst will be responsible for: The ideal\u2026",
+        "longitude": 72.84415,
+        "contract_time": "full_time",
+        "title": "Business Analyst",
+        "salary_is_predicted": "0",
+        "created": "2026-08-05T14:47:38Z",
+        "salary_max": 700000
+      },
+      {
+        "salary_is_predicted": "0",
+        "created": "2026-07-30T20:48:29Z",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/details/5821213653?utm_medium=api&utm_source=cd9c749f",
+        "longitude": 78.50806,
+        "title": "Business Analyst",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODIxMjEzNjUzIn0.HnmHWDVdHxK7vbiJnK4pykcmz0tDIoRgXVXjs0Wh7vI",
+        "latitude": 17.40275,
+        "id": "5821213653",
+        "description": "Description Position: Business Analyst Grade: 12 Reporting To: Manager Business Analytics or Lead Business Analytics Department: Business Intelligence Profile Description: Business Analytics roles are the backbone of our Revenue Optimization Analytics team. The Business Analyst is an entry level role which serves as the critical liaison between business stakeholders and the rest of our analytics team. The Business Analyst is a strong communicator responsible for eliciting, analyzing, and docume\u2026",
+        "location": {
+          "display_name": "Hyderabad, Telangana",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "IKS Health"
+        }
+      },
+      {
+        "longitude": 78.50806,
+        "title": "Business Analyst",
+        "contract_time": "full_time",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Wissen Technology"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Hyderabad, Telangana"
+        },
+        "description": "\u00b7 5 years of experience as a Product Specialist, Business Analyst, or any other occupation/title providing experience with business process and data analysis \u00b7 Proven experience with and understanding of relational databases, and ability to construct basic to intermediate query logic \u00b7 2 years of experience in asset management and/or fintech domain in R&D or product capacity Skills:- Business Analyst, Asset management, SQL and Data Analysis",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1MzM3OTUwMjEyIn0.zT8G5XAtmWdUgYpSM4xFbsvdYuP8aA4A03mgHWswodU",
+        "latitude": 17.40275,
+        "id": "5337950212",
+        "redirect_url": "https://www.adzuna.in/details/5337950212?utm_medium=api&utm_source=cd9c749f",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2025-08-05T08:19:57Z",
+        "salary_is_predicted": "0"
+      },
+      {
+        "longitude": 77.3225,
+        "title": "Business Analyst",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "4686706417",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI0Njg2NzA2NDE3In0.QZ8xpkT5BA6hkxiSsUNvXdEceOsDq6gdRROAzUgBsLk",
+        "latitude": 28.56579,
+        "description": "We are hiring a Business Analyst to join our project team. You will work alongside other business analysts and report directly to the project manager. Your main tasks will include performing detailed requirements analysis, documenting processes, and performing some user acceptance testing. To succeed in this role you should have a natural analytical way of thinking and be able to explain difficult concepts to non-technical users.",
+        "location": {
+          "display_name": "Noida, Ghaziabad",
+          "area": [
+            "India",
+            "Uttar Pradesh",
+            "Ghaziabad",
+            "Noida"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.in/details/4686706417?utm_medium=api&utm_source=cd9c749f",
+        "salary_is_predicted": "0",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "created": "2024-05-10T07:39:01Z"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/details/5781956187?utm_medium=api&utm_source=cd9c749f",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "created": "2026-06-30T14:52:24Z",
+        "salary_is_predicted": "0",
+        "company": {
+          "display_name": "Sole Point",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Business Analyst We are seeking a motivated and analytical Business Analyst to join our dynamic team. The ideal candidate will be responsible for understanding business needs, analyzing data, and providing insights to drive strategic decisions and improve processes. Responsibilities: Gather and document business requirements from stakeholders. Analyze business processes and identify areas for improvement. Develop and maintain data models and reports. Translate business requirements into technic\u2026",
+        "location": {
+          "display_name": "Gujarat, India",
+          "area": [
+            "India",
+            "Gujarat"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5781956187",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1NzgxOTU2MTg3In0.IKuiL-QynX1lxUb49GAijyN-yHyCJny2eD_xeBKCm3E",
+        "latitude": 22.385318,
+        "title": "Business Analyst",
+        "longitude": 72.365866
+      },
+      {
+        "salary_max": 1000000,
+        "created": "2022-05-25T05:32:48Z",
+        "salary_is_predicted": "0",
+        "contract_time": "full_time",
+        "title": "Business Analyst",
+        "longitude": 78.50806,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Business Analyst Business Analyst at PopcornApps is focused on customer business process understanding for the enterprise software solutions developed at PopcornApps. This role serves as a facilitator for all areas related to Business Process understanding and its communication through written and verbal medium. Business Analyst ensures communication of project requirements to the technical development team. Candidate Profile: 3 Years Experience. The candidate can be a project lead or an indivi\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzE2NjE5MDc0NCIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.GIvcwSzTL-bQVSnQbYdBkg-GUTHObLk5qHHoX0H8oZo",
+        "latitude": 17.40275,
+        "redirect_url": "https://www.adzuna.in/details/3166190744?utm_medium=api&utm_source=cd9c749f",
+        "salary_min": 200000,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "PopcornApps"
+        },
+        "location": {
+          "display_name": "Hyderabad, Telangana",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ]
+        },
+        "id": "3166190744"
+      },
+      {
+        "description": "Should be able to design the test cases. Should be able to act as bridge between client and requirement. Business Analyst Treasury Domain Knowledge - Should have some experience in Domain Strong in Customer Management Skills Ability to Follow up and Multi task Should be able to work as individual Contributor Multiple Stakeholder Coordination in Client Business,Developers and Technical Teams Work on Test Design Scenarios Test cases, Test Data , execution , Defect Reporting Good Communication ski\u2026",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "display_name": "Mumbai, Maharashtra"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1Nzk0OTM0OTYwIn0.9SdE4H8BBV1R8iQETRMya4VDgEH5uWL2168fix4NoXU",
+        "latitude": 19.00821,
+        "id": "5794934960",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Qualitykiosk Technologies Private Limited"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Business Analyst",
+        "longitude": 72.84415,
+        "created": "2026-07-10T07:16:41Z",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/details/5794934960?utm_medium=api&utm_source=cd9c749f"
+      },
+      {
+        "contract_time": "full_time",
+        "title": "Business Analyst",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxNzg4NzAxMDYyLCJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSJ9.U_zbrg6WOTPeGTOJhtvhwZNpLMSBM2V3vX0DfJuOBes",
+        "id": 1788701062,
+        "description": "Job Description We are hiring a Business Analyst to join our project team. You will work alongside other business analysts and report directly to the project manager. Your main tasks will include performing detailed requirements analysis, documenting processes, and performing some user acceptance testing. To succeed in this role, you should have a natural analytical way of thinking and be able to explain difficult concepts to non-technical users. Business Analyst Responsibilities: Evaluating bu\u2026",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Presidency University",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_max": 500000,
+        "salary_is_predicted": "0",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "created": "2020-10-29T02:45:11Z",
+        "salary_min": 0,
+        "redirect_url": "https://www.adzuna.in/details/1788701062?utm_medium=api&utm_source=cd9c749f"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/details/5830599367?utm_medium=api&utm_source=cd9c749f",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-08-06T20:40:05Z",
+        "salary_is_predicted": "0",
+        "longitude": 78.50806,
+        "title": "Business Analyst",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "In Touch"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Hyderabad, Telangana"
+        },
+        "description": "About the Job We are changing the way people think about customer care, and we need your help! We\u2019re looking for a Business Analyst to assist with Performing User Acceptance Testing (UAT) and the operationalization of business, process and/or system changes across training curriculums, training delivery, quality assurance and reporting. As Business Analyst, You Will\u2026 Collect and validate data requirements for business intelligence systems Support reporting from multiple applications Create, val\u2026",
+        "id": "5830599367",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzMDU5OTM2NyIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.e0bw61I1SChbtLY2XekRKr67113RXQttMPWhi6aiKm8",
+        "latitude": 17.40275
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Ebizz Infotech"
+        },
+        "id": "3900854302",
+        "location": {
+          "display_name": "Surat, Gujarat",
+          "area": [
+            "India",
+            "Gujarat",
+            "Surat"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_min": 120000,
+        "redirect_url": "https://www.adzuna.in/details/3900854302?utm_medium=api&utm_source=cd9c749f",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "longitude": 72.8318,
+        "contract_time": "full_time",
+        "title": "Business Analyst",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 21.18955,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzkwMDg1NDMwMiIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.-JKJoUYs5vfBMZC0SEDJIiLSJufiBPgF7ajVI-7Mqjs",
+        "description": "We are hiring a business analyst to join our project team. You will work alongside project stakeholders and report directly to Sr. Business analysts. The purpose of the role is to liaison and bridge the gap between the BDM team and technical team to comprehend and analyze customer requirements and translate them to the development teams thereby, ensuring the right requirement detail in the documentation. To succeed in this role, you should have a natural analytical way of thinking and be able t\u2026",
+        "salary_max": 300000,
+        "salary_is_predicted": "0",
+        "created": "2023-02-04T06:16:41Z"
+      },
+      {
+        "salary_min": 1200000,
+        "redirect_url": "https://www.adzuna.in/details/3710148607?utm_medium=api&utm_source=cd9c749f",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "company": {
+          "display_name": "Mithra Global",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "3710148607",
+        "location": {
+          "display_name": "Mumbai, Maharashtra",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ]
+        },
+        "salary_max": 1300000,
+        "salary_is_predicted": "0",
+        "created": "2022-11-22T05:54:55Z",
+        "title": "Business Analyst",
+        "contract_time": "full_time",
+        "longitude": 72.84415,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 19.00821,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzcxMDE0ODYwNyIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.2CB-U3RafYDYkL8omIwIv_NZ7c1V87gLAxnjO6Zos6I",
+        "description": "Business Analyst responsibilities are: \uf0b7 A business analyst serves as a liaison between developers and users, clients, management and IT. \uf0b7 Using IT resources at an advanced level to create IT solutions, enabling organiastion meet their goals \uf0b7 Understanding data formats and translating them to useful process inputs. \uf0b7 Understanding calculation logic and interacting with the clients on their queries \uf0b7 Good knowledge of subject matter \u2013 both Finance and IT \uf0b7 Doing product demonstrations internal\u2026"
+      },
+      {
+        "company": {
+          "display_name": "MM Staffing & Career Consultants",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka"
+        },
+        "description": "Job Description: Position: Business Analyst Location: Bangalore, WFO Experience requirement: 3 Years Joining Date: Immediate to 30 days Job Description minimum 3 years of experience in Business Analyst position with good knowledge in Bank Payments domain know the workflow of Payment services (UPI / IMPS / NEFT / RTGS) should understand the Payment Gateway Services. should know how the Bank Payment Services are integrated. should be able to give solutioning for issues related to Payments. should\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNzA4MjE0MiIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.1hEqNjAuWhW-V1_8Fpsx0M9fluWu7iOKGM5TKtLk30M",
+        "id": "5727082142",
+        "title": "Business Analyst",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.in/details/5727082142?utm_medium=api&utm_source=cd9c749f",
+        "created": "2026-05-13T01:56:32Z",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_is_predicted": "0"
+      },
+      {
+        "title": "Business Analyst",
+        "contract_time": "full_time",
+        "description": "Title: Business Analyst \u2013 Fresher Company: Concentrix Location: Bangalore CTC: \u20b94 \u2013 \u20b94.8 LPA Job Description: We are hiring Business Analysts for Concentrix, Bangalore. This is a great opportunity for fresh graduates to start their IT career in a professional corporate environment. Key Responsibilities: Analyze business requirements and processes Coordinate with internal teams and stakeholders Support data analysis and reporting Ensure smooth project execution Eligibility Criteria: Any Graduate\u2026",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5719182260",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxOTE4MjI2MCIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.KZO1mBYFVNaAg8dBQPlHz8RECtH5tWl-6JuEpLcF1mI",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Redfoxa Careerlink Pvt Ltd"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 450000,
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-05-05T12:11:01Z",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/details/5719182260?utm_medium=api&utm_source=cd9c749f",
+        "salary_min": 400000
+      },
+      {
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "description": "Job Description- Business Analyst/AMT Minimum 2- 3 years of experience in Business Analyst role Experience working in Service based company Bachelor's Degree in an appropriate field of study or equivalent work experience Exposure to Project management tools like Jira Ability to work independently and with others. Proven experience in eliciting requirements and testing Create comprehensive, accurate business and functional requirements and present them clearly to clients and development teams. C\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODE1MjQxMDk1In0.IzaAvICjI0cyZ6MMUK8gjUo11g8fv-6BuKN3eKMa180",
+        "id": "5815241095",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Thomasmount Consulting"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Business Analyst",
+        "contract_time": "full_time",
+        "created": "2026-07-25T15:56:47Z",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/details/5815241095?utm_medium=api&utm_source=cd9c749f",
+        "salary_min": 300000,
+        "salary_max": 550000
+      },
+      {
+        "description": "Description We are looking for a skilled Business Analyst to join Vision Infotech, a leading IT company. As a Business Analyst, you will play a crucial role in analyzing business processes, identifying areas for improvement, and recommending solutions to enhance efficiency and productivity. Your insights will be instrumental in driving strategic decision-making and ensuring the successful implementation of projects. Working at Vision Infotech, you will be involved in a variety of projects aimed\u2026",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Gujarat",
+            "Surat"
+          ],
+          "display_name": "Surat, Gujarat"
+        },
+        "id": "5503836817",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMzgzNjgxNyIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.2vtBHKq2rk3rtSoLC8HMM_OlLtyIKj3bMvFRQc_iqSk",
+        "latitude": 21.18955,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Vision Infotech"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "title": "Business Analyst",
+        "longitude": 72.8318,
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "created": "2025-11-20T00:58:11Z",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/details/5503836817?utm_medium=api&utm_source=cd9c749f"
+      },
+      {
+        "id": "2609531597",
+        "location": {
+          "display_name": "Coimbatore, Tamil Nadu",
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Coimbatore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "company": {
+          "display_name": "Texila American University",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_min": 0,
+        "redirect_url": "https://www.adzuna.in/details/2609531597?utm_medium=api&utm_source=cd9c749f",
+        "longitude": 77.100203,
+        "title": "Business Analyst",
+        "contract_time": "full_time",
+        "latitude": 11.017171,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiIyNjA5NTMxNTk3In0.C3U6mB_m9Jj1k4ITnxW-KuBch3401oy-yS6AHIOLo_c",
+        "description": "Title : Business Analyst Reporting to : Project Manager Work Location : Coimbatore, TN Summary : As a Business Analyst, he/she will be working as a member of product development team who analyzes the business domain, documents its processes and systems, outlines business requirements, and matches a software business model with the software being built. You will be bridging the gap between stakeholders and the development team, interpreting business requirements into understandable development t\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 700000,
+        "salary_is_predicted": "0",
+        "created": "2021-11-04T03:52:47Z"
+      },
+      {
+        "description": "The purpose of this role is to work independently with customers to understand the customer business model, needs / requirements and translate them into software requirements document which would be used by IT Design & Development teams for solutioning, provide functional support & clarifications to QA and technical teams throughout the project life cycle, assist the Business teams during User Acceptance Testing and involve in post production support & verifications; and responsible to mentor a\u2026",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "display_name": "Bangalore, Karnataka"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MjY4NzU5NyIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.niCIyvdcUEOdHUzFwFl2ZkvLVuWcbikwQqw_ittPDn4",
+        "id": "5782687597",
+        "company": {
+          "display_name": "SLK Software",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Business Analyst",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-07-01T07:15:51Z",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/details/5782687597?utm_medium=api&utm_source=cd9c749f"
+      },
+      {
+        "salary_max": 1000000,
+        "salary_is_predicted": "0",
+        "created": "2024-06-28T10:26:34Z",
+        "contract_time": "full_time",
+        "title": "Business Analysts",
+        "longitude": 72.84415,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDc1NTk3OTQyMCIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.m7ukob9Hw-UvYRfdOR5uEg6eR1Eq9JckqJnvRzXCqxU",
+        "latitude": 19.00821,
+        "description": "Job brief We are looking for a Business Analyst to help us to build our online-only investment platform, which will enable investors to easily invest in mutual funds from leading fund houses in India, corporate fixed deposits, and various other investment products. Another important activity where Business analyst will help us is that to keep a track on different asset class and keep them updated in system. Which will help us to do financial planning for the investor. Business Analyst Desk - JD\u2026",
+        "salary_min": 300000,
+        "redirect_url": "https://www.adzuna.in/details/4755979420?utm_medium=api&utm_source=cd9c749f",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Money Honey Financial Services Private Limited"
+        },
+        "id": "4755979420",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "display_name": "Mumbai, Maharashtra"
+        }
+      },
+      {
+        "salary_max": 1500000,
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2022-06-28T06:28:21Z",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/details/3266737478?utm_medium=api&utm_source=cd9c749f",
+        "salary_min": 1200000,
+        "contract_time": "full_time",
+        "title": "Business Analyst",
+        "description": "Job Description of Business Analyst About the job: We are looking for a Business Analyst for E-commerce domain (Magento) Role: Your role will be of Business Analyst Location: Bangalore \u00b7 Requirement Collection, Documentation and Analysis for existing and new projects \u00b7 Propose reasonable solution to client\u2019s requirement in alignment with technical & budget feasibility. \u00b7 Bring clarity in work scope between development team & client. \u00b7 Leading and managing multiple projects end to end. \u00b7 Client \u2026",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "id": "3266737478",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiIzMjY2NzM3NDc4In0.ZIjlp7U0EZKlVtWIQd_yYgtYjpwcUIkN8SvHNK75eHk",
+        "company": {
+          "display_name": "Sigma Infosolutions",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "salary_is_predicted": "0",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "created": "2026-07-19T07:23:32Z",
+        "redirect_url": "https://www.adzuna.in/details/5806704101?utm_medium=api&utm_source=cd9c749f",
+        "id": "5806704101",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODA2NzA0MTAxIn0.GIcvtym7YJcaPGcyfxLNMOuImPvFe3hVFj7TjR7pMR8",
+        "latitude": 18.5062,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Pune"
+          ],
+          "display_name": "Pune, Maharashtra"
+        },
+        "description": "Business Analyst What are we looking for Degree in Computer Science or Engineering related to subject. 3 years of Business Analyst Solid understanding of the requirement analysis and client servicing Ability to rapidly learn and take advantage of new concepts, business models, and methods Responsibilities Needs to prepare business and functional requirements document. Gathering information on the project requirements from the client and preparing documents or business proposals as per client re\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Exioms Technology",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Business Analyst",
+        "longitude": 73.84735
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/details/5728412938?utm_medium=api&utm_source=cd9c749f",
+        "created": "2026-05-14T02:25:13Z",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_is_predicted": "0",
+        "company": {
+          "display_name": "Acura Solution",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Job Description: Business Analyst Proven experience in government consulting, large-scale IT project documentation, and business process analysis Proficiency in tools like MS Visio, Draw.io, JIRA, Confluence, Excel, PowerPoint Knowledge of SDLC, Agile, and Waterfall methodologies Familiarity with India Stack components and digital public infrastructure is an advantage Understanding of data privacy, security policies, and accessibility guidelines 5 years of experience as a Business Analyst, pref\u2026",
+        "location": {
+          "area": [
+            "India",
+            "Delhi"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Delhi, India"
+        },
+        "latitude": 28.62523,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1NzI4NDEyOTM4In0.ZbUKSHVAWTzfgy-A0aVFfZn0W6okx3-jrBhm4LFNdzQ",
+        "id": "5728412938",
+        "title": "Business Analyst",
+        "longitude": 77.224601,
+        "contract_time": "full_time"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/details/5832798246?utm_medium=api&utm_source=cd9c749f",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "created": "2026-08-08T07:31:11Z",
+        "salary_is_predicted": "0",
+        "title": "Business Analyst",
+        "longitude": 73.84735,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Coditas Technologies"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "India",
+            "Maharashtra",
+            "Pune"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Pune, Maharashtra"
+        },
+        "description": "We are looking to hire a highly driven Business Analyst to assist the company to improve business efficiency. The candidate needs to work closely with the clients stakeholders, senior BA, and product managers to understand and document requirements in detail. The person will work as a guide to the team and provide project-level analysis - producing required project analysis documentation (business requirements, design documents, use cases, sequence diagrams, future state proposals, UAT plan). R\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODMyNzk4MjQ2In0.3VNFGPfYubPWBzN9en6dbJxWjVtRJEGB6FlvTN-RnEc",
+        "latitude": 18.5062,
+        "id": "5832798246"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOjExNzE1MDY3NDd9.c0DYWgjST0Dh1ky3bw_Xi49lSEV950nVAzrbPQzNuTA",
+        "latitude": 28.323996,
+        "description": "Business Analyst I JD for \u2018Business Analyst - I\u2019 Resource Experience Required - 6 to 8 years Location - India Summary The \u2018Business Analyst\u2019 works closely with the business and technical teams. This role is a major contributor to the requirements specification deliverable, writes the business and functional requirements and ensures the analytical, build, test and deployment tasks related to both internally developed as well as third party solutions are successfully completed. Performs feasibili\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "longitude": 76.983738,
+        "title": "Business Analyst",
+        "salary_is_predicted": "0",
+        "created": "2019-06-05T21:12:02Z",
+        "salary_max": 144,
+        "id": 1171506747,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Haryana",
+            "Gurgaon"
+          ],
+          "display_name": "Gurgaon, Haryana"
+        },
+        "company": {
+          "display_name": "Ixora Global Services",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_min": 12,
+        "redirect_url": "https://www.adzuna.in/details/1171506747?utm_medium=api&utm_source=cd9c749f"
+      },
+      {
+        "salary_is_predicted": "0",
+        "created": "2025-06-18T05:21:07Z",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_min": 1000000,
+        "redirect_url": "https://www.adzuna.in/details/5255506980?utm_medium=api&utm_source=cd9c749f",
+        "salary_max": 2200000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1MjU1NTA2OTgwIn0.VktcJS7SvXOj5NRuBn3Bm1kSGPxtAVD1lqqmXYrdY7M",
+        "id": "5255506980",
+        "description": "Position : Business Analyst Experience : 5 Years Location : Remote Notice Period : Immediate Joiners Preferred (or candidates serving 10\u201315 days\u2019 notice) Interview Mode : Virtual Job Description : We are seeking an experienced Business Analyst with a strong background in requirements gathering, functional documentation, and stakeholder management, particularly in the US Healthcare payer domain . Mandatory Skills : Business Analysis, US Healthcare Payer Domain, Requirement Gathering, User Storie\u2026",
+        "location": {
+          "display_name": "India",
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "NeoGenCode Technologies Pvt Ltd",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Business Analyst",
+        "contract_time": "full_time"
+      },
+      {
+        "location": {
+          "display_name": "Ahmedabad, Gujarat",
+          "area": [
+            "India",
+            "Gujarat",
+            "Ahmedabad"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5849525633",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Nexuslink Services India Pvt ltd"
+        },
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/details/5849525633?utm_medium=api&utm_source=cd9c749f",
+        "salary_min": 450000,
+        "title": "Business Analyst",
+        "contract_time": "full_time",
+        "longitude": 72.59465,
+        "description": "Business Analyst Location: Ahmedabad, Gujarat Experience: 3\u20135 Years Job Type: Full-Time Joining: Immediate Joiners Preferred Job Summary We are looking for a skilled and analytical Business Analyst with 3\u20135 years of experience to join our team in Ahmedabad. The ideal candidate should have strong experience in requirement gathering, business analysis, documentation, stakeholder management, and working across the complete project lifecycle. Key Responsibilities Gather, understand, analyze, and do\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODQ5NTI1NjMzIn0.aeHMJvcxW311uiKi5xOvsYbCbJZ-_sEmOo5nAbB1os0",
+        "latitude": 23.042,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 700000,
+        "created": "2026-08-20T16:03:51Z",
+        "salary_is_predicted": "0"
+      },
+      {
+        "created": "2026-07-11T07:17:46Z",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/details/5796404549?utm_medium=api&utm_source=cd9c749f",
+        "title": "Business Analyst",
+        "description": "Job description Quickbase provides a cloud-based platform for creating business applications. The platform offers lowcode development, integration, and workflow orchestration. Quickbase also supports prototyping and application architecture Roles and Responsibility Salesforce Business Analyst As a Business Analyst on the Enterprise Business Systems team, you will play a pivotal role in bridging business needs with technical solutions. Your responsibilities will span across understanding busines\u2026",
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NjQwNDU0OSIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.zJLoQvkbjuL34K7wmuRPLE-if188lxRlAWWcJt_HrzE",
+        "id": "5796404549",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Aeries Technology"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "created": "2026-06-11T02:17:54Z",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/details/5758900366?utm_medium=api&utm_source=cd9c749f",
+        "description": "About the Job The Business Analyst plays a key role in assisting the business by analyzing and providing insights to support strategic decision making and achievement of corporate goals, assisting in the operationalization of business, process, quality assurance, and reporting. As Business Analyst, You Will\u2026 Identify the analysis requirement, coordinate with teams, and finalize the specific requirement Follow up on the progress of work items and communicate with project team members Capture det\u2026",
+        "location": {
+          "display_name": "Hyderabad, Telangana",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1ODkwMDM2NiIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.PsUMKc0qgfy8gZMRhqjA5hadouNUlA1wEG-iATSfT6Q",
+        "latitude": 17.40275,
+        "id": "5758900366",
+        "company": {
+          "display_name": "InTouch CX",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Business Analyst",
+        "longitude": 78.50806
+      },
+      {
+        "created": "2026-07-30T15:58:38Z",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/details/5820989062?utm_medium=api&utm_source=cd9c749f",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India"
+          ],
+          "display_name": "India"
+        },
+        "description": "Role Purpose The Business Analyst will work collaboratively, but independently, with the programme team to deliver business analysis, activities, and deliverables for all type of programmes & projects large and complex projects or programmes. The appropriate techniques & methodologies will have been determined therefore the Business Analyst will support the implementation needed to meet the business needs & objectives. The Business Analyst will work closely with all business stakeholders to eli\u2026",
+        "id": "5820989062",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyMDk4OTA2MiIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.N1SCHrU1VPJ6nNldks9VPBHbg20tstcanBHhVdK-Ptg",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Tech Mahindra"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Business Analyst",
+        "contract_time": "full_time"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/details/5829887321?utm_medium=api&utm_source=cd9c749f",
+        "created": "2026-08-06T07:31:54Z",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_is_predicted": "0",
+        "company": {
+          "display_name": "ONIT",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Job Description: Onit Inc is looking for a highly organized self-starter to join our team as a Business Analyst on the simple Legal and Contract Works products, in the legal tech SaaS industry. Onit is known for outstanding customer support. We are second to none in our space and are looking for experienced Business Analysts to join our team. As a member of our team, you will help to improve upon and lead our post-sale efforts for Integrations by working directly with new customers alongside th\u2026",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Pune"
+          ],
+          "display_name": "Pune, Maharashtra"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyOTg4NzMyMSIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.pLnt2Ht6-SpYqSeUeir5wp3rIk40kngYQnfEgi6YqrA",
+        "id": "5829887321",
+        "latitude": 18.5062,
+        "title": "Business Analyst",
+        "longitude": 73.84735
+      },
+      {
+        "company": {
+          "display_name": "VDart",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Srirangam, Tiruchirappalli",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Tiruchirappalli",
+            "Srirangam"
+          ]
+        },
+        "description": "Business Analyst (0\u20132 Years) | AI Product Development | Trichy (Work from Office) About the Role We're looking for a motivated Business Analyst to join our AI Product Development team. In this role, you'll work closely with the Product Owner, Project Manager, Engineering, UI/UX, and QA teams to gather requirements, document business processes, and support the successful delivery of AI-powered products. This is an excellent opportunity for recent graduates and early-career professionals who are \u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1Nzk5NTU3Mzk1In0.eI93XqR8rSfFUtfXMi2nGPeMUpDC1zKFiJcC7-OzgtY",
+        "id": "5799557395",
+        "latitude": 10.80595,
+        "title": "Business Analyst",
+        "longitude": 78.69665,
+        "redirect_url": "https://www.adzuna.in/details/5799557395?utm_medium=api&utm_source=cd9c749f",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "created": "2026-07-14T12:05:11Z",
+        "salary_is_predicted": "0"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/details/5829800306?utm_medium=api&utm_source=cd9c749f",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs"
+        },
+        "created": "2026-08-06T06:40:29Z",
+        "salary_is_predicted": "0",
+        "longitude": 77.59837,
+        "title": "Business Analyst",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Refining Skills Academy"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Business Analyst Yelahanka, Bangalore 30,000 - 50,000 per month 2 - 3 Years Experience About the Role We are looking for a Business Analyst to work on data analysis, business problem-solving, and sustainability-focused projects (link removed)> The role involves supporting companies in understanding operational data and contributing to carbon footprint and sustainability initiatives , especially in manufacturing-linked environments. Key Responsibilities Analyze business and operational data to i\u2026",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "id": "5829800306",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODI5ODAwMzA2In0.08mI0zyeudjnBu_Vm5TW7AU_nUWp_9y1UQWVVUkD5LA",
+        "latitude": 12.95703
+      },
+      {
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/details/5629158866?utm_medium=api&utm_source=cd9c749f",
+        "salary_min": 700000,
+        "location": {
+          "display_name": "Mohali, Punjab",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Punjab",
+            "Mohali"
+          ]
+        },
+        "id": "5629158866",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Dynarex Technologies PvtLtd"
+        },
+        "created": "2026-02-14T10:57:23Z",
+        "salary_is_predicted": "0",
+        "salary_max": 900000,
+        "description": "We are looking for an experienced and dynamic Senior Business Analyst to join our growing team. If you have strong analytical skills and a passion for delivering data-driven solutions, we\u2019d love to connect with you!  Position: Business Analyst  Location: Mohali - 8B  Experience: 3 Years   : Requirements Documentation: Develop, manage, and maintain BRD, FRD, and SRS documents to ensure clear understanding and alignment among stakeholders. Wireframing: Create detailed wireframes and process flows\u2026",
+        "latitude": 30.7545,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1NjI5MTU4ODY2In0.T9HUlw2K3BFqUZQVqw7bVkupGfmvTCxjhijHzd44nL0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 76.6406,
+        "contract_time": "full_time",
+        "title": "Business Analyst"
+      },
+      {
+        "created": "2024-07-25T10:51:47Z",
+        "salary_is_predicted": "0",
+        "salary_max": 400000,
+        "description": "JD for Business Analyst \"zoho\" JOB DESCRIPTION Job Title - Business Analyst \u201cZoho\u201d Experience - 2 yrs Location - Noida Extension Responsibilities- Define project scope and document business requirements. Design technical specifications, using best practices and minimising the need for custom coding. Provide internal CRM consulting, analyse data and processes to improve the business process to drive growth. Create solutions on our ZOHO platform to meet the internal customer requirements. Automat\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI0Nzk0NDczOTY1In0._Toq_gh1Xvt1JHeu4EKBIIh8vxHnYCtaY67GUyTx83Q",
+        "latitude": 28.56579,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Business Analyst",
+        "longitude": 77.3225,
+        "contract_time": "full_time",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/details/4794473965?utm_medium=api&utm_source=cd9c749f",
+        "salary_min": 200000,
+        "location": {
+          "area": [
+            "India",
+            "Uttar Pradesh",
+            "Ghaziabad",
+            "Noida"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Noida, Ghaziabad"
+        },
+        "id": "4794473965",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Vmultiply solutions"
+        }
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/details/5120355680?utm_medium=api&utm_source=cd9c749f",
+        "salary_is_predicted": "0",
+        "created": "2025-04-01T01:23:35Z",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Talhive"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1MTIwMzU1NjgwIn0.Uxp6MijzqwghhI2DIfsThY59TiC2J9zfvL4rpQoHHnE",
+        "id": "5120355680",
+        "description": "Job Title: Business Analyst Summary: The Business Analyst will be responsible for leading the data and reporting aspects of the business. This includes gathering and analyzing data, creating reports and dashboards, and communicating insights to stakeholders and clients. The ideal candidate will have strong Excel skills, be data-driven, and have a proven track record of impacting SaaS businesses. Essential Duties and Responsibilities: Gather and analyze data from a variety of sources, including \u2026",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "title": "Business Analyst"
+      },
+      {
+        "title": "Business Analyst",
+        "contract_time": "full_time",
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka"
+        },
+        "description": "About the Company: Wolken Software provides a suite of AI-enabled, SaaS 2.0 cloud-native applications for Customer Service and Enterprise Solutions namely Wolken Service Desk, Wolken's IT Service Management, and Wolken's HR Case Management. We have replaced incumbents like Salesforce, ServiceNow Zendesk, etc. at various Fortune 500 and Fortune 1000 companies. Job Description: We are looking for a Business Analyst with strong organizational and planning skills and a proven ability to multitask i\u2026",
+        "id": "3502543793",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzUwMjU0Mzc5MyIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.piKd1zVUiNcv8f8lOUBYptIDuqzCODPa7yXuBclPcjQ",
+        "company": {
+          "display_name": "Wolken Software",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 2500000,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "created": "2022-09-20T07:05:20Z",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/details/3502543793?utm_medium=api&utm_source=cd9c749f",
+        "salary_min": 1500000
+      },
+      {
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_min": 120000,
+        "redirect_url": "https://www.adzuna.in/details/4091518943?utm_medium=api&utm_source=cd9c749f",
+        "id": "4091518943",
+        "location": {
+          "area": [
+            "India",
+            "Gujarat",
+            "Surat"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Surat, Gujarat"
+        },
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Ebizz Infotech"
+        },
+        "salary_max": 300000,
+        "salary_is_predicted": "0",
+        "created": "2023-05-10T15:58:30Z",
+        "contract_time": "full_time",
+        "title": "Business Analyst",
+        "longitude": 72.8318,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI0MDkxNTE4OTQzIn0.FgRl1PD_OrHVW6xRopyG3E_UYbZ7crFT88S3w0D9nq0",
+        "latitude": 21.18955,
+        "description": "We are hiring a business analyst to join our project team. You will work alongside project stakeholders and report directly to Sr. Business analysts. The purpose of the role is to liaison and bridge the gap between the BDM team and technical team to comprehend and analyze customer requirements and translate it to the development teams thereby, ensuring the right requirement detail in the documentation. To succeed in this role, you should have a natural analytical way of thinking and be able to \u2026",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "location": {
+          "area": [
+            "India",
+            "Maharashtra",
+            "Pune"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Pune, Maharashtra"
+        },
+        "id": "5555120217",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Innover Systems"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/details/5555120217?utm_medium=api&utm_source=cd9c749f",
+        "salary_min": 600000,
+        "longitude": 73.84735,
+        "title": "Business Analyst",
+        "contract_time": "full_time",
+        "description": "Title: Senior Business Analyst (IoT & Digital Transformation) Location: Baner, Pune (On-site) Experience: 4 Years We are looking for a Senior Business Analyst to bridge the gap between complex business needs and technical execution. In this role, you won't just document requirements\u2014you will shape the future of our IoT solutions by identifying trends and turning raw data into an actionable business strategy. What You\u2019ll Do Architect Solutions: Transform high-level business visions into precise \u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1NTU1MTIwMjE3In0.BK1QwVO4nqzI1byELmY_ze_AsZeWNE3kVwjlkesSxzw",
+        "latitude": 18.5062,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 1000000,
+        "created": "2025-12-25T10:26:03Z",
+        "salary_is_predicted": "0"
+      },
+      {
+        "salary_is_predicted": "0",
+        "created": "2026-05-16T02:18:52Z",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/details/5730732839?utm_medium=api&utm_source=cd9c749f",
+        "title": "Business Analyst",
+        "id": "5730732839",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1NzMwNzMyODM5In0.DhI0VXNMg3qf6aUwsvEknSYocZy5JwmKwsym_4N84pM",
+        "location": {
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India"
+        },
+        "description": "Description Business Analyst \u2013 Airline Domain Location: Cochin / Trivandrum/ Bangalore Experience: 7\u201312 years Role Overview We are looking for an experienced Business Analyst with strong airline domain and functional expertise to work closely with business and technology teams, translating airline business needs into clear functional requirements and user stories. Key Responsibilities \u2022 Elicit, analyze, and document business and functional requirements (BRDs, FRDs, user stories) \u2022 Work with air\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "IBS Software"
+        }
+      },
+      {
+        "latitude": 28.323996,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyODMzMjg4MSIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.anfEYMyDub0y0_gnLVtmmnLC0FRI43D6ad4UUa0ealo",
+        "id": "5728332881",
+        "location": {
+          "display_name": "Gurgaon, Haryana",
+          "area": [
+            "India",
+            "Haryana",
+            "Gurgaon"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "description": "Job Description: Business Analyst Location: no constraints (WFH as per policy) Job Description & skills: Overall industry experience: 12 years Hands on experience of requirement gathering & analysis (7yrs, 15 projects), mobile app related projects. Coordinate with various business and IT stakeholders to understand their business requirements. Conduct design thinking workshops. Create user journeys to articulate as-is processes. Work with stakeholders to understand their needs and gather detaile\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Acura Solution",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "contract_time": "full_time",
+        "title": "Business Analyst",
+        "longitude": 76.983738,
+        "salary_is_predicted": "0",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "created": "2026-05-14T02:17:45Z",
+        "redirect_url": "https://www.adzuna.in/details/5728332881?utm_medium=api&utm_source=cd9c749f"
+      },
+      {
+        "company": {
+          "display_name": "RECEX",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "contract_type": "permanent",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Chennai"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Chennai, Tamil Nadu"
+        },
+        "description": "Job Description: Requirement: Business Analyst Experience: 3-4 Years Location: Chennai ( Sholinganallur) Mode: Permanent / Onsite Notice period: Immediate or 15 days Key Responsibilities: Gather, analyze, and document business requirements from clients and stakeholders. Translate business needs into clear and detailed functional specifications. Facilitate workshops and meetings with clients to understand project goals and define scope. Collaborate closely with project managers, designers, and d\u2026",
+        "latitude": 13.06041,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNzIwNjQ0NCIsInMiOiJDTVRmcS1DaDhSR1BKTUIwa2Y2dzBBIn0.hjQEcqfdVYiWOCg2KpE42p0t2sE6AYqVBlJmSkcz5Ic",
+        "id": "5727206444",
+        "title": "Business Analyst",
+        "contract_time": "full_time",
+        "longitude": 80.24963,
+        "redirect_url": "https://www.adzuna.in/details/5727206444?utm_medium=api&utm_source=cd9c749f",
+        "created": "2026-05-13T02:10:25Z",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_is_predicted": "0"
+      },
+      {
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "salary_min": 300000,
+        "redirect_url": "https://www.adzuna.in/details/3433222166?utm_medium=api&utm_source=cd9c749f",
+        "id": "3433222166",
+        "location": {
+          "display_name": "Thane, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Thane"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "company": {
+          "display_name": "Myrsa Technology Solutions",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "created": "2022-08-26T06:41:27Z",
+        "salary_max": 500000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ01UZnEtQ2g4UkdQSk1CMGtmNncwQSIsImkiOiIzNDMzMjIyMTY2In0.Zpei6Va-HOnwUSSlivskDSJ4PCd0IBLpzC-uzWQb-7A",
+        "latitude": 19.17335,
+        "description": "Our business analysts are the drivers behind our continued growth and success. With our commitment to innovation, it\u2019s our business analysts who seek out, develop, and help implement strategic initiatives for improved efficiency and productivity. We\u2019re currently searching for an experienced business analyst to help guide our organization into the future. From researching progressive systems solutions to evaluating their impact, our ideal candidate is a detailed planner, expert communicator, and\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Business Analyst",
+        "longitude": 73.04845,
+        "contract_time": "full_time"
+      }
+    ],
+    "mean": 1236303.23,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "count": 6170
+  }
+}

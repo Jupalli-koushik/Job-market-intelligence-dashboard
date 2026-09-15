@@ -1,0 +1,1468 @@
+{
+  "url": "https://api.adzuna.com/v1/api/jobs/in/search/3",
+  "params": {
+    "results_per_page": 50,
+    "content-type": "application/json",
+    "where": "India",
+    "what": "BI"
+  },
+  "fetched_at_utc": "2026-08-27T06:28:37.330057+00:00",
+  "status_code": 200,
+  "response_url": "https://api.adzuna.com/v1/api/jobs/in/search/3?app_id=cd9c749f&app_key=b57cfdd3348942d64d752847c03738bf&results_per_page=50&content-type=application%2Fjson&where=India&what=BI",
+  "body": {
+    "mean": 1414768.95,
+    "results": [
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5845682582?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=53354E560717FCE598605F30537A24DD1960C384",
+        "title": "Career Counselor",
+        "description": "About the Company Hike Education is one of the leading EdTech companies working with the top B-schools providing support and assistance to the students. It was started in the year 2014 by a team of 2 visionary people with a motive to bring revolution in the EdTech industry. The aim was to fill the gap for aspiring professionals to pursue higher education and level up their career paths. Initially started at a small space in Noida, Hike has now marked its presence at more than 4 locations and it\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NTY4MjU4MiIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.BWSc6dpU3vElGlD6BRZ1wwYURAkIG-qsrBfR3fSlu4Q",
+        "created": "2026-08-18T05:07:22Z",
+        "location": {
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Mumbai, Maharashtra"
+        },
+        "longitude": 72.84415,
+        "category": {
+          "label": "Teaching Jobs",
+          "tag": "teaching-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 19.00821,
+        "id": "5845682582",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Hike Education"
+        }
+      },
+      {
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5845683165",
+        "company": {
+          "display_name": "Valueleaf Services  Pvt. Ltd.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "title": "Business Development Executive",
+        "contract_type": "contract",
+        "redirect_url": "https://www.adzuna.in/land/ad/5845683165?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=8DBD5084A002A49AD8A10B3316479F342E5785ED",
+        "description": "Role : Business Development Manager - Partner Success | Pay Per Call (US Market) About the Role We're looking for an Affiliate Manager to grow and manage our network of pay-per-call publishers across US verticals (Medicare, ACA, Final Expense, Home Services, Auto, etc.). This role owns publisher relationships end-to-end - from recruitment to performance optimization to payout negotiation - and works closely with the buyer/campaign team to keep call quality, volume, and margins healthy. Key Resp\u2026",
+        "created": "2026-08-18T05:08:27Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE1wLWllQ2g4UkdmZmV5LWRMSHB2USIsImkiOiI1ODQ1NjgzMTY1In0.QClM7mjuIpfuuxPYaE9ZNy2UbaATwIMaPISr_-n4Syc"
+      },
+      {
+        "created": "2026-08-18T13:08:36Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjI5Nzk1MiIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.BwG70bBr8L4K1JT2s5ISnMEEdGWghW7GHosLHJvbYlg",
+        "description": "We\u2019re looking for a Consultant/ Senior Consultant/ Manager! What you\u2019ll do: The ideal candidate will bring a combination of: PMO / governance experience, digital transformation and implementation exposure, capital project / infrastructure context, hands-on familiarity with tools such as MS Project, Primavera P6, Power BI, Microsoft Fabric, and AI-enabled tools Role Purpose: Support clients in transforming how capital projects are governed, monitored, and delivered by improving PMO and governanc\u2026",
+        "title": "Associate/ Senior Associates/ Manager - Advisory - CAPEX Project Management - Pan India",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846297952?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=AADE3406F158EC1ADFDA36185C69CD2B75F84966",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "PwC India"
+        },
+        "id": "5846297952",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India",
+          "area": [
+            "India"
+          ]
+        }
+      },
+      {
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5840225940?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=6913A88DE53D6ECADDCD4AC86950718338D1FD28",
+        "title": "Specialist \u2013 Pre-Sales (A2)",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0MDIyNTk0MCIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.IBqxGRE9on7KkBIV0E991brUS8Q9-9D2rKLGRfH0wPI",
+        "contract_time": "full_time",
+        "created": "2026-08-13T16:20:05Z",
+        "description": "Department: Sales & Business Development Location: Work from Office, Calicut. Employment Type: Full-Time Role Description: We are looking for a confident and highly presentable Pre-Sales Specialist who can effectively represent the company and deliver impactful product presentations. The ideal candidate must have excellent communication skills, strong product understanding, and the ability to engage clients professionally. This role plays a key part in converting prospects into serious commerci\u2026",
+        "longitude": 75.81366,
+        "location": {
+          "area": [
+            "India",
+            "Kerala",
+            "Kozhikode"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Kozhikode, Kerala"
+        },
+        "latitude": 11.16223,
+        "category": {
+          "label": "Sales Jobs",
+          "tag": "sales-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Nucore Software Solutions"
+        },
+        "id": "5840225940"
+      },
+      {
+        "id": "5857168318",
+        "company": {
+          "display_name": "Providence India",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 17.40275,
+        "location": {
+          "display_name": "Hyderabad, Telangana",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ]
+        },
+        "longitude": 78.50806,
+        "description": "What will you be responsible for? As a Technical Program Manager focused on Infrastructure, you\u2019ll use your technical expertise to lead complex, multi-disciplinary projects in Providence Infrastructure space. What would your day look like? Strong understanding of Infra, Data center, Compute, backup, storage, data engineering, Azure, cloud, power BI. Managing backlog in ADO, documenting requirements and working with engineering teams to deliver automation, On-prem and cloud migration and other i\u2026",
+        "created": "2026-08-26T22:01:23Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE1wLWllQ2g4UkdmZmV5LWRMSHB2USIsImkiOiI1ODU3MTY4MzE4In0.qIohcrUshHVNyReNgNcWBbR_iKLImct8uxY2mIfOmwc",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.in/land/ad/5857168318?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=40A7E3DB730E9425336DF22B1BD2CDD8EBF07296",
+        "salary_is_predicted": "0",
+        "title": "Principal Engineering Program Manager"
+      },
+      {
+        "description": "This job is with WPP Production, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About WPP Production We are WPP Production - the unified global production company that brings together all of WPP's content producers, studios and craft experts into one connected organisation. We combine world-class human craft with next generation technology to originate, design, and deliver multi-channel \u2026",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE1wLWllQ2g4UkdmZmV5LWRMSHB2USIsImkiOiI1ODM3MTM5MzQyIn0.AzVYZ4-Xr3mwKpAWKCP39O5geCoymHSxo-IRFsvI7Ao",
+        "created": "2026-08-12T01:59:33Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139342?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=47C602DFE911D6A3DF5B8EE92A73942F0A173739",
+        "title": "Senior Insights Analyst",
+        "id": "5837139342",
+        "company": {
+          "display_name": "WPP Production",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 13.06041,
+        "location": {
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Chennai"
+          ],
+          "display_name": "Chennai, Tamil Nadu",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": 80.24963
+      },
+      {
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs"
+        },
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "ZEISS India"
+        },
+        "id": "5852476452",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5852476452?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=9E1EE3FE6B0899FBC6207930A4731E6882B4DC9B",
+        "title": "Accounts Payable Specialist",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1MjQ3NjQ1MiIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.jg2mwX4z6kcVvaVcGvMUt7xVVN5r3La1htz2uFmWmSE",
+        "created": "2026-08-22T17:34:29Z",
+        "description": "About the role: ZEISS India is part of Carl Zeiss AG, Germany, with operations spanning Medical Technology, Industrial Quality & Research, Consumer Markets and Semiconductor Manufacturing Technology. The India organization manages significant cross-border transactions with ZEISS affiliates and vendors across 40 countries. The Analyst \u2013 International & Intercompany Payments will be responsible for the complete execution and control of international vendor payments and intercompany settlements, w\u2026"
+      },
+      {
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "sales-jobs",
+          "label": "Sales Jobs"
+        },
+        "latitude": 12.95703,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "longitude": 77.59837,
+        "id": "5846723016",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Kraft Heinz"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723016?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=C79E169AAE0E1ED7F030486C0CF32CF3700D15C2",
+        "title": "Analyst III, Category Insights & Analytics",
+        "description": "This job is with Kraft Heinz, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description At Kraft Heinz, Category Leadership is a core growth engine, built to lead with insights, act with intention, and deliver meaningful impact for our business and retail partners. We operate with a category-first mindset, translating shopper behavior, consumer understanding, and market data into st\u2026",
+        "created": "2026-08-18T18:03:32Z",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjcyMzAxNiIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.1aY3JP9fKcMNneDxKO6Nm_C_XfKNgpk1my2It9js-8E"
+      },
+      {
+        "id": "5852164532",
+        "company": {
+          "display_name": "ABB",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs"
+        },
+        "latitude": 12.95703,
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": 77.59837,
+        "description": "This job is with ABB, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner\u2014and every person here makes that happen. You\u2019ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This Position reports to: Deputy Delivery Manager- AccountsPayable We are looking for a Team Lea\u2026",
+        "contract_time": "full_time",
+        "created": "2026-08-22T12:06:33Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1MjE2NDUzMiIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.rpfAh6j6ZKpsEvWmov1edE-HLldGyRGWQj3vN_PV-R4",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Team Lead \u2013 Accounts Payable",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5852164532?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=8147A41406CB65CDE37CA5447E0601D55E9680BF"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "title": "Technical Project Manager(Manufacturing)",
+        "redirect_url": "https://www.adzuna.in/land/ad/5841755178?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=E7BECD173BBBBD54749D08F931F3E16AEEC97652",
+        "description": "USEReady is a global analytics and data management solutions company that helps enterprises harness the power of data to drive smarter decisions. With a strong presence across North America, USEReady partners with Fortune 500 companies to deliver end-to-end analytics, BI, data engineering, and AI/ML solutions. Our Bangalore office serves as a key hub for our finance, technology, and delivery operations. Empower Your Business with Advanced Data Solutions| USEReady Job Description Role- Senior Pr\u2026",
+        "created": "2026-08-14T16:34:24Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0MTc1NTE3OCIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.qiu1DzkoopZC-H0BOBgASq0zwr0OG8rmHkrcpz6P-R8",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "id": "5841755178",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "USEReady"
+        }
+      },
+      {
+        "latitude": 8.646464,
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": 78.004083,
+        "location": {
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Thoothukudi"
+          ],
+          "display_name": "Thoothukudi, Tamil Nadu",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "company": {
+          "display_name": "Intersnack Cashew India Private Limited",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5840224845",
+        "redirect_url": "https://www.adzuna.in/land/ad/5840224845?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=5E605BACF1BD399E244D67B125FE8DFDBE409240",
+        "salary_is_predicted": "0",
+        "title": "Manager - FP&A and Cost Control",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2026-08-13T16:19:09Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0MDIyNDg0NSIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.4ET_wZ6hZxpkwmGOX6CMMdgSXAmrkaJtuCGuM7eiE_0",
+        "description": "We are Hiring - Manager - FP&A and Cost Control Purpose of the position: To align the company's goals and objectives with financial performances through an in-depth analysis of key performance indicators. Ensuring accuracy of financial reporting and its consolidation reports to group company. To maximize resource efficiency and profitability through disciplined cost monitoring and control. To standardize and ensuring complete implementation of ICFR processes. Main Responsibilities: Financial Pe\u2026"
+      },
+      {
+        "id": "5830417447",
+        "company": {
+          "display_name": "Yubi Markets",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "location": {
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Chennai"
+          ],
+          "display_name": "Chennai, Tamil Nadu",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": 80.24963,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs"
+        },
+        "latitude": 13.06041,
+        "description": "About the Company Yubi Markets is a wholly-owned subsidiary of Yubi Group, India\u2019s pioneering and largest debt platform. We stand at the forefront of enterprise finance and wealth distribution, creating a unified and powerful ecosystem for capital. At our core, we facilitate comprehensive enterprise finance solutions including but not limited to term loans, working capital, NCDs,CCD\u2019s and unlisted equity to corporations across the spectrum, from agile SMEs/MSMEs to large listed entities. Comple\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE1wLWllQ2g4UkdmZmV5LWRMSHB2USIsImkiOiI1ODMwNDE3NDQ3In0.hv6SR5Esb-c73p02KXEwTpB087uU6bx7CE-gVpvwpu0",
+        "created": "2026-08-06T17:51:38Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.in/land/ad/5830417447?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=4FC79AC51471648403B4E73DF917D545CA879C22",
+        "salary_is_predicted": "0",
+        "title": "Accounts Payable Specialist"
+      },
+      {
+        "salary_is_predicted": "0",
+        "title": "Chief Financial Officer",
+        "redirect_url": "https://www.adzuna.in/land/ad/5852763790?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=6D9FA88606275BC8F432F41D6E2FF27CB81D4989",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1Mjc2Mzc5MCIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.BKq_ikjb-5tAQZA2LB4trLtfoWIzR1xr1W_rlDuWB74",
+        "created": "2026-08-22T23:37:22Z",
+        "description": " Position: Chief Financial Officer (CFO) Location: Gurugram \ufe0f Working Days: 6 (Mon-Sat)  Experience Required: 15 Years (Min. 5 years as CFO/VP) Role Overview Our Client needs an aggressive, results-driven CFO with hands-on startup experience to take 100% ownership of our financial ecosystem, corporate governance, and commercial strategy to maximize enterprise value. Key Responsibilities 1. Corporate Governance & Controllership Institutional Accounting: Own all accounting machinery, internal con\u2026",
+        "location": {
+          "area": [
+            "India"
+          ],
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "company": {
+          "display_name": "PinnacleU",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5852763790"
+      },
+      {
+        "id": "5812528362",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Accenture"
+        },
+        "location": {
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": 78.50806,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "latitude": 17.40275,
+        "description": "This job is with Accenture, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Project Role : Application Lead Project Role Description : Lead the effort to design, build and configure applications, acting as the primary point of contact. Must have skills : Tableau Good to have skills : NA Minimum 5 year(s) of experience is required Educational Qualification : 15 years full time education Su\u2026",
+        "created": "2026-07-23T22:17:09Z",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMjUyODM2MiIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.RMHRipolg2KwI3T5U1HTY9PrH4V20J2GVfYmLvuvf00",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.in/land/ad/5812528362?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=A461C17A4672E48324FCC81AAA7765AF97A957CC",
+        "salary_is_predicted": "0",
+        "title": "Application Lead"
+      },
+      {
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India",
+          "area": [
+            "India"
+          ]
+        },
+        "id": "5845841634",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Blend360"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "title": "Principal BI Architect \u2013 Agentic BI",
+        "redirect_url": "https://www.adzuna.in/details/5845841634?utm_medium=api&utm_source=cd9c749f",
+        "description": "Job Description We are seeking a hands-on Manager \u2013 BI & Analytics to lead the design, development, and delivery of enterprise-scale BI and analytics solutions. The ideal candidate will have deep expertise in Power BI, Tableau, SQL, MS Fabric,, Snowflake, and Databricks , combined with a strong understanding of modern GenAI, LLM, and Agentic BI capabilities. This is a hands-on Manager role . The Manager will not only lead teams and client engagements but will also remain deeply involved in solu\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NTg0MTYzNCIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.Z8n12OMYT2RWo33i09Qqe4nLaFruJJtJ0aGLzMHr0nM",
+        "created": "2026-08-18T07:32:47Z"
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Mumbai, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ]
+        },
+        "longitude": 72.84415,
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 19.00821,
+        "id": "5829060313",
+        "company": {
+          "display_name": "L&T EduTech",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.in/land/ad/5829060313?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=596660C8AF896F45C7272576B603789AA94F90F8",
+        "salary_is_predicted": "0",
+        "title": "IT Trainer",
+        "description": "Position: Subject Matter Expert (SME) About the Role We are looking for a passionate and experienced Subject Matter Expert (SME) to design, develop, and deliver high-quality learning content in emerging technologies. The ideal candidate should possess strong technical expertise, excellent communication skills, and a passion for mentoring engineering students and working professionals. The SME will be responsible for curriculum development, content creation, instructor-led training, hands-on lab\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyOTA2MDMxMyIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.EAkXitGbr3DEV9dMQc4BJ6CzmSBcrH6lvjoF2-rvTCA",
+        "created": "2026-08-05T17:44:42Z"
+      },
+      {
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "location": {
+          "area": [
+            "India"
+          ],
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5846300363",
+        "company": {
+          "display_name": "NIIT",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Senior Project coordinator",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846300363?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=002C84EEC47668CEB5D2A32B3A6626BBCDB33EF4",
+        "description": "Job Description \u2013 Position Summary \u2013 We are seeking a detail-oriented and analytical professional to manage end-to-end operations, including forecasting, inventory optimization, procurement, vendor management, and delivery management. The role requires close coordination with internal stakeholders and vendors to ensure timely procurement and seamless delivery of training services while maintaining operational efficiency and accuracy. Key Responsibilities Forecasting & Analysis \u2013 Analyse quarter\u2026",
+        "created": "2026-08-18T13:10:13Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE1wLWllQ2g4UkdmZmV5LWRMSHB2USIsImkiOiI1ODQ2MzAwMzYzIn0.6AGrm4COT1WsQdPFx8kQ8GbYvTx6l7QTsKo8xCooOH8"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5830417566?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=C16484ED7F28B593CE6336D716E3E230E39B6A92",
+        "title": "Technical Program Manager",
+        "description": "Role Description Own program roadmap, planning, and execution for data engineering and analytics initiatives, including batch/real-time pipelines, data lakes, data warehouses, BI, and ML solutions. Act as a trusted advisor to clients, partnering with business and technology stakeholders to define problem statements, solution approaches, and execution strategies. Drive large-scale data platform implementations leveraging cloud ecosystems, with a strong focus on GCP and/or Databricks. Manage a po\u2026",
+        "created": "2026-08-06T17:51:55Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzMDQxNzU2NiIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.OBOZpsQIa2uxyH5Ru2XNb9gGlcc0BSCIP_oskqKNst0",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "id": "5830417566",
+        "company": {
+          "display_name": "Tredence Inc.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0OTg5MDAzNSIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.tcgh35CiYaYHbw_NOhq9mmimjo3JB9Z002FqsgtYvCY",
+        "created": "2026-08-20T23:25:06Z",
+        "description": "A senior, high-visibility opportunity within the Operations function of a leading global financial services group, seeking an experienced settlements leader to own and drive FX Settlements operations across the group's global entities. This role carries significant visibility, with close partnership across Front Office, Middle Office, Technology and senior stakeholders globally. The role offers the opportunity to shape the strategic direction of a critical global function, combining operational\u2026",
+        "redirect_url": "https://www.adzuna.in/land/ad/5849890035?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=137F60B0872FE1DEE1734BE02266A923843D05FF",
+        "salary_is_predicted": "0",
+        "title": "Vice President",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "The Edge Partnership - The Edge in Asia",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5849890035",
+        "longitude": 72.84415,
+        "location": {
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "display_name": "Mumbai, Maharashtra",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "latitude": 19.00821,
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India",
+          "area": [
+            "India"
+          ]
+        },
+        "id": "5832204983",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Kraft Heinz"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.in/land/ad/5832204983?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=49AA2C1E08C91F59A71DCFE3B8C10AACADD2407B",
+        "salary_is_predicted": "0",
+        "title": "Analyst III, Marketing Insights",
+        "description": "This job is with Kraft Heinz, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. GBS Analyst III - Marketing/ Consumer InsightsWe are seeking an experienced Analyst for our Marketing and Consumer Insights team. This role is pivotal in driving our marketing strategies and deepening our understanding of consumer behaviors to fuel growth and innovation, and to deliver on the underlying analytic\u2026",
+        "contract_time": "full_time",
+        "created": "2026-08-07T21:58:07Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzMjIwNDk4MyIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.1ouUDqbtK2ZWvwgf39ZxT1X1csfGRmAbhc59ieTHXuA"
+      },
+      {
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMjUyODQzNCIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.tYXmxEE-4WpsPAsPE9ISDW0Tr2pUR1bt0fUb0aQfwck",
+        "created": "2026-07-23T22:17:17Z",
+        "description": "This job is with Accenture, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Entity : - Accenture Strategy & Consulting Team : - Strategy & Consulting - Global Network Practice : - Supply Chian Analytics Title : - Ind & Func AI Decision Science Consultant Job location : - Bangalore/Gurgaon/Hyderabad/ Mumbai Explore an Exciting Career at Accenture Do you believe in creating an impact? Are y\u2026",
+        "title": "S&C Global Network - AI - Supply Chain Analytics - Consultant",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5812528434?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=256309E3442F48C74D9F23E0CEC5B4EFFB29D50E",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Accenture",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5812528434",
+        "longitude": 72.84415,
+        "location": {
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "display_name": "Mumbai, Maharashtra",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "latitude": 19.00821,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        }
+      },
+      {
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India",
+          "area": [
+            "India"
+          ]
+        },
+        "id": "5837139684",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Capco"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139684?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=8B941E0F2EC211ACB65A5BB170F68498DBD01BD1",
+        "salary_is_predicted": "0",
+        "title": "B3.1 Data",
+        "description": "This job is with Capco, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Title: Data(Basel 3.1) About Us \u201cCapco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across globe, w\u2026",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE1wLWllQ2g4UkdmZmV5LWRMSHB2USIsImkiOiI1ODM3MTM5Njg0In0.CNbXfgS-fTHhthGdakXauhaz4PXpo8S4PFm2IV9KV1o",
+        "created": "2026-08-12T01:59:40Z"
+      },
+      {
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5785772459?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=51A50513676F18CD6E407C6B753D67705F2B03D9",
+        "title": "Sr. Procurement Analyst",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE1wLWllQ2g4UkdmZmV5LWRMSHB2USIsImkiOiI1Nzg1NzcyNDU5In0.oMjOzqwrBkFlM7qJxR_93M1fgV6UYcCnplKhkWVKAug",
+        "contract_time": "full_time",
+        "created": "2026-07-03T00:54:25Z",
+        "description": "This job is with Jabil, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Jabil (NYSE: JBL), we are proud to be a trusted partner for the world's top brands, offering comprehensive engineering, supply chain, and manufacturing solutions. With 60 years of experience across industries and a vast network of over 100 sites worldwide, Jabil combines global reach with local expertise to deliver\u2026",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "energy-oil-gas-jobs",
+          "label": "Energy, Oil & Gas Jobs"
+        },
+        "location": {
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India"
+          ]
+        },
+        "company": {
+          "display_name": "Jabil",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5785772459"
+      },
+      {
+        "company": {
+          "display_name": "Kraft Heinz",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5820906202",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "location": {
+          "area": [
+            "India"
+          ],
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyMDkwNjIwMiIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.UYHMg2i7ttaLuWXnsnDAI_XlE84zFKZhE785unWwLrA",
+        "created": "2026-07-30T13:53:16Z",
+        "description": "This job is with Kraft Heinz, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description Senior Manager, Data Quality & Data Stewardship Location: Bangalore, India About the Position The Global Enterprise Data Management Team is seeking an experienced and driven Senior Manager, Data Quality & Data Stewardship to make a difference at Kraft Heinz. This role leads both our Data Quality \u2026",
+        "redirect_url": "https://www.adzuna.in/land/ad/5820906202?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=BE955401627468D6ABBEE1242AB499D9472876EC",
+        "salary_is_predicted": "0",
+        "title": "Senior Manager, Data Stewardship & Quality",
+        "contract_type": "permanent",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "location": {
+          "display_name": "Pune, Maharashtra",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Pune"
+          ]
+        },
+        "longitude": 73.84735,
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 18.5062,
+        "id": "5837583698",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "IntegriChain"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "BI Engineer",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/details/5837583698?utm_medium=api&utm_source=cd9c749f",
+        "description": "Job Description We are seeking a Senior BI Developer to design, build, and own BI and reporting solutions for our fast-paced multi-tenant Life Science Data Management Platform. Our BI ecosystem is primarily built on TIBCO Spotfire, with Power BI used for selected reporting and analytics use cases. We are looking for a developer with deep Spotfire expertise who is also willing and able to work across Power BI and other visualization platforms as business needs evolve. This role requires strong o\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNzU4MzY5OCIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.I-06bX-lRtCz2cDOGlWqaxUHbZIGvrY-MDRR0UgcPUk",
+        "created": "2026-08-12T07:26:14Z"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Mindpool Technologies"
+        },
+        "id": "4732696918",
+        "longitude": 73.88075,
+        "location": {
+          "area": [
+            "India",
+            "Maharashtra",
+            "Pune",
+            "Yerwada"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Yerwada, Pune"
+        },
+        "latitude": 18.51875,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "created": "2024-06-12T17:20:00Z",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE1wLWllQ2g4UkdmZmV5LWRMSHB2USIsImkiOiI0NzMyNjk2OTE4In0.jYf2Vs7b4t3iMbsA9lR0s6SKnCfEv5SQhFuytrEnGL8",
+        "description": "Mindpool Technology is hiring for BI Developer in Pune Location BI Engineer \u2013 EDW/BI Analytics Our Technical team at New Century Health is looking for a Data Analyst to be part of EDWBI team to help build Data Validation framework and related validation reports leveraging existing EDWBI platform along with regular enhancements and support for the core platform. The person will be responsible for taking project requirements and converting into custom data reporting to enhance capabilities with d\u2026",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/details/4732696918?utm_medium=api&utm_source=cd9c749f",
+        "contract_type": "permanent",
+        "title": "BI Developer",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "location": {
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India"
+          ]
+        },
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5762945765",
+        "company": {
+          "display_name": "EXL",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "BI Lead (Power BI / Tableau)",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/details/5762945765?utm_medium=api&utm_source=cd9c749f",
+        "description": "Description Role: BI Lead (Power BI / Tableau) Location : Gurugram Hire Type : FTE KEY RESPONSIBILITIES Lead BI architecture and solution design conversations with clients, acting as the primary technical authority on data and analytics platforms. Design, build, and optimise Power BI semantic models and Tableau data sources for enterprise-scale performance and maintainability. Write and optimise complex DAX measures, M/Power Query transformations, and SQL queries to support accurate, high-perfo\u2026",
+        "contract_time": "full_time",
+        "created": "2026-06-14T02:38:25Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE1wLWllQ2g4UkdmZmV5LWRMSHB2USIsImkiOiI1NzYyOTQ1NzY1In0.Uf18WG6_Mm6BU83y1cwSpNntEM4_jWZpEs0n4Uv_V_E"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.in/details/5762900938?utm_medium=api&utm_source=cd9c749f",
+        "salary_is_predicted": "0",
+        "title": "BI Developer (Power BI  Tableau)",
+        "description": "Description Designation: BI Developer (Power BI  Tableau) Experience: 5 We are seeking a skilled BI Developer with 5 years of experience in designing, developing, and supporting business intelligence and analytics solutions. The ideal candidate will have strong expertise in Power BI, Tableau, Excel, data visualization, data modeling, and analytics, with the ability to transform complex data into actionable business insights. Experience working with cloud data platforms and the insurance domain \u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MjkwMDkzOCIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.G6YKpH5M3AbtpP7EvliseiPYh3bq29x24Sw-X6gWto4",
+        "contract_time": "full_time",
+        "created": "2026-06-14T02:31:46Z",
+        "location": {
+          "area": [
+            "India"
+          ],
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "id": "5762900938",
+        "company": {
+          "display_name": "EXL",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 18.5062,
+        "location": {
+          "area": [
+            "India",
+            "Maharashtra",
+            "Pune"
+          ],
+          "display_name": "Pune, Maharashtra",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": 73.84735,
+        "id": "5806702891",
+        "company": {
+          "display_name": "NICE",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/details/5806702891?utm_medium=api&utm_source=cd9c749f",
+        "title": "Specialist BI Analyst (Power BI)",
+        "description": "How will you make an impact Design, model and implement dashboards in Power BI Provide analytical and functional support Work effectively with a variety of stakeholders to ensure successful execution including R&D teams, product managers, IT, business operations etc. Write and maintain technical documentation Review and validate data End-to-end accountability for your domain including troubleshooting the reporting environment and training end users on new reports and dashboards Continually find\u2026",
+        "created": "2026-07-19T07:22:23Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE1wLWllQ2g4UkdmZmV5LWRMSHB2USIsImkiOiI1ODA2NzAyODkxIn0.zOas2_0nmgw5A11-K1rMO6dG1AVUVArT0B4O9mLZlfI"
+      },
+      {
+        "title": "Assistant Sales Manager (Hospitality)",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5845682797?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=AB43388D0441E9F33A267CE326ACEE4C9E1A03E6",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE1wLWllQ2g4UkdmZmV5LWRMSHB2USIsImkiOiI1ODQ1NjgyNzk3In0.SzKC1MXbTdhRCt6wjzGI8Pex4Hdf6dMC4ojWbPupW9o",
+        "created": "2026-08-18T05:07:46Z",
+        "description": "Job Location - Yerwada, Pune Work mode - Work from office Experience required - Minimum of 2 years to 5 years Work timings - 5PM - 3AM (Monday to Friday) About Atica: Atica is a leading, tech-first remote sales & revenue management company for Hotels and Hotel operators in the US, enabled by a unified tech-led solution. We are a startup, funded by the top investors in the country, like Titan Capital, DIBS. As innovators at the forefront of the industry, we strive to deliver the highest quality \u2026",
+        "category": {
+          "label": "Sales Jobs",
+          "tag": "sales-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "location": {
+          "area": [
+            "India"
+          ],
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "company": {
+          "display_name": "Atica Global",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5845682797"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyOTA2MDUwMyIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.kUfA_KOvCjYWK8rverluUpTkn-PdmNghWRqS2VphhAo",
+        "created": "2026-08-05T17:45:11Z",
+        "description": "1. Audit Leadership & Delivery Monitor end-to-end internal audit engagements across functions (Finance, SCM, Projects, Manufacturing etc.) including planning, risk assessment and reporting Review work performed by consultants to ensure quality and completeness Ensure timely closure of audits with actionable, risk-ranked observations and management action plans Ensure tracking of implementation of action plan as committed to mitigate the audit findings. 2. Internal Financial Controls (IFC) & Ris\u2026",
+        "salary_is_predicted": "0",
+        "title": "Lead Internal audit",
+        "redirect_url": "https://www.adzuna.in/land/ad/5829060503?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=56DCF220A5227C336055617D0E4FBB44651B095F",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Tata Electronics",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5829060503",
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        }
+      },
+      {
+        "location": {
+          "display_name": "Mumbai, Maharashtra",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ]
+        },
+        "longitude": 72.84415,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Sales Jobs",
+          "tag": "sales-jobs"
+        },
+        "latitude": 19.00821,
+        "id": "5825920177",
+        "company": {
+          "display_name": "Hector",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Amazon PPC Specialist",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5825920177?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=4694C40741E78F6524AB8D55D3A7BFFC3C693781",
+        "description": "Role Overview: We are seeking a dynamic Amazon PPC Specialist. To join our team, specializing in marketplace advertising for Amazon, This individual will play a crucial role in driving the advertiser success by effective communication, providing strategic insights and data-driven recommendations, leading the media buying team, and collaborating with various teams to ensure client goals are met efficiently. Responsibilities: \u25cf Marketplace Advertising Strategy: Lead advertising for Amazon driving\u2026",
+        "created": "2026-08-03T01:36:47Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNTkyMDE3NyIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.ZpKldHohA5DVOR1UkUtl1R2KoM49nz8ZLknQWU6JP6M"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Bharat Serums and Vaccines Limited"
+        },
+        "id": "5833434648",
+        "latitude": 19.00821,
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": 72.84415,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Mumbai, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ]
+        },
+        "created": "2026-08-08T17:59:33Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE1wLWllQ2g4UkdmZmV5LWRMSHB2USIsImkiOiI1ODMzNDM0NjQ4In0.ixoZlEuQZH9eeuIsYPAdZPLWj9KAc5NItDQ3D4-aUA0",
+        "description": "About BSV: With over two decades of excellence, Mankind Pharma is now among India's top 5 pharmaceutical companies, powered by a 21,000 strong workforce. For over five decades, we at Bharat Serums and Vaccines Ltd (part of Mankind Group of Companies) have used scientific resources to develop a range of biological, biotech and pharmaceutical products. We want to be a leading biopharmaceutical company driven by people and science to set benchmarks in patient outcomes across therapy areas of Women\u2026",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5833434648?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=F1D201736746ED1EA84490D5AAC8120505742480",
+        "title": "Manager - Strategy & Transformation Office",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "FP&A and Program Management - Manager",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5834649757?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=9D34D757DA0FB97CF3DF9401E3E8D2B75AAC595D",
+        "description": "Your potential, unleashed India\u2019s impact on the global economy has increased at an exponential rate and Deloitte presents an opportunity to unleash and realize your potential amongst cutting edge leaders, and organizations shaping the future of the region, and indeed, the world beyond. At Deloitte, your whole self to work, every day. Combine that with our drive to propel with purpose and you have the perfect playground to collaborate, innovate, grow, and make an impact that matters. Primary pur\u2026",
+        "created": "2026-08-09T18:10:35Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE1wLWllQ2g4UkdmZmV5LWRMSHB2USIsImkiOiI1ODM0NjQ5NzU3In0.T8rLWmWmkT4bWJTvkeylCKb_5kxXRbNGX57KrjW6OCA",
+        "location": {
+          "display_name": "Mumbai, Maharashtra",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ]
+        },
+        "longitude": 72.84415,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "latitude": 19.00821,
+        "id": "5834649757",
+        "company": {
+          "display_name": "Deloitte",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5845682853?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=CBBF4D64177310D54D766C6DD072D9287C8A97BF",
+        "salary_is_predicted": "0",
+        "title": "Assistant Professor",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE1wLWllQ2g4UkdmZmV5LWRMSHB2USIsImkiOiI1ODQ1NjgyODUzIn0.z2ek7QvqehIley0c0ZE71z-YhtX2yb13wCHY1HRS9FY",
+        "created": "2026-08-18T05:07:53Z",
+        "description": "Assistant Professor \u2013 Data Science (B.Sc./M.Sc./MCA) Location: Patiala, Punjab Employment Type : Full-Time About the Role PW Digital University (PWDU) is seeking passionate and qualified Assistant Professors \u2013 Data Science to develop and deliver high-quality academic content for undergraduate and postgraduate programmes in Data Science, Artificial Intelligence, and Machine Learning within a technology-enabled, UGC-compliant Open & Distance Learning (ODL) and Online Education framework. Key Resp\u2026",
+        "longitude": 76.32585,
+        "location": {
+          "area": [
+            "India",
+            "Punjab",
+            "Patiala"
+          ],
+          "display_name": "Patiala, Punjab",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "latitude": 30.28465,
+        "category": {
+          "label": "Teaching Jobs",
+          "tag": "teaching-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "PW "
+        },
+        "id": "5845682853"
+      },
+      {
+        "title": "Amazon Global Inventory and Operations Manager",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846299660?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=9B56B137F0DA51F5C80E0E71947847AE5A3601E4",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2026-08-18T13:09:45Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE1wLWllQ2g4UkdmZmV5LWRMSHB2USIsImkiOiI1ODQ2Mjk5NjYwIn0.UhvVAtZwrJZGHbMSM0e6iwJl1YSx0C4oOECTm-qDTBM",
+        "description": "We manufacture natural personal care products \u2014 cold pressing, filling and batch testing in our own facility in Gurugram \u2014 and sell them on Amazon across India, the US, UAE, UK and Germany, plus our own D2C stores. We are looking for one person to own global FBA inventory end to end. The problem you'd be solving Right now our inventory decisions are made reactively. We find out a SKU is running short when it runs short. We discover excess when the storage fee lands. Our stock sits unevenly acro\u2026",
+        "location": {
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India"
+        },
+        "category": {
+          "label": "Manufacturing Jobs",
+          "tag": "manufacturing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "company": {
+          "display_name": "VedaOils",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5846299660"
+      },
+      {
+        "id": "5855325609",
+        "company": {
+          "display_name": "Pepper",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "latitude": 19.00821,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Mumbai, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ]
+        },
+        "longitude": 72.84415,
+        "description": "Manager \u2013 COE, Business Intelligence & Account Performance Central COE | Founder's Office About Pepper Pepper is building an AI-native SEO and content growth platform , combining strategy, technology, automation and AI to drive measurable business outcomes for customers. This role sits within the Founder's Office , working on how the business is priced, resourced, delivered, measured and improved. The Opportunity We're looking for a Manager, COE \u2013 Business Intelligence & Account Performance to \u2026",
+        "created": "2026-08-25T17:46:30Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NTMyNTYwOSIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.BjTAE2mhoHZEMixsHS2aDDrTQzR-93HgHmRwPApwtsY",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5855325609?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=209DFE381B3633B331A49C54A1861EAA4DC2E829",
+        "title": "Manager - COE, Business Intelligence & Account Performance"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Kraft Heinz"
+        },
+        "id": "5843137514",
+        "location": {
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India"
+        },
+        "category": {
+          "label": "Retail Jobs",
+          "tag": "retail-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "contract_time": "full_time",
+        "created": "2026-08-15T20:01:40Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0MzEzNzUxNCIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.CGAspPgnkrb6rp4Av-j51F82Hyvs3WTA80kQVD3hzBg",
+        "description": "This job is with Kraft Heinz, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Title: Procurement Analyst I, Global Procurement Solutions Location: Global Capability Center, Ahmedabad, India Department: Global Procurement Solutions Role Overview We are seeking a Procurement Analyst to support end-to-end procurement and supply chain operations from our Global Capability Center in Ahmeda\u2026",
+        "salary_is_predicted": "0",
+        "title": "Analyst I, Global Procurement Solutions",
+        "redirect_url": "https://www.adzuna.in/land/ad/5843137514?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=502DEB20DEB80C615BAED2C43503D3B012C0950A",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5785773115?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=888721B9EAAF876B1F079BC209DECF1099E63440",
+        "salary_is_predicted": "0",
+        "title": "Talent Pool -FP&A- Data Scientist / Analytics Specialist / Data & AI Specialist",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NTc3MzExNSIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.KbnPvP-zvYo5xoMLrK5JOMneDzey44elztj37a9tIGk",
+        "created": "2026-07-03T00:54:32Z",
+        "description": "This job is with ABB, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries outrun - leaner and cleaner. Here, progress is an expectation - for you, your team, and the world. As a global market leader, we\u2019ll give you what you need to make it happen. It won\u2019t always be easy, growing takes grit. But at ABB, you\u2019ll never run alone. Run what runs the world. This Position \u2026",
+        "latitude": 12.95703,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "energy-oil-gas-jobs",
+          "label": "Energy, Oil & Gas Jobs"
+        },
+        "longitude": 77.59837,
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "company": {
+          "display_name": "ABB",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5785773115"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723122?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=D433CBC53861F80A6F3BD7A905ACC945A8D6BCBE",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2026-08-18T18:03:33Z",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjcyMzEyMiIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.eAhK4o4BEwawe3FzWyUKn4o0rdRTL5PC-JhvOLwvRn4",
+        "description": "This job is with Morningstar, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About the Role We are looking for a Senior Software Engineer to drive the design, development, and scaling of our centralized, API-driven data validation platform. This is a hands-on individual contributor role focused on building high-performance, scalable, and intelligent validation systems that process large \u2026",
+        "latitude": 19.00821,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "longitude": 72.84415,
+        "location": {
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "display_name": "Mumbai, Maharashtra",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "company": {
+          "display_name": "Morningstar",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5846723122"
+      },
+      {
+        "id": "5857213509",
+        "company": {
+          "display_name": "Zydus MedTech",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "location": {
+          "area": [
+            "India",
+            "Gujarat",
+            "Ahmedabad"
+          ],
+          "display_name": "Ahmedabad, Gujarat",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": 72.59465,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "latitude": 23.042,
+        "description": "As Project Manager , you will support the planning, coordination, and execution of cross-functional projects focused on new product development, product enhancements, and lifecycle management activities. This role offers an excellent opportunity to work with multidisciplinary teams and gain hands-on experience in managing technical projects from concept through delivery. Key Responsibilities Support the planning, execution, and tracking of technical projects from initiation to completion. Coord\u2026",
+        "created": "2026-08-26T23:58:24Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NzIxMzUwOSIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.XiHocUucXV8T2PyWxD9GA44YEWcVbmx4ulz6McwbFaM",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5857213509?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=AEE4E26D6B6FF961781D67363FF5CB8707D6B803",
+        "contract_type": "contract",
+        "title": "Technical Project Manager R&D"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "TP"
+        },
+        "id": "5846298758",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Manufacturing Jobs",
+          "tag": "manufacturing-jobs"
+        },
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India",
+          "area": [
+            "India"
+          ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjI5ODc1OCIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.QA-1TaZ3yTJcfj7CvaA6bNShycE3Rf4c7X_aBadyHsk",
+        "created": "2026-08-18T13:09:10Z",
+        "description": "Designation: - Quality Manager Shift: 6 Days working Job Location: Malad Budget - As per Company standards Immediate joiners preferred Experience in BPO Industry ON PAPER MANAGER / AM Role/ Responsibility: \u2022 Develop, control and direct the daily execution of quality processes, monitoring and supporting the campaign, guided by the work methodology established with clients in order to ensure compliance with quality metrics. \u2022 Establish feedback sessions and work with teams in order to obtain a hi\u2026",
+        "title": "Quality Assurance Manager",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846298758?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=33F12E3597F89583E4DEEBF1CB3BE588A4BEE281",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Hyderabad, Telangana",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ]
+        },
+        "longitude": 78.50806,
+        "category": {
+          "tag": "sales-jobs",
+          "label": "Sales Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 17.40275,
+        "id": "5856666924",
+        "company": {
+          "display_name": "Credvest",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5856666924?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=DAC589B609C6086D480E46D73443C1D0E65580C4",
+        "title": "Luxury Residential Sales Specialist (Real Estate)",
+        "description": "Company Description Credvest is a values-driven real estate company focused on bringing transparency, integrity, and customer-first thinking to the industry. The organization is committed to ethical business practices, prioritizing clients\u2019 long-term gains over short-term profits. By emphasizing simplicity, honesty, and straightforward advice, Credvest aims to transform how residential real estate services are delivered. Team members join a culture of like-minded professionals who strive to cre\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NjY2NjkyNCIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.m1sdrYjtybdlRRZeLnOdjM53NQZhLFI7_n30Iq-0YiA",
+        "contract_time": "full_time",
+        "created": "2026-08-26T15:57:12Z"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Epiq"
+        },
+        "id": "5850983091",
+        "latitude": 17.40275,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "consultancy-jobs",
+          "label": "Consultancy Jobs"
+        },
+        "longitude": 78.50806,
+        "location": {
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Hyderabad, Telangana"
+        },
+        "created": "2026-08-21T17:26:11Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1MDk4MzA5MSIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.1-Jzbt5CWJNpwA8iMqJfv9FuP_Qh4_RwHkRNCfxYfRc",
+        "description": "Job Summary: The Associate Project Manager will serve to assist senior Client Services peers through effective project management coordination and execution, as part of the Client Services Global Resourcing Team of individuals serving North America clients from other geographies. Successful candidates will have relevant experience in service delivery, preferably in eDiscovery, as well as a proven history of execution in a fast-paced environment. The Associate Project Manager is primarily respon\u2026",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5850983091?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=5261C1BECFFEDE28721791C4DEFABF73C1C986C9",
+        "title": "Client Services Associate Project Manager",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India",
+          "area": [
+            "India"
+          ]
+        },
+        "id": "5837139431",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Capco"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139431?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=9F2281852FD004BE4D0EAD9279FE898C7B3E11ED",
+        "salary_is_predicted": "0",
+        "title": "Business Data Analyst",
+        "description": "This job is with Capco, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Title: Business Data Analyst About Us \u201cCapco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across gl\u2026",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNzEzOTQzMSIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.NJGN4_XyTFjanzTpqylUYsvjh0_c3ogF7E-XPYwwUJo",
+        "created": "2026-08-12T01:59:37Z"
+      },
+      {
+        "created": "2026-08-07T17:55:48Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE1wLWllQ2g4UkdmZmV5LWRMSHB2USIsImkiOiI1ODMxOTY2MDIwIn0.5yZDfWD6oo9mSfdn8TwVQoyQYmApB1Tt9VKoXVX6glg",
+        "description": "Job Description \u2013 Oracle Cloud PPM Functional Consultant (PPM with Grants Management) Responsibilities Implement and support the Oracle Cloud Projects (PPM) module, including Project Execution Management, in Oracle Cloud ERP production environments. Gather business requirements, prepare requirement documents, perform fit-gap analysis, and map business processes to Oracle Cloud ERP solutions. Engage with business users across multiple business units to understand business objectives and deliver \u2026",
+        "redirect_url": "https://www.adzuna.in/land/ad/5831966020?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=4947E4BDC3427DB582450A6ECFBDECF7CFC83E3F",
+        "salary_is_predicted": "0",
+        "title": "Senior Portfolio Project Manager",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Kastech Software Solutions Group",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5831966020",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India",
+          "area": [
+            "India"
+          ]
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Specialist, Business Agility",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5854537708?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=26F056B6695B2AC7E75E8A05D19C743732F0E9C8",
+        "description": "This job is with MSD, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description The Opportunity Based in Hyderabad, join a global healthcare biopharma company and be part of a 130- year legacy of success backed by ethical integrity, forward momentum, and an inspiring mission to achieve new milestones in global healthcare. Be part of an organisation driven by digital technology and d\u2026",
+        "contract_time": "full_time",
+        "created": "2026-08-25T00:07:27Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NDUzNzcwOCIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.DIOqR7kUuKWu7u9x-n8_rgoKiGkqfJJjWQ6DM-8CagY",
+        "location": {
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": 78.50806,
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 17.40275,
+        "id": "5854537708",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "MSD"
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5847959689?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=372EF4E845947BE4EFF9C7A03B2DC2B0852D5534",
+        "title": "Supply Chain- Operations Transformation Lead",
+        "description": "This job is with HP, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Supply Chain- Operations Transformation Lead Description - HP is the world's leading personal systems and printing company, we create technology that makes life better for everyone, everywhere. Our innovation springs from a team of individuals, each collaborating and contributing their own perspectives, knowledge, and ex\u2026",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0Nzk1OTY4OSIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.kYVfax_g4YX37TjhI0Q36SxkspmQYGwTAtFfKJwbaUc",
+        "created": "2026-08-19T14:04:52Z",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 13.06041,
+        "location": {
+          "display_name": "Chennai, Tamil Nadu",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Chennai"
+          ]
+        },
+        "longitude": 80.24963,
+        "id": "5847959689",
+        "company": {
+          "display_name": "HP",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "title": "Planning & Reporting CoE Analyst",
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139410?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=369FFB2459CB237FB9DA6D460B8B2AB0EAC16AC4",
+        "description": "This job is with Reckitt, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About Us We're Reckitt, home to the world's best loved and trusted hygiene and health brands. Our purpose defines why we exist: to protect, heal and nurture in the relentless pursuit of a cleaner, healthier world. We are a global team united by this purpose. Join us in our fight to make access to the highest quality\u2026",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNzEzOTQxMCIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.zrtuOwGOyw0KY9KNcynGXkdv6E4wsY26yB1RqhevuxM",
+        "created": "2026-08-12T01:59:35Z",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "latitude": 17.40275,
+        "location": {
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Hyderabad, Telangana"
+        },
+        "longitude": 78.50806,
+        "id": "5837139410",
+        "company": {
+          "display_name": "Reckitt",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "title": "Market Risk Production Support Lead",
+        "redirect_url": "https://www.adzuna.in/land/ad/5834882884?se=lMp-ieCh8RGffey-dLHpvQ&utm_medium=api&utm_source=cd9c749f&v=927335B15B9D38851BB84596ACF60E1C36E4470C",
+        "description": "Why Mizuho At Mizuho, we provide the stability of an international industry leader with the career trajectory of a growing business. Our steady, strategic growth gives our people at all levels rewarding degrees of responsibility and richer work experience than a boutique firm or an established giant could offer alone. It\u2019s the local expertise of our employees that makes our global network so powerful. By collaborating with colleagues and clients who have the same ambition and drive, you can amp\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNDg4Mjg4NCIsInMiOiJsTXAtaWVDaDhSR2ZmZXktZExIcHZRIn0.YYJNNaiWNdanWRC99kOkmqXf_YNJoe0fXX2Hju8vVqs",
+        "created": "2026-08-10T00:10:35Z",
+        "location": {
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "id": "5834882884",
+        "company": {
+          "display_name": "Mizuho",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      }
+    ],
+    "count": 9288,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults"
+  }
+}

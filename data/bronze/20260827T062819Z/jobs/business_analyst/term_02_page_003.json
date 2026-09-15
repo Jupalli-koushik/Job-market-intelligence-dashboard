@@ -1,0 +1,1529 @@
+{
+  "url": "https://api.adzuna.com/v1/api/jobs/in/search/3",
+  "params": {
+    "results_per_page": 50,
+    "content-type": "application/json",
+    "where": "India",
+    "what": "analyst"
+  },
+  "fetched_at_utc": "2026-08-27T06:29:42.541685+00:00",
+  "status_code": 200,
+  "response_url": "https://api.adzuna.com/v1/api/jobs/in/search/3?app_id=cd9c749f&app_key=b57cfdd3348942d64d752847c03738bf&results_per_page=50&content-type=application%2Fjson&where=India&what=analyst",
+  "body": {
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "count": 20294,
+    "mean": 1162839.1,
+    "results": [
+      {
+        "title": "Strategic Security Senior Analyst",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Novartis"
+        },
+        "id": "5806276033",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODA2Mjc2MDMzIn0.3N1YTY53QCJWNmxs5rO7T7wNt2Z5uIWJ5ATVKr3U0C4",
+        "location": {
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India"
+          ]
+        },
+        "description": "This job is with Novartis, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Summary The GSOC Senior Analyst also plays a key role in supporting critical asset monitoring, secure travel support, and emergency communication workflows. Operating within a 24x7 rotational shift model, the analyst ensures continuity of operations, compliance with ISO 27001 and EN 50518 standards, and maintains s\u2026",
+        "redirect_url": "https://www.adzuna.in/land/ad/5806276033?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=A66FC408914191D50086B3B3C6475DB85CB15D64",
+        "salary_is_predicted": "0",
+        "created": "2026-07-18T22:16:45Z",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        }
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5820906302?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=0F82BAD1B7AE381BB72CF8393BE820F9551F3B7A",
+        "salary_is_predicted": "0",
+        "created": "2026-07-30T13:53:22Z",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Kraft Heinz"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyMDkwNjMwMiIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.EXuQ2DI7vhEdSxezE9YSMbiiKV3GTkjBYj7WJQVUfjQ",
+        "id": "5820906302",
+        "description": "This job is with Kraft Heinz, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description Position: Payroll Analyst Reports to: Payroll Lead Position Summary: As a Payroll Analyst, you will play a key operational role in supporting payroll activities, ensuring accurate, timely, and compliant payroll processing. Reporting to the Payroll Lead, you will be responsible for managing payrol\u2026",
+        "location": {
+          "display_name": "India",
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "title": "Analyst I, Global GBS"
+      },
+      {
+        "longitude": 75.949555,
+        "title": "Product Marketing Data Analyst",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Danaher"
+        },
+        "id": "5846723089",
+        "latitude": 19.439563,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODQ2NzIzMDg5In0.hTmfXq2XGyo-QuuPuL2gYOsA5t31b3rL1M-2NRtokJg",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra"
+          ],
+          "display_name": "Maharashtra, India"
+        },
+        "description": "This job is with Danaher, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Find what drives you on a team with a more than 75-year history of discovery, determination, and innovation. As a global leader in high-tech filtration, separation, and purification, Pall Corporation thrives on helping our customers solve their toughest challenges. Our products serve diverse, global customer needs a\u2026",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723089?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=FD0BD05DE843F3BDED634B0C1DBF729F860AD76C",
+        "salary_is_predicted": "0",
+        "created": "2026-08-18T18:03:33Z",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Sonia Industries",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5784149288",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1Nzg0MTQ5Mjg4In0.uHDrt3GhjrCAyBmYWFNFXb8ULhLGcW-jM18EIgFf8TI",
+        "location": {
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India"
+        },
+        "description": "Company Description Sonia Industries is a GMP-compliant manufacturer focused on providing customers with a diverse range of high-quality products supported by advanced reactor facilities, including glass reactors that operate at extreme temperatures. The company maintains stringent quality assurance norms and uses state-of-the-art analytical methods to evaluate final product quality. With strong R&D scale-up capabilities from lab scale to commercialisation, Sonia Industries collaborates closely\u2026",
+        "title": "QC Executive / QC Analyst",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.in/land/ad/5784149288?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=399B4319E8C9DF5B5DABE997922A97E37CB2F25F",
+        "salary_is_predicted": "0",
+        "created": "2026-07-02T01:21:34Z",
+        "category": {
+          "tag": "scientific-qa-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Scientific & QA Jobs"
+        }
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723092?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=B940BEEC26331667C9DC28B66C0BC3F43D244E9B",
+        "salary_is_predicted": "0",
+        "created": "2026-08-18T18:03:33Z",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Wise",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5846723092",
+        "latitude": 17.40275,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODQ2NzIzMDkyIn0.J4sNYLoJJmQovVxnNGClzSscHDdQTbu18dtDcwYTvlQ",
+        "location": {
+          "display_name": "Hyderabad, Telangana",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "description": "This job is with Wise, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Wise is a global technology company, building the best way to move and manage the world\u2019s money. Min fees. Max ease. Full speed. Whether people and businesses are sending money to another country, spending abroad, or making and receiving international payments, Wise is on a mission to make their lives easier and save t\u2026",
+        "contract_time": "full_time",
+        "title": "Lead Product Analyst - Operations",
+        "longitude": 78.50806
+      },
+      {
+        "salary_is_predicted": "0",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-08-12T11:59:36Z",
+        "redirect_url": "https://www.adzuna.in/land/ad/5837843626?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=4D24BE7F904F51D1FAA9BF1F077141031EAFDF41",
+        "contract_time": "full_time",
+        "title": "Sr. Analyst - Tax Integrations",
+        "longitude": 78.50806,
+        "id": "5837843626",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODM3ODQzNjI2In0.tcNCE5Y3-mgZkAAWmVMAhNzwanQ3WL4ActYVC7G6JPY",
+        "latitude": 17.40275,
+        "description": "This job is with Warner Bros. Discovery, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Welcome to Warner Bros. Discovery\u2026 the stuff dreams are made of. Who We Are\u2026 When we say, \u201cthe stuff dreams are made of,\u201d we\u2019re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD\u2019s vast portfolio of iconic content and beloved brands,\u2026",
+        "location": {
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Hyderabad, Telangana"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Warner Bros. Discovery"
+        }
+      },
+      {
+        "longitude": 77.59837,
+        "title": "Cash Application & Collections Analyst",
+        "contract_time": "full_time",
+        "id": "5838614025",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzODYxNDAyNSIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.em--14iym5o0RfOvBKtOsOgwE9fx5zgtUqV8gnwddTA",
+        "latitude": 12.95703,
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka"
+        },
+        "description": "This job is with RWS, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Cash Application & Collections Analyst Job LocationsIN-BangalorePosted Date3 days ago(21/08/2026 05:48)Job ID2026-6530 of Openings1CategoryFinanceBanding2 Job Purpose The Cash Application & Collections Analyst is responsible for the accurate and timely application of customer payments, maintaining cash application recor\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "RWS",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "created": "2026-08-12T22:00:43Z",
+        "redirect_url": "https://www.adzuna.in/land/ad/5838614025?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=815940E4C6B1E66DC22A793E6BD33712B2F36A61"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5812528540?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=F3CCE45F970E54EB9E77AE10D59253AE09FCB3A4",
+        "salary_is_predicted": "0",
+        "category": {
+          "tag": "consultancy-jobs",
+          "label": "Consultancy Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-07-23T22:17:24Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Accenture"
+        },
+        "id": "5812528540",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMjUyODU0MCIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.zvNHPtnJE7pwqNTa_bExGwkW3r6w1Y8qZ2RV13pP97E",
+        "description": "This job is with Accenture, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Skill required: Tech for Operations - Automation Anywhere Designation: App Automation Eng Analyst Qualifications: BE Years of Experience: 3 to 5 years About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security.Combining unmatched experience and spec\u2026",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "title": "App Automation Eng Analyst"
+      },
+      {
+        "contract_time": "full_time",
+        "title": "Business Interlock Senior Analyst",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Accenture",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMjUyODQyMCIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.jNEMfKVYJ1Vc_Vxq4FQGzwyKHpQottm2VBsR-Sfkr8c",
+        "id": "5812528420",
+        "description": "This job is with Accenture, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Skill required: Talent Development - Instructor-Led Training (ILT) Designation: Business Interlock Senior Analyst Qualifications: Any Graduation Years of Experience: 5 to 8 years About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security.Combining u\u2026",
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5812528420?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=2F695C43DD635B536161D952290A3FF8B9A9B44B",
+        "salary_is_predicted": "0",
+        "created": "2026-07-23T22:17:13Z",
+        "category": {
+          "tag": "consultancy-jobs",
+          "label": "Consultancy Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "title": "Senior Analyst - Internal Audit",
+        "contract_time": "full_time",
+        "longitude": 78.50806,
+        "location": {
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Hyderabad, Telangana"
+        },
+        "description": "This job is with Wise, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Wise is a global technology company, building the best way to move and manage the world\u2019s money. Min fees. Max ease. Full speed. Whether people and businesses are sending money to another country, spending abroad, or making and receiving international payments, Wise is on a mission to make their lives easier and save t\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1MjE2NDQyNSIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.ttRBKKZ_DD7WwIhrwmv9kDGdOmF0iFeNE1iuE9eEvz8",
+        "id": "5852164425",
+        "latitude": 17.40275,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Wise"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2026-08-22T12:06:19Z",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5852164425?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=475302999EA43BCC908B3B261E2AD4C6A04D15C7"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Accenture"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMjUyODM1NCIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.8e4xdyy3WFbK0uI9ZVST79Y2O6AN3A5ARa9JpQFXa5A",
+        "id": "5812528354",
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka"
+        },
+        "description": "This job is with Accenture, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Skill required: Talent Development - Instructor-Led Training (ILT) Designation: Business Interlock Senior Analyst Qualifications: Any Graduation Years of Experience: 5 to 8 years About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security.Combining u\u2026",
+        "title": "Business Interlock Senior Analyst",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.in/land/ad/5812528354?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=5E2E5E07A22E5D54001160388EDECA8BB3F7AF0C",
+        "salary_is_predicted": "0",
+        "created": "2026-07-23T22:17:08Z",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "HR & Recruitment Jobs",
+          "tag": "hr-jobs"
+        }
+      },
+      {
+        "title": "Geographic Information Systems Analyst",
+        "longitude": 80.24963,
+        "company": {
+          "display_name": "Tata Consultancy Services",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Role: GIS Data Analyst Required Technical Skill Set \u2022 Spatial Data Editing, Transformation and Analysis \u2022 ArcGIS Pro \u2022 GeoProcessing Tools/Tasks \u2022 Knowledge of Various GIS Data formats (FGDB, Shapefiles, CSV etc) \u2022 Esri GeoDatabase (PostgreSQL) \u2022 Spatial Queries on PostgreSQL \u2022 Hands on Experience on UNM Data Model \u2022 Python Development with strong ArcPy. Arcade skills for automation, data cleanup, and validation \u2022 Experience in spatial data transformation, ETL processes, and data migration tool\u2026",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Chennai"
+          ],
+          "display_name": "Chennai, Tamil Nadu"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODMwNDE2ODQxIn0.-eMk_uCa5XY_LypoUjvupkwuPhCQKX4OKqcgeoreHXE",
+        "latitude": 13.06041,
+        "id": "5830416841",
+        "redirect_url": "https://www.adzuna.in/land/ad/5830416841?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=FEC7D1EE1AA6A4B6A26ECD8DABAFA0FB15700B42",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "created": "2026-08-06T17:50:30Z",
+        "salary_is_predicted": "0"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139836?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=F9D85BE96E01FF2B3447E9C8C93DC6E3662AEF4D",
+        "created": "2026-08-12T01:59:43Z",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "contract_time": "full_time",
+        "title": "Business Analyst/Product Owner",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Capco"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "This job is with Capco, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About Us \u201cCapco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across globe, we support 100 clients acros\u2026",
+        "location": {
+          "display_name": "Chennai, Tamil Nadu",
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Chennai"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNzEzOTgzNiIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.kMajQl_y2tzCyU7KXF2deU3_MX-Zqm9UT5tL492LGRE",
+        "id": "5837139836"
+      },
+      {
+        "created": "2026-08-18T18:03:36Z",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs"
+        },
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723317?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=6350CB41B208F731EBE58B190B11FBEA2148EE8B",
+        "title": "Global Senior Treasury Analyst",
+        "longitude": 72.84415,
+        "contract_time": "full_time",
+        "description": "This job is with Morningstar, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Below is a job description for the Treasury role in Mumbai, India that balances BAU ownership (daily reporting, bank account administration, controls) with project management and solution-focused initiatives . Global Senior Treasury Analyst (BAU  Projects) - Mumbai, India About the Role We're looking for a Globa\u2026",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "display_name": "Mumbai, Maharashtra"
+        },
+        "id": "5846723317",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODQ2NzIzMzE3In0.UMFjXXW7Vd1FaaJ8zWhGuY-IBZL6BOVndAz6WUeNc60",
+        "latitude": 19.00821,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Morningstar"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "created": "2026-08-12T01:59:35Z",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs"
+        },
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139410?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=369FFB2459CB237FB9DA6D460B8B2AB0EAC16AC4",
+        "description": "This job is with Reckitt, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About Us We're Reckitt, home to the world's best loved and trusted hygiene and health brands. Our purpose defines why we exist: to protect, heal and nurture in the relentless pursuit of a cleaner, healthier world. We are a global team united by this purpose. Join us in our fight to make access to the highest quality\u2026",
+        "location": {
+          "display_name": "Hyderabad, Telangana",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNzEzOTQxMCIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.iqCnTf_vl5KrpR2hkhXYkDIpUH5A-py1ueRhsyY68XA",
+        "id": "5837139410",
+        "latitude": 17.40275,
+        "company": {
+          "display_name": "Reckitt",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "title": "Planning & Reporting CoE Analyst",
+        "longitude": 78.50806
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5849640361?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=11C60139F33116AC26ABF4C248C0297BF32BCA7A",
+        "salary_is_predicted": "0",
+        "created": "2026-08-20T20:04:59Z",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Danaher"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODQ5NjQwMzYxIn0.82gV3ZrSrfPxGbKTYLvgRen-fG5-fpdjRBRSKmxX548",
+        "id": "5849640361",
+        "latitude": 12.95703,
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka"
+        },
+        "description": "This job is with Danaher, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Bring more to life. Are you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology? At Cytiva, one of Danaher\u2019s 15 operating companies, our work saves lives\u2014and we\u2019re all united by a shared commitment to innovate for tangible impact. You\u2019ll thrive in a cultu\u2026",
+        "title": "Analyst, Competitive Intelligence - Bangalore",
+        "longitude": 77.59837,
+        "contract_time": "full_time"
+      },
+      {
+        "salary_is_predicted": "0",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "created": "2026-08-13T08:00:37Z",
+        "redirect_url": "https://www.adzuna.in/land/ad/5839268469?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=DFFA935FB5980AE3E28AF9E4C7D249F6BA16EC5C",
+        "title": "Finance Analyst - General Accounting",
+        "longitude": 77.59837,
+        "contract_time": "full_time",
+        "id": "5839268469",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzOTI2ODQ2OSIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.HdGz4DjDrVyu-7NXBPQxTQgqdEPXs5a8-O9H_y9a8xI",
+        "latitude": 12.95703,
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka"
+        },
+        "description": "This job is with ABB, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner\u2014and every person here makes that happen. You\u2019ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This Position reports to: TEAM LEAD- GENERAL ACCOUNTING Your role and responsibilities (Mandator\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "ABB",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs"
+        },
+        "created": "2026-08-18T18:03:42Z",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723588?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=4636B2D20086511B4BB7596C290FA66BF0DDB57B",
+        "title": "Analyst for CB - Business Finance",
+        "longitude": 72.84415,
+        "contract_time": "full_time",
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Corporate Title: Analyst Location: Mumbai, India Role Description This is a Business Finance role for the Corporate Bank (\u201cCB\u201d) franchise and is responsible for managing all CB Divisional Finance topics, facing off to FD/FMs and business managers across hub locations. The incumbent would be r\u2026",
+        "location": {
+          "display_name": "Mumbai, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "latitude": 19.00821,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjcyMzU4OCIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.wAubA52r5z261XR1-SrOXB2yGpEVwXfbK33LGuPkpoI",
+        "id": "5846723588",
+        "company": {
+          "display_name": "Deutsche Bank",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "created": "2026-07-16T15:57:32Z",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5802784818?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=6E6F6B1CAC815B0E1F6D33441ADDF8A0D8A27986",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "description": "Job Overview The Senior Analyst, Lease Accounting is a key member of Link Logistics\u2019 Accounting and Reporting organization, responsible for the end-to-end accuracy, maintenance, and optimization of lease data within Yardi Voyager. This role combines core lease administration responsibilities with advanced lease accounting and CAM recovery ownership, ensuring lease data integrity from initial setup through ongoing billing, recoveries, and reporting. The position serves as a subject matter expert\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMjc4NDgxOCIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.NgoJMUiRCzjLtExKX6Vje0QoMjSi7xRNV6020xup7V8",
+        "id": "5802784818",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Real estate GCC"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Senior Analyst, Lease Accounting"
+      },
+      {
+        "salary_is_predicted": "0",
+        "category": {
+          "tag": "customer-services-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Customer Services Jobs"
+        },
+        "created": "2026-07-23T22:17:08Z",
+        "redirect_url": "https://www.adzuna.in/land/ad/5812528323?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=EA52BB17D3F1E952000E8D00A38E1F02D2E6C393",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODEyNTI4MzIzIn0.2D8KAt9gBoTPOB3BXE-BFj6YRjuVdVczChRRd452wDs",
+        "id": "5812528323",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "description": "This job is with Accenture, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Skill required: Business Reporting & Governance - Reporting Analytics Designation: Measurement & Report Senior Analyst Qualifications: Any Graduation Years of Experience: 5 to 8 years About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security.Combin\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Accenture",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "contract_time": "full_time",
+        "title": "Measurement & Report Senior Analyst"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5819192402?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=4FCB3AD0020A868510FB12C14C49439B2F8FEFDD",
+        "salary_is_predicted": "0",
+        "created": "2026-07-29T07:48:50Z",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs"
+        },
+        "title": "Financial Planning & Analysis Analyst",
+        "longitude": 77.59837,
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "ABB"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODE5MTkyNDAyIn0.n0cHSliGejBcqSgDjnasrzeAhzqtLgD8piyh1uHFt7E",
+        "id": "5819192402",
+        "latitude": 12.95703,
+        "description": "This job is with ABB, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner\u2014and every person here makes that happen. You\u2019ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This Position reports to: Financial Planning & Analysis Manager The FP&A analyst role is to supp\u2026",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        }
+      },
+      {
+        "location": {
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India"
+          ]
+        },
+        "description": "This job is with S&P Global, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About the Role: Grade Level (for internal use): 07 The Role The Data Analyst is an individual contributor role that develops foundational proficiency in one or more workflows or datasets. The role supports end-to-end data lifecycle activities including sourcing, basic validation, enrichment, and delivery under gu\u2026",
+        "id": "5854537736",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NDUzNzczNiIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.xdqouvStDxcc9MWXWUvHULaXePOc7sx2SpGUKiqMrJI",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "S&P Global"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "title": "Data Analyst - Data Operations",
+        "created": "2026-08-25T00:07:29Z",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5854537736?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=76C096C486B071B40A00779E83F8AE84318CD1FE"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723389?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=DBBD36E3F505D8AFDF67FF22DC342924BC193B59",
+        "created": "2026-08-18T18:03:38Z",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "title": "Climate Risk Analyst \u2013 ERM",
+        "contract_time": "full_time",
+        "longitude": 72.84415,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deutsche Bank"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Job Title: Climate Risk Analyst \u2013 ERM Corporate Title: NCT Location: Mumbai, India Role Description Enterprise Risk Management (ERM)'s mission is to shape Bank strategy and risk management at enterprise level, unconstrained by risk types and geographies, together with ERM's partners in Risk a\u2026",
+        "location": {
+          "display_name": "Mumbai, Maharashtra",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ]
+        },
+        "id": "5846723389",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjcyMzM4OSIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.FMbDq2oDcw2H51WjlfbEpdsmNGzhusP09hWU5zNxArs",
+        "latitude": 19.00821
+      },
+      {
+        "contract_time": "full_time",
+        "title": "Business Analyst, Content Enablement",
+        "id": "5815611056",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNTYxMTA1NiIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.BnMH3nIlp_SkUXp0TQS6eyBjwKwXOWxVXRkDicdR7AY",
+        "location": {
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India"
+          ]
+        },
+        "description": "This job is with Novartis, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Summary LI-Hybrid - Location: Hyderabad, 3 days' work from office at Novartis, Hyderabad is mandatory Novartis' Content Enablement Team vision is to provide content technology that enables world-class creative and executional excellence by 2028. We will do this by developing an industry-leading content ecosystem fo\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Novartis"
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-07-25T23:45:21Z",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5815611056?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=397DE29BB585DACB89502F7664565DD97346859B"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723418?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=9282FEBB7C3B2497B918E709EE30BBC6D047EA40",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-08-18T18:03:39Z",
+        "salary_is_predicted": "0",
+        "longitude": 88.34373,
+        "title": "Sales Incentive Plan Analyst",
+        "contract_time": "full_time",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Danaher"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "This job is with Danaher, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Bring more to life. Are you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology? At Leica Microsystems, one of Danaher\u2019s 15 operating companies, our work saves lives\u2014and we\u2019re all united by a shared commitment to innovate for tangible impact. You\u2019ll thriv\u2026",
+        "location": {
+          "display_name": "Kolkata, West Bengal",
+          "area": [
+            "India",
+            "West Bengal",
+            "Kolkata"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "latitude": 22.57285,
+        "id": "5846723418",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjcyMzQxOCIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.PYcZbg9pZE9WTfzwxKvhmz_UpZJgnnncQj9gZnEQPaQ"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5849578744?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=427BA30917B12441BD3727C27931EFD71A29CE0A",
+        "created": "2026-08-20T17:58:13Z",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs"
+        },
+        "salary_is_predicted": "0",
+        "title": "Technical Accounting Senior Analyst",
+        "contract_time": "full_time",
+        "longitude": 78.50806,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Hartree Partners"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Company Overview: Hartree Partners (Hartree) is a global energy and commodities firm with an international reputation for integrity. Hartree uses decades of experience in the physical and financial energy and commodities markets to assist customers in accessing these markets and navigating their complexities, for maximum revenues at minimum risk. The company provides a wide range of services to a substantial and diversified customer base that includes corporations, financial institutions, gover\u2026",
+        "location": {
+          "display_name": "Hyderabad, Telangana",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODQ5NTc4NzQ0In0.Y0Fs4jPZicc3JICc5vTNxP_-vGGUpOUN_07oyPImpMw",
+        "id": "5849578744",
+        "latitude": 17.40275
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5852164435?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=35A6E32F16978F3FF9181AF6A0A921F189273C5F",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs"
+        },
+        "created": "2026-08-22T12:06:20Z",
+        "salary_is_predicted": "0",
+        "contract_type": "permanent",
+        "company": {
+          "display_name": "ABB",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "description": "This job is with ABB, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner\u2014and every person here makes that happen. You\u2019ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This Position reports to: Team Lead - Intercompany Your role and responsibilities (Mandatory) In\u2026",
+        "latitude": 12.95703,
+        "id": "5852164435",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1MjE2NDQzNSIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.iicZZri_cD1suOgo5wOb2E3HXKX7nXdepwGQHEir8SE",
+        "title": "Account and Reporting Analyst - Intercompany",
+        "longitude": 77.59837,
+        "contract_time": "full_time"
+      },
+      {
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "description": "This job is with ABB, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner\u2014and every person here makes that happen. You\u2019ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This Position reports to: FP&A CoE Hub Business Area Lead Roles and Responsibilities: \u2022 Performi\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODUyMTY0NDk3In0.IjGhCgegf9fgUplKlLofKCrxUOch3XvXLLlpiWZCNow",
+        "id": "5852164497",
+        "latitude": 12.95703,
+        "company": {
+          "display_name": "ABB",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Financial Planning & Analysis Analyst",
+        "contract_time": "full_time",
+        "longitude": 77.59837,
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs"
+        },
+        "created": "2026-08-22T12:06:29Z",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5852164497?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=125A14A484EB1F2CF459110E4BBC8558FE7893A0"
+      },
+      {
+        "location": {
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India"
+        },
+        "description": "This job is with Novartis, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Summary Novartis US IM Content enablement team is looking for a Senior Analyst professional who will develop analytics solutions for Martech content enablement products and deliver analytical dashboards and insights as needed. The Content Enablement Team vision is to enable a seamless ecosystem which makes finding,\u2026",
+        "id": "5786419121",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1Nzg2NDE5MTIxIn0.IvXqfKDH5oeXH7x1Q1pTmfyRMH804Co5M-Z7pwrOFKg",
+        "company": {
+          "display_name": "Novartis",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Senior Analyst, Content Analytics",
+        "contract_time": "full_time",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "created": "2026-07-03T10:54:34Z",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5786419121?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=EC752806F3C2D212D316BB9B1E003494E9790087"
+      },
+      {
+        "longitude": 72.84415,
+        "title": "Business Finance Senior Analyst",
+        "contract_time": "full_time",
+        "location": {
+          "display_name": "Mumbai, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Job Title: Business Finance Senior Analyst Corporate Title: AVP Location: Mumbai, India Role Description Within Business Finance, we have Revenue Control & Financial Control functions. For each product / business line the Revenue control & Financial control responsibilities are segregated & w\u2026",
+        "id": "5846723378",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODQ2NzIzMzc4In0.HAU-79nuE0mkgO9uaUHgxWgG-dtErtsWGxG0PI9JwDo",
+        "latitude": 19.00821,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deutsche Bank"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2026-08-18T18:03:38Z",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723378?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=A8D5A375F09A5AD261972942F70E863FDE622222"
+      },
+      {
+        "longitude": 78.50806,
+        "title": "VBA Automation Analyst (Contractor)",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Reckitt"
+        },
+        "contract_type": "contract",
+        "id": "5837139948",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNzEzOTk0OCIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.kaYiysi5iSYceP0Zoa1ypzgYfqASOcIdltuL1zR_nGA",
+        "latitude": 17.40275,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana"
+        },
+        "description": "This job is with Reckitt, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. We are Reckitt Home to the world's best loved and trusted hygiene, health, and nutrition brands. Our purpose defines why we exist: to protect, heal and nurture in the relentless pursuit of a cleaner, healthier world. We are a global team united by this purpose.Join us in our fight to make access to the highest quali\u2026",
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139948?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=A7B37407079768DE62A32EFB0979B3F611EA69BE",
+        "salary_is_predicted": "0",
+        "created": "2026-08-12T01:59:44Z",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "WPP Production"
+        },
+        "id": "5833433946",
+        "latitude": 19.00821,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODMzNDMzOTQ2In0.hs9DtXW39l5IfrecIEfSlDFIhXdoayFSx14lc5d0buw",
+        "location": {
+          "display_name": "Mumbai, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "description": "This job is with WPP Production, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About WPP Production We are WPP Production - the unified global production company that brings together all of WPP's content producers, studios and craft experts into one connected organisation. We combine world-class human craft with next generation technology to originate, design, and deliver multi-channel \u2026",
+        "title": "Social Listening & Engagement Analyst",
+        "contract_time": "full_time",
+        "longitude": 72.84415,
+        "redirect_url": "https://www.adzuna.in/land/ad/5833433946?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=1F68DCDAED51F29828930529D89D257DCC8B0ECD",
+        "salary_is_predicted": "0",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs"
+        },
+        "created": "2026-08-08T17:56:27Z"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139028?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=5174BB4BB5BB1E5FCA340E1D047A6A467148C794",
+        "created": "2026-08-12T01:59:26Z",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_is_predicted": "0",
+        "company": {
+          "display_name": "Standard Chartered Bank",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "This job is with Standard Chartered Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Summary We are seeking a dedicated and proactive Senior Analyst for Production Engineering to join our team in Chennai, India. This role demands a keen ability to quickly grasp and support Core Banking features, leveraging the latest technologies to ensure seamless application performance and sys\u2026",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Chennai"
+          ],
+          "display_name": "Chennai, Tamil Nadu"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNzEzOTAyOCIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.l_7iu_YQWQzFHi38OppW92oafTnuRGSytn-xxVhjsA4",
+        "latitude": 13.06041,
+        "id": "5837139028",
+        "title": "Sr. Analyst, Production Eng",
+        "longitude": 80.24963,
+        "contract_time": "full_time"
+      },
+      {
+        "contract_time": "full_time",
+        "title": "Senior AI Platform Analyst",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNDAyMjAwMiIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.QR4VP7nhcW8ZRig3efoJIBd7HmVJ2CQWRlzHl4dOB0s",
+        "id": "5834022002",
+        "description": "This job is with Ellucian, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About Ellucian Ellucian powers innovation for higher education, partnering with approximately 3,000 customers across 50 countries, serving more than 21 million students. Ellucian's AI-powered platform, trained on the richest dataset available in higher education, drives efficiency, personalized experiences, and str\u2026",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Ellucian"
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-08-09T04:12:51Z",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5834022002?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=40C271A0A804ADB8E5E6A4870C5C005DB6D0F1F6"
+      },
+      {
+        "title": "Quantitative Strategist Senior Analyst, AS",
+        "longitude": 72.84415,
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Deutsche Bank",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODQ2NzIzMDQ5In0.ln3flZ7g-VMZ9vuNal4LdbNxQsMi2YgDSjw2bPKWlhM",
+        "latitude": 19.00821,
+        "id": "5846723049",
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description Group Strategic Analytics (GSA) is part of Group Chief Operation Office (COO) which acts as the bridge between the Bank\u2019s businesses and infrastructure functions to help deliver the efficiency, control, and transformation goals of the Bank. You will join the team with the res\u2026",
+        "location": {
+          "display_name": "Mumbai, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723049?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=755A91AB70924794D2B7394949900AEC19473753",
+        "salary_is_predicted": "0",
+        "created": "2026-08-18T18:03:32Z",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        }
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Danaher"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "This job is with Danaher, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Bring more to life. Are you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology? At Pall Corporation, one of Danaher\u2019s 15 operating companies, our work saves lives\u2014and we\u2019re all united by a shared commitment to innovate for tangible impact. You\u2019ll thrive \u2026",
+        "location": {
+          "display_name": "Maharashtra, India",
+          "area": [
+            "India",
+            "Maharashtra"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "latitude": 19.439563,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODQ3OTU5NzE2In0.K961saXOnc9wkdVxwKcVV7BZiOjjz0ZjOBrZBGrq1e4",
+        "id": "5847959716",
+        "title": "PPDS Analyst, Manufacturing Systems",
+        "longitude": 75.949555,
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.in/land/ad/5847959716?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=006A8A54AB7E9E4BAC7A4711BAB0A49143344A95",
+        "created": "2026-08-19T14:04:55Z",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_is_predicted": "0"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "ABB"
+        },
+        "latitude": 12.95703,
+        "id": "5808323226",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODA4MzIzMjI2In0.SoKWvuszteuqzApuJJWBuWS5OX7xpAT8n3phiI3tyWg",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "description": "This job is with ABB, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner\u2014and every person here makes that happen. You\u2019ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This Position reports to: Financial Planning & Analysis Manager Your role and responsibilities I\u2026",
+        "title": "Financial Planning and Analysis Analyst",
+        "contract_time": "full_time",
+        "longitude": 77.59837,
+        "redirect_url": "https://www.adzuna.in/land/ad/5808323226?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=C4FE3271A57CC93290C7456F2628F4B9AEB6B821",
+        "salary_is_predicted": "0",
+        "created": "2026-07-20T23:42:13Z",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        }
+      },
+      {
+        "latitude": 12.95703,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1Nzg1NzcyODUzIn0.Ywj8j8rIz8Z8bt7X0bT4qaezdCNzV6H9kjZ8eK_bpnM",
+        "id": "5785772853",
+        "description": "This job is with ABB, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries outrun - leaner and cleaner. Here, progress is an expectation - for you, your team, and the world. As a global market leader, we\u2019ll give you what you need to make it happen. It won\u2019t always be easy, growing takes grit. But at ABB, you\u2019ll never run alone. Run what runs the world. This Position \u2026",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "ABB",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "longitude": 77.59837,
+        "title": "Accounting and Reporting Analyst_P2P",
+        "contract_time": "full_time",
+        "salary_is_predicted": "0",
+        "created": "2026-07-03T00:54:30Z",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5785772853?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=D574530C1A9BF10951D66C64DE3402C7E14BBBF9"
+      },
+      {
+        "title": "Finance Analyst- Accounts Receivable",
+        "longitude": 77.59837,
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODUyMTY0NTMwIn0.PhxyWBVxK9mLvZfUj4DWf_HVTuK6VFd4PWFD9mDFnkQ",
+        "id": "5852164530",
+        "latitude": 12.95703,
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka"
+        },
+        "description": "This job is with ABB, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner\u2014and every person here makes that happen. You\u2019ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This Position reports to: Associate Delivery Manager MDG-Customer Your role and responsibilities\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "ABB",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-08-22T12:06:33Z",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5852164530?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=22392F1981E43ABBCDD01253F0E98316F82A20AD"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5785771686?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=583D8127E9E147E445E61F89F4F710175BE2E4D4",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-07-03T00:54:19Z",
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Invesco"
+        },
+        "contract_type": "contract",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "This job is with Invesco, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. As one of the world's leading independent global investment firms, Invesco is dedicated to rethinking possibilities for our clients. By delivering the combined power of our distinctive investment management capabilities, we provide a wide range of investment strategies and vehicles to our clients around the world. I\u2026",
+        "location": {
+          "display_name": "Hyderabad, Telangana",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1Nzg1NzcxNjg2In0.IRRJsRVV-VM2ApuW-KH7kgFlnYl55j0hG1LfoUAhShQ",
+        "latitude": 17.40275,
+        "id": "5785771686",
+        "title": "Sr Client Reporting Analyst",
+        "contract_time": "full_time",
+        "longitude": 78.50806
+      },
+      {
+        "salary_is_predicted": "0",
+        "created": "2026-08-13T18:00:12Z",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5840277328?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=8FC500296F2E461DB1230D8E69662D2986111BB8",
+        "latitude": 12.95703,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODQwMjc3MzI4In0.4pwlxf-Zmh-WVV2UNUovRDc3w2LWEfpSVnm_qRQgqc4",
+        "id": "5840277328",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "description": "This job is with ABB, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner\u2014and every person here makes that happen. You\u2019ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This Position reports to: Accounting & Reporting Manager - Account We are looking for a Spanish-\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "ABB"
+        },
+        "title": "Accounting & Reporting Analyst-Payable",
+        "contract_time": "full_time",
+        "longitude": 77.59837
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "TP"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODU1MjMzNzgyIn0.YBoW7DQCphrGhPpGThXwqY3yKQghcrb-z-nro93VCJ0",
+        "id": "5855233782",
+        "latitude": 19.00821,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "display_name": "Mumbai, Maharashtra"
+        },
+        "description": "ONLY FOR IMMEDIATE JOINER OR 1 WEEK Strong AML/KYC and Sanctions Screening Knowledge - OFAC, UN, EU/UK HMT sanctions list, Sanctions evasion patterns (shell companies, aliases, false documentation), True match vs false positive Video KYC . Accurate PEP Identification & EDD - Domestic vs foreign PEPs, Family members & close associates, when to escalate for EDD Name Matching & Fuzzy Logic - Interpret fuzzy match scores, identify cultural name variations, Understand phonetic/alias matches, Separat\u2026",
+        "longitude": 72.84415,
+        "title": "Anti-Money Laundering Analyst",
+        "redirect_url": "https://www.adzuna.in/land/ad/5855233782?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=CD63F764F2F3FA0E9CB27F3AD6515C58A3FDA5AB",
+        "salary_is_predicted": "0",
+        "created": "2026-08-25T15:45:32Z",
+        "category": {
+          "tag": "consultancy-jobs",
+          "label": "Consultancy Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs"
+        },
+        "created": "2026-08-18T18:03:42Z",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723624?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=275F9684ED95D19957ADF6258F64D443693ED18D",
+        "title": "Fund Accounting &/or Reporting Analyst, AS",
+        "longitude": 72.84415,
+        "contract_time": "full_time",
+        "location": {
+          "display_name": "Mumbai, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description Our Fund administration team is working with some of the top names in the fund industry. You\u2019ll be working in one of the teams responsible for managing the end to end processes related to securities and portfolio / fund valuation for client segments like Mutual Fund, Alternat\u2026",
+        "latitude": 19.00821,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODQ2NzIzNjI0In0.ka9dDT7N50aT_T3QRwYIlxIAbhjShlZZPW21Qibsjuk",
+        "id": "5846723624",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deutsche Bank"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "contract_time": "full_time",
+        "title": "Regulatory Control Analyst, NCT",
+        "longitude": 77.59837,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjcyMzI5NiIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.K77hhq_UGwN2zCS0zyf7X7Naurc6eymAbahREH12Duk",
+        "id": "5846723296",
+        "latitude": 12.95703,
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Location: Bangalore, India Role Description The candidate for the AFC Centre of Excellence for KYC is supporting CB and IB KYC escalations to AFC, collaborating with the relevant Business stakeholders, Client Lifecycle Management and other AFC functions. Primary focus of the reviewer would be\u2026",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "display_name": "Bangalore, Karnataka"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deutsche Bank"
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-08-18T18:03:36Z",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723296?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=702E6A7970F322A90A53B3EDA5D06DBC629FB3FF"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5785772181?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=60B0DF8235CF018EFDBB7316F5B8A78B1C6534D4",
+        "salary_is_predicted": "0",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "created": "2026-07-03T00:54:23Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "ABB"
+        },
+        "id": "5785772181",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1Nzg1NzcyMTgxIn0.If0cXMGgoByEOS8x5TmfayAa0CfeIFObMFcJT1iB_OY",
+        "latitude": 12.95703,
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "description": "This job is with ABB, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries outrun - leaner and cleaner. Here, progress is an expectation - for you, your team, and the world. As a global market leader, we\u2019ll give you what you need to make it happen. It won\u2019t always be easy, growing takes grit. But at ABB, you\u2019ll never run alone. Run what runs the world. This Position \u2026",
+        "title": "Accounting and Reporting Analyst_IG",
+        "contract_time": "full_time",
+        "longitude": 77.59837
+      },
+      {
+        "title": "Client & Customer Service Analyst",
+        "longitude": 79.3664,
+        "contract_time": "full_time",
+        "id": "5846723305",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODQ2NzIzMzA1In0.birKfGyxvXYjmB8vLupFUiMplVIaMC02cDUc7S0Jqek",
+        "latitude": 12.93975,
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description Ensuring DB Service Standards w.r.t. to Customer Service, Compliance and Corporate Security are adhered too. Ensure total Compliance of all audit guidelines set by External (RBI, NSDL) and Internal OR Auditors. Error Free Processing of transactions with in specified SLA\u2019s. En\u2026",
+        "location": {
+          "display_name": "Vellore, Tamil Nadu",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Vellore"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deutsche Bank"
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-08-18T18:03:36Z",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723305?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=EDA1F6966260F576633ECD2DC16A0DEC3E2E6852"
+      },
+      {
+        "salary_is_predicted": "0",
+        "created": "2026-08-18T18:03:42Z",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723584?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=F7916598F88858DB3049A4A5AA333E3E888509A8",
+        "latitude": 26.7441,
+        "id": "5846723584",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODQ2NzIzNTg0In0.cjoydkDcKUgymW70SlnG_ntxhXWWpaL9OyakefWNDMM",
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description As Reporting and Insights Manager, you will own a suite of dashboards and reports and use analytical tools and AI technology stack with the aim to automate reports/tools/dashboards/analysis thereby contributing to efficiencies, data quality and scalability This role involves \u2026",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Rajasthan",
+            "Jaipur"
+          ],
+          "display_name": "Jaipur, Rajasthan"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Deutsche Bank",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Analytics Senior Analyst, AVP",
+        "longitude": 75.9469,
+        "contract_time": "full_time"
+      },
+      {
+        "salary_is_predicted": "0",
+        "created": "2026-08-22T02:06:03Z",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5851435813?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=729B27B8E0C843E318A2156C620EC813EFFCF69C",
+        "longitude": 72.84415,
+        "title": "Associate Finance Analyst - I",
+        "contract_time": "full_time",
+        "id": "5851435813",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUY1WXNPQ2g4UkdQSk1CMGtmNncwQSIsImkiOiI1ODUxNDM1ODEzIn0.RyV6w-P5nOQwbJzWj-HLSiRbgzk1r9tIZWShosCHr34",
+        "latitude": 19.00821,
+        "description": "This job is with Morningstar, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. The Area: Morningstar is looking for Accounts Executive for the Finance Shared Services. The Finance Shared Services is responsible for executing day to day Accounts payable and/ or Accounts receivable activities of Morningstar Global business in a process oriented and disciplined manner. The Role: Reporting to \u2026",
+        "location": {
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Mumbai, Maharashtra"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Morningstar"
+        }
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Morningstar"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "This job is with Morningstar, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About Us: Morningstar DBRS is a leading provider of independent rating services and opinions for corporate and sovereign entities, financial institutions, and structured finance instruments globally. Currently with 700 employees in eight offices globally. Formed through the July 2019 acquisition of DBRS by Morni\u2026",
+        "location": {
+          "display_name": "Mumbai, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "latitude": 19.00821,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjcyMzIyOSIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.49ithvI35KoNloi-w9xpkN5pkP1uXPFdhp_kBC8HQ5w",
+        "id": "5846723229",
+        "longitude": 72.84415,
+        "title": "Analyst, CMBS Ratings - India",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723229?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=A5A7BD82941DEA7CC2DB8F2F327154CC35112951",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "created": "2026-08-18T18:03:36Z",
+        "salary_is_predicted": "0"
+      },
+      {
+        "salary_is_predicted": "0",
+        "created": "2026-08-23T08:06:55Z",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5853225975?se=UF5YsOCh8RGPJMB0kf6w0A&utm_medium=api&utm_source=cd9c749f&v=2D3FF96AEFBEA3FAA95FF2EB48F68E92DC02BFBF",
+        "id": "5853225975",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1MzIyNTk3NSIsInMiOiJVRjVZc09DaDhSR1BKTUIwa2Y2dzBBIn0.BUI3gaYHT3yNFDqtZFmeONpETXGTSG_nqdUndFK-EvE",
+        "latitude": 12.95703,
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "description": "This job is with ABB, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner\u2014and every person here makes that happen. You\u2019ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This Position reports to: Team Lead-Intercompany Your role and responsibilities In this role, yo\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "ABB"
+        },
+        "longitude": 77.59837,
+        "title": "Accounts Payable Analyst-Intercompany",
+        "contract_time": "full_time"
+      }
+    ]
+  }
+}

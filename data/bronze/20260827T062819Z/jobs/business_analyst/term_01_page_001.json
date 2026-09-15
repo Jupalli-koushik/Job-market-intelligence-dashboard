@@ -1,0 +1,1496 @@
+{
+  "url": "https://api.adzuna.com/v1/api/jobs/in/search/1",
+  "params": {
+    "results_per_page": 50,
+    "content-type": "application/json",
+    "where": "India",
+    "what": "business analyst"
+  },
+  "fetched_at_utc": "2026-08-27T06:29:32.971339+00:00",
+  "status_code": 200,
+  "response_url": "https://api.adzuna.com/v1/api/jobs/in/search/1?app_id=cd9c749f&app_key=b57cfdd3348942d64d752847c03738bf&results_per_page=50&content-type=application%2Fjson&where=India&what=business+analyst",
+  "body": {
+    "mean": 1236303.23,
+    "results": [
+      {
+        "title": "Business Analyst - Liquidity",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzODYxNDMxMyIsInMiOiI2cTJ3cXVDaDhSRzNoX1FablBUbVZBIn0.75dQFkwqheIMC2ytaGO2HzKs9gxooSHD_s6f9VLPxP0",
+        "contract_time": "full_time",
+        "salary_is_predicted": "0",
+        "description": "This job is with Capco, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Title: BA Liquidity About Us \u201cCapco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across globe, we s\u2026",
+        "id": "5838614313",
+        "redirect_url": "https://www.adzuna.in/land/ad/5838614313?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=5D952B1C2165B4F64537AFBA8F777EC4BC45A071",
+        "location": {
+          "area": [
+            "India"
+          ],
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "company": {
+          "display_name": "Capco",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-08-12T22:00:57Z"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139231?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=9EB7DB70AEB7AAC9053AABE30A9302B57160D866",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "latitude": 12.95703,
+        "longitude": 77.59837,
+        "description": "This job is with Standard Chartered Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Summary The role will be responsible for \u2022 Minimise Fraud losses by analysis of fraud trends, MIS, reviews, reporting and compliance \u2022 Head Office Reporting and Stakeholder reporting for GBS supported countries \u2022 Minimise fraud losses by recommending rules to detect real time fraud and on pro-act\u2026",
+        "id": "5837139231",
+        "salary_is_predicted": "0",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODM3MTM5MjMxIn0.bL76uP6yayyBLZJSquc-_yRFXhvGcEiW-ov1XYAVoJ4",
+        "title": "Fraud Business Analyst",
+        "created": "2026-08-12T01:59:31Z",
+        "company": {
+          "display_name": "Standard Chartered Bank",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "ABB",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "created": "2026-08-06T16:02:00Z",
+        "title": "CFIN Business Analyst",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzMDMwMTczMiIsInMiOiI2cTJ3cXVDaDhSRzNoX1FablBUbVZBIn0.lEbZVbqeW9kdXO0JrgrgT8y-7LqLJ9vaLXxlKmaS3_g",
+        "contract_time": "full_time",
+        "description": "This job is with ABB, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner\u2014and every person here makes that happen. You\u2019ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This Position reports to: IS Lead Architect Your role and responsibilities: In this role, you wi\u2026",
+        "salary_is_predicted": "0",
+        "id": "5830301732",
+        "longitude": 77.59837,
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5830301732?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=AA0E18E60AE6F3A844DDAE31FA46313BFA53CA33",
+        "latitude": 12.95703
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODM4NjE0NDE0In0.QN1q2QmyBiGiIrp7-HE9boUTKiLx687L9kdRm1IKPJM",
+        "contract_time": "full_time",
+        "title": "Data Business Analyst",
+        "redirect_url": "https://www.adzuna.in/land/ad/5838614414?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=FB4607C9FD2C4A5E09C9851DD0CFEF454C838D84",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0",
+        "description": "This job is with Capco, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About Us \u201cCapco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across globe, we support 100 clients acros\u2026",
+        "id": "5838614414",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Capco",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-08-12T22:01:01Z",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Standard Chartered Bank"
+        },
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "created": "2026-08-15T00:04:22Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 80.24963,
+        "id": "5842115043",
+        "description": "This job is with Standard Chartered Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Summary We're looking for a talented Business Analyst to join our Markets Technology team. You'll work across Financial Markets Analytics, Risk and Valuation and partner with our international SABRE team, helping to transform complex data into strategic insights to drive us forward. You'll be par\u2026",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5842115043?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=CB41CADBEFA7A10F63F372BC45DE44AB09879D32",
+        "latitude": 13.06041,
+        "location": {
+          "display_name": "Chennai, Tamil Nadu",
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Chennai"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "title": "Business Analyst, Subledger Change",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0MjExNTA0MyIsInMiOiI2cTJ3cXVDaDhSRzNoX1FablBUbVZBIn0.dl5oooJqFG3iJs74SJkwUftfHphCwvf5lhBLvPWB8iU"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Capco",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-08-12T01:59:43Z",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNzEzOTgzNiIsInMiOiI2cTJ3cXVDaDhSRzNoX1FablBUbVZBIn0.WW77a91rmJEpYsN4waNqjzZbY0PMgDNb9via99fGh9k",
+        "title": "Business Analyst/Product Owner",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Chennai, Tamil Nadu",
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Chennai"
+          ]
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139836?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=F9D85BE96E01FF2B3447E9C8C93DC6E3662AEF4D",
+        "id": "5837139836",
+        "description": "This job is with Capco, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About Us \u201cCapco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across globe, we support 100 clients acros\u2026",
+        "salary_is_predicted": "0"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODE1NjExMDU2In0.jCp5ToneRmpiyXZyD13WIQF2hlSFqJGAx8TaZ_QSwh4",
+        "contract_time": "full_time",
+        "title": "Business Analyst, Content Enablement",
+        "redirect_url": "https://www.adzuna.in/land/ad/5815611056?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=397DE29BB585DACB89502F7664565DD97346859B",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India",
+          "area": [
+            "India"
+          ]
+        },
+        "description": "This job is with Novartis, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Summary LI-Hybrid - Location: Hyderabad, 3 days' work from office at Novartis, Hyderabad is mandatory Novartis' Content Enablement Team vision is to provide content technology that enables world-class creative and executional excellence by 2028. We will do this by developing an industry-leading content ecosystem fo\u2026",
+        "id": "5815611056",
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Novartis"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-07-25T23:45:21Z"
+      },
+      {
+        "title": "IT&D Business Analyst, Quality",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODM3MTM5ODA3In0.pm4CR522Tq9kY7c40Ir5jUSgtq9cnn3Sx72s3rToqDY",
+        "contract_time": "full_time",
+        "id": "5837139807",
+        "description": "This job is with Reckitt, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. We are Reckitt Home to the world's best loved and trusted hygiene, health, and nutrition brands. Our purpose defines why we exist: to protect, heal and nurture in the relentless pursuit of a cleaner, healthier world. We are a global team united by this purpose.Join us in our fight to make access to the highest quali\u2026",
+        "salary_is_predicted": "0",
+        "longitude": 78.50806,
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139807?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=3D96E7E9267B37E23061552F67DF328CDBCB8E91",
+        "location": {
+          "display_name": "Hyderabad, Telangana",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "latitude": 17.40275,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2026-08-12T01:59:42Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Reckitt"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_type": "contract",
+        "created": "2026-07-21T19:43:06Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Invesco"
+        },
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs"
+        },
+        "title": "Sr. Business Analyst - Change Management",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwOTM4MDU2MCIsInMiOiI2cTJ3cXVDaDhSRzNoX1FablBUbVZBIn0.TTc7zE5OS1r5HtC8HYmYAmb3OGbgtT7ag6o2WtP1XgI",
+        "contract_time": "full_time",
+        "description": "This job is with Invesco, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. As one of the world's leading independent global investment firms, Invesco is dedicated to rethinking possibilities for our clients. By delivering the combined power of our distinctive investment management capabilities, we provide a wide range of investment strategies and vehicles to our clients around the world. I\u2026",
+        "salary_is_predicted": "0",
+        "id": "5809380560",
+        "longitude": 78.50806,
+        "latitude": 17.40275,
+        "redirect_url": "https://www.adzuna.in/land/ad/5809380560?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=00FA745C9BFF72E03F8565053777597E4114B25A",
+        "location": {
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        }
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139548?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=FE0B40EBBB5BC83F91C643296839DDB9E52E3E17",
+        "location": {
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Chennai"
+          ],
+          "display_name": "Chennai, Tamil Nadu",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5837139548",
+        "description": "This job is with Capco, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Title: Nostro Risk Reporting BA About Us \u201cCapco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across\u2026",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNzEzOTU0OCIsInMiOiI2cTJ3cXVDaDhSRzNoX1FablBUbVZBIn0.ixPxm-MlnpUH9WMkvcV5Ws2_uilEa-xjbcyrJdiG3RY",
+        "contract_time": "full_time",
+        "title": "Nostro Risk Reporting Business Analyst",
+        "company": {
+          "display_name": "Capco",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "created": "2026-08-12T01:59:38Z",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODM3MTM5OTE0In0.nOgPZbzM6WdRrkK0DNtwmY3Fj8pre51BQpti2UXvSQc",
+        "contract_time": "full_time",
+        "title": "Business Analyst-Third Party Risk Management",
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139914?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=D0881E74DD6EF225270AA28AF3565E757E8267A3",
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5837139914",
+        "description": "This job is with Capco, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Title: Business Analyst- Risk and Compliance About Us \u201cCapco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 \u2026",
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Capco"
+        },
+        "created": "2026-08-12T01:59:43Z",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        }
+      },
+      {
+        "title": "Business Analyst, Creative Production & Process Optimization",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODI1ODIyOTYxIn0.D-qdxFR_4gBsvl8muzQ4YOoRVJY4wFfUIfN0TBK1aSI",
+        "id": "5825822961",
+        "description": "This job is with Novartis, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Summary LI-Hybrid Location: 3 days work from office at Novartis' Hyderabad location is mandatory. Join Novartis as a Business Analyst, Creative Production & Process Optimization, where you'll play a pivotal role in transforming how marketing content is planned, produced, and delivered across the organization. In th\u2026",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5825822961?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=C7AAD800139AFD34E7FB0C84B88D6FE6FDC2A807",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India",
+          "area": [
+            "India"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Novartis"
+        },
+        "created": "2026-08-02T21:53:35Z"
+      },
+      {
+        "company": {
+          "display_name": "Capco",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "created": "2026-08-12T01:59:41Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "This job is with Capco, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Title: About Us \u201cCapco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across globe, we support 100 cl\u2026",
+        "salary_is_predicted": "0",
+        "id": "5837139767",
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139767?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=1388DDB5D5FA800FA3C94F4BF6C85207DFF92CF3",
+        "location": {
+          "display_name": "India",
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "title": "BFA Senior Business Analyst (Change Management)",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNzEzOTc2NyIsInMiOiI2cTJ3cXVDaDhSRzNoX1FablBUbVZBIn0.PKu5VYDYBQDIgMKVk5wiUD87fS2df01KQjM_njQXUcg",
+        "contract_time": "full_time"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Reckitt",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-08-12T01:59:43Z",
+        "title": "IT&D Senior Business Analyst - Genesis Procurement",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODM3MTM5ODIzIn0.MPEzOqjFN7nGwY0vvhNFSgRZgSFThvQW6ZU0lkM3SdM",
+        "longitude": 78.50806,
+        "description": "This job is with Reckitt, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. We are Reckitt Home to the world's best loved and trusted hygiene, health, and nutrition brands. Our purpose defines why we exist: to protect, heal and nurture in the relentless pursuit of a cleaner, healthier world. We are a global team united by this purpose.Join us in our fight to make access to the highest quali\u2026",
+        "salary_is_predicted": "0",
+        "id": "5837139823",
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139823?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=E235392770EDD9E2B0BEB7DD50D3CD0B7DE4F1D4",
+        "latitude": 17.40275,
+        "location": {
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        }
+      },
+      {
+        "salary_is_predicted": "0",
+        "description": "This job is with Capco, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Title: Business Data Analyst About Us \u201cCapco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across gl\u2026",
+        "id": "5837139431",
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139431?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=9F2281852FD004BE4D0EAD9279FE898C7B3E11ED",
+        "location": {
+          "display_name": "India",
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "title": "Business Data Analyst",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODM3MTM5NDMxIn0._KiIhM8HB-ebEXvRqbqmg9_CTiLNAKweqSEFTk_-ci4",
+        "contract_time": "full_time",
+        "company": {
+          "display_name": "Capco",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-08-12T01:59:37Z",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODQ2NzIzMzkxIn0.DzEvz78DeMtEtzXc0lInMIfN4K_f81fPfk04Il_aQUU",
+        "title": "Project & Change Lead \u2013 Business Analyst/Project Manager, AVP",
+        "latitude": 19.00821,
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723391?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=24650F9F441F0DA328596550392B38511B7AF478",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Mumbai, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ]
+        },
+        "longitude": 72.84415,
+        "id": "5846723391",
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description You will be joining the Credit Risk Management (CRM) Change Team within Deutsche Bank\u2019s CRO function. The team is responsible for driving and facilitating regulatory compliance, strategic transformation, and process re-engineering programmes of work in relation to managing th\u2026",
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Deutsche Bank",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "created": "2026-08-18T18:03:38Z"
+      },
+      {
+        "title": "Specialist, Business Analyst \u2013 Content Workflow & Platform Enablement (Adobe Workfront)",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1Nzg1NzcyNjYxIn0.m1v6-ykWdHU_h2eQHa_LEw4aGaCtLeva6wTf06T3HCU",
+        "longitude": 78.50806,
+        "description": "This job is with MSD, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description Specialist, Business Analyst - Content Workflow & Platform Enablement (Adobe Workfront) The Opportunity Based in Hyderabad, join a global healthcare biopharma company and be part of a 130- year legacy of success backed by ethical integrity, forward momentum, and an inspiring mission to achieve new milest\u2026",
+        "salary_is_predicted": "0",
+        "id": "5785772661",
+        "redirect_url": "https://www.adzuna.in/land/ad/5785772661?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=18B5F48C8547E86F836256A6E256C87D0313E3BA",
+        "latitude": 17.40275,
+        "location": {
+          "display_name": "Hyderabad, Telangana",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "MSD",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-07-03T00:54:28Z",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        }
+      },
+      {
+        "longitude": 78.50806,
+        "id": "5785771031",
+        "description": "This job is with MSD, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description Specialist, Business Analyst - Content Workflow & Platform Enablement (Adobe Workfront) The Opportunity Based in Hyderabad, join a global healthcare biopharma company and be part of a 130- year legacy of success backed by ethical integrity, forward momentum, and an inspiring mission to achieve new milest\u2026",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5785771031?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=791BD5491E45FC4D9FB7DD24D4652AE8D84F8F28",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana"
+        },
+        "latitude": 17.40275,
+        "title": "Specialist, Business Analyst \u2013 Content Workflow & Platform Enablement (Adobe Workfront)",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1Nzg1NzcxMDMxIn0.v68f6B3xSxDMPJgnjyFChCzkat0PKTG0Ex4wFhR0bcw",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "MSD"
+        },
+        "created": "2026-07-03T00:54:13Z",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "longitude": 78.50806,
+        "description": "This job is with Cornerstone OnDemand, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Oracle Fusion Finance Systems Analyst(RTR) Cornerstoneis seeking a Oracle Fusion Finance Systems Analyst with strong expertisein Oracle Fusion Financials and Oracle Fusion Tax to support and enhanceend-to-end Financials and tax-related business processes. This role will ownthe functional configuration, \u2026",
+        "salary_is_predicted": "0",
+        "id": "5837138886",
+        "latitude": 17.40275,
+        "redirect_url": "https://www.adzuna.in/land/ad/5837138886?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=BA78504A2BD51C4E8BE535B9A6B85D92D8F286DF",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana"
+        },
+        "title": "Principal Business Systems Analyst",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODM3MTM4ODg2In0.D4tuhuiOXm1I7lWGIzAQ0HeDdQZ7e5Itm8i_kVXkAiM",
+        "created": "2026-08-12T01:59:18Z",
+        "company": {
+          "display_name": "Cornerstone OnDemand",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODQ2NzIzMTM1In0.B18WuBnHzI_Vv3eXH3uCghgyi4TSSGrXgB0fBLysm0A",
+        "contract_time": "full_time",
+        "title": "Business Management Analyst, NCT",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723135?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=A5AA54991B2C4468C4D8836717F17BA6A3E56F93",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Pune"
+          ],
+          "display_name": "Pune, Maharashtra"
+        },
+        "latitude": 18.5062,
+        "id": "5846723135",
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description The PODL is a role responsible for leading all squads of platform services. Each squad will implement all enhancements and production fixes for Finacle, Document management, IVR, Robotics, Debit card management and all such satellite applications. The PODL is also responsible\u2026",
+        "salary_is_predicted": "0",
+        "longitude": 73.84735,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Deutsche Bank",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-08-18T18:03:33Z",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "title": "Sr Business Application Analyst",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjcyMzQ1MyIsInMiOiI2cTJ3cXVDaDhSRzNoX1FablBUbVZBIn0.ipw1I01fI7AWznSr8yDwAFp_2ijErL2v6fSf5xFHQhM",
+        "description": "This job is with Moody's, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Moody's, we unite the brightest minds to turn today\u2019s risks into tomorrow\u2019s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are\u2014with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Mo\u2026",
+        "salary_is_predicted": "0",
+        "id": "5846723453",
+        "location": {
+          "display_name": "India",
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723453?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=EE2C4EDF00E47D65D245236B78E92008D3599176",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Moody's"
+        },
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "created": "2026-08-18T18:03:40Z"
+      },
+      {
+        "longitude": 78.50806,
+        "salary_is_predicted": "0",
+        "description": "This job is with MSD, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description Specialist, Business Analyst - Content Review Automation (AI-enabled MLR / Content Catalyst) The Opportunity Based in Hyderabad, join a global healthcare biopharma company and be part of a 130- year legacy of success backed by ethical integrity, forward momentum, and an inspiring mission to achieve new m\u2026",
+        "id": "5785772796",
+        "redirect_url": "https://www.adzuna.in/land/ad/5785772796?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=3917B16DBD5FED744B5E879B784653310421F260",
+        "latitude": 17.40275,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana"
+        },
+        "title": "Specialist, Business Analyst \u2013 Content Review Automation (AI-enabled MLR / Content Catalyst)",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1Nzg1NzcyNzk2In0.h8yx3r6tw4iEmUuwe_gvlls1-4r3auuLG3pjaQ8E6FA",
+        "created": "2026-07-03T00:54:29Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "MSD"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2026-07-23T22:17:13Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Accenture"
+        },
+        "category": {
+          "label": "Consultancy Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "consultancy-jobs"
+        },
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMjUyODQyMCIsInMiOiI2cTJ3cXVDaDhSRzNoX1FablBUbVZBIn0.YLaMJfmOpUtvJ6OW6c9qmrP3iOan7WKqz3IO_kLOf-c",
+        "title": "Business Interlock Senior Analyst",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5812528420?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=2F695C43DD635B536161D952290A3FF8B9A9B44B",
+        "id": "5812528420",
+        "description": "This job is with Accenture, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Skill required: Talent Development - Instructor-Led Training (ILT) Designation: Business Interlock Senior Analyst Qualifications: Any Graduation Years of Experience: 5 to 8 years About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security.Combining u\u2026",
+        "salary_is_predicted": "0"
+      },
+      {
+        "title": "Business Interlock Senior Analyst",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMjUyODM1NCIsInMiOiI2cTJ3cXVDaDhSRzNoX1FablBUbVZBIn0.HBP6b-oDuP0dXDnX2o2acF6e5PkKgvBGoPdYo-wGH74",
+        "description": "This job is with Accenture, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Skill required: Talent Development - Instructor-Led Training (ILT) Designation: Business Interlock Senior Analyst Qualifications: Any Graduation Years of Experience: 5 to 8 years About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security.Combining u\u2026",
+        "id": "5812528354",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5812528354?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=5E2E5E07A22E5D54001160388EDECA8BB3F7AF0C",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "display_name": "Bangalore, Karnataka"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Accenture"
+        },
+        "created": "2026-07-23T22:17:08Z",
+        "category": {
+          "label": "HR & Recruitment Jobs",
+          "tag": "hr-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2026-08-18T18:03:38Z",
+        "company": {
+          "display_name": "Deutsche Bank",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjcyMzM3OCIsInMiOiI2cTJ3cXVDaDhSRzNoX1FablBUbVZBIn0.RIzNJDv9_gr6V1F8QwvYpUhYN4vG5PkfECJYP5rK_60",
+        "contract_time": "full_time",
+        "title": "Business Finance Senior Analyst",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "display_name": "Mumbai, Maharashtra"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723378?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=A8D5A375F09A5AD261972942F70E863FDE622222",
+        "latitude": 19.00821,
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Job Title: Business Finance Senior Analyst Corporate Title: AVP Location: Mumbai, India Role Description Within Business Finance, we have Revenue Control & Financial Control functions. For each product / business line the Revenue control & Financial control responsibilities are segregated & w\u2026",
+        "id": "5846723378",
+        "salary_is_predicted": "0",
+        "longitude": 72.84415
+      },
+      {
+        "longitude": 72.84415,
+        "salary_is_predicted": "0",
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Location: Mumbai, India Role Description Individual Contributor Role within US Rates Business Finance team covering Product Control and Financial control functions. This role is based out in DIPL Mumbai and will be reporting to AVP / VP Business Finance Lead. Revenue control & Financial contr\u2026",
+        "id": "5846723667",
+        "latitude": 19.00821,
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723667?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=3B5C56D3F9176F68E280592ACEEBBD8CD9A332A4",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Mumbai, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ]
+        },
+        "title": "Business Finance Senior Analyst",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODQ2NzIzNjY3In0.hPvZ3TYmaoKoJ1Wbu6gktb308dUxr9FKfEvDiiMdV8k",
+        "created": "2026-08-18T18:03:43Z",
+        "company": {
+          "display_name": "Deutsche Bank",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODQ2NzIzMTEwIn0.cS4zTmhyXH5Dx8oXH4tfkSIKOEiydepwlH0e4-Vb5_g",
+        "title": "Business Finance Senior Analyst",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723110?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=2EA1145F5EFE160755466CD78E5ABD9C03F95872",
+        "latitude": 19.00821,
+        "location": {
+          "display_name": "Mumbai, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": 72.84415,
+        "salary_is_predicted": "0",
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description The Business Finance function is responsible for the production of business level revenue attribution, financial accounting and financial disclosures. It ensures, on a daily basis, the accurate and timely reporting of Profit and Loss (PnL) for each business unit and ensures t\u2026",
+        "id": "5846723110",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2026-08-18T18:03:33Z",
+        "company": {
+          "display_name": "Deutsche Bank",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "longitude": 72.84415,
+        "id": "5846723588",
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Corporate Title: Analyst Location: Mumbai, India Role Description This is a Business Finance role for the Corporate Bank (\u201cCB\u201d) franchise and is responsible for managing all CB Divisional Finance topics, facing off to FD/FMs and business managers across hub locations. The incumbent would be r\u2026",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723588?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=4636B2D20086511B4BB7596C290FA66BF0DDB57B",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Mumbai, Maharashtra",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ]
+        },
+        "latitude": 19.00821,
+        "title": "Analyst for CB - Business Finance",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODQ2NzIzNTg4In0.iqnJnFKRSo-J7MKhXQE1w42eTjbZPhyHRHqLTSElrSo",
+        "company": {
+          "display_name": "Deutsche Bank",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs"
+        },
+        "created": "2026-08-18T18:03:42Z",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "id": "5822232374",
+        "description": "Title : PeopleSoft Techno Functional consultant Location : Bangalore / Hyderabad Experience : 8  Years Job Description: candidate with PeopleSoft finance, techno functional consultant. 8 years of exp is required. worked on PeopleSoft finance with techno functional background. functional or business analyst level. understand client requirement. recommend solutions, end to end delivery of requirement finance module- AP, AR, procure, purchase, asset management, expense related part of configuratio\u2026",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5822232374?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=E6B42AAE6B68F88B8C308BBD1323CA8A0E3931D7",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "title": "Peoplesoft Techno functional Consultant",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODIyMjMyMzc0In0.4vRnjZQWF6rRJu5IumZQ_K7vMCRvLEKXbeuKy_SopIw",
+        "company": {
+          "display_name": "Artech Infosystem Private Limited",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "created": "2026-07-31T15:27:06Z",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "created": "2026-08-14T00:22:28Z",
+        "company": {
+          "display_name": "Azim Premji Foundation",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India",
+          "area": [
+            "India"
+          ]
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5840636701?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=8CC7595814B59C3F7D1F510449C43E6F037BE1FC",
+        "id": "5840636701",
+        "description": "The Context The Technology group of Azim Premji Foundation has embarked on several digital initiatives to enhance the efficiency and effectiveness of various process areas touching different functional units of the Foundation including Field, University, Healthcare and Philanthropy. We have been deploying a number of mobile apps and web apps for our members and partners to use. Here are a few examples of the applications that have been launched recently. Teacher Development Tracking Applicatio \u2026",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODQwNjM2NzAxIn0.HeKI5zWrUsdZarbU5jDOB7Ssu1OUQgWqBXVtzOeZh9Y",
+        "title": "Frontline Technology Associate"
+      },
+      {
+        "location": {
+          "display_name": "India",
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5834882820?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=7C223DD4E63094E55DB8633626B49E2CF9ED0187",
+        "salary_is_predicted": "0",
+        "description": "About Furlenco Furlenco is a different furniture company. We enable the urban Indian to live better today in their homes, by giving them award-winning furniture and home decor with a basket of access to rent, buy, sell and buy back. All of our furniture is designed in-house by experts. We don\u2019t just give furniture. We provide decor, accessories and appliances as well. We have launched our first ever offline stores so that one can furnish their entire home, room or corner without traversing mult\u2026",
+        "id": "5834882820",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNDg4MjgyMCIsInMiOiI2cTJ3cXVDaDhSRzNoX1FablBUbVZBIn0.EBQ_qA3DliG36M8nJ9gq1zozE_YKgblkEWSJks5k5KM",
+        "title": "Growth Analytics Specialist \u2013 Customer Monetization",
+        "created": "2026-08-10T00:09:30Z",
+        "company": {
+          "display_name": "Furlenco",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2026-08-21T21:27:43Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Coforge"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1MTMxNDExOSIsInMiOiI2cTJ3cXVDaDhSRzNoX1FablBUbVZBIn0.IEVZZJK0HBWaBFT_BtsCerl3a3YdwTlpB6l1q1j3rg0",
+        "title": "Guidewire Claims Developer",
+        "redirect_url": "https://www.adzuna.in/land/ad/5851314119?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=F420DF6A20A1BF2B2E7302278EE7FC0281D6BF72",
+        "latitude": 17.40275,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana"
+        },
+        "longitude": 78.50806,
+        "salary_is_predicted": "0",
+        "description": "Job Title: Guidewire Claims Developer Skills: Guidewire, Claims center, GOSU Experience: 4-12 Years Location: Hyderabad, Greater Noida & Pune We at Coforge are hiring for Guidewire Claims Developer Design, develop, and implement solutions in Guidewire ClaimCenter Configure and customize ClaimCenter components such as: PCF (Page Configuration Files) Business Rules (Validation, Assignment, Workflow) Typelists and Entities Extend the data model by adding new fields and entities Develop Gosu script\u2026",
+        "id": "5851314119"
+      },
+      {
+        "created": "2026-08-05T17:46:06Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "enGen Global"
+        },
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "description": "Job Role : Technical Delivery Manager (Experienced in PEGA projects) Experience Required : 15-20 Years Job Location : Chennai / Hyderabad Work Model: Hybrid (3 days WFO) Role Summary The PEGA Delivery Manager is responsible for leading the delivery, support, and continuous enhancement of Customer Service and Healthcare applications built on the PEGA platform. This role combines delivery management, technical leadership, stakeholder engagement, and people leadership to ensure successful executio\u2026",
+        "id": "5829060820",
+        "longitude": 80.24963,
+        "redirect_url": "https://www.adzuna.in/land/ad/5829060820?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=B0F5A1F91B9615963C2A7A317DF05C31F1222CB5",
+        "latitude": 13.06041,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Chennai, Tamil Nadu",
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Chennai"
+          ]
+        },
+        "title": "Technical Delivery Manager -Pega",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODI5MDYwODIwIn0.b6L5o_JiMdzAix-gwMJHJsmQ89sAP4DMuC2vRusw3tE"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Suffescom Solutions Inc"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-08-14T00:23:38Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Job Overview: We are looking for a detail-oriented and technically proficient Technical Project Coordinator who brings hands-on development experience along with client-facing expertise on the Upwork platform. This role involves closely coordinating with clients, understanding their requirements, assisting in project planning, and ensuring smooth communication between clients and the internal development team. Key Responsibilities: Coordinate ongoing web and mobile development projects, ensurin\u2026",
+        "id": "5840637178",
+        "salary_is_predicted": "0",
+        "location": {
+          "area": [
+            "India"
+          ],
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5840637178?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=20E17ED75D1C6179FEEF3181226E8E14FC76BB30",
+        "title": "Technical Project Manager",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0MDYzNzE3OCIsInMiOiI2cTJ3cXVDaDhSRzNoX1FablBUbVZBIn0.7JYXO7tr27MeisgJbUwT29s-w26fTG1uApMh27sgUoo"
+      },
+      {
+        "salary_is_predicted": "0",
+        "description": "AI Process Excellence Manager Process Excellence & Program Coordination Map existing business processes and identify hyper automation opportunities with measurable ROI Lead process discovery sessions with business stakeholders to document current-state workflows Design future-state automated processes with clear handoffs between human and AI agents Coordinate sprint planning, backlog grooming, and delivery timelines for automation projects Track project dependencies, risks, and blockers\u2014escalat\u2026",
+        "id": "5846298299",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846298299?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=3E50F5B67C1AA38DF70B8C65EAF7A1C3D331DEC5",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India",
+          "area": [
+            "India"
+          ]
+        },
+        "title": "AI Process Excellence Manager",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODQ2Mjk4Mjk5In0.-9CjjHjTmaNyzKE6yQcXslpkGJ0DRG-kJcRDlUQU_Lo",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Allianz Services"
+        },
+        "created": "2026-08-18T13:08:51Z",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "category": {
+          "label": "Sales Jobs",
+          "tag": "sales-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "company": {
+          "display_name": "Saras Analytics",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-08-18T05:07:47Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 78.50806,
+        "description": "The Role: As an Engagement Lead , you will play a crucial role in managing client relationships, leading project teams, and ensuring the successful delivery of consulting engagements. You will work closely with clients to understand their needs, develop actionable solutions, and drive value through innovative approaches. This role offers an opportunity to grow into an Engagement Manager position, with a focus on leadership, problem-solving, and business development. Key Responsibilities 1.Proje\u2026",
+        "id": "5845682804",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5845682804?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=E42E46CEDAFF433B919D1FDD7C44D04C3826E68F",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana"
+        },
+        "latitude": 17.40275,
+        "title": "Engagement Lead",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODQ1NjgyODA0In0.7zcGzgRcNBuxFXj9aOLCeV2YPYmEaVwTP30tyW8hMC0"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "The Chopras",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-07-23T18:56:59Z",
+        "title": "Technical Executive Assistant",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODEyMzUyODA1In0.Rt2c_TGZlqZZMxUPxE8C_lttl1UPBE_xhEWTT9pYm1M",
+        "longitude": 77.224601,
+        "description": "Role Overview The Technical Assistant to the Chairman will work closely with the Chairman and technical teams to support technology project coordination, documentation, follow-up, status reporting, meeting intelligence, task tracking and AI-assisted productivity. This is not a pure secretarial role and not a developer role. It is a hybrid role combining: \u25cf Technical understanding \u25cf Project coordination \u25cf Executive assistance \u25cf Structured documentation \u25cf Follow-up discipline \u25cf AI tool usage \u25cf Ma\u2026",
+        "salary_is_predicted": "0",
+        "id": "5812352805",
+        "latitude": 28.62523,
+        "redirect_url": "https://www.adzuna.in/land/ad/5812352805?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=4A37AD7DACBC53EF2CFFBB1218BF3CD5C05E955A",
+        "location": {
+          "area": [
+            "India",
+            "Delhi"
+          ],
+          "display_name": "Delhi, India",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        }
+      },
+      {
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNzEzOTY5OSIsInMiOiI2cTJ3cXVDaDhSRzNoX1FablBUbVZBIn0.TKGVYhJUPRzHupEi-5n4ipsN9XdK5qN-0y4Dmdx1zOE",
+        "title": "IT&D Principle BA, Finance",
+        "latitude": 17.40275,
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139699?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=6DB82CA218734368893173C486FF9F3CCFB15CF6",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Hyderabad, Telangana",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ]
+        },
+        "longitude": 78.50806,
+        "description": "This job is with Reckitt, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. We are Reckitt Home to the world's best loved and trusted hygiene, health, and nutrition brands. Our purpose defines why we exist: to protect, heal and nurture in the relentless pursuit of a cleaner, healthier world. We are a global team united by this purpose.Join us in our fight to make access to the highest quali\u2026",
+        "salary_is_predicted": "0",
+        "id": "5837139699",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "company": {
+          "display_name": "Reckitt",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-08-12T01:59:40Z"
+      },
+      {
+        "title": "Business Clients Credit Junior Advisor, Analyst",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODQ2NzIzMDkxIn0.rzkvl7Mk8yIGhCHPM0zenkSx0sUAdbPaDsiZBYlfsWE",
+        "contract_time": "full_time",
+        "id": "5846723091",
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description Serve as Team Leader for a Business Banking Client Advisors Manage large & key client portfolios and build client relationships Ensure consistent growth of the CA portfolio of the area Work closely with the acquisition team and establish synergies for maximum penetration of b\u2026",
+        "salary_is_predicted": "0",
+        "longitude": 72.84415,
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723091?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=6CD36B02CBC9A5608AF2D28DB64C8668D4AA3F0B",
+        "latitude": 19.00821,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "display_name": "Mumbai, Maharashtra"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Deutsche Bank",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "created": "2026-08-18T18:03:33Z"
+      },
+      {
+        "title": "VP - Treasury Operations",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODQ2NzIzNjI1In0.wi3TFCbrIRDkev1tiAlC_DkG58BCXTZKIcaBHfJ2pVw",
+        "longitude": 77.59837,
+        "salary_is_predicted": "0",
+        "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description Treasury is responsible for the sourcing, management and optimization of liquidity and capital to deliver high value risk management decisions. This is underpinned by a best-in-class integrated and consistent Treasury risk framework, which enables Treasury to clearly identify\u2026",
+        "id": "5846723625",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "display_name": "Bangalore, Karnataka"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723625?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=726FD22E55A7CE00ADC4D2259A3C92D4C0916008",
+        "latitude": 12.95703,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deutsche Bank"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "created": "2026-08-18T18:03:42Z"
+      },
+      {
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODU3MjUxMjA5In0.tHwhVAiu5Pfj47h7Z1kMjdLswlZwlPZtM3ceEb0JVF8",
+        "title": "Hybrid Project Manager (Liquidity/ Treasury)",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India",
+          "area": [
+            "India"
+          ]
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5857251209?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=EA0E1E14186E433AA81B7B53FF45550B60CDB650",
+        "description": "This job is with Capco, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Title: Hybrid Collateral Project Manager About Us \u201cCapco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 citi\u2026",
+        "salary_is_predicted": "0",
+        "id": "5857251209",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Capco",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-08-27T02:10:40Z",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        }
+      },
+      {
+        "title": "Product Manager",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODM3MTM5ODM1In0.WXKckqg2O1wrGHTaDun_TCf4fTrnEFaQVYF2WijeqJY",
+        "contract_time": "full_time",
+        "id": "5837139835",
+        "description": "This job is with Capco, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Title: Product Manager About Us \u201cCapco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across globe, w\u2026",
+        "salary_is_predicted": "0",
+        "longitude": 80.24963,
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139835?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=344B7BC410C65BE41266B4765A78E112DC362BD8",
+        "latitude": 13.06041,
+        "location": {
+          "display_name": "Chennai, Tamil Nadu",
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Chennai"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Capco"
+        },
+        "created": "2026-08-12T01:59:43Z",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Capco"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "created": "2026-08-12T01:59:41Z",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNzEzOTcyMiIsInMiOiI2cTJ3cXVDaDhSRzNoX1FablBUbVZBIn0.VyUAUa4Ny5wo2n_-o6Wi097yZO_MORTBSA4zX4zk5HA",
+        "title": "Senior BA (Securities Settlements) \u2013 Mumbai/Bangalore",
+        "latitude": 19.00821,
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139722?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=85BD84E3965156751DAE02FFF2D0388CC9E30978",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "display_name": "Mumbai, Maharashtra"
+        },
+        "longitude": 72.84415,
+        "description": "This job is with Capco, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Title: FX Settlements About Us \u201cCapco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across globe, we\u2026",
+        "id": "5837139722",
+        "salary_is_predicted": "0"
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Rajasthan",
+            "Jaipur"
+          ],
+          "display_name": "Jaipur, Rajasthan"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5838675853?se=6q2wquCh8RG3h_QZnPTmVA&utm_medium=api&utm_source=cd9c749f&v=F373162EBD41AC5E781A9A4EA62CBB7E4F878951",
+        "latitude": 26.7441,
+        "longitude": 75.9469,
+        "description": "Job Title: Senior Sales Executive / Business Development Executive \u2013 IT Services  Location: Jaipur, Rajasthan \u2013 On-site  Experience: 5 Years (Relevant IT Sales / BDE Experience Mandatory)  Employment Type: Full-Time Important \u274c Do not apply if you are looking for a WFH or Hybrid opportunity. \u274c 5 years of relevant experience in IT Sales / Business Development is mandatory. \u274c Candidates without hands-on experience in selling IT services/software solutions will not be considered. About the Role We\u2026",
+        "id": "5838675853",
+        "salary_is_predicted": "0",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzODY3NTg1MyIsInMiOiI2cTJ3cXVDaDhSRzNoX1FablBUbVZBIn0.7fbfvsRazBD8lXuqH99HIgYjKkzZAPMuQeInrf6DDpw",
+        "title": "Senior Sales Executive",
+        "company": {
+          "display_name": "Egnoto",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-08-13T00:15:55Z",
+        "category": {
+          "label": "Sales Jobs",
+          "tag": "sales-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "contract_time": "full_time",
+        "salary_max": 800000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODM2MjI3NzkxIn0.lNgDKLMVKG7rsn25Ne564TD2WYkTh89R-DLAIGUDloc",
+        "title": "Business Analyst",
+        "redirect_url": "https://www.adzuna.in/details/5836227791?utm_medium=api&utm_source=cd9c749f",
+        "location": {
+          "area": [
+            "India"
+          ],
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_min": 600000,
+        "description": "About Company Codemonk is an AI-first product engineering and technology consulting company. We're building enterprise solutions using Generative AI and Agentic AI to solve real business problems. Our teams work directly with enterprise customers on digital transformation initiatives, AI-powered workflow automation, and intelligent business applications. The role offers exposure to consulting, pre-sales, solution design, and collaboration with engineering teams, making it much more strategic th\u2026",
+        "salary_is_predicted": "0",
+        "id": "5836227791",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "CODEMONK",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-08-11T06:57:29Z",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "contract_type": "permanent"
+      },
+      {
+        "company": {
+          "display_name": "AVIGNAAI PRIVATE LIMITED",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-07-11T04:40:29Z",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5796256176",
+        "description": "Dear Candidate, Hope you are doing well. I'm thrilled to connect with you today and share an exciting opportunity at Avigna.AI for the role of Business Analyst . Avigna.AI is not just a workplace; it's a dynamic hub of innovation and collaboration, and we're seeking talented individuals to join our team. Please find below the job description : Requirement: Business Analyst, Avigna, Pune LinkedIn link : Avigna.AI Job Location: Pune, Baner. Work from Office, Monday to Friday, 9:30 AM to 6:30 PM. \u2026",
+        "salary_is_predicted": "0",
+        "longitude": 73.80865,
+        "latitude": 18.55034,
+        "redirect_url": "https://www.adzuna.in/details/5796256176?utm_medium=api&utm_source=cd9c749f",
+        "location": {
+          "area": [
+            "India",
+            "Maharashtra",
+            "Pune",
+            "Baner"
+          ],
+          "display_name": "Baner, Pune",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "title": "Business Analyst",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1Nzk2MjU2MTc2In0.anTPq1c-DZzErlgWDWGbnEZxCMwpB3Da1PZMTIhhQnU",
+        "contract_time": "full_time"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/details/5826772660?utm_medium=api&utm_source=cd9c749f",
+        "latitude": 28.69815,
+        "salary_min": 1200000,
+        "description": "About Innefu Labs Innefu Labs is a leading AI-driven product company specializing in Artificial Intelligence, Big Data Analytics, Cybersecurity, and Digital Forensics. Founded in 2010, Innefu develops innovative technology solutions that empower government agencies, defence organizations, law enforcement, financial institutions, and enterprises to make informed, data-driven decisions. With a strong focus on innovation and research, Innefu's flagship platforms leverage advanced analytics, machin\u2026",
+        "id": "5826772660",
+        "salary_is_predicted": "0",
+        "contract_time": "full_time",
+        "salary_max": 1400000,
+        "title": "Business Analyst",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Innefu Labs Limited"
+        },
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Maurya Enclave, North West Delhi",
+          "area": [
+            "India",
+            "Delhi",
+            "North West Delhi",
+            "Maurya Enclave"
+          ]
+        },
+        "longitude": 77.12865,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnEyd3F1Q2g4UkczaF9RWm5QVG1WQSIsImkiOiI1ODI2NzcyNjYwIn0.dS-8AtqxK4PkLNqXIKP7P4O8LMacnLDoD7OSbIysyck",
+        "created": "2026-08-03T22:53:40Z",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "contract_type": "permanent",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "created": "2026-06-10T16:21:44Z",
+        "company": {
+          "display_name": "Infotel UK",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India",
+          "area": [
+            "India"
+          ]
+        },
+        "redirect_url": "https://www.adzuna.in/details/5758364393?utm_medium=api&utm_source=cd9c749f",
+        "description": "The PCM Business Analyst is expected to have experience in some of the following functional areas: \u00b7 Payments engine and clearing ( At least one) : o Payment engines o SWIFT (MT/MX Messages), ISO 20022 o Regulatory Clearing & Settlement applications o Instant Payments \u00b7 Compliance Frameworks: Anti\u2011Money\u2011Laundering (AML), Sanctions Screening ( Optional) \u00b7 Core banking applications ( Optional) \u00b7 Treasury management ( Optional) The role involves collaborating with various stakeholders mainly busin\u2026",
+        "id": "5758364393",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1ODM2NDM5MyIsInMiOiI2cTJ3cXVDaDhSRzNoX1FablBUbVZBIn0.IiK7UvwSc4UL4XwiJk2f7hr4FcPXNzsCt7UDJaidl1s",
+        "title": "Business Analyst"
+      },
+      {
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3NDc4NjAwMiIsInMiOiI2cTJ3cXVDaDhSRzNoX1FablBUbVZBIn0.AJ7t-EV0xbvErdTuScEYB1pIaatUD7kdX10y1FEsN9E",
+        "title": "Business Analyst",
+        "redirect_url": "https://www.adzuna.in/details/5774786002?utm_medium=api&utm_source=cd9c749f",
+        "location": {
+          "display_name": "India",
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0",
+        "description": "The Company Egon Zehnder is trusted advisor to many of the world\u2019s most respected organizations and a leading Executive Search firm, with more than 600 consultants and 69 offices in 41 countries spanning Europe, the Americas, Asia Pacific, the Middle East and Africa. Our clients range from the largest corporations to emerging growth companies, government and regulatory bodies, and major educational and cultural institutions. The firm is a private partnership which allows us to operate independe\u2026",
+        "id": "5774786002",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Egon Zehnder",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-06-24T18:32:43Z",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        }
+      },
+      {
+        "title": "Business Analyst",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDcyNTg2NzM5MyIsInMiOiI2cTJ3cXVDaDhSRzNoX1FablBUbVZBIn0.9YLcjqO6ztggWzAPhUViRZLOG2Hs93lVF-cglIMyUPY",
+        "contract_time": "full_time",
+        "salary_is_predicted": "0",
+        "description": "About the Job: Opalforce is hiring Mechanical Design Engineers Key Responsibilities: Create requirements and specifications for business solutions Conduct business analysis and research to identify opportunities for improvement Consult with key stakeholders to determine business objectives and success factors Collaborate with team members to collect, analyze, and evaluate information from multiple sources including Present findings and recommendations to stakeholders Write and document business\u2026",
+        "id": "4725867393",
+        "redirect_url": "https://www.adzuna.in/details/4725867393?utm_medium=api&utm_source=cd9c749f",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "display_name": "Bangalore, Karnataka"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_type": "permanent",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "company": {
+          "display_name": "Opalforce, Inc.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2024-06-07T16:37:08Z"
+      }
+    ],
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "count": 6170
+  }
+}

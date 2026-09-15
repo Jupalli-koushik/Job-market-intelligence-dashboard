@@ -1,0 +1,31 @@
+{
+  "source": "Adzuna Jobs API",
+  "country": "in",
+  "run_id": "20260827T062819Z",
+  "roles": {
+    "data_analyst": [
+      "data analyst",
+      "analyst",
+      "BI"
+    ],
+    "data_engineer": [
+      "data engineer",
+      "data"
+    ],
+    "data_scientist": [
+      "data scientist",
+      "data science"
+    ],
+    "ai_engineer": [
+      "AI engineer",
+      "machine learning engineer",
+      "AI"
+    ],
+    "business_analyst": [
+      "business analyst",
+      "analyst"
+    ]
+  },
+  "max_pages": 3,
+  "results_per_page": 50
+}

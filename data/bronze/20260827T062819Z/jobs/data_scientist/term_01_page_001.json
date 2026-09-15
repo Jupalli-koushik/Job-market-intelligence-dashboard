@@ -1,0 +1,1489 @@
+{
+  "url": "https://api.adzuna.com/v1/api/jobs/in/search/1",
+  "params": {
+    "results_per_page": 50,
+    "content-type": "application/json",
+    "where": "India",
+    "what": "data scientist"
+  },
+  "fetched_at_utc": "2026-08-27T06:28:57.146832+00:00",
+  "status_code": 200,
+  "response_url": "https://api.adzuna.com/v1/api/jobs/in/search/1?app_id=cd9c749f&app_key=b57cfdd3348942d64d752847c03738bf&results_per_page=50&content-type=application%2Fjson&where=India&what=data+scientist",
+  "body": {
+    "count": 9562,
+    "results": [
+      {
+        "latitude": 28.323996,
+        "longitude": 76.983738,
+        "created": "2026-08-20T10:04:40Z",
+        "title": "Data Scientist",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "location": {
+          "area": [
+            "India",
+            "Haryana",
+            "Gurgaon"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Gurgaon, Haryana"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5849297019?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=E87B9A5E2A9605281144BBEA53533DB7165D1FA0",
+        "id": "5849297019",
+        "salary_is_predicted": "0",
+        "description": "This job is with Kyndryl, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Who We Are At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world's leading businesses. We are at the heart of progress; with proven expertise and a continuous flow of AI-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edg\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODQ5Mjk3MDE5In0.fqBs1TjXNKmbFRP6yFEvecdoF9Ql6BplH5PYtBWAH0c",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Kyndryl"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNzEzODg0OCIsInMiOiJubkZKbGVDaDhSR2haN2djVUpaaXZnIn0.yoY-sqnWwkCRpvM3sP0WKttbkB-ygoQsVsz6nHGNTD0",
+        "company": {
+          "display_name": "Kyndryl",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "This job is with Kyndryl, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Who We Are At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world's leading businesses. We are at the heart of progress; with proven expertise and a continuous flow of AI-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edg\u2026",
+        "salary_is_predicted": "0",
+        "id": "5837138848",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "location": {
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India"
+          ]
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5837138848?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=86962F79F06A105F30676367582529277DE10978",
+        "created": "2026-08-12T01:59:18Z",
+        "title": "Data Scientist"
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Delhi",
+            "New Delhi"
+          ],
+          "display_name": "New Delhi, Delhi"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5848650875?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=4DF45BC4D3A230C0689E561399F3F0BA2C0FC825",
+        "created": "2026-08-20T00:04:21Z",
+        "longitude": 77.21808,
+        "title": "Data Scientist",
+        "latitude": 28.62623,
+        "description": "This job is with Danaher, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. GENERAL SUMMARY AND OVERALL CHALLENGES The data specialist is responsible for managing Customer Care EMEA data analysis, and reporting, to measure and track customer care performance in the direct and indirect markets. In addition, this individual will use high level critical thinking and experience to shape and del\u2026",
+        "id": "5848650875",
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Danaher"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODQ4NjUwODc1In0.Ki7u5ou4GmxMleJ-Z6OUDJCR5Y-OXe7QoohQjL0NqUQ",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "latitude": 17.40275,
+        "longitude": 78.50806,
+        "created": "2026-08-22T17:34:27Z",
+        "title": "Data Science Instructor",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Teaching Jobs",
+          "tag": "teaching-jobs"
+        },
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5852476426?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=2B7C55A3F795EE4D2F2D732844EDA9B4CAC3F128",
+        "id": "5852476426",
+        "salary_is_predicted": "0",
+        "description": "Job Summary: As a Data Science Trainer , your role will be to deliver engaging training in Data Science, Analytics, Machine Learning, and Business Intelligence while mentoring learners through practical, industry-focused projects. Roles & Responsibilities: Conduct engaging classroom and online training in Data Science, Data Analytics, Machine Learning, AI, Python, SQL, and related technologies. Ability to simplify complex concepts and explain them in a clear, engaging, and easy-to-understand ma\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODUyNDc2NDI2In0.QeT7TDzs3uI8N508PXql6GFxAPcLmFMrTp4t12_bJaI",
+        "company": {
+          "display_name": "Itvedant Education Pvt. Ltd.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139664?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=ED6BA5AD0CD866FF72094C6C9DA2A79C45B1F7F2",
+        "location": {
+          "display_name": "Pune, Maharashtra",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Pune"
+          ]
+        },
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "longitude": 73.84735,
+        "title": "Senior Data Scientist",
+        "created": "2026-08-12T01:59:40Z",
+        "latitude": 18.5062,
+        "description": "This job is with Capco, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Title: Senior Data Scientist About Us \u201cCapco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across gl\u2026",
+        "id": "5837139664",
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Capco"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODM3MTM5NjY0In0.o3XlCz5WPvmhX81eYX0-bSa80aL1V3AJQnDZ_3EGb38",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "display_name": "Bangalore, Karnataka"
+        },
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5852164430?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=8D6BED466799844557D97A81A9E030E9875FB9A7",
+        "created": "2026-08-22T12:06:19Z",
+        "title": "Marketing Data Scientist",
+        "description": "This job is with HP, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Marketing Data Scientist Description - Working within the Advanced Analytics group at HP, you will apply your advanced data science skills to solve a variety of problems in marketing analytics. The successful candidate will have strong technical skills including R and Python, with at least 3 years of experience. We are l\u2026",
+        "salary_is_predicted": "0",
+        "id": "5852164430",
+        "company": {
+          "display_name": "HP",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1MjE2NDQzMCIsInMiOiJubkZKbGVDaDhSR2haN2djVUpaaXZnIn0.pC5GrfPWYxTQu4WcPwmV2HhpRUSyDXUBeAWSK0qNIlA",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODM3MTM5NTYxIn0.XK1iqnGWXeTF8YzPUZIfpcAHZ0mFuZAPaBZv8fhif_s",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Warner Bros. Discovery"
+        },
+        "id": "5837139561",
+        "salary_is_predicted": "0",
+        "description": "This job is with Warner Bros. Discovery, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Welcome to Warner Bros. Discovery\u2026 the stuff dreams are made of. Who We Are\u2026 When we say, \u201cthe stuff dreams are made of,\u201d we\u2019re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD\u2019s vast portfolio of iconic content and beloved brands,\u2026",
+        "latitude": 17.40275,
+        "longitude": 78.50806,
+        "created": "2026-08-12T01:59:38Z",
+        "title": "Principal Data Scientist",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139561?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=A015CD95314E9D5269589B2FD23C6C93F7E9A21B",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "latitude": 12.95703,
+        "longitude": 77.59837,
+        "created": "2026-07-31T19:50:45Z",
+        "title": "Senior Data Scientist",
+        "redirect_url": "https://www.adzuna.in/land/ad/5822403303?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=8275CB4E87777E50BE08D22D65CF6F2BCB4647D1",
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Scientific & QA Jobs",
+          "tag": "scientific-qa-jobs"
+        },
+        "salary_is_predicted": "0",
+        "id": "5822403303",
+        "description": "This job is with Kraft Heinz, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description Are you a talented and driven Data Scientist with expertise in machine learning and a passion for building robust pipelines for demand forecasting? We are seeking a skilled individual to join our dynamic team at Kraft Heinz. Join our team and make an impact by leveraging machine learning and dema\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyMjQwMzMwMyIsInMiOiJubkZKbGVDaDhSR2haN2djVUpaaXZnIn0.LWba_admJz-RdLqPe2vQSKzKlPS1-17qFWAK4NIsctI",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Kraft Heinz"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "upGrad"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODU3MTY4NDQxIn0.g9AH_qAUVdwvFcqEMVtYhcYIrsVJ1ZMyBtAlzDvz4Mc",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 78.50806,
+        "created": "2026-08-26T22:01:32Z",
+        "title": "Data Science Instructor",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "location": {
+          "display_name": "Hyderabad, Telangana",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ]
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5857168441?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=CEB40CB7335D41898800C58388A2B035DF674757",
+        "latitude": 17.40275,
+        "id": "5857168441",
+        "salary_is_predicted": "0",
+        "description": "About upGrad Founded in 2015, upGrad is Asia\u2019s largest integrated Learning, Skilling, Workforce Development, and Placement company. Its offerings include online and hybrid degrees, study abroad programs, certifications, bootcamps, and doctorates for working professionals. Through its B2B arm, upGrad also provides enterprise training, recruitment, and staffing services. With 10M learners across 100 countries, 300 global university partners, 2500 pathway connections, and 20,000 recruitment partne\u2026"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODU2MTMwMDgyIn0.e7V_XDsLuYawPeyuzYgld7kKFLrN8BufyEcLB5sEie4",
+        "company": {
+          "display_name": "Warner Bros. Discovery",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "This job is with Warner Bros. Discovery, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Welcome to Warner Bros. Discovery\u2026 the stuff dreams are made of. Who We Are\u2026 When we say, \u201cthe stuff dreams are made of,\u201d we\u2019re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD\u2019s vast portfolio of iconic content and beloved brands,\u2026",
+        "salary_is_predicted": "0",
+        "id": "5856130082",
+        "latitude": 12.95703,
+        "redirect_url": "https://www.adzuna.in/land/ad/5856130082?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=02733AE19184B381DBAB046CE0337E59E45C63D2",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "display_name": "Bangalore, Karnataka"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "created": "2026-08-26T06:09:12Z",
+        "longitude": 77.59837,
+        "title": "Staff Data Scientist"
+      },
+      {
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "location": {
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5830301696?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=831D27E49A625DDCB0CE1425E5EF9CB900266C95",
+        "created": "2026-08-06T16:01:55Z",
+        "title": "Lead Data Scientist",
+        "description": "This job is with S&P Global, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About the Role: Grade Level (for internal use): 11 The Team : The Foreseer team delivers digital transformation solutions for information extraction from structures and semi structured documents and websites. Foreseer is a human in the loop platform that combines latest AI/ML advances with a state-of-the-art UI f\u2026",
+        "salary_is_predicted": "0",
+        "id": "5830301696",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODMwMzAxNjk2In0.g6Dvsnw1yCwsuBKy2C1t56tDlCqyBr2xmnSmA1Txf04",
+        "company": {
+          "display_name": "S&P Global",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time"
+      },
+      {
+        "id": "5845682848",
+        "salary_is_predicted": "0",
+        "description": "About the Company PW Digital University (PWDU) is an upcoming digital-first university established under the Punjab Private Digital Open Universities Policy, 2026. The university draws on the technology and academic delivery expertise of Physics Wallah's broader digital learning ecosystem. About the Role PWDU is seeking an Assistant Professor in B.Sc. Data Science to drive academic content development and curriculum delivery for its B.Sc Data Science programme. The successful candidate will wor\u2026",
+        "latitude": 30.28465,
+        "longitude": 76.32585,
+        "created": "2026-08-18T05:07:53Z",
+        "title": "Assistant Professor of Data Science",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Teaching Jobs",
+          "tag": "teaching-jobs"
+        },
+        "location": {
+          "display_name": "Patiala, Punjab",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Punjab",
+            "Patiala"
+          ]
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5845682848?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=55B362F4DC1A4DD1752D453DE9EC745EDBBC1C99",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NTY4Mjg0OCIsInMiOiJubkZKbGVDaDhSR2haN2djVUpaaXZnIn0.eSdkQHanyA8NfK0HeQ85f07LTblyaPF-8LqFHSV8woE",
+        "company": {
+          "display_name": "PW ",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMTE1OTA4NyIsInMiOiJubkZKbGVDaDhSR2haN2djVUpaaXZnIn0.RMqNVnOQdZ6tbGP4daGvwZt7YwTHUyDT7cl0B7bYbY0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "S&P Global"
+        },
+        "salary_is_predicted": "0",
+        "id": "5811159087",
+        "description": "This job is with S&P Global, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About the Role: Grade Level (for internal use): 15 The Team: Enterprise Solutions (ES) Technology is a powerful combination of world class people and businesses with a shared mission and legacy of evolving markets and delivering for the most demanding customers in the world. We are the catalyst to bring data, sof\u2026",
+        "created": "2026-07-23T02:11:18Z",
+        "title": "Vice President, Data Science",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "location": {
+          "display_name": "India",
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5811159087?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=72DA4BF1539BBFF7907C5F48DC7F03264D3ABF00"
+      },
+      {
+        "description": "This job is with Novartis, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Summary Responsible and accountable for managing all Data Mgmt/Coding / CDD/DAP aspects of several studies, a medium to large sized project or project level activities at a consistently high standard. The position is a key collaborator and strategic partner with stakeholders ensuring that pharmaceutical drug develo\u2026",
+        "id": "5842114970",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5842114970?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=9EED196D9816540800E6EC631865D5D802FB3FFB",
+        "location": {
+          "display_name": "India",
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+          "label": "Scientific & QA Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "scientific-qa-jobs"
+        },
+        "created": "2026-08-15T00:04:09Z",
+        "title": "Principal Clinical Data Scientist",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Novartis",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODQyMTE0OTcwIn0.Lzr6w7GaBcwemp5tXyG0i9BU79uHG288uB9hP0-_DUg"
+      },
+      {
+        "latitude": 17.40275,
+        "created": "2026-08-12T01:59:34Z",
+        "longitude": 78.50806,
+        "title": "Senior Data Scientist - Data Platform Team, Hyderabad",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139379?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=E28C4D1B75299104E3996FF73C46D2AC7F73D5DE",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "id": "5837139379",
+        "description": "This job is with Warner Bros. Discovery, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Welcome to Warner Bros. Discovery\u2026 the stuff dreams are made of. Who We Are\u2026 When we say, \u201cthe stuff dreams are made of,\u201d we\u2019re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD\u2019s vast portfolio of iconic content and beloved brands,\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNzEzOTM3OSIsInMiOiJubkZKbGVDaDhSR2haN2djVUpaaXZnIn0.creVrRjDi8xCQ86NeOxeI7DZaKNr3FB9ppqrC02Webo",
+        "company": {
+          "display_name": "Warner Bros. Discovery",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODUwOTgzNDY5In0.C239qwGSJoKV-ESdW_gwzan-HKnUccCtbNxkd5bjx6A",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "upGrad"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "part_time",
+        "created": "2026-08-21T17:26:38Z",
+        "title": "Part time Data Science Instructor",
+        "location": {
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India"
+          ]
+        },
+        "category": {
+          "label": "Part time Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "part-time-jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5850983469?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=0F708DAB080760E3C6FB3FC40EA3A64A7B0306D9",
+        "salary_is_predicted": "0",
+        "id": "5850983469",
+        "description": "Part-Time Data Science Instructor (Bhubaneshwar) upGrad is expanding its Offline Learning Centres , and we are looking for a dynamic, part-time Data Science Instructor in Bhubaneshwar If you want to balance your current professional commitments while mentoring ambitious students and working professionals in a classroom setting, this is the perfect role for you! Type: Part-Time Batch Time - 8 to 10 am Location: Bhubaneshwar (In-person classroom delivery) Key Responsibilities Deliver in-person le\u2026"
+      },
+      {
+        "created": "2026-07-25T23:45:27Z",
+        "title": "Senior Expert II Data Scientist",
+        "location": {
+          "display_name": "India",
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5815611072?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=FD42F7D7BE3F8B085CDDC609D04B5B22D73B9089",
+        "salary_is_predicted": "0",
+        "id": "5815611072",
+        "description": "This job is with Novartis, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Summary Join the Modeling & Simulation Data Science team within the Translational Medicine, Pharmacokinetic Sciences Unit to advance data-driven drug discovery. This role combines advanced data science with robust software engineering to transform large-scale experimental datasets into impactful insights and scalab\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODE1NjExMDcyIn0.IL-qM7zWGgYEVMAp7mtNWP6y-8mTlbGvwCWr2VJC8P4",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Novartis"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time"
+      },
+      {
+        "salary_is_predicted": "0",
+        "id": "5852477157",
+        "description": "Job Title: Data Science Instructor Offline Learning Centre Location: Bhopal Working Days: 6 (Monday to Saturday) About upGrad Founded in 2015, upGrad is Asias largest integrated Learning, Skilling, Workforce Development, and Placement company. Its offerings include online and hybrid degrees, study abroad programs, certifications, bootcamps, and doctorates for working professionals. Through its B2B arm, upGrad also provides enterprise training, recruitment, and staffing services. With 10M learne\u2026",
+        "latitude": 23.27495,
+        "longitude": 77.41355,
+        "created": "2026-08-22T17:35:39Z",
+        "title": "Data Science Instructor - Learning Centre",
+        "redirect_url": "https://www.adzuna.in/land/ad/5852477157?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=C196DCD121C33E5FA7A7F99C735E078C53777A1E",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Madhya Pradesh",
+            "Bhopal"
+          ],
+          "display_name": "Bhopal, Madhya Pradesh"
+        },
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODUyNDc3MTU3In0.AkTn17WMzt5UgL8-6JVAhBsfdFciyq3NXJSfONGO_XE",
+        "company": {
+          "display_name": "upGrad",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODU3MjUxMTA5In0.7Ygcd4P5dBbQ_UMwmucMLMntUr4kwQpmLOA5-De1Rk0",
+        "company": {
+          "display_name": "eBay",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5857251109?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=DFFFBEAEE33EC9D923A35791F0E19BD821F1BBEB",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-08-27T02:10:26Z",
+        "title": "Data Scientist 1 , Knowledge Management",
+        "description": "This job is with eBay, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At eBay, we're more than a global ecommerce leader - we're changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We're committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts. Our cu\u2026",
+        "salary_is_predicted": "0",
+        "id": "5857251109"
+      },
+      {
+        "description": "This job is with MSCI, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Your Team Responsibilities: OneMSCI R&D Quality & Architecture is a newly established cross-functional organization within R&D, created to drive consistent quality standards (especially from quantitative finance perspective) , modular architecture, and AI-first workflows across MSCI's product lines. As a Senior Associa\u2026",
+        "id": "5843137505",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5843137505?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=EC4079028ED7338B991CD57034DE9EA5AC8D9A0B",
+        "location": {
+          "display_name": "Mumbai, Maharashtra",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ]
+        },
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs"
+        },
+        "created": "2026-08-15T20:01:37Z",
+        "longitude": 72.84415,
+        "title": "Data Science-Index Quant Specialist",
+        "latitude": 19.00821,
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "MSCI",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0MzEzNzUwNSIsInMiOiJubkZKbGVDaDhSR2haN2djVUpaaXZnIn0.JkyU3ESsSQ6qylrIFppAKXkmk5otIKIMZwhVMIhn_18"
+      },
+      {
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Warner Bros. Discovery"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODM3ODQzNjE3In0.ciKOU00y3o07aOGAdf_5IU-tuLL1H2tOEcFF4api4IE",
+        "description": "This job is with Warner Bros. Discovery, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Welcome to Warner Bros. Discovery\u2026 the stuff dreams are made of. Who We Are\u2026 When we say, \u201cthe stuff dreams are made of,\u201d we\u2019re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD\u2019s vast portfolio of iconic content and beloved brands,\u2026",
+        "salary_is_predicted": "0",
+        "id": "5837843617",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5837843617?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=F8E1EFEC007F68DA2C9DD2662FEA174A42B0BC35",
+        "longitude": 78.50806,
+        "created": "2026-08-12T11:59:36Z",
+        "title": "Staff Data Scientist (Growth & ML), Hyderabad",
+        "latitude": 17.40275
+      },
+      {
+        "company": {
+          "display_name": "Standard Chartered Bank",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODM3MTM5Mjc2In0.8-kWomqO8F3PCpAVZ1ZUWI_VLl5HkyRDwu577O1ZNHs",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 77.59837,
+        "created": "2026-08-12T01:59:32Z",
+        "title": "Human-Centered AI Data Scientist, Strategy and Talent",
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139276?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=C0F814CBDD0355075DDB000131DE4C8D130504ED",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 12.95703,
+        "id": "5837139276",
+        "salary_is_predicted": "0",
+        "description": "This job is with Standard Chartered Bank, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Summary As a Human-Centered AI Data Scientist for Strategy and Talent (S&T) at Standard Chartered, you will work at the forefront of empowering human-centered and trustworthy AI adoption across S&T from vendor-provided and internally-developed AI systems. This role is central in guiding and asses\u2026"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5785773115?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=888721B9EAAF876B1F079BC209DECF1099E63440",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+          "tag": "energy-oil-gas-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Energy, Oil & Gas Jobs"
+        },
+        "longitude": 77.59837,
+        "title": "Talent Pool -FP&A- Data Scientist / Analytics Specialist / Data & AI Specialist",
+        "created": "2026-07-03T00:54:32Z",
+        "latitude": 12.95703,
+        "description": "This job is with ABB, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries outrun - leaner and cleaner. Here, progress is an expectation - for you, your team, and the world. As a global market leader, we\u2019ll give you what you need to make it happen. It won\u2019t always be easy, growing takes grit. But at ABB, you\u2019ll never run alone. Run what runs the world. This Position \u2026",
+        "id": "5785773115",
+        "salary_is_predicted": "0",
+        "company": {
+          "display_name": "ABB",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NTc3MzExNSIsInMiOiJubkZKbGVDaDhSR2haN2djVUpaaXZnIn0.GOre66e-b7Ldvwg7DwcIOKh4R8QKRoPxCQxMAuZOU1I",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ]
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5785772182?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=42B55A7F5E51E946663DF8E8BD77240E99C71583",
+        "longitude": 77.59837,
+        "created": "2026-07-03T00:54:23Z",
+        "title": "ABB Talent Pool(Unpause - Returnee program) - Technology and Data Science",
+        "latitude": 12.95703,
+        "description": "This job is with ABB, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries outrun - leaner and cleaner. Here, progress is an expectation - for you, your team, and the world. As a global market leader, we\u2019ll give you what you need to make it happen. It won\u2019t always be easy, growing takes grit. But at ABB, you\u2019ll never run alone. Run what runs the world. This Position \u2026",
+        "id": "5785772182",
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "ABB"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1Nzg1NzcyMTgyIn0.PCplUM407gh40BBTxLMRCHNkIhBOIO48KQmQXVA2Geg",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "longitude": 76.32585,
+        "created": "2026-08-18T05:07:53Z",
+        "title": "Assistant Professor",
+        "category": {
+          "tag": "teaching-jobs",
+          "label": "Teaching Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "location": {
+          "display_name": "Patiala, Punjab",
+          "area": [
+            "India",
+            "Punjab",
+            "Patiala"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5845682853?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=CBBF4D64177310D54D766C6DD072D9287C8A97BF",
+        "latitude": 30.28465,
+        "id": "5845682853",
+        "salary_is_predicted": "0",
+        "description": "Assistant Professor \u2013 Data Science (B.Sc./M.Sc./MCA) Location: Patiala, Punjab Employment Type : Full-Time About the Role PW Digital University (PWDU) is seeking passionate and qualified Assistant Professors \u2013 Data Science to develop and deliver high-quality academic content for undergraduate and postgraduate programmes in Data Science, Artificial Intelligence, and Machine Learning within a technology-enabled, UGC-compliant Open & Distance Learning (ODL) and Online Education framework. Key Resp\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "PW "
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODQ1NjgyODUzIn0.rnNkVpmFu8jvbKxnvh4gNKcDlBi--Nj41SSOkkvkE0Y",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODI3NzM1ODc1In0.pm7r9QlLs_v4BTdWwuFIrJuKRYlpRDW0LrTSV5ZXXSc",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Brainware University"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "latitude": 22.57285,
+        "longitude": 88.34373,
+        "created": "2026-08-04T17:45:09Z",
+        "title": "Assistant Professor in Computer Science & Engineering (AI & ML)",
+        "category": {
+          "label": "Teaching Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "teaching-jobs"
+        },
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "West Bengal",
+            "Kolkata"
+          ],
+          "display_name": "Kolkata, West Bengal"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5827735875?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=A32DF398CE6A95DB5710331E493DCD91E3BB3718",
+        "salary_is_predicted": "0",
+        "id": "5827735875",
+        "description": " We Are Hiring: Assistant Professor in Computer Science & Engineering (AI & ML) Are you a passionate academician in Computer Science, Artificial Intelligence, Machine Learning, Data Science, or allied emerging technologies ? Do you want to build a career in a research-driven, innovation-focused university that values teaching excellence, publications, funded projects, and AI-enabled learning ? Brainware University invites applications from highly motivated, research-oriented, and student-centri\u2026"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Kumaraguru College of Technology",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1MTMxMzM1NSIsInMiOiJubkZKbGVDaDhSR2haN2djVUpaaXZnIn0.p6xrrd-efFjQkfk764UlJxWFQ0jFSN2xKQhsT5BZAZw",
+        "salary_is_predicted": "0",
+        "id": "5851313355",
+        "description": "Kumaraguru College of Technology invites applications for the position of Assistant Professor / Associate Professor in the departments of Computer Science Engineering, Information Technology, and Artificial Intelligence & Data Science. We are seeking passionate educators and researchers who are eager to inspire the next generation of innovators and contribute to our growing academic community. Educational Background: M.E / M.Tech / MS & Ph.D. in Computer Science Engineering, Information Technol\u2026",
+        "longitude": 77.100203,
+        "title": "Professor / Associate Professor - Computer Science Engineering",
+        "created": "2026-08-21T21:26:11Z",
+        "category": {
+          "label": "Teaching Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "teaching-jobs"
+        },
+        "location": {
+          "display_name": "Coimbatore, Tamil Nadu",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Coimbatore"
+          ]
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5851313355?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=7254B1FC95E6C5A76A11359DA062C0413B67C61B",
+        "latitude": 11.017171
+      },
+      {
+        "id": "5830417509",
+        "salary_is_predicted": "0",
+        "description": "Leader for Computer Science & Coding Location: Onsite Employment Type: Full-time Department: Center for Distance & Online Education Target Qualification: M.Tech or Ph.D. in Computer Science / IT Executive Summary: We are on a mission to redefine online Computer Science education for BCA, MCA, and MS in Data Science students across India. We are seeking a visionary Leader who combines the depth of traditional academics with the agility of a coding startup. In this role, you will lead a team beyo\u2026",
+        "longitude": 76.96442,
+        "title": "Leader - Computer Science & Coding",
+        "created": "2026-08-06T17:51:47Z",
+        "location": {
+          "area": [
+            "India",
+            "Himachal Pradesh",
+            "Solan"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Solan, Himachal Pradesh"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5830417509?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=2613AC519695D3B871047263859AA6ED209A4727",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "latitude": 30.83916,
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Shoolini University",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODMwNDE3NTA5In0.f3rldqIW9FoNSha9O_o0egJYexxqL1Y_WDBkxXDpi3A"
+      },
+      {
+        "description": "Director Business Analytics, AI & Decision Intelligence About Amber Amber is the leading student housing platform globally, helping students find and book long-term accommodation near their universities. Think of Amber as Booking.com for student housing. Today, Amber serves students from over 160 countries and partners with leading property operators and universities across major education destinations worldwide. Backed by leading investors including Gaja Capital, Amber is building the operatin\u2026",
+        "id": "5849579029",
+        "salary_is_predicted": "0",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "location": {
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5849579029?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=7EF957660763037415F4B38E203A7CFF2ED25EFA",
+        "title": "Director Business Analytics, AI & Decision Intelligence",
+        "created": "2026-08-20T17:58:27Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Amber"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODQ5NTc5MDI5In0.CT94DJP6ANfGYO3peUL0zOXZHliDRMQgVWh7b-xYoVc"
+      },
+      {
+        "latitude": 30.28465,
+        "redirect_url": "https://www.adzuna.in/land/ad/5834649854?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=C69404DC2C287A83A472CAFF2C20510D5FABC1C3",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Punjab",
+            "Patiala"
+          ],
+          "display_name": "Patiala, Punjab"
+        },
+        "category": {
+          "tag": "teaching-jobs",
+          "label": "Teaching Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": 76.32585,
+        "created": "2026-08-09T18:11:57Z",
+        "title": "Assistant Professor of Computer Science",
+        "description": " WE\u2019RE HIRING | ASSISTANT PROFESSORS \u2013 PW DIGITAL UNIVERSITY  We are looking for experienced and passionate Assistant Professors to join our academic team for the following programmes:  1. Assistant Professor \u2013 BCA & MCA Domain: Computer Applications / Computer Science  2. Assistant Professor \u2013 B.Sc. Data Science & B.Sc. Artificial Intelligence Domain: Data Science / Artificial Intelligence / Computer Science  Location: Patiala, Punjab  Work Mode: WFH for initial 1\u20132 months, followed by relocat\u2026",
+        "id": "5834649854",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODM0NjQ5ODU0In0.S5RYpaMHw5ifzbUX6bLhXTQI0A3sBJGJ-lYlblvNm8Y",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "PW "
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "created": "2026-08-19T17:15:40Z",
+        "longitude": 73.1924,
+        "title": "International Faculty Recruitment \u2013 Assistant Professor (Computer Science & Engineering) - Romania | Serbia",
+        "category": {
+          "label": "Teaching Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "teaching-jobs"
+        },
+        "location": {
+          "area": [
+            "India",
+            "Gujarat",
+            "Vadodara"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Vadodara, Gujarat"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5848121172?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=88A2DCCA12D80C858A4C88DC6EFD39B8071495DE",
+        "latitude": 22.2891,
+        "salary_is_predicted": "0",
+        "id": "5848121172",
+        "description": "International Faculty Recruitment \u2013 Assistant Professor (Computer Science & Engineering) Parul University, India invites applications from talented and passionate academicians for the position of Assistant Professor in the Department of Computer Science & Engineering (CSE) . We are seeking experienced faculty members who can contribute to excellence in teaching, research, innovation, and international academic collaboration. Location Vadodara, Gujarat, India Eligible Countries: Romania | Serbia\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Parul University"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODQ4MTIxMTcyIn0.00RAIf5TxqVuQeR-MVeMCfIDo19EFCteTkNr7cl2OBs",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODQxNzU0OTcyIn0.7ChWlf5I5bCRBVlLncZS7vSkr5PS-rwNZxHMD_SstH0",
+        "company": {
+          "display_name": "Indian Institute of Creative Technologies",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 19.00821,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "location": {
+          "display_name": "Mumbai, Maharashtra",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ]
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5841754972?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=8810A385ECD873B9D5DC67D6551E738673BFEEE7",
+        "created": "2026-08-14T16:34:06Z",
+        "longitude": 72.84415,
+        "title": "Program Lead",
+        "description": "We\u2019re Hiring: Lead Programme | IICT, Mumbai The Indian Institute of Creative Technologies (IICT) is looking for a senior, future-focused and hands-on Lead Programme to lead, teach and build IICT\u2019s academic direction in Artificial Intelligence. IICT is building India\u2019s future-facing ecosystem for Animation, VFX, Gaming, Comics, XR/VR, Digital Media, Content Creation and Creative Technologies. This is a teaching  academic leadership role for someone who can make AI practical, exciting and industr\u2026",
+        "id": "5841754972",
+        "salary_is_predicted": "0"
+      },
+      {
+        "created": "2026-08-15T00:04:09Z",
+        "title": "Data Steward",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "location": {
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5842114972?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=4196AA493B5A1C57646E999A0CF6246F70E74679",
+        "salary_is_predicted": "0",
+        "id": "5842114972",
+        "description": "This job is with Novartis, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Summary LI-Hybrid Location: Hyderabad Are you ready to shape the future of data engineering in life sciences? As a Data Engineer Manager, you'll lead the data engineering team and support the data science and/or reporting & analytics team inbuilding scalable Commercial solutions to enhance the medical/sales represe\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODQyMTE0OTcyIn0.GUkmKvxEquviBXWyXEG3WxXBjLqg5Ac00JxoHQGGANQ",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Novartis"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time"
+      },
+      {
+        "created": "2026-08-05T17:45:01Z",
+        "title": "Senior Associate/Project Lead/Manager - Patient Predictive Analytics",
+        "redirect_url": "https://www.adzuna.in/land/ad/5829060418?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=6B04C019CAE7E5A74726C850C3325DA4A2457D17",
+        "location": {
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India"
+          ]
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "id": "5829060418",
+        "salary_is_predicted": "0",
+        "description": "Axtria is a global provider of award-winning cloud software and data analytics to the life sciences industry. The company enables pharmaceutical, medical device, and diagnostics organizations to transform product commercialization and improve healthcare outcomes worldwide. Job Title- Senior Associate/Project Lead/Manager, Patient Predictive Analytics Location: Bangalore/Hyderabad/Pune/ Gurgaon / Noida Job Summary : Responsible for data science solutioning (predictive analytics, clustering, segm\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODI5MDYwNDE4In0.3HCyKFzcH8xorELEb6jXKw1l8oLpkwTJiNg8-u0lSSg",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Axtria - Ingenious Insights"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139342?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=47C602DFE911D6A3DF5B8EE92A73942F0A173739",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Chennai"
+          ],
+          "display_name": "Chennai, Tamil Nadu"
+        },
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "longitude": 80.24963,
+        "created": "2026-08-12T01:59:33Z",
+        "title": "Senior Insights Analyst",
+        "latitude": 13.06041,
+        "description": "This job is with WPP Production, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About WPP Production We are WPP Production - the unified global production company that brings together all of WPP's content producers, studios and craft experts into one connected organisation. We combine world-class human craft with next generation technology to originate, design, and deliver multi-channel \u2026",
+        "salary_is_predicted": "0",
+        "id": "5837139342",
+        "company": {
+          "display_name": "WPP Production",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNzEzOTM0MiIsInMiOiJubkZKbGVDaDhSR2haN2djVUpaaXZnIn0.k2DdYUX1lmB10oyIq8rrUkLQLNp7KXGzNFeW0eH1Lwo",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjY2MzUxOSIsInMiOiJubkZKbGVDaDhSR2haN2djVUpaaXZnIn0.xDpyrLu9BenO3lJSyrj9SJlSEmrbhb6Apv38N2CGNKI",
+        "company": {
+          "display_name": "Birla Institute of Technology and Science, Pilani",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "id": "5846663519",
+        "description": "Post / Job Title: Assistant Professor Job Type: Full Time No. of Positions : 4 Department : Academic Location: Bangalore Role Overview: The incumbent will play a pivotal role in shaping and delivering high-quality, industry-aligned educational content for our online courses and programmes. The role will include curriculum development, teaching, assessment, and ensuring the overall quality of programme delivery. Faculty members will also manage a large pool of guest/adjunct faculty and teaching \u2026",
+        "title": "Assistant Professor",
+        "created": "2026-08-18T17:10:41Z",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846663519?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=D43032F56152A49A75402D2CD148527A014441BD",
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka"
+        },
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Taglynk",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyOTA2MDIzMyIsInMiOiJubkZKbGVDaDhSR2haN2djVUpaaXZnIn0.Ly90RPJge6sZ8aKyVe-4eES2P616UQN5yS75gw-nBbA",
+        "id": "5829060233",
+        "salary_is_predicted": "0",
+        "description": "Role Overview We are looking for an experienced AI Product Manager to lead the design, development, and deployment of AI-driven solutions across Manufacturing, Renewable Energy, and Power sectors . The role requires strong domain expertise, product management skills, and the ability to translate business challenges into scalable AI products that deliver measurable business value. Key Responsibilities Define AI product strategy, roadmap, and business cases aligned with organizational goals. Iden\u2026",
+        "created": "2026-08-05T17:44:35Z",
+        "longitude": 77.3225,
+        "title": "AI Product Manager (Manufacturing, Renewable & Power)",
+        "location": {
+          "area": [
+            "India",
+            "Uttar Pradesh",
+            "Ghaziabad",
+            "Noida"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Noida, Ghaziabad"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5829060233?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=136ADC7B662132B4FEF2235E46E3A9B6AB94F82F",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "latitude": 28.56579
+      },
+      {
+        "id": "5831966515",
+        "salary_is_predicted": "0",
+        "description": "JAIN (Deemed-to-be University), School of Sciences invites applications for Faculty positions at the level of Assistant Professor, Associate Professor and Professor for its Department of Chemistry & Biochemistry, Psychology, Forensic Science, Data Science & Analytics, and Physics with the specialization of Industrial Psychology /Organizational Behaviour / Clinical Psychology / RCI, Cyber / Digital Forensic Science, Data Science, Bioinformatics and Astrophysics. Candidates with good academic rec\u2026",
+        "created": "2026-08-07T17:56:37Z",
+        "title": "Professor",
+        "location": {
+          "display_name": "Bangalore, Karnataka",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+          "tag": "teaching-jobs",
+          "label": "Teaching Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5831966515?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=EAF9C51530D5D8DADB805A890FF2EAE5DEEFB16D",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODMxOTY2NTE1In0.fHKvpburr35QKRVhOCGXPVcCfTGaxeIWGAth6rCBz5o",
+        "company": {
+          "display_name": "Jain ",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "description": "This job is with Cornerstone OnDemand, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. We are seeking a talented Senior Data Engineer in India. The right candidate has strong communication skills, passion for solving business problems with data and has domain knowledge in Finance, Human Resources, and Customer Success. You have empathy, curiosity and desire to improve and constantly learn\u2026",
+        "id": "5841509271",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.in/land/ad/5841509271?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=79C7894BF01ADAAC3675B837FB4EFBB73CE628B1",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Telangana",
+            "Hyderabad"
+          ],
+          "display_name": "Hyderabad, Telangana"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "created": "2026-08-14T14:19:22Z",
+        "longitude": 78.50806,
+        "title": "Senior Data Engineer",
+        "latitude": 17.40275,
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Cornerstone OnDemand",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0MTUwOTI3MSIsInMiOiJubkZKbGVDaDhSR2haN2djVUpaaXZnIn0.QXrjYr-7Npqf3zB25Bwcl167iUxnPQfLnNp34Etar_4"
+      },
+      {
+        "latitude": 19.00821,
+        "longitude": 72.84415,
+        "created": "2026-07-23T22:17:17Z",
+        "title": "S&C Global Network - AI - Supply Chain Analytics - Consultant",
+        "redirect_url": "https://www.adzuna.in/land/ad/5812528434?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=256309E3442F48C74D9F23E0CEC5B4EFFB29D50E",
+        "location": {
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Mumbai, Maharashtra"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_is_predicted": "0",
+        "id": "5812528434",
+        "description": "This job is with Accenture, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Entity : - Accenture Strategy & Consulting Team : - Strategy & Consulting - Global Network Practice : - Supply Chian Analytics Title : - Ind & Func AI Decision Science Consultant Job location : - Bangalore/Gurgaon/Hyderabad/ Mumbai Explore an Exciting Career at Accenture Do you believe in creating an impact? Are y\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMjUyODQzNCIsInMiOiJubkZKbGVDaDhSR2haN2djVUpaaXZnIn0.OhhzdbJabgHv6aNCOG-0q-zQ6acPcBbvI4UnLo6_4aU",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Accenture"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Kyndryl"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODM3MTM5MjM5In0.XWHFUifqsSNSezM1kejtNZJHqVRPSQo8_r8ZD9LKtxQ",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Mumbai, Maharashtra",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Maharashtra",
+            "Mumbai"
+          ]
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5837139239?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=7291B6FF184E2AF0485146D307A99C41458CD88A",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "title": "GenAI & Agentic AI Developer",
+        "longitude": 72.84415,
+        "created": "2026-08-12T01:59:32Z",
+        "latitude": 19.00821,
+        "description": "This job is with Kyndryl, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Who We Are At Kyndryl, we design, build, manage and modernize the mission-critical technology systems that the world depends on every day. So why work at Kyndryl? We are always moving forward - always pushing ourselves to go further in our efforts to build a more equitable, inclusive world for our employees, our cus\u2026",
+        "id": "5837139239",
+        "salary_is_predicted": "0"
+      },
+      {
+        "salary_is_predicted": "0",
+        "id": "5846723269",
+        "description": "This job is with HP, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Supply Planning & Analytics Specialist Description - Job Summary \u2022 We are looking for great talent with strong cross-functional supply chain experience, razor-sharp analytical skills coupled with AI/data science exposure, solid influencing and collaboration skills, along with strong drive/achievement orientation and curi\u2026",
+        "created": "2026-08-18T18:03:36Z",
+        "title": "Supply Planning & Analytics Specialist",
+        "redirect_url": "https://www.adzuna.in/land/ad/5846723269?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=D7CE3BDC6FF82795F3748FC1A614FE7954A2ECEC",
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka"
+        },
+        "category": {
+          "label": "Logistics & Warehouse Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "logistics-warehouse-jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjcyMzI2OSIsInMiOiJubkZKbGVDaDhSR2haN2djVUpaaXZnIn0.Ayhu0khaXTH_rkbxjrwi_BbP_SWAGF5gyDGAlhqZ2Ik",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HP"
+        }
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0OTg4OTg1NiIsInMiOiJubkZKbGVDaDhSR2haN2djVUpaaXZnIn0.sMRfZtNcYRu0rBx4EWKXNp-PAieINpT1aMbNwVmX-hk",
+        "company": {
+          "display_name": "VyTCDC",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "latitude": 13.06041,
+        "category": {
+          "label": "Sales Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "sales-jobs"
+        },
+        "location": {
+          "area": [
+            "India",
+            "Tamil Nadu",
+            "Chennai"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Chennai, Tamil Nadu"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5849889856?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=9CEA48B8AA299261DB8BEC8524A27D9D689A3CF3",
+        "created": "2026-08-20T23:24:44Z",
+        "longitude": 80.24963,
+        "title": "Revenue Growth Executive - EduTech",
+        "description": "We\u2019re Hiring:    - EduTech | Chennai VyTCDC - Technology Career Development Center, a Vy Ventures division established in 2002, is looking for a Revenue Growth Executive to own and scale revenue across our diploma programs and corporate training partnerships.   Own and scale revenue across VyTCDC\u2019s diploma programs: \u2022 AI & ML \u2022 Data Science \u2022 Full Stack \u2022 Salesforce You\u2019ll be responsible for building the enrollment pipeline, pricing strategy, and B2B training partnerships, while developing key \u2026",
+        "salary_is_predicted": "0",
+        "id": "5849889856"
+      },
+      {
+        "description": "Role Responsibilities Develop and execute a comprehensive sales and business development strategy aligned with company goals. Conduct thorough market research to identify new target markets and customer segments. Generate qualified leads through prospecting, networking, and cold calling. Develop strong relationships with potential clients, understanding their needs and pain points. Craft compelling sales presentations that effectively communicate the value proposition of our services. Negotiate\u2026",
+        "salary_is_predicted": "0",
+        "id": "5831965499",
+        "redirect_url": "https://www.adzuna.in/land/ad/5831965499?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=5B38AF90132F6A2D6208DA07C701DC748997BF48",
+        "location": {
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India"
+          ]
+        },
+        "category": {
+          "label": "Sales Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "sales-jobs"
+        },
+        "created": "2026-08-07T17:54:54Z",
+        "title": "Enterprise Account Manager",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "NIIT Limited"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzMTk2NTQ5OSIsInMiOiJubkZKbGVDaDhSR2haN2djVUpaaXZnIn0.Ya3dzQx_HZ9fHd12fkkuPWSDXVez7KFlgCh4G95y9E8"
+      },
+      {
+        "salary_is_predicted": "0",
+        "id": "5848120293",
+        "description": "Title: Global Sales Enablement Representative Location: Bengaluru / Vizag / Indore, India (On-site) Full-time: Mon\u2013Fri, 8:00 AM\u20135:00 PM EST About KAPITAL Founded in 2015 and headquartered in Yardley, Pennsylvania, KAPITAL is a leading ERP & Data Science talent acquisition firm . Over the past decade we've delivered high-quality talent solutions across Oracle Cloud, PeopleSoft, Workday, Microsoft Dynamics, SAP, Salesforce, UKG, and Data Science partnering with organizations like IBM, UF Health, \u2026",
+        "created": "2026-08-19T17:14:21Z",
+        "title": "Global Sales Enablement Representative",
+        "redirect_url": "https://www.adzuna.in/land/ad/5848120293?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=2B7935A7D134257BEB783259B22008F434C80F89",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "display_name": "Bangalore, Karnataka"
+        },
+        "category": {
+          "tag": "sales-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Sales Jobs"
+        },
+        "contract_time": "part_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_type": "contract",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "KAPITAL"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0ODEyMDI5MyIsInMiOiJubkZKbGVDaDhSR2haN2djVUpaaXZnIn0.jm2mTxQBbDv2_Gd_PRAP_7piWkddwHUr4eheIKN8MzU"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Tredence Inc."
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODMzNDM0OTI4In0.j3qnPbB6DzYNPYu1oYoBT0FNtxNLTuLMGxMCUhNWDFM",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.in/land/ad/5833434928?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=267A02649C142E6A5DA27C5048C2C6CC20594E68",
+        "location": {
+          "area": [
+            "India",
+            "Karnataka",
+            "Bangalore"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bangalore, Karnataka"
+        },
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-08-08T18:01:52Z",
+        "title": "Technical Program Manager - AdTech",
+        "description": "Overview: Seeking an experienced Technical Program Manager to lead cross-functional delivery of complex AdTech and data-driven initiatives. This role is execution-focused, responsible for program governance, dependency management, and stakeholder coordination across engineering, ad sales, ad operations, data, and analytics teams. In addition to core TPM responsibilities, the role requires strong business analysis capabilities to support requirement definition, solution design, and delivery of A\u2026",
+        "id": "5833434928",
+        "salary_is_predicted": "0"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NTY4MzE1MCIsInMiOiJubkZKbGVDaDhSR2haN2djVUpaaXZnIn0.rjUFm3BMPoClUnK-NOw-_lCFRjrD62jbiMAWHG4cres",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Karnavati University "
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 23.4896,
+        "longitude": 72.645,
+        "created": "2026-08-18T05:08:26Z",
+        "title": "Assistant Professor",
+        "location": {
+          "area": [
+            "India",
+            "Gujarat",
+            "Gandhinagar"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Gandhinagar, Gujarat"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5845683150?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=61F70F45E8B97F3142202B87C724821C8E2F17BB",
+        "category": {
+          "label": "Teaching Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "teaching-jobs"
+        },
+        "id": "5845683150",
+        "salary_is_predicted": "0",
+        "description": "Key Responsibilities: Deliver undergraduate courses in Computer Science, IT, AI, Data Science, and related fields. Design and update curriculum, lab manuals, and e-learning resources. Employ innovative pedagogy (project-based learning, blended teaching). Conduct independent and collaborative research in emerging technology domains. Publish at least 2 papers in reputed journals/conferences; contribute to patents and applied projects. Pursue funded projects and industry collaborations. Guide stud\u2026"
+      },
+      {
+        "id": "5849640659",
+        "salary_is_predicted": "0",
+        "description": "This job is with Novartis, an inclusive employer and a member of myGwork \u2013 the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Summary In this role, you will work closely with PKS M&S, Therapeutic Areas, and multidisciplinary teams to develop and apply quantitative disease models that inform key scientific and development decisions. You will contribute to the development of mechanistic disease models, support model-informed insights, and h\u2026",
+        "title": "Principal Scientist I, (QSP) - Modeling & Simultion",
+        "created": "2026-08-20T20:05:06Z",
+        "redirect_url": "https://www.adzuna.in/land/ad/5849640659?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=7E10D564A2ED2AA5F1E6C578550AF55CAC375BCE",
+        "location": {
+          "display_name": "India",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "India"
+          ]
+        },
+        "category": {
+          "tag": "scientific-qa-jobs",
+          "label": "Scientific & QA Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0OTY0MDY1OSIsInMiOiJubkZKbGVDaDhSR2haN2djVUpaaXZnIn0.eO4V3dwbO_oxkTQU48N8neHafFxJ0GMbwaPh0g0g-Eo",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Novartis"
+        }
+      },
+      {
+        "description": "About the Role At Chandigarh University, We are seeking highly motivated and innovative researchers to join our multidisciplinary research team. The ideal candidates will contribute to cutting-edge research, develop novel solutions, publish high-quality research, and collaborate across disciplines to solve complex real-world challenges. Research Areas : Artificial Intelligence (AI) Data Science Robotics IOT Materials Science Electronics Engineering Mechanical Engineering Responsibilities : \u2022 In\u2026",
+        "salary_is_predicted": "0",
+        "id": "5823897793",
+        "location": {
+          "display_name": "India",
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.in/land/ad/5823897793?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=EC423C2D7700E59D666DDD9286F5C8486DFF3A6C",
+        "category": {
+          "tag": "scientific-qa-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Scientific & QA Jobs"
+        },
+        "created": "2026-08-01T17:32:26Z",
+        "title": "Assistant Professor",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "CHANDIGARH UNIVERSITY",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1ODIzODk3NzkzIn0.96v7cFNQb0nNQXLGWcX2Xl_uPlefaOi_x7imoyZadd0"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Confidential Careers"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibm5GSmxlQ2g4UkdoWjdnY1VKWml2ZyIsImkiOiI1Nzg4NTk5MzIxIn0.BFHHsnw52kPwNc8TV3dth904y426LbBfJGwhhvwJ5EM",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Credit Portfolio Manager",
+        "created": "2026-07-05T05:29:50Z",
+        "redirect_url": "https://www.adzuna.in/land/ad/5788599321?se=nnFJleCh8RGhZ7gcUJZivg&utm_medium=api&utm_source=cd9c749f&v=1D353D578E7F01D793D6E0311B2A98584BAEF146",
+        "location": {
+          "area": [
+            "India"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "India"
+        },
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "id": "5788599321",
+        "description": "RESPONSIBILITIES: Work with internal partners to develop a robust portfolio management framework and a comprehensive credit & fraud risk management infrastructure for the Digital Bank. Define the credit & portfolio management strategy, focusing primarily on Consumer products, Merchant lending, and SME lending portfolios. Establish credit risk appetite and thresholds for the product portfolios. Develop a comprehensive process and build credit portfolio monitoring and control systems to assess, i\u2026"
+      }
+    ],
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "mean": 1607800.2
+  }
+}

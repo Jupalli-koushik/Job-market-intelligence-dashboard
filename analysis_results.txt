@@ -1,0 +1,441 @@
+role_category     postings  pct_sql  pct_python  pct_power_bi  pct_tableau  pct_azure  pct_aws  pct_genai_llm
+----------------  --------  -------  ----------  ------------  -----------  ---------  -------  -------------
+ai_engineer       416       1.7      7.0         0.0           0.2          3.8        2.9      18.0         
+business_analyst  284       2.5      0.7         1.1           0.0          0.0        0.0      0.4          
+data_analyst      275       12.0     9.5         10.5          7.6          1.5        1.1      2.2          
+data_engineer     221       13.1     15.4        0.5           0.5          9.0        7.7      1.4          
+data_scientist    89        6.7      12.4        0.0           0.0          3.4        1.1      6.7          
+role_category     salary_observations  avg_salary_min  avg_salary_max
+----------------  -------------------  --------------  --------------
+data_scientist    21                   1392857.0       2552381.0     
+ai_engineer       68                   1036176.0       2022500.0     
+data_engineer     45                   1000667.0       1887000.0     
+data_analyst      41                   622195.0        1125366.0     
+business_analyst  39                   613334.0        961542.0      
+role_category     city       postings  avg_salary_max  city_rank
+----------------  ---------  --------  --------------  ---------
+ai_engineer       Hyderabad  5         2660000.0       1        
+ai_engineer       Bengaluru  19        2224211.0       2        
+ai_engineer       Chennai    5         2100000.0       3        
+ai_engineer       Pune       6         2066667.0       4        
+ai_engineer       Mumbai     12        1983333.0       5        
+ai_engineer       India      17        1780588.0       6        
+ai_engineer       Delhi      2         1100000.0       7        
+business_analyst  India      4         1925000.0       1        
+business_analyst  Ahmedabad  2         1250000.0       2        
+business_analyst  Hyderabad  4         1175000.0       3        
+business_analyst  Bengaluru  8         1075000.0       4        
+business_analyst  Delhi      3         1033333.0       5        
+business_analyst  Mumbai     5         960000.0        6        
+business_analyst  Surat      2         300000.0        7        
+data_analyst      Bengaluru  14        1435714.0       1        
+data_analyst      Delhi      4         1175000.0       2        
+data_analyst      India      12        1126250.0       3        
+data_analyst      Mumbai     2         1100000.0       4        
+data_analyst      Noida      2         512500.0        5        
+data_engineer     Bengaluru  13        2246154.0       1        
+data_engineer     India      14        1841071.0       2        
+data_engineer     Hyderabad  5         1640000.0       3        
+data_engineer     Pune       4         1575000.0       4        
+data_engineer     Ahmedabad  3         1400000.0       5        
+data_engineer     Noida      2         1320000.0       6        
+data_scientist    Hyderabad  4         3375000.0       1        
+data_scientist    India      7         3100000.0       2        
+data_scientist    Pune       3         2700000.0       3        
+data_scientist    Bengaluru  4         2075000.0       4        
+data_scientist    Mumbai     2         650000.0        5        
+city                role_category     posting_count
+------------------  ----------------  -------------
+Bengaluru           ai_engineer       113          
+India               ai_engineer       110          
+India               data_analyst      79           
+Hyderabad           ai_engineer       70           
+Bengaluru           data_engineer     68           
+Bengaluru           business_analyst  63           
+Bengaluru           data_analyst      63           
+India               business_analyst  56           
+India               data_engineer     54           
+Mumbai              business_analyst  45           
+Mumbai              ai_engineer       44           
+Hyderabad           data_engineer     42           
+Hyderabad           business_analyst  37           
+India               data_scientist    28           
+Hyderabad           data_analyst      23           
+Mumbai              data_analyst      23           
+Bengaluru           data_scientist    22           
+Pune                ai_engineer       22           
+Pune                data_engineer     19           
+Chennai             business_analyst  18           
+Chennai             ai_engineer       17           
+Chennai             data_analyst      15           
+Pune                business_analyst  15           
+Mumbai              data_engineer     12           
+Pune                data_analyst      12           
+Delhi               ai_engineer       10           
+Noida               ai_engineer       10           
+Ahmedabad           data_analyst      8            
+Noida               business_analyst  8            
+Noida               data_analyst      8            
+Delhi               data_analyst      7            
+Ahmedabad           data_engineer     6            
+Delhi               business_analyst  6            
+Ahmedabad           data_scientist    5            
+Hyderabad           data_scientist    5            
+Jaipur              business_analyst  5            
+Mumbai              data_scientist    5            
+Pune                data_scientist    5            
+Gurugram            business_analyst  4            
+Gurugram            data_analyst      4            
+Kolkata             business_analyst  4            
+Kolkata             data_analyst      4            
+Noida               data_engineer     4            
+Ahmedabad           business_analyst  3            
+Chennai             data_engineer     3            
+Gurugram            ai_engineer       3            
+Jaipur              data_analyst      3            
+Maharashtra         ai_engineer       3            
+Noida               data_scientist    3            
+Surat               business_analyst  3            
+Coimbatore          business_analyst  2            
+Coimbatore          data_analyst      2            
+Coimbatore          data_engineer     2            
+Coimbatore          data_scientist    2            
+Ernakulam           ai_engineer       2            
+Indore              ai_engineer       2            
+Jaipur              ai_engineer       2            
+Kolkata             ai_engineer       2            
+Maharashtra         business_analyst  2            
+Nashik              data_analyst      2            
+Patiala             data_scientist    2            
+Rajpura             data_scientist    2            
+Vadodara            data_analyst      2            
+Ahmedabad           ai_engineer       1            
+Ajmer               data_analyst      1            
+Bhopal              business_analyst  1            
+Bhopal              data_analyst      1            
+Bhopal              data_engineer     1            
+Chandigarh          ai_engineer       1            
+Chauth Ka Barwara   data_engineer     1            
+Chennai             data_scientist    1            
+Delhi               data_engineer     1            
+Delhi               data_scientist    1            
+Faridabad           data_engineer     1            
+Gandhinagar         business_analyst  1            
+Gandhinagar         data_scientist    1            
+Gujarat             business_analyst  1            
+Gujarat             data_analyst      1            
+Gurugram            data_engineer     1            
+Gwalior             data_analyst      1            
+Haryana             data_engineer     1            
+Jaipur              data_scientist    1            
+Kanpur Dehat        data_analyst      1            
+Kochi               business_analyst  1            
+Kochi               data_engineer     1            
+Kolkata             data_engineer     1            
+Kozhikode           data_analyst      1            
+Lucknow             business_analyst  1            
+Lucknow             data_analyst      1            
+Ludhiana            business_analyst  1            
+Madurai             ai_engineer       1            
+Madurai             business_analyst  1            
+Maharashtra         data_analyst      1            
+Mathura             data_analyst      1            
+Mathura             data_scientist    1            
+Mohali              business_analyst  1            
+Nagpur              data_analyst      1            
+Patiala             data_analyst      1            
+Patiala             data_engineer     1            
+Patna               business_analyst  1            
+Patna               data_analyst      1            
+Sanganer            data_analyst      1            
+Sevasi              data_analyst      1            
+Shahada             data_scientist    1            
+Solan               data_scientist    1            
+Srirangam           business_analyst  1            
+Surat               ai_engineer       1            
+Surat               data_analyst      1            
+Tamil Nadu          ai_engineer       1            
+Tamil Nadu          business_analyst  1            
+Telangana           data_analyst      1            
+Telangana           data_engineer     1            
+Thane               business_analyst  1            
+Thane               data_analyst      1            
+Thane               data_scientist    1            
+Thiruvananthapuram  data_analyst      1            
+Thoothukudi         data_analyst      1            
+Uttar Pradesh       data_scientist    1            
+Vadodara            data_scientist    1            
+Vasai               data_analyst      1            
+Vellore             business_analyst  1            
+Visakhapatnam       data_engineer     1            
+West Bengal         ai_engineer       1            
+month    role_category     posting_count
+-------  ----------------  -------------
+2019-05  ai_engineer       2            
+2019-06  ai_engineer       2            
+2019-06  business_analyst  1            
+2019-06  data_analyst      1            
+2019-08  ai_engineer       1            
+2019-12  ai_engineer       1            
+2020-01  ai_engineer       1            
+2020-02  ai_engineer       1            
+2020-03  ai_engineer       1            
+2020-03  business_analyst  1            
+2020-06  data_engineer     1            
+2020-09  data_analyst      1            
+2020-10  business_analyst  1            
+2020-10  data_analyst      1            
+2020-11  ai_engineer       1            
+2021-01  ai_engineer       1            
+2021-02  data_analyst      1            
+2021-03  ai_engineer       1            
+2021-04  data_engineer     1            
+2021-05  ai_engineer       1            
+2021-06  data_analyst      1            
+2021-07  data_scientist    2            
+2021-08  ai_engineer       1            
+2021-08  data_analyst      1            
+2021-09  ai_engineer       1            
+2021-09  data_analyst      3            
+2021-09  data_scientist    1            
+2021-10  ai_engineer       2            
+2021-10  business_analyst  1            
+2021-10  data_analyst      2            
+2021-10  data_engineer     1            
+2021-11  ai_engineer       1            
+2021-11  business_analyst  1            
+2021-11  data_analyst      1            
+2021-12  business_analyst  1            
+2021-12  data_engineer     1            
+2022-01  ai_engineer       1            
+2022-01  data_analyst      4            
+2022-01  data_engineer     1            
+2022-02  data_analyst      1            
+2022-02  data_scientist    1            
+2022-03  business_analyst  1            
+2022-03  data_engineer     1            
+2022-04  ai_engineer       2            
+2022-05  ai_engineer       1            
+2022-05  business_analyst  1            
+2022-06  business_analyst  1            
+2022-06  data_engineer     1            
+2022-07  ai_engineer       1            
+2022-07  data_analyst      1            
+2022-08  business_analyst  1            
+2022-09  ai_engineer       1            
+2022-09  business_analyst  1            
+2022-10  business_analyst  1            
+2022-10  data_engineer     2            
+2022-11  business_analyst  1            
+2023-02  ai_engineer       1            
+2023-02  business_analyst  2            
+2023-03  ai_engineer       2            
+2023-05  business_analyst  1            
+2023-06  data_analyst      1            
+2023-06  data_engineer     1            
+2023-09  data_engineer     1            
+2023-10  business_analyst  1            
+2023-10  data_analyst      1            
+2023-11  data_engineer     1            
+2023-12  ai_engineer       1            
+2023-12  data_scientist    1            
+2024-01  ai_engineer       2            
+2024-01  data_analyst      3            
+2024-02  ai_engineer       1            
+2024-03  ai_engineer       1            
+2024-05  ai_engineer       2            
+2024-05  business_analyst  4            
+2024-05  data_analyst      2            
+2024-06  business_analyst  2            
+2024-06  data_analyst      2            
+2024-06  data_engineer     2            
+2024-06  data_scientist    1            
+2024-07  business_analyst  3            
+2024-07  data_analyst      1            
+2024-08  data_engineer     1            
+2024-08  data_scientist    1            
+2024-09  ai_engineer       1            
+2024-09  business_analyst  1            
+2024-09  data_analyst      1            
+2024-09  data_scientist    1            
+2024-10  ai_engineer       1            
+2024-12  data_analyst      3            
+2024-12  data_engineer     1            
+2025-01  business_analyst  1            
+2025-01  data_analyst      1            
+2025-01  data_engineer     2            
+2025-02  business_analyst  1            
+2025-02  data_engineer     1            
+2025-03  ai_engineer       1            
+2025-04  ai_engineer       1            
+2025-04  business_analyst  1            
+2025-04  data_analyst      1            
+2025-04  data_scientist    1            
+2025-05  data_analyst      1            
+2025-05  data_engineer     1            
+2025-06  ai_engineer       1            
+2025-06  business_analyst  2            
+2025-06  data_engineer     2            
+2025-07  ai_engineer       1            
+2025-07  business_analyst  1            
+2025-08  ai_engineer       1            
+2025-08  business_analyst  2            
+2025-08  data_analyst      1            
+2025-08  data_engineer     1            
+2025-09  ai_engineer       1            
+2025-09  data_analyst      1            
+2025-09  data_engineer     3            
+2025-10  ai_engineer       1            
+2025-10  data_engineer     1            
+2025-11  ai_engineer       7            
+2025-11  business_analyst  1            
+2025-11  data_analyst      2            
+2025-11  data_engineer     2            
+2025-11  data_scientist    1            
+2025-12  ai_engineer       5            
+2025-12  business_analyst  3            
+2025-12  data_analyst      3            
+2025-12  data_engineer     1            
+2025-12  data_scientist    1            
+2026-01  ai_engineer       1            
+2026-01  data_analyst      7            
+2026-01  data_engineer     1            
+2026-02  ai_engineer       4            
+2026-02  business_analyst  1            
+2026-02  data_scientist    1            
+2026-03  ai_engineer       4            
+2026-03  data_analyst      2            
+2026-03  data_engineer     6            
+2026-03  data_scientist    1            
+2026-04  ai_engineer       4            
+2026-04  business_analyst  4            
+2026-04  data_analyst      2            
+2026-04  data_engineer     1            
+2026-04  data_scientist    2            
+2026-05  ai_engineer       17           
+2026-05  business_analyst  10           
+2026-05  data_analyst      9            
+2026-05  data_engineer     4            
+2026-06  ai_engineer       26           
+2026-06  business_analyst  7            
+2026-06  data_analyst      9            
+2026-06  data_engineer     6            
+2026-06  data_scientist    1            
+2026-07  ai_engineer       81           
+2026-07  business_analyst  50           
+2026-07  data_analyst      48           
+2026-07  data_engineer     44           
+2026-07  data_scientist    9            
+2026-08  ai_engineer       224          
+2026-08  business_analyst  173          
+2026-08  data_analyst      156          
+2026-08  data_engineer     129          
+2026-08  data_scientist    64           
+company                      role_category     posting_count
+---------------------------  ----------------  -------------
+Deutsche Bank                business_analyst  25           
+Amgen                        ai_engineer       24           
+ABB                          business_analyst  19           
+Capco                        data_engineer     13           
+Morningstar                  business_analyst  12           
+Capco                        business_analyst  11           
+Cornerstone OnDemand         ai_engineer       11           
+Kyndryl                      ai_engineer       9            
+Novartis                     data_engineer     9            
+Kraft Heinz                  data_analyst      8            
+Kyndryl                      data_engineer     8            
+S&P Global                   data_engineer     8            
+Vrinda International         data_scientist    8            
+Accenture                    business_analyst  7            
+MSD                          data_engineer     7            
+Milestone Online Technology  business_analyst  7            
+S&P Global                   ai_engineer       7            
+Standard Chartered Bank      ai_engineer       7            
+Accenture                    data_engineer     6            
+Capco                        ai_engineer       6            
+Capco                        data_analyst      6            
+Deutsche Bank                ai_engineer       6            
+HP                           ai_engineer       6            
+Milestone Online Technology  data_analyst      6            
+Novartis                     business_analyst  6            
+role_category     postings  sql_python  python_cloud  python_genai
+----------------  --------  ----------  ------------  ------------
+ai_engineer       416       6           7             9           
+business_analyst  284       1           0             0           
+data_analyst      275       22          3             1           
+data_engineer     221       20          14            0           
+data_scientist    89        6           2             3           
+month    pct_mentioning  mom_change
+-------  --------------  ----------
+2019-05  0.0                       
+2019-06  25.0            25.0      
+2019-08  0.0             -25.0     
+2019-12  0.0             0.0       
+2020-01  0.0             0.0       
+2020-02  0.0             0.0       
+2020-03  0.0             0.0       
+2020-06  0.0             0.0       
+2020-09  0.0             0.0       
+2020-10  0.0             0.0       
+2020-11  0.0             0.0       
+2021-01  100.0           100.0     
+2021-02  0.0             -100.0    
+2021-03  0.0             0.0       
+2021-04  100.0           100.0     
+2021-05  0.0             -100.0    
+2021-06  100.0           100.0     
+2021-07  0.0             -100.0    
+2021-08  0.0             0.0       
+2021-09  20.0            20.0      
+2021-10  16.7            -3.3      
+2021-11  33.3            16.7      
+2021-12  50.0            16.7      
+2022-01  33.3            -16.7     
+2022-02  50.0            16.7      
+2022-03  50.0            0.0       
+2022-04  50.0            0.0       
+2022-05  0.0             -50.0     
+2022-06  0.0             0.0       
+2022-07  0.0             0.0       
+2022-08  0.0             0.0       
+2022-09  0.0             0.0       
+2022-10  33.3            33.3      
+2022-11  0.0             -33.3     
+2023-02  0.0             0.0       
+2023-03  50.0            50.0      
+2023-05  0.0             -50.0     
+2023-06  0.0             0.0       
+2023-09  100.0           100.0     
+2023-10  0.0             -100.0    
+2023-11  100.0           100.0     
+2023-12  0.0             -100.0    
+2024-01  20.0            20.0      
+2024-02  0.0             -20.0     
+2024-03  0.0             0.0       
+2024-05  0.0             0.0       
+2024-06  14.3            14.3      
+2024-07  0.0             -14.3     
+2024-08  0.0             0.0       
+2024-09  0.0             0.0       
+2024-10  0.0             0.0       
+2024-12  0.0             0.0       
+2025-01  75.0            75.0      
+2025-02  0.0             -75.0     
+2025-03  0.0             0.0       
+2025-04  0.0             0.0       
+2025-05  50.0            50.0      
+2025-06  40.0            -10.0     
+2025-07  0.0             -40.0     
+2025-08  20.0            20.0      
+2025-09  20.0            0.0       
+2025-10  50.0            30.0      
+2025-11  23.1            -26.9     
+2025-12  15.4            -7.7      
+2026-01  0.0             -15.4     
+2026-02  16.7            16.7      
+2026-03  15.4            -1.3      
+2026-04  7.7             -7.7      
+2026-05  7.5             -0.2      
+2026-06  14.3            6.8       
+2026-07  4.7             -9.5      
+2026-08  5.9             1.2       

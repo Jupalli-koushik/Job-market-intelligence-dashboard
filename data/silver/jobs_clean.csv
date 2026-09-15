@@ -1,0 +1,1286 @@
+posting_id,role_category,city,company,salary_min,salary_max,posted_date,sql,python,power_bi,tableau,excel,azure,aws,spark,r,snowflake,dbt,genai_llm
+5837139879,ai_engineer,Pune,Capco,,,2026-08-12T01:59:43Z,False,False,False,False,False,False,False,False,False,False,False,True
+5846723676,ai_engineer,Mumbai,Morningstar,,,2026-08-18T18:03:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139696,ai_engineer,India,Capco,,,2026-08-12T01:59:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837843493,ai_engineer,Hyderabad,Cornerstone OnDemand,,,2026-08-12T11:59:19Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837138874,ai_engineer,Hyderabad,Cornerstone OnDemand,,,2026-08-12T01:59:18Z,False,False,False,False,False,False,False,False,False,False,False,False
+5842114998,ai_engineer,Gurugram,Criteo,,,2026-08-15T00:04:14Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723052,ai_engineer,Pune,Deutsche Bank,,,2026-08-18T18:03:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5854537872,ai_engineer,Bengaluru,Standard Chartered Bank,,,2026-08-25T00:07:49Z,False,False,False,False,False,False,False,False,False,False,False,False
+5795883295,ai_engineer,Bengaluru,MSCI,,,2026-07-10T23:42:23Z,False,False,False,False,False,False,False,False,False,False,False,False
+5854537869,ai_engineer,India,S&P Global,,,2026-08-25T00:07:48Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723386,ai_engineer,Pune,Deutsche Bank,,,2026-08-18T18:03:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723241,ai_engineer,Bengaluru,HP,,,2026-08-18T18:03:36Z,False,False,False,False,False,False,False,False,False,False,False,False
+5848650878,ai_engineer,Mumbai,Morningstar,,,2026-08-20T00:04:21Z,False,False,False,False,False,False,False,False,False,False,False,False
+5847959803,ai_engineer,Bengaluru,Moody's,,,2026-08-19T14:05:01Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849296984,ai_engineer,Mumbai,Kyndryl,,,2026-08-20T10:04:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849296982,ai_engineer,Mumbai,Kyndryl,,,2026-08-20T10:04:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837138840,ai_engineer,Mumbai,Kyndryl,,,2026-08-12T01:59:18Z,False,False,False,False,False,False,False,False,False,False,False,False
+5812528326,ai_engineer,Bengaluru,Accenture,,,2026-07-23T22:17:08Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723645,ai_engineer,Pune,Danaher,,,2026-08-18T18:03:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139267,ai_engineer,Mumbai,Kyndryl,,,2026-08-12T01:59:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723487,ai_engineer,India,Moody's,,,2026-08-18T18:03:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852164474,ai_engineer,Pune,Deutsche Bank,,,2026-08-22T12:06:25Z,False,False,False,False,False,False,False,False,False,False,False,False
+5800931488,ai_engineer,Noida,Aristocrat,,,2026-07-15T14:16:25Z,False,False,False,False,False,False,False,False,False,False,False,False
+5847959723,ai_engineer,Bengaluru,HP,,,2026-08-19T14:04:56Z,False,False,False,False,False,False,False,False,False,False,False,False
+5827735875,ai_engineer,Kolkata,Brainware University,,,2026-08-04T17:45:09Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840277215,ai_engineer,Bengaluru,Standard Chartered Bank,,,2026-08-13T18:00:01Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849297003,ai_engineer,Hyderabad,Cornerstone OnDemand,,,2026-08-20T10:04:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+5850983450,ai_engineer,Hyderabad,QualiZeal,,,2026-08-21T17:26:37Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841509248,ai_engineer,Hyderabad,Cornerstone OnDemand,,,2026-08-14T14:19:18Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837138942,ai_engineer,Hyderabad,Cornerstone OnDemand,,,2026-08-12T01:59:19Z,False,False,False,False,False,False,False,False,False,False,False,True
+5818525036,ai_engineer,Delhi,ACNS AI SOLUTIONS LLP,,,2026-07-28T21:19:17Z,False,False,False,False,False,False,False,False,False,False,False,False
+5833434723,ai_engineer,Delhi,Nomiso,,,2026-08-08T17:59:47Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785772796,ai_engineer,Hyderabad,MSD,,,2026-07-03T00:54:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846299062,ai_engineer,India,EXL,,,2026-08-18T13:09:25Z,False,False,False,False,False,False,False,False,False,False,False,True
+5846723213,ai_engineer,Pune,Deutsche Bank,,,2026-08-18T18:03:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840224801,ai_engineer,Mumbai,AQM Technologies,,,2026-08-13T16:19:07Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841755314,ai_engineer,Mumbai,AQM Technologies,,,2026-08-14T16:34:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837138914,ai_engineer,Hyderabad,Cornerstone OnDemand,,,2026-08-12T01:59:19Z,False,False,False,False,False,False,False,False,False,False,False,False
+5832769922,ai_engineer,Bengaluru,Leadrat,960000.0,1200000.0,2026-08-08T06:52:26Z,False,False,False,False,False,False,False,False,False,False,False,True
+5814756829,ai_engineer,Bengaluru,Arohana Tech Solutions Private Limited,1500000.0,1980000.0,2026-07-25T06:50:26Z,False,False,False,False,False,False,False,False,False,False,False,True
+5836227802,ai_engineer,Mumbai,Kooe Private Limited,2000000.0,2500000.0,2026-08-11T06:57:29Z,False,False,False,False,False,False,False,False,False,False,False,True
+5805537218,ai_engineer,Jaipur,Durapid Technologies Pvt Ltd,1500000.0,1800000.0,2026-07-18T06:32:04Z,False,False,False,False,False,True,False,False,False,False,False,True
+5821684867,ai_engineer,Bengaluru,Telradsol,,,2026-07-31T04:46:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+5835817646,ai_engineer,Hyderabad,Capgemini,,,2026-08-10T22:49:51Z,False,False,False,False,False,False,False,False,False,False,False,True
+5835817647,ai_engineer,India,Capgemini,,,2026-08-10T22:49:51Z,False,False,False,False,False,False,False,False,False,False,False,True
+5805537188,ai_engineer,Mumbai,Kuku FM,1200000.0,2000000.0,2026-07-18T06:32:04Z,False,False,False,False,False,False,False,False,False,False,False,False
+5848973608,ai_engineer,Hyderabad,ECS ME LLC,,,2026-08-20T05:00:46Z,False,False,False,False,False,False,False,False,False,False,False,True
+5831392979,ai_engineer,Mumbai,Brainwonders,,,2026-08-07T07:20:37Z,False,False,False,False,False,False,False,False,False,False,False,True
+5810904593,ai_engineer,India,AION,,,2026-07-22T19:07:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5769457291,ai_engineer,India,SAP Fioneer,,,2026-06-19T20:41:15Z,False,False,False,False,False,False,False,False,False,False,False,False
+5781056559,ai_engineer,India,Virallens,,,2026-06-29T16:04:39Z,False,False,False,False,False,False,False,False,False,False,False,True
+5768766210,ai_engineer,Hyderabad,Blumetra,2500000.0,3000000.0,2026-06-19T06:19:18Z,False,False,False,False,False,False,False,False,False,False,False,True
+5851409029,ai_engineer,Bengaluru,Trigent Software Private Limited,1700000.0,1700000.0,2026-08-21T23:36:06Z,False,True,False,False,False,False,True,False,False,False,False,False
+5783489803,ai_engineer,India,Blue Matter,,,2026-07-01T16:03:49Z,False,False,False,False,False,False,False,False,False,False,False,False
+5842763538,ai_engineer,Pune,Mastercard,,,2026-08-15T11:35:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+5831966036,ai_engineer,Bengaluru,Antino,,,2026-08-07T17:55:50Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837019579,ai_engineer,Indore,Top Gen AI Jobs,,,2026-08-11T21:41:06Z,False,True,False,False,False,True,True,False,False,False,False,True
+5761699604,ai_engineer,India,Mitra Innovation,,,2026-06-13T02:18:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+5781956278,ai_engineer,Tamil Nadu,ABC,,,2026-06-30T14:52:25Z,False,False,False,False,False,False,False,False,False,False,False,False
+5743210191,ai_engineer,Mumbai,NeoGenCode Technologies Pvt Ltd,600000.0,1200000.0,2026-05-28T12:49:28Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849675578,ai_engineer,Mumbai,Tata Teleservices,,,2026-08-20T20:42:51Z,False,False,False,False,False,False,False,False,False,False,False,False
+5831607481,ai_engineer,India,"NTT America, Inc.",,,2026-08-07T10:55:48Z,False,False,False,False,False,False,True,False,False,False,False,False
+5840174952,ai_engineer,Mumbai,Unico Connect Private Limited,,,2026-08-13T16:01:05Z,False,False,False,False,False,False,False,False,False,False,False,False
+5722057797,ai_engineer,India,Brahma,,,2026-05-08T02:10:58Z,False,False,False,False,False,False,False,False,False,False,False,False
+5831607515,ai_engineer,India,"NTT America, Inc.",,,2026-08-07T10:55:49Z,False,False,False,False,False,False,True,False,False,False,False,False
+5842544539,ai_engineer,Bengaluru,Jothishi Online and Advertising Services Private Limited,,,2026-08-15T07:23:59Z,False,False,False,False,False,False,False,False,False,False,False,True
+5760986287,ai_engineer,Pune,Mastercard,,,2026-06-12T10:29:17Z,False,False,False,False,False,False,False,False,False,False,False,False
+5752934059,ai_engineer,Mumbai,Apprication pvt ltd,300000.0,1200000.0,2026-06-05T14:45:39Z,False,False,False,False,False,False,False,False,False,False,False,False
+5440535892,ai_engineer,India,Reliableteamai,200000.0,2400000.0,2025-10-10T09:21:38Z,False,True,False,False,False,False,False,False,False,False,False,True
+5755733078,ai_engineer,Hyderabad,All Generation Tech,,,2026-06-08T02:32:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+5816818535,ai_engineer,India,Ecolab,,,2026-07-27T03:14:35Z,False,False,False,False,False,False,False,False,False,False,False,True
+5536716700,ai_engineer,India,BayRockLabs Open Requisitions,,,2025-12-11T00:35:48Z,False,True,False,False,False,False,False,False,False,False,False,True
+5503837785,ai_engineer,Bengaluru,MyData Insights Private Limited,,,2025-11-20T00:58:21Z,False,False,False,False,False,False,False,False,False,False,False,False
+5819193016,ai_engineer,Bengaluru,Neudesic Technologies Private Limited,,,2026-07-29T07:50:32Z,False,True,False,False,False,True,False,False,False,False,False,True
+5796417474,ai_engineer,Bengaluru,Neudesic Technologies,,,2026-07-11T07:21:39Z,False,False,False,False,False,True,False,False,False,False,False,True
+5796417475,ai_engineer,Ernakulam,Neudesic Technologies,,,2026-07-11T07:21:39Z,False,False,False,False,False,True,False,False,False,False,False,True
+5796417473,ai_engineer,Hyderabad,Neudesic Technologies,,,2026-07-11T07:21:39Z,False,False,False,False,False,True,False,False,False,False,False,True
+5844354222,ai_engineer,Bengaluru,MathCo India,,,2026-08-16T21:10:54Z,False,False,False,False,False,False,False,False,False,False,False,True
+5496729188,ai_engineer,Bengaluru,Supaboard,1000000.0,1600000.0,2025-11-15T02:28:44Z,False,True,False,False,False,False,False,False,False,False,False,False
+5853709656,ai_engineer,India,AB InBev India,,,2026-08-23T20:59:44Z,False,False,False,False,False,False,False,False,False,False,False,False
+5756865489,ai_engineer,Pune,Antal International,2500000.0,3000000.0,2026-06-09T09:42:02Z,False,True,False,False,False,False,False,True,False,False,False,True
+5840389726,ai_engineer,India,dentsu,,,2026-08-13T20:55:34Z,False,False,False,False,False,False,False,False,False,False,False,True
+5492760936,ai_engineer,Bengaluru,NeoGenCode Technologies Pvt Ltd,1500000.0,2200000.0,2025-11-13T02:25:04Z,False,False,False,False,False,False,False,False,False,False,False,True
+5136197762,ai_engineer,Chennai,BigRio,2500000.0,3000000.0,2025-04-09T04:47:28Z,False,False,False,False,False,False,False,False,False,False,False,True
+5841948517,ai_engineer,India,Globalli,,,2026-08-14T21:03:04Z,False,False,False,False,False,False,False,False,False,False,False,False
+5814385170,ai_engineer,Pune,Capco,,,2026-07-25T03:11:41Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852564294,ai_engineer,India,Centric Software,,,2026-08-22T20:40:44Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849327244,ai_engineer,Bengaluru,"NTT America, Inc.",,,2026-08-20T11:18:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5540675684,ai_engineer,Bengaluru,ENTER,3000000.0,5000000.0,2025-12-13T09:43:26Z,False,False,False,False,False,False,False,False,False,False,False,False
+5816841769,ai_engineer,Hyderabad,Cornerstone OnDemand,,,2026-07-27T03:34:54Z,False,False,False,False,False,True,False,False,False,False,False,True
+5849678684,ai_engineer,India,Barclays,,,2026-08-20T20:46:55Z,False,False,False,False,False,False,False,False,False,False,False,False
+5828767825,ai_engineer,Bengaluru,Teradata,,,2026-08-05T10:57:50Z,False,False,False,False,False,False,False,False,False,False,False,False
+5828767828,ai_engineer,India,Teradata,,,2026-08-05T10:57:50Z,False,False,False,False,False,False,False,False,False,False,False,False
+5828767821,ai_engineer,Hyderabad,Teradata,,,2026-08-05T10:57:50Z,False,False,False,False,False,False,False,False,False,False,False,False
+5787139526,ai_engineer,India,Itineris,,,2026-07-04T02:22:54Z,False,False,False,False,False,False,False,False,False,False,False,False
+5819664792,ai_engineer,Indore,InvarSys,,,2026-07-29T15:57:22Z,False,False,False,False,False,False,False,False,False,False,False,True
+5836879558,ai_engineer,India,Guidewire,,,2026-08-11T21:08:29Z,False,False,False,False,False,False,False,False,False,False,False,True
+5820574942,ai_engineer,Chennai,TalentPro India HR Private Limited,,,2026-07-30T07:26:00Z,False,False,False,False,False,False,False,False,False,False,False,False
+5833599841,ai_engineer,India,Anthesis Group,,,2026-08-08T20:57:20Z,False,False,False,False,False,False,False,False,False,False,False,False
+5802074628,ai_engineer,Bengaluru,OX Consultancy Pte. Ltd.,,,2026-07-16T07:23:59Z,False,True,False,False,False,False,False,False,False,False,False,True
+5838085758,ai_engineer,Bengaluru,MindBridge,,,2026-08-12T15:59:52Z,False,False,False,False,False,False,False,False,False,False,False,True
+5484372147,ai_engineer,Bengaluru,NeoGenCode Technologies Pvt Ltd,1400000.0,2200000.0,2025-11-07T02:25:05Z,False,False,False,False,False,False,False,False,False,False,False,True
+5833338043,ai_engineer,Chennai,HTC Global Services,,,2026-08-08T16:04:43Z,False,True,False,False,False,False,False,False,False,False,False,False
+5481795302,ai_engineer,India,Particle41,,,2025-11-05T15:55:42Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852581458,ai_engineer,India,DXC Technology,,,2026-08-22T20:52:39Z,True,True,False,False,False,True,False,False,False,False,False,True
+5774006336,ai_engineer,India,NK Securities Research,,,2026-06-24T02:32:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5781956001,ai_engineer,India,Donyati,,,2026-06-30T14:52:22Z,False,False,False,False,False,True,True,False,False,False,False,False
+5831404724,ai_engineer,Ernakulam,Gadgeon Smart Systems,,,2026-08-07T07:35:05Z,False,False,False,False,False,False,False,False,False,False,False,True
+5843923561,ai_engineer,Chandigarh,Suffescom Solutions Pvt. Ltd.,,,2026-08-16T09:10:55Z,False,False,False,False,False,False,False,False,False,False,False,True
+5708034036,ai_engineer,India,AiSensy,,,2026-04-23T11:51:49Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840182788,ai_engineer,Bengaluru,GoodSpace AI,,,2026-08-13T16:03:54Z,False,False,False,False,False,False,False,False,False,False,False,False
+5804446276,ai_engineer,Gurugram,"NTT America, Inc.",,,2026-07-17T10:45:13Z,False,False,False,False,False,False,False,False,False,False,False,False
+5825765458,ai_engineer,Pune,Capco,,,2026-08-02T20:50:35Z,False,False,False,False,False,False,False,False,False,False,False,True
+5754790996,ai_engineer,Bengaluru,Goodera,,,2026-06-07T02:22:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5851138871,ai_engineer,India,Airbus,,,2026-08-21T20:43:17Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841935717,ai_engineer,Mumbai,Delhi,,,2026-08-14T20:54:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+5850890441,ai_engineer,Mumbai,Kuku FM,1800000.0,2300000.0,2026-08-21T16:03:18Z,False,False,False,False,False,False,False,False,False,False,False,False
+5797386403,ai_engineer,Bengaluru,AutoStore System,,,2026-07-12T03:39:24Z,False,False,False,False,False,False,False,False,False,False,False,False
+5717565563,ai_engineer,India,WE SEARCH INFO SOLUTIONS PRIVATE LIMITED,160000.0,250000.0,2026-05-03T09:17:53Z,False,False,False,False,False,True,False,False,False,False,False,False
+5758060820,ai_engineer,Mumbai,MSCI Inc.,,,2026-06-10T10:10:14Z,False,False,False,False,False,False,False,False,False,False,False,False
+5728448695,ai_engineer,Bengaluru,Plum Benefits,,,2026-05-14T02:28:02Z,False,False,False,False,False,False,False,False,False,False,False,False
+5742044596,ai_engineer,India,Vertexcover Labs,1200000.0,3200000.0,2026-05-27T12:48:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5857013965,ai_engineer,India,GE HealthCare,,,2026-08-26T21:10:19Z,False,False,False,False,False,False,False,False,False,False,False,True
+5713424539,ai_engineer,India,InteligenAI,1200000.0,3000000.0,2026-04-29T12:06:13Z,False,False,False,False,False,False,False,False,False,False,False,True
+5831849430,ai_engineer,Pune,FWC IT Services,1000000.0,2600000.0,2026-08-07T16:02:57Z,False,False,False,False,False,False,False,False,False,False,False,False
+5833604396,ai_engineer,India,IC Markets Global,,,2026-08-08T21:00:36Z,False,False,False,False,False,False,False,False,False,False,False,False
+5526054844,ai_engineer,India,NavGurukul,,,2025-12-03T22:51:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5566262131,ai_engineer,Bengaluru,Welldoc Inc,,,2026-01-04T00:37:08Z,False,False,False,False,False,False,False,False,False,False,False,True
+5797635986,ai_engineer,Bengaluru,"Automation Anywhere, Inc.",,,2026-07-12T10:40:59Z,False,False,False,False,False,False,False,False,False,False,False,False
+5816232680,ai_engineer,Hyderabad,Cornerstone onDemand,,,2026-07-26T10:54:03Z,False,False,False,False,False,True,False,False,False,False,False,True
+5816232668,ai_engineer,India,Cornerstone onDemand,,,2026-07-26T10:54:01Z,False,False,False,False,False,True,False,False,False,False,False,True
+5846917723,ai_engineer,India,F5 Networks,,,2026-08-18T20:59:09Z,False,False,False,False,False,False,False,False,False,False,False,False
+5768564555,ai_engineer,India,Becton Dickinson Medical Devices,,,2026-06-19T02:34:52Z,False,False,False,False,False,False,False,False,False,False,False,False
+5806705193,ai_engineer,Pune,Simulationhub,,,2026-07-19T07:24:20Z,False,False,False,False,False,False,False,False,False,False,False,False
+5819858262,ai_engineer,Noida,apexanalytix,,,2026-07-29T20:43:09Z,False,False,False,False,False,False,False,False,False,False,False,True
+5796161413,ai_engineer,Bengaluru,Anteriad,,,2026-07-11T03:19:18Z,False,False,False,False,False,False,False,False,False,False,False,False
+5768994963,ai_engineer,Bengaluru,BD ,,,2026-06-19T10:25:05Z,False,False,False,False,False,False,False,False,False,False,False,False
+5504054764,ai_engineer,Hyderabad,HapiVet AI,500000.0,3500000.0,2025-11-20T02:32:26Z,False,False,False,False,False,False,False,False,False,False,False,False
+5812830770,ai_engineer,Bengaluru,Get Well Network,,,2026-07-24T03:23:42Z,False,False,False,False,False,False,False,False,False,False,False,True
+5834741379,ai_engineer,Bengaluru,Bukuwarung,,,2026-08-09T20:37:53Z,False,False,False,False,False,False,False,False,False,False,False,False
+5821862602,ai_engineer,Pune,Cctech,,,2026-07-31T07:29:57Z,False,False,False,False,False,False,False,False,False,False,False,False
+5833578599,ai_engineer,India,Private Limited,,,2026-08-08T20:38:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5483452852,ai_engineer,Mumbai,Quantanite,,,2025-11-06T16:04:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+5836836882,ai_engineer,India,Barclays,,,2026-08-11T20:47:05Z,False,False,False,False,False,False,False,False,False,False,False,False
+5744786660,ai_engineer,India,Marsh McLennan,,,2026-05-30T02:15:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5737249590,ai_engineer,India,Beyondsoft Consulting,,,2026-05-22T09:59:20Z,False,False,False,False,False,False,False,False,False,False,False,False
+5856196894,ai_engineer,Hyderabad,Infosys Limited,,,2026-08-26T07:38:03Z,False,False,False,False,False,False,False,False,False,False,False,False
+5851860937,ai_engineer,Hyderabad,Franklin Templeton,,,2026-08-22T07:33:50Z,False,False,False,False,False,False,False,False,False,False,False,True
+5844304276,ai_engineer,Bengaluru,G2,,,2026-08-16T20:55:53Z,False,False,False,False,False,False,False,False,False,False,False,False
+5390148034,ai_engineer,India,Recruit Square,600000.0,900000.0,2025-09-09T06:00:31Z,False,False,False,False,False,False,False,False,False,False,False,True
+5854537877,ai_engineer,Hyderabad,S&P Global,,,2026-08-25T00:07:49Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139570,ai_engineer,Hyderabad,Warner Bros. Discovery,,,2026-08-12T01:59:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139416,ai_engineer,Hyderabad,Warner Bros. Discovery,,,2026-08-12T01:59:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5854537752,ai_engineer,India,S&P Global,,,2026-08-25T00:07:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849116294,ai_engineer,Bengaluru,Deservely Technologies Pvt Ltd,1500000.0,1680000.0,2026-08-20T07:10:43Z,False,True,False,False,False,False,False,False,False,False,False,False
+5848973578,ai_engineer,Bengaluru,SPG Consulting,,,2026-08-20T05:00:44Z,True,True,False,False,False,False,False,False,False,False,False,False
+3175702626,ai_engineer,Noida,Marj Technologies,700000.0,1000000.0,2022-05-28T06:10:44Z,False,False,False,False,False,False,True,False,False,False,False,False
+5717273191,ai_engineer,Hyderabad,Amgen,,,2026-05-03T02:07:33Z,False,False,False,False,False,False,False,False,False,False,False,True
+5718401844,ai_engineer,Hyderabad,Amgen,,,2026-05-04T09:48:20Z,False,False,False,False,False,False,False,False,False,False,False,True
+4514376236,ai_engineer,Bengaluru,Qrata,1700000.0,4000000.0,2024-01-07T15:07:52Z,False,False,False,False,False,False,False,False,False,False,False,False
+5552722462,ai_engineer,Pune,Innover Systems,400000.0,1000000.0,2025-12-23T09:49:00Z,False,False,False,False,False,False,False,False,False,False,False,False
+3987216053,ai_engineer,Bengaluru,Thena,1500000.0,2400000.0,2023-03-19T10:07:05Z,False,False,False,False,False,False,False,False,False,False,False,False
+4708090721,ai_engineer,Chennai,LMES Academy,700000.0,1500000.0,2024-05-26T10:06:36Z,False,False,False,False,False,False,False,False,False,False,False,True
+5796417291,ai_engineer,Hyderabad,Phenom People,,,2026-07-11T07:21:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+5838096699,ai_engineer,Bengaluru,FORGIS,,,2026-08-12T16:02:53Z,False,False,False,False,False,False,False,False,False,False,False,False
+5831365081,ai_engineer,India,SAIKOR SECURITY TRAINING AND SERVICES PRIVATE LIMITED,,,2026-08-07T06:51:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+5363133330,ai_engineer,Bengaluru,Potentiam,2500000.0,3500000.0,2025-08-22T07:51:31Z,False,True,False,False,False,False,False,False,False,False,False,True
+4676936483,ai_engineer,India,Sadup Softech,400000.0,1500000.0,2024-05-03T15:49:39Z,False,False,False,False,False,False,False,False,False,False,False,True
+5756005573,ai_engineer,Hyderabad,Amgen,,,2026-06-08T10:17:26Z,False,False,False,False,False,False,False,False,False,False,False,True
+5755657078,ai_engineer,Hyderabad,Amgen,,,2026-06-08T02:22:06Z,False,False,False,False,False,False,False,False,False,False,False,True
+5774368786,ai_engineer,Bengaluru,Varaha,,,2026-06-24T10:11:59Z,False,False,False,False,False,False,False,False,False,False,False,False
+3949356918,ai_engineer,Bengaluru,People First Consultants,1000000.0,3500000.0,2023-03-01T01:41:44Z,True,True,False,False,False,False,False,True,False,False,False,False
+5722062899,ai_engineer,India,ParallelDots,,,2026-05-08T02:11:35Z,False,True,False,False,False,False,False,False,False,False,False,False
+5830631162,ai_engineer,Hyderabad,Amgen,,,2026-08-06T20:53:04Z,False,True,False,False,False,False,False,False,False,False,False,False
+5831600559,ai_engineer,Hyderabad,Amgen,,,2026-08-07T10:54:00Z,False,True,False,False,False,False,False,False,False,False,False,False
+5855249589,ai_engineer,Bengaluru,Weekday AI,,,2026-08-25T16:04:52Z,False,True,False,False,False,False,False,False,False,False,False,False
+1155088318,ai_engineer,Delhi,Tradeindia.com - Infocom Network,400000.0,1000000.0,2019-05-17T21:02:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5853357061,ai_engineer,Hyderabad,Amgen,,,2026-08-23T11:13:16Z,False,False,False,False,False,False,False,False,False,False,False,False
+5853700913,ai_engineer,Hyderabad,Amgen,,,2026-08-23T20:52:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+1171507734,ai_engineer,Mumbai,UnFound,500000.0,500000.0,2019-06-05T21:12:11Z,False,False,False,False,False,False,False,False,False,False,False,False
+5831864220,ai_engineer,Kolkata,Mind Webs Ventures,,,2026-08-07T16:04:45Z,False,False,False,False,False,False,False,False,False,False,False,False
+3894826256,ai_engineer,Hyderabad,Phenom People,1000000.0,1800000.0,2023-02-02T08:54:57Z,False,False,False,False,False,False,False,False,False,False,False,False
+4878673281,ai_engineer,India,AIMonk Labs Pvt Ltd,900000.0,1200000.0,2024-09-27T11:53:19Z,False,False,False,False,False,False,False,False,False,False,False,False
+5796582780,ai_engineer,India,Norstella,,,2026-07-11T10:42:02Z,False,False,False,False,False,False,False,False,True,False,False,False
+5809893257,ai_engineer,India,Hilti,,,2026-07-22T03:24:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5833020604,ai_engineer,India,Coinbase,,,2026-08-08T10:55:00Z,False,False,False,False,False,False,False,False,False,False,False,False
+5635046286,ai_engineer,Bengaluru,Spector.ai,,,2026-02-19T01:58:03Z,False,False,False,False,False,False,False,False,False,False,False,False
+3044590237,ai_engineer,Chennai,"DATASEE.AI, INC.",700000.0,1400000.0,2022-04-12T05:27:44Z,False,False,False,False,False,False,False,False,False,False,False,False
+3332673255,ai_engineer,Pune,InFoCusp,1000000.0,3000000.0,2022-07-20T06:36:18Z,False,False,False,False,False,False,False,False,False,False,False,False
+5788472875,ai_engineer,India,NewVison,1500000.0,2200000.0,2026-07-05T03:38:44Z,True,False,False,False,False,False,False,False,False,False,False,False
+5832093736,ai_engineer,Hyderabad,Amgen,,,2026-08-07T20:58:08Z,False,False,False,False,False,False,False,False,False,False,False,False
+5822543007,ai_engineer,Bengaluru,Coinbase,,,2026-07-31T21:30:17Z,False,False,False,False,False,False,False,False,False,False,False,False
+5292951715,ai_engineer,India,PLS Lawyers Pvt Ltd,600000.0,1200000.0,2025-07-09T07:34:22Z,False,False,False,False,False,False,False,False,False,False,False,True
+5117034498,ai_engineer,India,Vector Labs Tech,1000000.0,1500000.0,2025-03-29T06:24:28Z,False,False,False,False,False,False,False,False,False,False,False,False
+5838496879,ai_engineer,Mumbai,Prodigal,,,2026-08-12T21:03:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5803782486,ai_engineer,Mumbai,Momentum Group Limited,,,2026-07-17T03:15:54Z,False,False,False,False,False,False,False,False,False,False,False,False
+2549478979,ai_engineer,Bengaluru,Artifex HR,0.0,800000.0,2021-10-16T06:33:17Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841419167,ai_engineer,Hyderabad,The Goodyear Tire & Rubber Company,,,2026-08-14T11:18:23Z,False,False,False,False,False,False,False,False,False,False,False,False
+5834751581,ai_engineer,Bengaluru,Adobe,,,2026-08-09T20:47:50Z,False,False,False,False,False,False,False,False,False,False,False,False
+5825771877,ai_engineer,India,Motorola Solutions,,,2026-08-02T20:56:45Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840391480,ai_engineer,Noida,Adobe,,,2026-08-13T20:56:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841937030,ai_engineer,Noida,Adobe,,,2026-08-14T20:55:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5856679281,ai_engineer,India,Adobe,,,2026-08-26T16:05:17Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837843617,ai_engineer,Hyderabad,Warner Bros. Discovery,,,2026-08-12T11:59:36Z,False,False,False,False,False,False,False,False,False,False,False,False
+5856679006,ai_engineer,India,Walmart Global Tech India,,,2026-08-26T16:05:16Z,False,False,False,False,False,False,False,False,False,False,False,False
+5728377332,ai_engineer,Chennai,Acura Solution,,,2026-05-14T02:22:16Z,False,False,False,False,False,False,False,False,False,False,False,False
+5625766940,ai_engineer,India,NeoGenCode Technologies Pvt Ltd,1000000.0,1400000.0,2026-02-12T11:40:59Z,True,True,False,False,False,False,True,True,False,False,False,True
+1398819281,ai_engineer,Mumbai,DeepAffects,1500000.0,2400000.0,2020-01-07T09:38:58Z,False,False,False,False,False,False,False,False,False,False,False,False
+2833106061,ai_engineer,India,Latent Bridge Pvt Ltd,500000.0,1500000.0,2022-01-22T04:51:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+2539490299,ai_engineer,Bengaluru,Graphene Services Pte Ltd,,,2021-10-13T05:52:48Z,False,False,False,False,False,False,False,False,False,False,False,False
+1844548865,ai_engineer,Delhi,SmartJoules,800000.0,1200000.0,2020-11-26T02:54:16Z,False,False,False,False,False,False,False,False,False,False,False,False
+2042125548,ai_engineer,Bengaluru,Zycus,500000.0,1500000.0,2021-03-10T04:39:25Z,False,False,False,False,False,False,False,False,False,False,False,False
+2177266537,ai_engineer,Bengaluru,Marktine,0.0,1500000.0,2021-05-11T13:01:52Z,False,False,False,False,False,False,False,False,False,False,False,False
+1171508972,ai_engineer,Bengaluru,Carmozo,300000.0,500000.0,2019-06-05T21:12:22Z,False,True,False,False,False,False,False,False,False,False,False,False
+5662018463,ai_engineer,Noida,Topcoder,,,2026-03-12T01:51:57Z,False,True,False,False,False,True,True,False,False,False,False,False
+4559411206,ai_engineer,Mumbai,Peenak Business solutions,1000000.0,1500000.0,2024-02-06T16:17:37Z,False,False,False,False,False,False,False,False,False,False,False,False
+4899762229,ai_engineer,Bengaluru,Top Closers,,,2024-10-12T16:53:26Z,False,False,False,False,False,False,False,False,False,False,False,True
+4514376976,ai_engineer,India,Qrata,700000.0,2200000.0,2024-01-07T15:08:20Z,False,True,False,False,False,False,False,False,False,False,False,False
+4596884479,ai_engineer,Mumbai,Edu Angels India Private Limited,3000000.0,4000000.0,2024-03-07T15:29:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+4493479601,ai_engineer,Chennai,AVE-Promagne Business Solutions LLP,600000.0,2000000.0,2023-12-23T15:03:21Z,False,False,False,False,False,False,False,False,False,False,False,False
+3038221909,ai_engineer,India,Carsome,2000000.0,3000000.0,2022-04-09T05:16:41Z,False,True,False,False,False,False,False,False,False,False,False,False
+1368669287,ai_engineer,Mumbai,Quantiphi Inc.,400000.0,1500000.0,2019-12-10T11:53:18Z,False,False,False,False,False,False,False,False,False,False,False,False
+1958165136,ai_engineer,Hyderabad,FlexAbility,1500000.0,3500000.0,2021-01-28T04:00:35Z,False,True,False,False,False,False,False,False,False,False,False,False
+2658062217,ai_engineer,Hyderabad,CES Information Technologies,0.0,1500000.0,2021-11-19T06:16:24Z,True,True,False,False,False,False,False,False,False,False,False,False
+2475263628,ai_engineer,India,Hammoq,0.0,900000.0,2021-09-21T03:29:02Z,False,False,False,False,False,False,False,False,False,False,False,False
+1155088444,ai_engineer,Bengaluru,Deemsoft,600000.0,2000000.0,2019-05-17T21:02:39Z,False,False,False,False,False,False,False,False,False,False,False,False
+2383302553,ai_engineer,Mumbai,SIlverPeople Consulting,0.0,2700000.0,2021-08-14T21:16:57Z,False,False,False,False,False,False,False,False,False,False,False,False
+1233590624,ai_engineer,Pune,CloudMoyo,1000000.0,2000000.0,2019-08-13T11:54:48Z,False,False,False,False,False,False,False,False,False,False,False,False
+1463797734,ai_engineer,Pune,Aikon Labs Private Limited,100000.0,800000.0,2020-02-25T04:04:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+5628316573,ai_engineer,India,Fox,,,2026-02-14T01:26:28Z,False,False,False,False,False,False,False,False,False,False,False,False
+5672787204,ai_engineer,Bengaluru,Ampera Technologies,,,2026-03-20T11:24:21Z,False,False,False,False,False,False,False,False,False,False,False,False
+5752337687,ai_engineer,Bengaluru,Augury,,,2026-06-05T02:34:42Z,False,False,False,False,False,False,False,False,False,False,False,False
+5781956105,ai_engineer,Maharashtra,Delta IoT Solutions Pvt Ltd,,,2026-06-30T14:52:23Z,False,True,False,False,False,False,False,False,False,False,False,False
+5796417296,ai_engineer,Hyderabad,Phenom People,,,2026-07-11T07:21:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+5740031419,ai_engineer,India,Solventum,,,2026-05-25T02:21:19Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840174988,ai_engineer,India,Egnyte,,,2026-08-13T16:01:06Z,False,False,False,False,False,False,False,True,False,False,False,False
+5807451743,ai_engineer,Bengaluru,Right Advisors,,,2026-07-20T03:09:47Z,False,True,False,False,False,False,False,False,False,False,False,False
+5856111112,ai_engineer,Surat,HireFlexperts,,,2026-08-26T05:57:48Z,False,False,False,False,False,False,False,False,False,False,False,False
+5781955965,ai_engineer,Maharashtra,Delta IoT Solutions Pvt Ltd,,,2026-06-30T14:52:21Z,True,True,False,False,False,True,True,True,False,False,False,False
+5833605973,ai_engineer,India,Solventum,,,2026-08-08T21:01:52Z,False,False,False,False,False,False,False,False,False,False,False,False
+5818424090,ai_engineer,India,Solventum,,,2026-07-28T20:54:08Z,False,False,False,False,False,False,False,False,False,False,False,False
+5831698158,ai_engineer,India,Branch International,,,2026-08-07T13:51:37Z,False,False,False,False,False,False,False,False,False,False,False,False
+5820546080,ai_engineer,India,Zorba Consulting India,1440000.0,1920000.0,2026-07-30T06:55:25Z,False,False,False,False,False,False,False,False,False,False,False,False
+5243420232,ai_engineer,Chennai,NeoGenCode Technologies Pvt Ltd,1000000.0,2600000.0,2025-06-11T05:12:49Z,False,True,False,False,False,False,False,False,False,False,False,False
+5789393695,ai_engineer,Hyderabad,Amgen,,,2026-07-06T03:26:49Z,False,False,False,False,False,False,False,False,False,False,False,False
+5789591344,ai_engineer,Hyderabad,Amgen,,,2026-07-06T10:38:50Z,False,False,False,False,False,False,False,False,False,False,False,False
+5557106595,ai_engineer,Bengaluru,TrumetricAI,1500000.0,3000000.0,2025-12-27T11:02:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5778225260,ai_engineer,Hyderabad,Amgen,,,2026-06-27T02:41:07Z,False,False,False,False,False,False,False,False,False,False,False,False
+5797638080,ai_engineer,Hyderabad,Brightstar Lottery,,,2026-07-12T10:42:18Z,False,False,False,False,False,False,False,False,False,False,False,False
+5808490532,ai_engineer,Mumbai,Morningstar,,,2026-07-21T03:29:48Z,False,False,False,False,False,False,False,False,False,False,False,True
+5727130803,ai_engineer,Pune,Highrise Solutions LLP,,,2026-05-13T02:03:43Z,False,False,False,False,False,False,True,False,False,False,False,False
+5713888569,ai_engineer,Hyderabad,Amgen,,,2026-04-30T02:17:04Z,False,False,False,False,False,False,False,False,False,False,False,False
+5725582481,ai_engineer,Hyderabad,Amgen,,,2026-05-11T09:58:03Z,False,False,False,False,False,False,False,False,False,False,False,False
+5829178347,ai_engineer,Bengaluru,eBay,,,2026-08-05T20:39:23Z,False,False,False,False,False,False,False,False,False,False,False,False
+5817919596,ai_engineer,Bengaluru,Booking Holdings,,,2026-07-28T07:45:07Z,False,False,False,False,False,False,False,False,False,False,False,False
+1474079177,ai_engineer,Mumbai,AthenasOwl,1000000.0,2000000.0,2020-03-04T08:29:54Z,False,False,False,False,False,False,False,False,False,False,False,False
+5822420657,ai_engineer,Bengaluru,Conga,,,2026-07-31T20:39:44Z,False,False,False,False,False,False,False,False,False,False,False,False
+5731787559,ai_engineer,Bengaluru,Barracuda Networks,,,2026-05-17T02:20:21Z,False,False,False,False,False,False,False,False,False,False,False,False
+5677704832,ai_engineer,Hyderabad,Amgen,,,2026-03-25T09:32:58Z,False,False,False,False,False,False,False,False,False,False,False,True
+3452174066,ai_engineer,India,Gipfel & Schnell Consultings Pvt Ltd,0.0,2000000.0,2022-09-02T06:59:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5856949004,ai_engineer,Bengaluru,RZR Global,,,2026-08-26T20:47:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5830628898,ai_engineer,India,Equinix,,,2026-08-06T20:52:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+5806704469,ai_engineer,Hyderabad,Uber,,,2026-07-19T07:23:48Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852604039,ai_engineer,Hyderabad,Demandbase,,,2026-08-22T21:06:48Z,False,False,False,False,False,False,False,False,False,False,False,False
+5806702793,ai_engineer,Bengaluru,Phenom,,,2026-07-19T07:22:19Z,False,False,False,False,False,False,False,False,False,False,False,False
+5819881953,ai_engineer,Bengaluru,Natwest Group,,,2026-07-29T20:56:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5832073724,ai_engineer,Hyderabad,Amgen,,,2026-08-07T20:36:45Z,False,False,False,False,False,False,False,False,False,False,False,False
+5854321617,ai_engineer,Hyderabad,Find Data Science Jobs,,,2026-08-24T16:04:28Z,False,False,False,False,False,False,False,False,False,False,False,False
+5773922404,ai_engineer,Bengaluru,Barracuda Networks,,,2026-06-24T02:19:00Z,False,False,False,False,False,False,False,False,False,False,False,False
+5833020828,ai_engineer,India,Coinbase,,,2026-08-08T10:55:01Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852587410,ai_engineer,India,Veralto,,,2026-08-22T20:58:47Z,False,False,False,False,False,False,False,False,False,False,False,False
+5634984343,ai_engineer,Bengaluru,Spector.ai,,,2026-02-19T01:44:26Z,False,False,False,False,False,False,False,False,False,False,False,False
+5696882332,ai_engineer,India,PubMatic,,,2026-04-12T02:02:36Z,False,False,False,False,False,False,False,False,False,False,False,False
+5830632754,ai_engineer,Hyderabad,Amgen,,,2026-08-06T20:53:41Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852584879,ai_engineer,Hyderabad,Amgen,,,2026-08-22T20:56:05Z,False,False,False,False,False,False,False,False,False,False,False,False
+5853357016,ai_engineer,Hyderabad,Amgen,,,2026-08-23T11:13:15Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852148488,ai_engineer,Bengaluru,Veralto,,,2026-08-22T11:23:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+5836849101,ai_engineer,Bengaluru,Q2 Software,,,2026-08-11T21:00:51Z,False,False,False,False,False,False,False,False,False,False,False,False
+5720822139,ai_engineer,India,Real REMAX Group,,,2026-05-07T02:09:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5814984830,ai_engineer,Bengaluru,Atlassian,,,2026-07-25T10:41:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5856985187,ai_engineer,India,HP,,,2026-08-26T21:04:59Z,False,False,False,False,False,False,False,False,False,False,False,True
+5841398933,ai_engineer,Bengaluru,Chevron Corporation,,,2026-08-14T11:11:25Z,False,False,False,False,False,False,False,False,True,False,False,False
+5802152645,ai_engineer,Bengaluru,Vodex.ai,1200000.0,2000000.0,2026-07-16T08:19:17Z,False,False,False,False,False,False,False,False,False,False,False,False
+5812881745,ai_engineer,India,JioStar,,,2026-07-24T03:30:14Z,False,False,False,False,False,False,False,False,False,False,False,False
+5720097300,ai_engineer,Bengaluru,Atlassian,,,2026-05-06T09:46:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5756617851,ai_engineer,Hyderabad,Amgen,,,2026-06-09T02:28:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5756005572,ai_engineer,Hyderabad,Amgen,,,2026-06-08T10:17:26Z,False,False,False,False,False,False,False,False,False,False,False,False
+5754686090,ai_engineer,Bengaluru,Adobe,,,2026-06-07T02:06:45Z,False,False,False,False,False,False,False,False,True,False,False,False
+5848363833,ai_engineer,India,S&P Global,,,2026-08-19T20:48:56Z,False,False,False,False,False,False,False,False,False,False,False,True
+5850636104,ai_engineer,Bengaluru,S&P Global,,,2026-08-21T11:18:33Z,False,False,False,False,False,False,False,False,False,False,False,True
+5850636106,ai_engineer,Hyderabad,S&P Global,,,2026-08-21T11:18:33Z,False,False,False,False,False,False,False,False,False,False,False,True
+5807485324,ai_engineer,Hyderabad,The Vanguard Group,,,2026-07-20T03:15:45Z,False,False,False,False,False,False,False,False,False,False,False,False
+5829184098,ai_engineer,Hyderabad,Amgen,,,2026-08-05T20:46:18Z,False,False,False,False,False,False,False,False,False,False,False,False
+5833579767,ai_engineer,Hyderabad,Amgen,,,2026-08-08T20:39:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849699794,ai_engineer,India,Jobgether,,,2026-08-20T21:06:08Z,False,False,False,False,False,False,False,False,False,False,False,False
+5821208164,ai_engineer,Bengaluru,Hewlett Packard Enterprise,,,2026-07-30T20:43:52Z,False,False,False,False,False,False,False,False,False,False,False,False
+5822428851,ai_engineer,Bengaluru,Conga,,,2026-07-31T20:48:15Z,False,False,False,False,False,False,False,False,False,False,False,False
+5664049711,ai_engineer,Pune,Zendesk,,,2026-03-14T01:44:12Z,False,False,False,False,False,False,False,False,False,False,False,True
+5830096979,ai_engineer,Hyderabad,Amgen,,,2026-08-06T10:57:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139677,ai_engineer,Bengaluru,Capco,,,2026-08-12T01:59:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+5838134818,ai_engineer,Mumbai,Cinefai Studios,,,2026-08-12T16:17:28Z,False,False,False,False,False,False,False,False,False,False,False,False
+5845829927,ai_engineer,Mumbai,Jhatpat Talkies,,,2026-08-18T07:19:11Z,False,False,False,False,False,False,False,False,False,False,False,False
+5822232365,ai_engineer,Bengaluru,Happiest Minds Technologies,,,2026-07-31T15:27:06Z,False,False,False,False,False,True,True,False,False,False,False,True
+5845682747,ai_engineer,India,Mashreq,,,2026-08-18T05:07:42Z,False,False,False,False,False,False,False,False,False,False,False,True
+5856665243,ai_engineer,Bengaluru,DotKonnekt,,,2026-08-26T15:55:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5843137643,ai_engineer,Bengaluru,ABB,,,2026-08-15T20:01:56Z,False,False,False,False,False,False,False,False,True,False,False,False
+5847959817,ai_engineer,Bengaluru,HP,,,2026-08-19T14:05:01Z,False,False,False,False,False,False,False,False,False,False,False,False
+5850983407,ai_engineer,India,Nory For You,,,2026-08-21T17:26:37Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841755614,ai_engineer,Chennai,Mahindra and Mahindra Limited [Automotive and Farm Equipment Business],,,2026-08-14T16:34:52Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139074,ai_engineer,Bengaluru,Kyndryl,,,2026-08-12T01:59:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139244,ai_engineer,Bengaluru,Kyndryl,,,2026-08-12T01:59:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837138804,ai_engineer,Bengaluru,Kyndryl,,,2026-08-12T01:59:15Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139101,ai_engineer,Gurugram,Kyndryl,,,2026-08-12T01:59:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5790967412,ai_engineer,Bengaluru,slice,,,2026-07-07T18:20:50Z,False,False,False,False,False,False,False,False,False,False,False,False
+5812528344,ai_engineer,Bengaluru,Accenture,,,2026-07-23T22:17:08Z,False,False,False,False,False,False,False,False,False,False,False,False
+5812528332,ai_engineer,Bengaluru,Accenture,,,2026-07-23T22:17:08Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846663293,ai_engineer,Mumbai,JuiceLabs AI,,,2026-08-18T17:10:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5842123717,ai_engineer,Bengaluru,22feet,,,2026-08-15T00:27:16Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849577557,ai_engineer,Bengaluru,LeadSquared,,,2026-08-20T17:56:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841755015,ai_engineer,Bengaluru,Tag,,,2026-08-14T16:34:08Z,False,False,False,False,False,False,False,False,False,False,False,False
+5851435811,ai_engineer,Bengaluru,Danaher,,,2026-08-22T02:06:03Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139469,ai_engineer,Hyderabad,Warner Bros. Discovery,,,2026-08-12T01:59:37Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852477533,ai_engineer,Hyderabad,Cotiviti India,,,2026-08-22T17:36:21Z,False,False,False,False,False,False,False,False,False,False,False,False
+5823897179,ai_engineer,Bengaluru,DotKonnekt,,,2026-08-01T17:31:09Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139239,ai_engineer,Mumbai,Kyndryl,,,2026-08-12T01:59:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5828130323,ai_engineer,Hyderabad,S&P Global,,,2026-08-04T23:55:01Z,False,False,False,False,False,False,False,False,False,False,False,False
+5830535448,ai_engineer,Delhi,Outlier,,,2026-08-06T19:53:10Z,False,False,False,False,False,False,False,False,False,False,False,False
+5830533611,ai_engineer,West Bengal,Outlier,,,2026-08-06T19:52:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+5821438365,ai_engineer,Bengaluru,Dr Reddy's Foundation,,,2026-07-31T01:30:00Z,False,False,False,False,False,False,False,False,False,False,False,True
+5834022002,ai_engineer,Bengaluru,Ellucian,,,2026-08-09T04:12:51Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846298711,ai_engineer,India,Genuin,,,2026-08-18T13:09:09Z,False,False,False,False,False,False,False,False,False,False,False,False
+5834576909,ai_engineer,Maharashtra,Another Idea,,,2026-08-09T16:11:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846298299,ai_engineer,India,Allianz Services,,,2026-08-18T13:08:51Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785772642,ai_engineer,Delhi,RWS,,,2026-07-03T00:54:28Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785772320,ai_engineer,Delhi,RWS,,,2026-07-03T00:54:24Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785772098,ai_engineer,Delhi,RWS,,,2026-07-03T00:54:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785770664,ai_engineer,Delhi,RWS,,,2026-07-03T00:54:10Z,False,False,False,False,False,False,False,False,False,False,False,False
+5831966519,ai_engineer,Bengaluru,Oracle,,,2026-08-07T17:56:37Z,False,False,False,False,False,False,False,False,False,False,False,True
+5852477461,ai_engineer,Bengaluru,Eight,,,2026-08-22T17:36:15Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139093,ai_engineer,Pune,Cornerstone OnDemand,,,2026-08-12T01:59:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5838614260,ai_engineer,Bengaluru,Standard Chartered Bank,,,2026-08-12T22:00:54Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139466,ai_engineer,Hyderabad,Warner Bros. Discovery,,,2026-08-12T01:59:37Z,False,False,False,False,False,False,False,False,False,False,False,False
+5842123317,ai_engineer,India,Aarvian,,,2026-08-15T00:26:17Z,False,False,False,False,False,False,False,False,False,False,False,True
+5785772741,ai_engineer,India,Novartis,,,2026-07-03T00:54:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5850982511,ai_engineer,Madurai,Aurolab,,,2026-08-21T17:25:31Z,False,False,False,False,False,False,False,False,False,False,False,False
+5829060214,ai_engineer,India,PALMONAS,,,2026-08-05T17:44:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+5856665240,ai_engineer,Bengaluru,Leap,,,2026-08-26T15:55:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5854537713,ai_engineer,Chennai,Standard Chartered Bank,,,2026-08-25T00:07:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5818522966,ai_engineer,Mumbai,Madzilla Studios,,,2026-07-28T21:17:29Z,False,False,False,False,False,False,False,False,False,False,False,True
+5833435224,ai_engineer,India,MyOperator,,,2026-08-08T18:04:13Z,False,False,False,False,False,False,False,False,False,False,False,False
+5833435013,ai_engineer,India,MyOperator,,,2026-08-08T18:03:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852164503,ai_engineer,India,Jabil,,,2026-08-22T12:06:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846300370,ai_engineer,India,Tech it!,,,2026-08-18T13:10:13Z,False,False,False,False,False,False,False,False,False,False,False,False
+5830417501,ai_engineer,Noida,Jagran New Media,,,2026-08-06T17:51:44Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723668,ai_engineer,Pune,Deutsche Bank,,,2026-08-18T18:03:43Z,False,False,False,True,False,False,False,False,False,False,False,False
+5853621005,ai_engineer,India,SkillsCapital,,,2026-08-23T17:39:12Z,False,False,False,False,False,False,False,False,False,False,False,False
+5854366334,ai_engineer,Mumbai,Trovex.ai,,,2026-08-24T17:43:17Z,False,False,False,False,False,False,False,False,False,False,False,False
+5853620714,ai_engineer,Ahmedabad,Riseascend Technologies,,,2026-08-23T17:38:41Z,False,False,False,False,False,False,False,False,False,False,False,True
+5849578660,ai_engineer,Bengaluru,Tata Consultancy Services,,,2026-08-20T17:58:11Z,False,False,False,False,False,False,False,False,False,False,False,True
+5829060233,ai_engineer,Noida,Taglynk,,,2026-08-05T17:44:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849579029,ai_engineer,India,Amber,,,2026-08-20T17:58:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5806136082,ai_engineer,Chennai,TECEZE,,,2026-07-18T18:07:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5842114975,ai_engineer,India,Novartis,,,2026-08-15T00:04:09Z,False,False,False,False,False,False,False,False,False,False,False,False
+5847959842,ai_engineer,Bengaluru,HP,,,2026-08-19T14:05:02Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841755576,ai_engineer,India,MyOperator,,,2026-08-14T16:34:45Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852477072,ai_engineer,India,TAAS Partners,,,2026-08-22T17:35:36Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846299152,ai_engineer,India,Acuity Analytics,,,2026-08-18T13:09:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5833789458,ai_engineer,India,MyOperator,,,2026-08-09T00:02:04Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852036616,ai_engineer,Mumbai,Fin100X.AI | Maha AI,,,2026-08-22T09:33:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139276,ai_engineer,Bengaluru,Standard Chartered Bank,,,2026-08-12T01:59:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5855679761,ai_engineer,Delhi,Rawzor Technologies,,,2026-08-25T23:55:36Z,False,False,False,False,False,False,False,False,False,False,False,False
+5854537735,ai_engineer,Bengaluru,Standard Chartered Bank,,,2026-08-25T00:07:28Z,False,False,False,False,False,False,False,False,False,False,False,False
+5823898276,ai_engineer,India,DeepLLMData,,,2026-08-01T17:33:52Z,False,False,False,False,False,False,False,False,False,False,False,True
+5837139683,ai_engineer,Bengaluru,Capco,,,2026-08-12T01:59:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+5857213519,ai_engineer,Mumbai,Brandmaker333 Media Solutions,,,2026-08-26T23:58:25Z,False,False,False,False,False,False,False,False,False,False,False,False
+5831636957,ai_engineer,Chennai,Elsevier,,,2026-08-07T11:59:10Z,False,False,False,False,False,False,False,False,False,False,False,True
+5785772347,ai_engineer,Chennai,Elsevier,,,2026-07-03T00:54:24Z,False,False,False,False,False,False,False,False,False,False,False,False
+5857213117,ai_engineer,Mumbai,Seven N Half,,,2026-08-26T23:57:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139135,ai_engineer,Chennai,Standard Chartered Bank,,,2026-08-12T01:59:28Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841754906,ai_engineer,India,MyOperator,,,2026-08-14T16:34:04Z,False,False,False,False,False,False,False,False,False,False,False,False
+5853225983,ai_engineer,Bengaluru,Deutsche Bank,,,2026-08-23T08:07:04Z,False,False,False,False,False,False,False,False,False,False,False,False
+5812528434,ai_engineer,Mumbai,Accenture,,,2026-07-23T22:17:17Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785772192,ai_engineer,Hyderabad,MSD,,,2026-07-03T00:54:23Z,False,False,False,False,False,False,False,False,False,False,False,False
+5807167836,ai_engineer,Bengaluru,TMRW House of Brands,,,2026-07-19T18:13:25Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785770831,ai_engineer,India,Novartis,,,2026-07-03T00:54:11Z,False,False,False,False,False,False,False,False,False,False,False,False
+5842123716,ai_engineer,Noida,Multiplier AI,,,2026-08-15T00:27:16Z,False,False,False,False,False,False,False,False,False,False,False,False
+5834577082,ai_engineer,Mumbai,OpenText,,,2026-08-09T16:11:42Z,False,False,False,False,False,False,False,False,False,False,False,False
+5827735907,ai_engineer,Bengaluru,meragoHealth,,,2026-08-04T17:45:21Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785773115,ai_engineer,Bengaluru,ABB,,,2026-07-03T00:54:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852476875,ai_engineer,India,SkillsCapital,,,2026-08-22T17:35:14Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841755230,ai_engineer,Hyderabad,Tech Cubes AI,,,2026-08-14T16:34:26Z,False,False,False,False,False,False,False,False,False,False,False,False
+5853619738,ai_engineer,India,SkillsCapital,,,2026-08-23T17:37:26Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841754972,ai_engineer,Mumbai,Indian Institute of Creative Technologies,,,2026-08-14T16:34:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837138953,ai_engineer,Hyderabad,Cornerstone OnDemand,,,2026-08-12T01:59:19Z,False,False,False,False,False,True,False,False,False,False,False,True
+5847959758,ai_engineer,Bengaluru,HP,,,2026-08-19T14:04:56Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785772003,ai_engineer,India,Novartis,,,2026-07-03T00:54:21Z,False,False,False,False,False,False,False,False,False,False,False,False
+5822232545,ai_engineer,India,Persistent Systems,,,2026-07-31T15:27:16Z,False,False,False,False,False,False,False,False,False,False,False,False
+5829060938,ai_engineer,Mumbai,Dailoqa,,,2026-08-05T17:46:13Z,False,False,False,False,False,False,False,False,False,False,False,False
+5801462843,ai_engineer,Chennai,WPP Production,,,2026-07-15T23:39:50Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139622,ai_engineer,Hyderabad,Warner Bros. Discovery,,,2026-08-12T01:59:39Z,False,False,False,False,False,False,False,False,False,False,False,False
+5854532939,ai_engineer,Hyderabad,BlinkofAI,,,2026-08-24T23:42:58Z,False,False,False,False,False,False,False,False,False,False,False,False
+5857213349,ai_engineer,India,Synthires,,,2026-08-26T23:57:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5857213381,ai_engineer,Bengaluru,Synthires,,,2026-08-26T23:57:56Z,False,False,False,False,False,False,False,False,False,False,False,False
+5838133996,ai_engineer,Mumbai,Cloudgov,,,2026-08-12T16:16:20Z,False,False,False,False,False,False,True,False,False,False,False,False
+5853620973,ai_engineer,Jaipur,Savy clicK,,,2026-08-23T17:39:11Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849640652,ai_engineer,India,Novartis,,,2026-08-20T20:05:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+5808131584,ai_engineer,Bengaluru,Triomics,,,2026-07-20T18:27:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5823897433,ai_engineer,Bengaluru,Flam,,,2026-08-01T17:31:28Z,False,False,False,False,False,False,False,False,False,False,False,True
+5852477510,ai_engineer,India,Anlage Digital,,,2026-08-22T17:36:17Z,False,False,False,False,False,False,False,False,False,False,False,False
+5801403314,ai_engineer,Mumbai,Simple Logic IT Private Limited,,,2026-07-15T22:28:01Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852164470,ai_engineer,Hyderabad,Cornerstone OnDemand,,,2026-08-22T12:06:25Z,False,False,False,False,False,False,False,False,False,False,False,False
+5857168404,ai_engineer,Noida,Payomatix Technologies,,,2026-08-26T22:01:31Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841754898,ai_engineer,Chennai,Hyring®,,,2026-08-14T16:34:04Z,False,False,False,False,False,False,False,False,False,False,False,False
+5820963602,ai_engineer,Chennai,CBTS,,,2026-07-30T15:25:13Z,False,False,False,False,False,False,False,False,False,False,False,False
+5845683185,ai_engineer,India,Comergent AI,,,2026-08-18T05:08:28Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139175,ai_engineer,Hyderabad,Cornerstone OnDemand,,,2026-08-12T01:59:28Z,False,False,False,False,False,False,False,False,False,False,False,False
+5838614313,business_analyst,India,Capco,,,2026-08-12T22:00:57Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139231,business_analyst,Bengaluru,Standard Chartered Bank,,,2026-08-12T01:59:31Z,False,False,False,False,False,False,False,False,False,False,False,False
+5830301732,business_analyst,Bengaluru,ABB,,,2026-08-06T16:02:00Z,False,False,False,False,False,False,False,False,False,False,False,False
+5838614414,business_analyst,Bengaluru,Capco,,,2026-08-12T22:01:01Z,False,False,False,False,False,False,False,False,False,False,False,False
+5842115043,business_analyst,Chennai,Standard Chartered Bank,,,2026-08-15T00:04:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139836,business_analyst,Chennai,Capco,,,2026-08-12T01:59:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5815611056,business_analyst,India,Novartis,,,2026-07-25T23:45:21Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139807,business_analyst,Hyderabad,Reckitt,,,2026-08-12T01:59:42Z,False,False,False,False,False,False,False,False,False,False,False,False
+5809380560,business_analyst,Hyderabad,Invesco,,,2026-07-21T19:43:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139548,business_analyst,Chennai,Capco,,,2026-08-12T01:59:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139914,business_analyst,Bengaluru,Capco,,,2026-08-12T01:59:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5825822961,business_analyst,India,Novartis,,,2026-08-02T21:53:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139767,business_analyst,India,Capco,,,2026-08-12T01:59:41Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139823,business_analyst,Hyderabad,Reckitt,,,2026-08-12T01:59:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139431,business_analyst,India,Capco,,,2026-08-12T01:59:37Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723391,business_analyst,Mumbai,Deutsche Bank,,,2026-08-18T18:03:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785772661,business_analyst,Hyderabad,MSD,,,2026-07-03T00:54:28Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785771031,business_analyst,Hyderabad,MSD,,,2026-07-03T00:54:13Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837138886,business_analyst,Hyderabad,Cornerstone OnDemand,,,2026-08-12T01:59:18Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723135,business_analyst,Pune,Deutsche Bank,,,2026-08-18T18:03:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723453,business_analyst,India,Moody's,,,2026-08-18T18:03:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+5812528420,business_analyst,Bengaluru,Accenture,,,2026-07-23T22:17:13Z,False,False,False,False,False,False,False,False,False,False,False,False
+5812528354,business_analyst,Bengaluru,Accenture,,,2026-07-23T22:17:08Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723378,business_analyst,Mumbai,Deutsche Bank,,,2026-08-18T18:03:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723667,business_analyst,Mumbai,Deutsche Bank,,,2026-08-18T18:03:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723110,business_analyst,Mumbai,Deutsche Bank,,,2026-08-18T18:03:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723588,business_analyst,Mumbai,Deutsche Bank,,,2026-08-18T18:03:42Z,False,False,False,False,False,False,False,False,True,False,False,False
+5822232374,business_analyst,Bengaluru,Artech Infosystem Private Limited,,,2026-07-31T15:27:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840636701,business_analyst,India,Azim Premji Foundation,,,2026-08-14T00:22:28Z,False,False,False,False,False,False,False,False,False,False,False,False
+5834882820,business_analyst,India,Furlenco,,,2026-08-10T00:09:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+5851314119,business_analyst,Hyderabad,Coforge,,,2026-08-21T21:27:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5829060820,business_analyst,Chennai,enGen Global,,,2026-08-05T17:46:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840637178,business_analyst,India,Suffescom Solutions Inc,,,2026-08-14T00:23:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5845682804,business_analyst,Hyderabad,Saras Analytics,,,2026-08-18T05:07:47Z,False,False,False,False,False,False,False,False,False,False,False,False
+5812352805,business_analyst,Delhi,The Chopras,,,2026-07-23T18:56:59Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139699,business_analyst,Hyderabad,Reckitt,,,2026-08-12T01:59:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723091,business_analyst,Mumbai,Deutsche Bank,,,2026-08-18T18:03:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723625,business_analyst,Bengaluru,Deutsche Bank,,,2026-08-18T18:03:42Z,False,False,False,False,False,False,False,False,False,False,False,False
+5857251209,business_analyst,India,Capco,,,2026-08-27T02:10:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139835,business_analyst,Chennai,Capco,,,2026-08-12T01:59:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139722,business_analyst,Mumbai,Capco,,,2026-08-12T01:59:41Z,False,False,False,False,False,False,False,False,False,False,False,False
+5838675853,business_analyst,Jaipur,Egnoto,,,2026-08-13T00:15:55Z,False,False,False,False,False,False,False,False,False,False,False,False
+5836227791,business_analyst,India,CODEMONK,600000.0,800000.0,2026-08-11T06:57:29Z,False,False,False,False,False,False,False,False,False,False,False,True
+5796256176,business_analyst,Pune,AVIGNAAI PRIVATE LIMITED,,,2026-07-11T04:40:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5826772660,business_analyst,Delhi,Innefu Labs Limited,1200000.0,1400000.0,2026-08-03T22:53:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+5758364393,business_analyst,India,Infotel UK,,,2026-06-10T16:21:44Z,False,False,False,False,False,False,False,False,False,False,False,False
+5774786002,business_analyst,India,Egon Zehnder,,,2026-06-24T18:32:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+4725867393,business_analyst,Bengaluru,"Opalforce, Inc.",,,2024-06-07T16:37:08Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849257585,business_analyst,India,Arena Investors I Quaestor Advisors,,,2026-08-20T09:09:55Z,False,False,False,False,False,False,False,False,False,False,False,False
+5851409035,business_analyst,India,Trigent Software Private Limited,3200000.0,3200000.0,2026-08-21T23:36:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849894192,business_analyst,Bengaluru,Acme Services Private Limited,1400000.0,1500000.0,2026-08-20T23:35:38Z,False,False,True,False,False,False,False,False,False,False,False,False
+5854530951,business_analyst,Ahmedabad,Acme Services Private Limited,1700000.0,1800000.0,2026-08-24T23:36:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+5850376076,business_analyst,Gurugram,Egon Zehnder,,,2026-08-21T07:38:50Z,False,False,False,False,False,False,False,False,False,False,False,False
+1509166858,business_analyst,Bengaluru,Lincode Labs India Pvt Ltd,400000.0,800000.0,2020-03-31T19:47:07Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846909378,business_analyst,India,NewVison,,,2026-08-18T20:42:48Z,False,False,False,False,False,False,False,False,False,False,False,False
+5040689008,business_analyst,Bengaluru,ProPMO Services Private Limited,400000.0,800000.0,2025-02-07T12:24:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+4801532684,business_analyst,Tamil Nadu,xyz,,,2024-07-31T03:13:45Z,False,False,False,False,False,False,False,False,False,False,False,False
+5828879931,business_analyst,Mumbai,Happiest Resume,600000.0,700000.0,2026-08-05T14:47:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5821213653,business_analyst,Hyderabad,IKS Health,,,2026-07-30T20:48:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5337950212,business_analyst,Hyderabad,Wissen Technology,,,2025-08-05T08:19:57Z,True,False,False,False,False,False,False,False,True,False,False,False
+4686706417,business_analyst,Noida,Unknown,,,2024-05-10T07:39:01Z,False,False,False,False,False,False,False,False,False,False,False,False
+5781956187,business_analyst,Gujarat,Sole Point,,,2026-06-30T14:52:24Z,False,False,False,False,False,False,False,False,False,False,False,False
+3166190744,business_analyst,Hyderabad,PopcornApps,200000.0,1000000.0,2022-05-25T05:32:48Z,False,False,False,False,False,False,False,False,False,False,False,False
+5794934960,business_analyst,Mumbai,Qualitykiosk Technologies Private Limited,,,2026-07-10T07:16:41Z,False,False,False,False,False,False,False,False,False,False,False,False
+1788701062,business_analyst,Bengaluru,Presidency University,0.0,500000.0,2020-10-29T02:45:11Z,False,False,False,False,False,False,False,False,False,False,False,False
+5830599367,business_analyst,Hyderabad,In Touch,,,2026-08-06T20:40:05Z,False,False,False,False,False,False,False,False,False,False,False,False
+3900854302,business_analyst,Surat,Ebizz Infotech,120000.0,300000.0,2023-02-04T06:16:41Z,False,False,False,False,False,False,False,False,False,False,False,False
+3710148607,business_analyst,Mumbai,Mithra Global,1200000.0,1300000.0,2022-11-22T05:54:55Z,False,False,False,False,False,False,False,False,False,False,False,False
+5727082142,business_analyst,Bengaluru,MM Staffing & Career Consultants,,,2026-05-13T01:56:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5719182260,business_analyst,Bengaluru,Redfoxa Careerlink Pvt Ltd,400000.0,450000.0,2026-05-05T12:11:01Z,False,False,False,False,False,False,False,False,False,False,False,False
+5815241095,business_analyst,Bengaluru,Thomasmount Consulting,300000.0,550000.0,2026-07-25T15:56:47Z,False,False,False,False,False,False,False,False,False,False,False,False
+5503836817,business_analyst,Surat,Vision Infotech,,,2025-11-20T00:58:11Z,False,False,False,False,False,False,False,False,False,False,False,False
+2609531597,business_analyst,Coimbatore,Texila American University,0.0,700000.0,2021-11-04T03:52:47Z,False,False,False,False,False,False,False,False,False,False,False,False
+5782687597,business_analyst,Bengaluru,SLK Software,,,2026-07-01T07:15:51Z,False,False,False,False,False,False,False,False,False,False,False,False
+4755979420,business_analyst,Mumbai,Money Honey Financial Services Private Limited,300000.0,1000000.0,2024-06-28T10:26:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+3266737478,business_analyst,Bengaluru,Sigma Infosolutions,1200000.0,1500000.0,2022-06-28T06:28:21Z,False,False,False,False,False,False,False,False,False,False,False,False
+5806704101,business_analyst,Pune,Exioms Technology,,,2026-07-19T07:23:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5728412938,business_analyst,Delhi,Acura Solution,,,2026-05-14T02:25:13Z,False,False,False,False,True,False,False,False,False,False,False,False
+5832798246,business_analyst,Pune,Coditas Technologies,,,2026-08-08T07:31:11Z,False,False,False,False,False,False,False,False,True,False,False,False
+1171506747,business_analyst,Gurugram,Ixora Global Services,12.0,144.0,2019-06-05T21:12:02Z,False,False,False,False,False,False,False,False,False,False,False,False
+5255506980,business_analyst,India,NeoGenCode Technologies Pvt Ltd,1000000.0,2200000.0,2025-06-18T05:21:07Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849525633,business_analyst,Ahmedabad,Nexuslink Services India Pvt ltd,450000.0,700000.0,2026-08-20T16:03:51Z,False,False,False,False,False,False,False,False,False,False,False,False
+5796404549,business_analyst,Bengaluru,Aeries Technology,,,2026-07-11T07:17:46Z,False,False,False,False,False,False,False,False,False,False,False,False
+5758900366,business_analyst,Hyderabad,InTouch CX,,,2026-06-11T02:17:54Z,False,False,False,False,False,False,False,False,False,False,False,False
+5820989062,business_analyst,India,Tech Mahindra,,,2026-07-30T15:58:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5829887321,business_analyst,Pune,ONIT,,,2026-08-06T07:31:54Z,False,False,False,False,False,False,False,False,False,False,False,False
+5799557395,business_analyst,Srirangam,VDart,,,2026-07-14T12:05:11Z,False,False,False,False,False,False,False,False,False,False,False,False
+5829800306,business_analyst,Bengaluru,Refining Skills Academy,,,2026-08-06T06:40:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5629158866,business_analyst,Mohali,Dynarex Technologies PvtLtd,700000.0,900000.0,2026-02-14T10:57:23Z,False,False,False,False,False,False,False,False,False,False,False,False
+4794473965,business_analyst,Noida,Vmultiply solutions,200000.0,400000.0,2024-07-25T10:51:47Z,False,False,False,False,False,False,False,False,False,False,False,False
+5120355680,business_analyst,Bengaluru,Talhive,,,2025-04-01T01:23:35Z,False,False,False,False,True,False,False,False,False,False,False,False
+3502543793,business_analyst,Bengaluru,Wolken Software,1500000.0,2500000.0,2022-09-20T07:05:20Z,False,False,False,False,False,False,False,False,False,False,False,False
+4091518943,business_analyst,Surat,Ebizz Infotech,120000.0,300000.0,2023-05-10T15:58:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+5555120217,business_analyst,Pune,Innover Systems,600000.0,1000000.0,2025-12-25T10:26:03Z,False,False,False,False,False,False,False,False,False,False,False,False
+5730732839,business_analyst,India,IBS Software,,,2026-05-16T02:18:52Z,False,False,False,False,False,False,False,False,False,False,False,False
+5728332881,business_analyst,Gurugram,Acura Solution,,,2026-05-14T02:17:45Z,False,False,False,False,False,False,False,False,False,False,False,False
+5727206444,business_analyst,Chennai,RECEX,,,2026-05-13T02:10:25Z,False,False,False,False,False,False,False,False,False,False,False,False
+3433222166,business_analyst,Thane,Myrsa Technology Solutions,300000.0,500000.0,2022-08-26T06:41:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+2583051695,business_analyst,Mumbai,IRIS BUSINESS SERVICES LIMITED,0.0,600000.0,2021-10-27T08:24:59Z,False,False,False,False,False,False,False,False,False,False,False,False
+5855248947,business_analyst,Hyderabad,Blackbaud India,,,2026-08-25T16:04:50Z,False,False,False,False,False,False,False,False,False,False,False,False
+5856942808,business_analyst,India,Blackbaud,,,2026-08-26T20:44:08Z,False,False,False,False,False,False,False,False,False,False,False,False
+5015650325,business_analyst,Pune,Forerunner Consultancy Services,,,2025-01-18T17:37:54Z,False,False,False,False,False,False,False,False,False,False,False,False
+5699259929,business_analyst,India,EXL,,,2026-04-15T02:01:42Z,False,False,False,False,False,False,False,False,False,False,False,False
+5782632521,business_analyst,Coimbatore,Diraa HR Services,,,2026-07-01T06:08:48Z,False,False,False,False,False,False,False,False,False,False,False,False
+5329708622,business_analyst,Noida,Topcoder,,,2025-07-31T17:07:34Z,False,False,True,False,True,False,False,False,False,False,False,False
+5832798190,business_analyst,Patna,Milestone Online Technology,,,2026-08-08T07:31:07Z,False,False,False,False,False,False,False,False,False,False,False,False
+5832798160,business_analyst,Gurugram,Milestone Online Technology,,,2026-08-08T07:31:05Z,False,False,False,False,False,False,False,False,False,False,False,False
+5832798189,business_analyst,Ludhiana,Milestone Online Technology,,,2026-08-08T07:31:07Z,False,False,False,False,False,False,False,False,False,False,False,False
+5832798146,business_analyst,Pune,Milestone Online Technology,,,2026-08-08T07:31:04Z,False,False,False,False,False,False,False,False,False,False,False,False
+5832798154,business_analyst,Kolkata,Milestone Online Technology,,,2026-08-08T07:31:05Z,False,False,False,False,False,False,False,False,False,False,False,False
+5832798168,business_analyst,Bengaluru,Milestone Online Technology,,,2026-08-08T07:31:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+5832798175,business_analyst,Bhopal,Milestone Online Technology,,,2026-08-08T07:31:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+4686706474,business_analyst,Chennai,Unknown,,,2024-05-10T07:39:01Z,False,False,False,False,False,False,False,False,False,False,False,False
+5727143893,business_analyst,Gandhinagar,Mantras2Success,,,2026-05-13T02:04:48Z,False,False,False,False,False,False,False,False,False,False,False,False
+5336689187,business_analyst,Kochi,EWU,200000.0,300000.0,2025-08-04T05:33:06Z,True,False,True,False,True,False,False,False,False,False,False,False
+3911379858,business_analyst,Kolkata,Codebuddy Pvt. Ltd.,300000.0,400000.0,2023-02-08T06:25:23Z,False,False,False,False,False,False,False,False,False,False,False,False
+3592404194,business_analyst,Hyderabad,HyreSpree,1500000.0,2000000.0,2022-10-16T05:44:14Z,True,False,False,False,False,False,False,False,False,False,False,False
+5842569972,business_analyst,Bengaluru,Ara Resources Private Limited,,,2026-08-15T07:51:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+5822020256,business_analyst,Pune,iprogrammer,,,2026-07-31T10:42:26Z,False,False,False,False,False,False,False,False,False,False,False,False
+5686224076,business_analyst,Bengaluru,Bill Gosling Outsourcing,,,2026-04-02T02:08:54Z,False,False,False,False,False,False,False,False,False,False,False,False
+4855312747,business_analyst,Jaipur,Litpix Studio Private Limited,200000.0,400000.0,2024-09-07T10:59:13Z,False,False,False,False,False,False,False,False,False,False,False,False
+2933962322,business_analyst,Delhi,Unnati,700000.0,800000.0,2022-03-01T04:54:07Z,False,False,False,False,False,False,False,False,False,False,False,False
+5750260075,business_analyst,Hyderabad,NebuLogic Technologies,800000.0,1200000.0,2026-06-03T13:04:26Z,False,False,False,False,False,False,False,False,False,False,False,False
+5850380679,business_analyst,India,Velocis Systems Private Limited,,,2026-08-21T07:40:10Z,False,False,False,False,False,False,False,False,False,False,False,False
+5727114831,business_analyst,Bengaluru,Right Advisors,,,2026-05-13T02:02:07Z,False,False,False,False,False,False,False,False,False,False,False,False
+5722083454,business_analyst,India,Emids,,,2026-05-08T02:14:04Z,False,False,False,False,False,False,False,False,False,False,False,False
+5828880832,business_analyst,Delhi,Happiest Resume,30000.0,900000.0,2026-08-05T14:48:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+4386562594,business_analyst,Madurai,RadicalStart Infolab Private Limted,200000.0,300000.0,2023-10-22T13:47:49Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846911659,business_analyst,India,Financial Services,1000000.0,1500000.0,2026-08-18T20:48:13Z,False,False,False,False,False,False,False,False,True,False,False,False
+5854880424,business_analyst,Bengaluru,Apex 2000,,,2026-08-25T07:43:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5549958855,business_analyst,Hyderabad,Vistex Career,,,2025-12-20T23:54:48Z,False,False,False,False,False,False,False,False,False,False,False,False
+4686706698,business_analyst,Noida,Unknown,,,2024-05-10T07:39:03Z,False,False,False,False,False,False,False,False,False,False,False,False
+5551011286,business_analyst,India,EXL,,,2025-12-21T23:50:57Z,False,False,False,False,False,False,False,False,False,False,False,False
+4801519596,business_analyst,Chennai,Miro,,,2024-07-31T03:12:25Z,False,False,False,False,False,False,False,False,False,False,False,False
+5796406369,business_analyst,Mumbai,Fujitsu,,,2026-07-11T07:18:26Z,True,False,False,False,False,False,False,False,False,False,False,False
+4686705910,business_analyst,Noida,Unknown,,,2024-05-10T07:38:58Z,False,False,False,False,False,False,False,False,False,False,False,False
+5831397290,business_analyst,Pune,ICE,,,2026-08-07T07:27:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5239552785,business_analyst,Hyderabad,layer tech IT solutions,300000.0,500000.0,2025-06-08T05:07:20Z,False,False,False,False,False,False,False,False,False,False,False,False
+2766491353,business_analyst,Lucknow,DIGITAL BRAIN MEDIA,0.0,600000.0,2021-12-25T04:19:03Z,False,False,False,False,False,False,False,False,False,False,False,False
+5754832051,business_analyst,Hyderabad,All Generation Tech,,,2026-06-07T02:27:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+5766551671,business_analyst,Mumbai,Amukha Technologies Private Limited,600000.0,1200000.0,2026-06-17T14:39:26Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846909382,business_analyst,Noida,EXL,,,2026-08-18T20:42:49Z,True,False,False,False,False,False,False,False,False,False,False,False
+5856198092,business_analyst,Mumbai,QualityKiosk Technologies Private Limited,,,2026-08-26T07:38:12Z,False,False,False,False,False,False,False,False,False,False,False,False
+5728328959,business_analyst,Mumbai,Acura Solution,,,2026-05-14T02:17:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5819881302,business_analyst,Bengaluru,GetixHealth,,,2026-07-29T20:55:48Z,False,False,False,False,False,False,False,False,False,False,False,False
+5820989260,business_analyst,Hyderabad,CGI,,,2026-07-30T15:58:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+5834759206,business_analyst,India,HP,,,2026-08-09T20:54:08Z,False,False,False,False,False,False,False,False,False,False,False,False
+5835731356,business_analyst,India,Accenture,,,2026-08-10T20:53:36Z,False,False,False,False,False,False,False,False,False,False,False,False
+5838134051,business_analyst,Mumbai,Morningstar,,,2026-08-12T16:16:23Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723662,business_analyst,Mumbai,Morningstar,,,2026-08-18T18:03:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5845682735,business_analyst,Hyderabad,Ensar Solutions Inc,,,2026-08-18T05:07:39Z,False,False,False,False,False,False,False,False,False,False,False,False
+5829060698,business_analyst,Noida,Innodata Inc.,,,2026-08-05T17:45:42Z,False,False,False,False,False,False,False,False,False,False,False,False
+5848120112,business_analyst,Bengaluru,Live Connections,,,2026-08-19T17:14:03Z,False,False,False,False,False,False,False,False,False,False,False,False
+5845682733,business_analyst,Noida,HCLTech,,,2026-08-18T05:07:39Z,False,False,False,False,False,False,False,False,False,False,False,False
+5836624494,business_analyst,Mumbai,DOHA BANK,,,2026-08-11T16:12:53Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723111,business_analyst,Mumbai,Morningstar,,,2026-08-18T18:03:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5845829857,business_analyst,Chennai,enGen Global,,,2026-08-18T07:19:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+5857168376,business_analyst,Bengaluru,Birla Pivot,,,2026-08-26T22:01:25Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849640681,business_analyst,India,Novartis,,,2026-08-20T20:05:09Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849640347,business_analyst,Mumbai,Morningstar,,,2026-08-20T20:04:59Z,False,False,False,False,False,False,False,False,False,False,False,False
+5850982323,business_analyst,Chennai,Robert Walters,,,2026-08-21T17:25:24Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837737737,business_analyst,Bengaluru,Embassy REIT,,,2026-08-12T10:17:07Z,False,False,False,False,False,False,False,False,True,False,False,False
+5812528433,business_analyst,Mumbai,Accenture,,,2026-07-23T22:17:17Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723636,business_analyst,Mumbai,Morningstar,,,2026-08-18T18:03:42Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723207,business_analyst,Mumbai,Morningstar,,,2026-08-18T18:03:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852164502,business_analyst,Mumbai,Deutsche Bank,,,2026-08-22T12:06:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5833434710,business_analyst,India,BuzzClan,,,2026-08-08T17:59:41Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849578804,business_analyst,Chennai,Atos,,,2026-08-20T17:58:16Z,False,False,False,False,False,False,False,False,True,False,False,False
+5848119650,business_analyst,Hyderabad,Pacific Group of Companies,,,2026-08-19T17:13:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+5848120287,business_analyst,India,Care Insurance,,,2026-08-19T17:14:20Z,True,True,False,False,False,False,False,False,True,False,False,False
+5846723043,business_analyst,India,Moody's,,,2026-08-18T18:03:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849640340,business_analyst,Delhi,Clifford Chance,,,2026-08-20T20:04:59Z,False,False,False,False,False,False,False,False,False,False,False,False
+5854537706,business_analyst,Bengaluru,Standard Chartered Bank,,,2026-08-25T00:07:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840277155,business_analyst,Ahmedabad,Coca-Cola,,,2026-08-13T17:59:49Z,False,False,False,False,False,False,False,False,False,False,False,False
+5847434893,business_analyst,Mumbai,Deutsche Bank,,,2026-08-19T04:12:31Z,False,False,False,False,False,False,False,False,False,False,False,False
+5794768389,business_analyst,Bengaluru,ABB,,,2026-07-10T03:46:39Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723295,business_analyst,Mumbai,Deutsche Bank,,,2026-08-18T18:03:36Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841755842,business_analyst,Hyderabad,Trianz,,,2026-08-14T16:34:57Z,False,False,False,False,False,False,False,False,False,False,False,False
+5820962872,business_analyst,India,BrightEdge,,,2026-07-30T15:24:11Z,False,False,False,False,False,False,False,False,False,False,False,False
+5829373906,business_analyst,India,MAX Security,,,2026-08-05T23:49:10Z,False,False,False,False,False,False,False,False,False,False,False,False
+5848120610,business_analyst,Hyderabad,Krishna Jewellers Pearls and Gems Private Limited,,,2026-08-19T17:14:52Z,False,False,False,False,False,False,False,False,False,False,False,False
+5850906792,business_analyst,Pune,Cornerstone OnDemand,,,2026-08-21T16:06:11Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852763658,business_analyst,India,Evalueserve,,,2026-08-22T23:36:20Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841755527,business_analyst,Mumbai,CHG-MERIDIAN,,,2026-08-14T16:34:44Z,False,False,False,False,False,False,False,False,False,False,False,False
+5820906287,business_analyst,India,Kraft Heinz,,,2026-07-30T13:53:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5823897527,business_analyst,India,Persistent Systems,,,2026-08-01T17:31:37Z,True,False,False,False,False,False,False,False,False,False,False,False
+5820906243,business_analyst,Bengaluru,Kraft Heinz,,,2026-07-30T13:53:20Z,False,False,False,False,False,False,False,False,False,False,False,False
+5812611491,business_analyst,Bengaluru,Oracle,,,2026-07-24T00:56:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5813233932,business_analyst,Mumbai,Accenture,,,2026-07-24T07:44:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+5850906568,business_analyst,Chennai,Elsevier,,,2026-08-21T16:06:07Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139206,business_analyst,Pune,Cornerstone onDemand,,,2026-08-12T01:59:31Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840286985,business_analyst,Hyderabad,Paragon South Asia Services Private Limited,,,2026-08-13T18:27:14Z,False,False,False,False,False,False,False,False,False,False,False,False
+5790410554,business_analyst,India,Novartis,,,2026-07-07T05:28:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5833434767,business_analyst,India,RingCentral,,,2026-08-08T18:00:04Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723466,business_analyst,Mumbai,Morningstar,,,2026-08-18T18:03:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852164468,business_analyst,Bengaluru,ABB,,,2026-08-22T12:06:24Z,False,False,False,False,False,False,False,False,False,False,False,False
+5824555662,business_analyst,India,Kraft Heinz,,,2026-08-02T01:51:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840225417,business_analyst,Mumbai,SI Group,,,2026-08-13T16:19:44Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723433,business_analyst,Bengaluru,Deutsche Bank,,,2026-08-18T18:03:39Z,False,False,False,False,False,False,False,False,True,False,False,False
+5837139581,business_analyst,Hyderabad,Warner Bros. Discovery,,,2026-08-12T01:59:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139330,business_analyst,Bengaluru,Standard Chartered Bank,,,2026-08-12T01:59:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785773028,business_analyst,Hyderabad,Invesco,,,2026-07-03T00:54:31Z,False,False,False,False,False,False,False,False,False,False,False,False
+5790410508,business_analyst,India,Jabil,,,2026-07-07T05:28:41Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785772459,business_analyst,India,Jabil,,,2026-07-03T00:54:25Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841754845,business_analyst,India,The Swastik Pharamceuticals,,,2026-08-14T16:34:01Z,False,False,False,False,False,False,False,False,False,False,False,False
+5821438092,business_analyst,India,Digital ROI,,,2026-07-31T01:29:11Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723136,business_analyst,Mumbai,Morningstar,,,2026-08-18T18:03:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139342,business_analyst,Chennai,WPP Production,,,2026-08-12T01:59:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723377,business_analyst,Mumbai,Deutsche Bank,,,2026-08-18T18:03:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5705682535,business_analyst,Chennai,ALESAYI HOLDING | العيسائي القابضة,,,2026-04-21T07:42:52Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852164495,business_analyst,Bengaluru,ABB,,,2026-08-22T12:06:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5794768383,business_analyst,Bengaluru,ABB,,,2026-07-10T03:46:39Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840225213,business_analyst,Bengaluru,Alvaria CX,,,2026-08-13T16:19:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5705681495,business_analyst,Chennai,ALESAYI HOLDING | العيسائي القابضة,,,2026-04-21T07:41:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840277237,business_analyst,Bengaluru,Standard Chartered Bank,,,2026-08-13T18:00:04Z,False,False,False,False,False,False,False,False,False,False,False,False
+5847434876,business_analyst,Mumbai,Deutsche Bank,,,2026-08-19T04:12:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5853225984,business_analyst,Bengaluru,ABB,,,2026-08-23T08:07:04Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849577003,business_analyst,India,Marsh,,,2026-08-20T17:55:58Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723133,business_analyst,India,Moody's,,,2026-08-18T18:03:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723482,business_analyst,Jaipur,Deutsche Bank,,,2026-08-18T18:03:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723692,business_analyst,Mumbai,Deutsche Bank,,,2026-08-18T18:03:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852164438,business_analyst,Bengaluru,ABB,,,2026-08-22T12:06:20Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723252,business_analyst,Pune,Deutsche Bank,,,2026-08-18T18:03:36Z,False,False,False,False,False,False,False,False,False,False,False,False
+5843766762,business_analyst,Bengaluru,ABB,,,2026-08-16T06:19:46Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723119,business_analyst,India,Moody's,,,2026-08-18T18:03:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723117,business_analyst,Pune,Deutsche Bank,,,2026-08-18T18:03:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785773084,business_analyst,Mumbai,Jabil,,,2026-07-03T00:54:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5853225987,business_analyst,Bengaluru,ABB,,,2026-08-23T08:07:04Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723412,business_analyst,Jaipur,Deutsche Bank,,,2026-08-18T18:03:39Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139895,business_analyst,India,Capco,,,2026-08-12T01:59:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849268084,business_analyst,India,MAX Security,,,2026-08-20T09:20:39Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139064,business_analyst,Pune,Cornerstone OnDemand,,,2026-08-12T01:59:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5848642123,business_analyst,Hyderabad,Tata Consultancy Services,,,2026-08-19T23:19:01Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852476453,business_analyst,Chennai,Policybazaar.com,,,2026-08-22T17:34:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837843625,business_analyst,Hyderabad,Warner Bros. Discovery,,,2026-08-12T11:59:36Z,False,False,False,False,False,False,False,False,False,False,False,False
+5799881691,business_analyst,India,C4D Technology,,,2026-07-14T15:45:44Z,False,False,False,False,False,False,False,False,False,False,False,False
+5847959695,business_analyst,Bengaluru,HP,,,2026-08-19T14:04:53Z,False,False,False,False,False,False,False,False,False,False,False,False
+5832204983,business_analyst,India,Kraft Heinz,,,2026-08-07T21:58:07Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785772166,business_analyst,India,RWS,,,2026-07-03T00:54:23Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723053,business_analyst,Mumbai,Morningstar,,,2026-08-18T18:03:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5850983395,business_analyst,Kolkata,AML RightSource,,,2026-08-21T17:26:37Z,False,False,False,False,False,False,False,False,False,False,False,False
+5806276033,business_analyst,India,Novartis,,,2026-07-18T22:16:45Z,False,False,False,False,False,False,False,False,False,False,False,False
+5820906302,business_analyst,India,Kraft Heinz,,,2026-07-30T13:53:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723089,business_analyst,Maharashtra,Danaher,,,2026-08-18T18:03:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5784149288,business_analyst,India,Sonia Industries,,,2026-07-02T01:21:34Z,False,False,False,False,False,False,False,False,True,False,False,False
+5846723092,business_analyst,Hyderabad,Wise,,,2026-08-18T18:03:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837843626,business_analyst,Hyderabad,Warner Bros. Discovery,,,2026-08-12T11:59:36Z,False,False,False,False,False,False,False,False,False,False,False,False
+5838614025,business_analyst,Bengaluru,RWS,,,2026-08-12T22:00:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5812528540,business_analyst,Bengaluru,Accenture,,,2026-07-23T22:17:24Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852164425,business_analyst,Hyderabad,Wise,,,2026-08-22T12:06:19Z,False,False,False,False,False,False,False,False,False,False,False,False
+5830416841,business_analyst,Chennai,Tata Consultancy Services,,,2026-08-06T17:50:30Z,False,True,False,False,False,False,False,False,False,False,False,False
+5846723317,business_analyst,Mumbai,Morningstar,,,2026-08-18T18:03:36Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139410,business_analyst,Hyderabad,Reckitt,,,2026-08-12T01:59:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849640361,business_analyst,Bengaluru,Danaher,,,2026-08-20T20:04:59Z,False,False,False,False,False,False,False,False,False,False,False,False
+5839268469,business_analyst,Bengaluru,ABB,,,2026-08-13T08:00:37Z,False,False,False,False,False,False,False,False,False,False,False,False
+5802784818,business_analyst,Bengaluru,Real estate GCC,,,2026-07-16T15:57:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5812528323,business_analyst,Bengaluru,Accenture,,,2026-07-23T22:17:08Z,False,False,False,False,False,False,False,False,False,False,False,False
+5819192402,business_analyst,Bengaluru,ABB,,,2026-07-29T07:48:50Z,False,False,False,False,False,False,False,False,False,False,False,False
+5854537736,business_analyst,India,S&P Global,,,2026-08-25T00:07:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723389,business_analyst,Mumbai,Deutsche Bank,,,2026-08-18T18:03:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723418,business_analyst,Kolkata,Danaher,,,2026-08-18T18:03:39Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849578744,business_analyst,Hyderabad,Hartree Partners,,,2026-08-20T17:58:13Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852164435,business_analyst,Bengaluru,ABB,,,2026-08-22T12:06:20Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852164497,business_analyst,Bengaluru,ABB,,,2026-08-22T12:06:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5786419121,business_analyst,India,Novartis,,,2026-07-03T10:54:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139948,business_analyst,Hyderabad,Reckitt,,,2026-08-12T01:59:44Z,False,False,False,False,False,False,False,False,False,False,False,False
+5833433946,business_analyst,Mumbai,WPP Production,,,2026-08-08T17:56:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139028,business_analyst,Chennai,Standard Chartered Bank,,,2026-08-12T01:59:26Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723049,business_analyst,Mumbai,Deutsche Bank,,,2026-08-18T18:03:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5847959716,business_analyst,Maharashtra,Danaher,,,2026-08-19T14:04:55Z,False,False,False,False,False,False,False,False,False,False,False,False
+5808323226,business_analyst,Bengaluru,ABB,,,2026-07-20T23:42:13Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785772853,business_analyst,Bengaluru,ABB,,,2026-07-03T00:54:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852164530,business_analyst,Bengaluru,ABB,,,2026-08-22T12:06:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785771686,business_analyst,Hyderabad,Invesco,,,2026-07-03T00:54:19Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840277328,business_analyst,Bengaluru,ABB,,,2026-08-13T18:00:12Z,False,False,False,False,False,False,False,False,False,False,False,False
+5855233782,business_analyst,Mumbai,TP,,,2026-08-25T15:45:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723624,business_analyst,Mumbai,Deutsche Bank,,,2026-08-18T18:03:42Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723296,business_analyst,Bengaluru,Deutsche Bank,,,2026-08-18T18:03:36Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785772181,business_analyst,Bengaluru,ABB,,,2026-07-03T00:54:23Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723305,business_analyst,Vellore,Deutsche Bank,,,2026-08-18T18:03:36Z,False,False,False,False,False,False,False,False,True,False,False,False
+5846723584,business_analyst,Jaipur,Deutsche Bank,,,2026-08-18T18:03:42Z,False,False,False,False,False,False,False,False,False,False,False,False
+5851435813,business_analyst,Mumbai,Morningstar,,,2026-08-22T02:06:03Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723229,business_analyst,Mumbai,Morningstar,,,2026-08-18T18:03:36Z,False,False,False,False,False,False,False,False,False,False,False,False
+5853225975,business_analyst,Bengaluru,ABB,,,2026-08-23T08:06:55Z,False,False,False,False,False,False,False,False,False,False,False,False
+5854537719,data_analyst,Bengaluru,Standard Chartered Bank,,,2026-08-25T00:07:28Z,False,False,False,False,False,False,False,False,False,False,False,False
+5843766857,data_analyst,Bengaluru,ABB,,,2026-08-16T06:19:54Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723666,data_analyst,Bengaluru,Deutsche Bank,,,2026-08-18T18:03:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723609,data_analyst,Bengaluru,Deutsche Bank,,,2026-08-18T18:03:42Z,False,False,False,False,False,False,False,False,False,False,False,False
+5842123677,data_analyst,India,Collegedunia,,,2026-08-15T00:27:00Z,False,False,False,False,False,False,False,False,False,False,False,False
+5850983317,data_analyst,India,Uptrail,,,2026-08-21T17:26:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5856495687,data_analyst,India,Weekday AI,,,2026-08-26T12:25:49Z,False,False,False,False,False,False,False,False,False,False,False,False
+5826247065,data_analyst,India,Inficore Soft,264000.0,276000.0,2026-08-03T06:51:53Z,False,False,False,False,False,False,False,False,False,False,False,False
+4686704238,data_analyst,Thiruvananthapuram,Unknown,,,2024-05-10T07:38:46Z,False,False,False,False,False,False,False,False,False,False,False,False
+5680120020,data_analyst,India,SkySun,,,2026-03-27T13:39:38Z,False,False,False,False,True,False,False,False,False,False,False,False
+5845542082,data_analyst,Sevasi,Cloudester Software LLP,,,2026-08-18T03:34:11Z,True,False,False,False,True,False,False,False,False,False,False,False
+5693524382,data_analyst,India,LRN Corporation,,,2026-04-09T01:03:12Z,False,False,False,False,False,False,False,False,False,False,False,False
+5759267308,data_analyst,Bengaluru,Rentomojo,600000.0,900000.0,2026-06-11T06:21:45Z,True,False,False,False,False,False,False,False,False,False,False,False
+5849116040,data_analyst,Bengaluru,Time Hack Consulting,600000.0,1300000.0,2026-08-20T07:10:41Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849923648,data_analyst,Sanganer,Shuru Technologies Private Limited,,,2026-08-21T01:15:50Z,False,False,False,False,False,False,False,False,False,False,False,False
+5851408983,data_analyst,Bengaluru,Acme Services Private Limited,1900000.0,2000000.0,2026-08-21T23:35:59Z,True,True,False,False,False,False,True,True,False,False,False,False
+5849894318,data_analyst,India,Trigent Software Private Limited,2200000.0,2200000.0,2026-08-20T23:35:45Z,True,True,False,False,False,False,True,False,False,False,False,False
+5819873638,data_analyst,Noida,Dynata,,,2026-07-29T20:47:45Z,False,False,False,False,True,False,False,False,False,False,False,False
+5735463452,data_analyst,Pune,Digital Twin,,,2026-05-21T02:12:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+1993882092,data_analyst,Delhi,SveltetechTechnologies Pvt Ltd,0.0,300000.0,2021-02-15T04:27:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+4514376622,data_analyst,Delhi,Qrata,1000000.0,1200000.0,2024-01-07T15:08:07Z,False,False,False,False,False,False,False,False,False,False,False,False
+5146507084,data_analyst,Bengaluru,Amicus Therapeutics,,,2025-04-16T01:41:37Z,False,False,False,False,False,False,False,False,False,False,False,False
+5744868780,data_analyst,Bengaluru,Amicus India,,,2026-05-30T02:27:15Z,False,False,False,False,False,False,False,False,False,False,False,False
+5850375334,data_analyst,Hyderabad,TechnoGen,,,2026-08-21T07:38:38Z,True,True,False,True,False,False,False,False,False,False,False,False
+4514376189,data_analyst,Delhi,Qrata,800000.0,1300000.0,2024-01-07T15:07:49Z,False,False,False,False,False,False,False,False,False,False,False,False
+5794938967,data_analyst,Chennai,Aliqan Services,,,2026-07-10T07:19:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+5794938966,data_analyst,Gurugram,Aliqan Services,,,2026-07-10T07:19:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+5586444744,data_analyst,Hyderabad,InTouch CX,,,2026-01-16T00:31:50Z,False,False,False,False,False,False,False,False,False,False,False,False
+5728436260,data_analyst,Kolkata,RECEX,,,2026-05-14T02:27:02Z,False,False,False,False,False,False,False,False,False,False,False,False
+5781956186,data_analyst,Gujarat,Sole Point,,,2026-06-30T14:52:24Z,False,False,False,False,False,False,False,False,False,False,False,False
+4966721625,data_analyst,India,Fatakpay,800000.0,1500000.0,2024-12-07T13:03:54Z,False,False,False,False,False,False,False,False,False,False,False,False
+5784727356,data_analyst,Pune,Cars24,,,2026-07-02T07:16:47Z,False,False,False,False,False,False,False,False,False,False,False,False
+5781956391,data_analyst,Maharashtra,Credeau,,,2026-06-30T14:52:26Z,True,True,False,False,False,False,False,False,False,False,False,True
+5846549911,data_analyst,Chennai,FE fundinfo,,,2026-08-18T16:03:19Z,False,False,False,False,False,False,False,False,False,False,False,False
+5741536696,data_analyst,Vasai,RECEX,,,2026-05-27T02:25:11Z,False,False,False,False,False,False,False,False,True,False,False,False
+1171509680,data_analyst,India,Malaysian Global Innovation and Creativity Centre,500000.0,1000000.0,2019-06-05T21:12:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5727098377,data_analyst,Surat,Navrang HR Solutions,,,2026-05-13T01:59:29Z,True,True,True,False,False,False,False,False,False,False,False,False
+5586566169,data_analyst,Hyderabad,In Touch,,,2026-01-16T00:45:45Z,False,False,False,False,False,False,False,False,False,False,False,False
+5724515432,data_analyst,India,Techwave,,,2026-05-10T02:24:12Z,False,False,False,False,True,False,False,False,False,False,False,False
+5848337096,data_analyst,India,Precision Medicine Group,,,2026-08-19T20:39:55Z,False,False,False,False,False,False,False,False,False,False,False,False
+1712428599,data_analyst,Bengaluru,Namaste Credit,500000.0,1000000.0,2020-09-19T01:45:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5503836577,data_analyst,India,NAVVYASA CONSULTING PRIVATE LIMITED,,,2025-11-20T00:58:08Z,True,True,False,False,False,False,False,False,False,False,False,False
+5831395731,data_analyst,Pune,Whisk Software Private Limited,,,2026-08-07T07:26:13Z,True,False,False,True,False,False,False,False,False,False,False,False
+5826508020,data_analyst,Mumbai,AVI-SPL India,,,2026-08-03T15:57:53Z,False,False,False,False,False,False,False,False,False,False,False,False
+5586642440,data_analyst,Hyderabad,InTouch CX,,,2026-01-16T00:52:21Z,False,False,False,False,False,False,False,False,False,False,False,False
+2500155500,data_analyst,Pune,Reality Premedia Services Pvt Ltd,0.0,800000.0,2021-09-29T05:01:45Z,True,True,True,True,False,False,False,False,False,False,False,False
+5818423330,data_analyst,India,Equitas Small Finance Bank,,,2026-07-28T20:53:05Z,False,False,False,False,False,False,False,False,False,False,False,False
+5503284671,data_analyst,Bengaluru,Intelliatx Therapeutics,,,2025-11-19T22:19:09Z,False,False,False,False,False,False,False,False,False,False,False,False
+4993547435,data_analyst,India,RegisterKaro,400000.0,1000000.0,2025-01-01T11:53:10Z,False,True,False,False,False,False,False,False,False,False,False,False
+5854880422,data_analyst,Bengaluru,Apex 2000,,,2026-08-25T07:43:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5532438214,data_analyst,India,Sagility,,,2025-12-07T22:44:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5793185629,data_analyst,India,Ecolab,,,2026-07-09T03:05:51Z,False,False,False,False,False,False,False,False,False,False,False,False
+2247134476,data_analyst,India,Indium Software,250000.0,800000.0,2021-06-12T12:42:07Z,True,True,False,False,False,False,False,False,False,False,False,False
+5336689191,data_analyst,Coimbatore,EWU,400000.0,700000.0,2025-08-04T05:33:07Z,False,False,True,True,False,False,False,False,False,False,False,False
+5832798180,data_analyst,Ahmedabad,Milestone Online Technology,,,2026-08-08T07:31:06Z,True,True,True,True,True,False,False,False,False,False,False,False
+5832798159,data_analyst,Bengaluru,Milestone Online Technology,,,2026-08-08T07:31:05Z,True,True,True,True,True,False,False,False,False,False,False,False
+5832798167,data_analyst,Gurugram,Milestone Online Technology,,,2026-08-08T07:31:06Z,True,True,True,True,True,False,False,False,False,False,False,False
+5832798187,data_analyst,Lucknow,Milestone Online Technology,,,2026-08-08T07:31:07Z,True,True,True,True,True,False,False,False,False,False,False,False
+5832798181,data_analyst,Patna,Milestone Online Technology,,,2026-08-08T07:31:06Z,True,True,True,True,True,False,False,False,False,False,False,False
+5832798158,data_analyst,Kolkata,Milestone Online Technology,,,2026-08-08T07:31:05Z,True,True,True,True,True,False,False,False,False,False,False,False
+5801030174,data_analyst,Delhi,Vikash Technologies,1500000.0,1900000.0,2026-07-15T15:12:05Z,True,True,False,False,False,True,False,False,False,False,False,False
+4855397054,data_analyst,India,Epik Solutions,50000.0,700000.0,2024-09-07T11:25:36Z,False,False,False,False,False,False,False,False,False,False,False,False
+2853927974,data_analyst,Bengaluru,Multi Recruit,1200000.0,1400000.0,2022-01-30T04:34:26Z,False,False,False,False,False,False,False,False,False,False,False,False
+5781956424,data_analyst,Telangana,Beworld web services,,,2026-06-30T14:52:26Z,True,False,False,False,False,False,False,False,False,False,False,False
+2433361449,data_analyst,Mumbai,MSMEx,0.0,1200000.0,2021-09-05T02:42:02Z,False,False,False,False,False,False,False,False,False,False,False,False
+2449398766,data_analyst,Hyderabad,Syrencloud,0.0,800000.0,2021-09-11T02:17:17Z,True,False,False,False,False,False,False,False,False,False,False,False
+2890608757,data_analyst,India,Fragma Data Systems,600000.0,800000.0,2022-02-12T04:45:18Z,True,False,False,False,False,True,False,True,False,False,False,False
+4686704927,data_analyst,Vadodara,Unknown,,,2024-05-10T07:38:51Z,False,False,False,False,False,False,False,False,True,False,False,False
+5727239818,data_analyst,Ahmedabad,Mantras2Success,,,2026-05-13T02:13:36Z,False,False,False,False,False,False,False,False,False,False,False,False
+4715697356,data_analyst,Bengaluru,Sadup Softech,1200000.0,1500000.0,2024-06-01T09:41:50Z,True,True,False,False,True,False,False,True,False,False,False,False
+5800765376,data_analyst,Noida,Jetking Technologies Private Limited,20000.0,25000.0,2026-07-15T10:21:31Z,False,False,True,True,True,False,False,False,False,False,False,False
+2403881225,data_analyst,Bengaluru,Multi Recruit,500000.0,1500000.0,2021-08-24T22:37:13Z,False,False,False,False,False,False,False,False,False,False,False,False
+5681009000,data_analyst,Bengaluru,Wissen Technology,,,2026-03-28T11:28:26Z,True,True,False,False,False,False,False,False,False,False,False,False
+2539490267,data_analyst,Bengaluru,Graphene Services Pte Ltd,,,2021-10-13T05:52:44Z,False,False,False,False,False,False,False,False,False,False,False,False
+5814494533,data_analyst,Pune,EXL,,,2026-07-25T03:27:49Z,True,True,False,False,False,False,False,True,False,False,False,False
+5549594782,data_analyst,India,Highfly Sourcing,1500000.0,2500000.0,2025-12-20T11:07:17Z,False,False,False,False,False,False,False,False,False,False,False,False
+5602825903,data_analyst,Vadodara,Hunarstreet Technologies Pvt Ltd,600000.0,800000.0,2026-01-28T11:24:00Z,False,False,False,False,False,False,False,False,False,False,False,False
+5768623778,data_analyst,India,Ecolab,,,2026-06-19T02:45:54Z,True,False,False,False,False,False,False,False,False,False,False,False
+5706462425,data_analyst,Bengaluru,Cytiva Life Science,,,2026-04-22T01:59:28Z,False,False,False,False,False,False,False,False,False,False,False,False
+4344578568,data_analyst,Bengaluru,Jobdost,0.0,500000.0,2023-10-02T13:22:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852342307,data_analyst,Bengaluru,Straatix Partners,2500000.0,3500000.0,2026-08-22T16:04:47Z,False,False,False,False,False,False,False,False,False,False,False,False
+5854877435,data_analyst,Pune,Purview India Consulting And Services Llp,,,2026-08-25T07:40:46Z,False,False,False,False,False,False,False,False,False,False,False,False
+3337906172,data_analyst,Jaipur,Mr n Mrs Pet,100000.0,300000.0,2022-07-22T06:48:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5851158549,data_analyst,Chennai,U.S. Bank,,,2026-08-21T21:04:06Z,False,False,False,False,True,False,False,False,False,False,False,False
+1762829126,data_analyst,Bengaluru,Awign,400000.0,700000.0,2020-10-15T02:16:09Z,False,False,False,False,False,False,False,False,False,False,False,False
+5796414147,data_analyst,Delhi,Align Technology,,,2026-07-11T07:20:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+5729673732,data_analyst,Chennai,Vedita Ventures,,,2026-05-15T02:13:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5762286343,data_analyst,Bengaluru,Wissen Technology,,,2026-06-13T13:33:59Z,True,True,True,False,True,False,False,False,False,False,False,False
+5850636598,data_analyst,Chennai,U.S. Bank,,,2026-08-21T11:18:57Z,False,False,False,False,True,False,False,False,False,False,False,False
+4992020344,data_analyst,India,Appitsimple infotek Pvt. Ltd.,100000.0,300000.0,2024-12-30T12:10:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+4514376058,data_analyst,Mumbai,Qrata,500000.0,1000000.0,2024-01-07T15:07:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+2572832371,data_analyst,Bengaluru,BitClass,0.0,1600000.0,2021-10-24T04:00:25Z,False,False,False,False,False,False,False,False,False,False,False,False
+5842590109,data_analyst,Gurugram,Agiliad Technologies,,,2026-08-15T08:33:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+5831397285,data_analyst,Hyderabad,ICE,,,2026-08-07T07:27:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+2635526340,data_analyst,Bengaluru,Amazon,0.0,800000.0,2021-11-12T04:18:09Z,False,False,False,False,False,False,False,False,False,False,False,False
+5796410882,data_analyst,Kolkata,Novel Office,,,2026-07-11T07:19:21Z,False,False,False,False,True,False,False,False,False,False,False,False
+5796410881,data_analyst,Hyderabad,Novel Office,,,2026-07-11T07:19:21Z,False,False,False,False,True,False,False,False,False,False,False,False
+5796410883,data_analyst,Pune,Novel Office,,,2026-07-11T07:19:21Z,False,False,False,False,True,False,False,False,False,False,False,False
+5796410880,data_analyst,Bengaluru,Novel Office,,,2026-07-11T07:19:21Z,False,False,False,False,True,False,False,False,False,False,False,False
+5823107550,data_analyst,Mumbai,Proof-of-Skill,,,2026-08-01T06:26:45Z,False,False,False,False,False,False,False,False,False,False,False,False
+5838433598,data_analyst,India,DXC Technology,,,2026-08-12T20:42:00Z,False,False,False,False,False,False,False,False,False,False,False,False
+2853928118,data_analyst,Noida,Extramarks,0.0,1000000.0,2022-01-30T04:34:28Z,True,True,False,False,False,False,False,False,False,False,False,False
+5600377478,data_analyst,India,Arcana Analytics,,,2026-01-26T00:36:10Z,False,False,False,False,False,False,False,False,False,False,False,False
+5574398026,data_analyst,Noida,Topcoder,,,2026-01-09T00:41:11Z,False,False,False,False,False,False,False,False,False,False,False,False
+5211779279,data_analyst,Mumbai,Wissen Technology,,,2025-05-23T06:51:59Z,False,False,False,False,False,False,False,False,False,False,False,False
+5819856885,data_analyst,Bengaluru,Cisco,,,2026-07-29T20:42:05Z,False,False,False,False,False,False,False,False,False,False,False,True
+5782690953,data_analyst,Bengaluru,Bodycraft,,,2026-07-01T07:18:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5829317426,data_analyst,Gwalior,HireMap,,,2026-08-05T21:36:08Z,False,False,False,False,False,False,False,False,False,False,False,False
+5833582957,data_analyst,Bengaluru,Amex,,,2026-08-08T20:43:25Z,False,False,False,False,False,False,False,False,False,False,False,False
+5820791979,data_analyst,Bengaluru,Cisco,,,2026-07-30T10:54:32Z,False,False,False,False,False,False,False,False,False,False,False,True
+5831864150,data_analyst,Ajmer,TEMERL,,,2026-08-07T16:04:45Z,False,False,False,False,False,False,False,False,False,False,False,False
+5811736900,data_analyst,Coimbatore,Colruyt IT Consultancy India,,,2026-07-23T07:24:16Z,False,False,False,False,False,False,False,False,False,False,False,False
+5811736899,data_analyst,Hyderabad,Colruyt IT Consultancy India,,,2026-07-23T07:24:16Z,False,False,False,False,False,False,False,False,False,False,False,False
+5379021882,data_analyst,Nagpur,ICAD school of Learning,500000.0,800000.0,2025-09-02T07:56:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+5806701759,data_analyst,Hyderabad,ValueMomentum,,,2026-07-19T07:21:31Z,False,False,False,False,False,False,False,False,False,False,False,False
+5522126592,data_analyst,Bengaluru,Technogen,,,2025-12-01T22:55:55Z,False,False,False,False,False,False,False,False,False,False,False,False
+4988851694,data_analyst,Bhopal,Clinton Health Access Initiative,300000.0,400000.0,2024-12-25T11:57:39Z,False,False,False,False,False,False,False,False,False,False,False,False
+5728267279,data_analyst,Ahmedabad,Mantras2Success,,,2026-05-14T02:05:21Z,False,False,False,False,True,False,False,False,False,False,False,False
+5825770736,data_analyst,India,DS Group,826000.0,1239000.0,2026-08-02T20:55:27Z,True,False,False,True,False,False,False,False,False,False,False,False
+5789403362,data_analyst,India,Zelis,,,2026-07-06T03:41:45Z,False,False,False,False,False,False,False,False,False,False,False,False
+5824128224,data_analyst,India,Anaplan,,,2026-08-01T20:49:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+4158049546,data_analyst,Hyderabad,DAZN,,,2023-06-18T16:46:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+5817917669,data_analyst,Pune,Michelin,,,2026-07-28T07:44:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+4801558701,data_analyst,Bengaluru,Immunogen Pharmaceutical,,,2024-07-31T03:15:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5796404047,data_analyst,Mumbai,Easemytrip com,,,2026-07-11T07:17:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5850636579,data_analyst,Chennai,U.S. Bank,,,2026-08-21T11:18:57Z,False,False,False,False,True,False,False,False,False,False,False,False
+5796404409,data_analyst,Bengaluru,Aeries Technology,,,2026-07-11T07:17:42Z,False,False,False,False,False,False,False,False,False,False,False,False
+5832090086,data_analyst,India,Fortive,,,2026-08-07T20:54:37Z,False,False,False,False,False,False,False,False,False,False,False,False
+2830210357,data_analyst,Bengaluru,Amagi Media Labs,1000000.0,2000000.0,2022-01-21T04:29:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5835723885,data_analyst,India,Portcast,,,2026-08-10T20:48:00Z,False,False,False,False,False,False,False,False,False,False,False,False
+5788467735,data_analyst,India,Ecolab,,,2026-07-05T03:37:53Z,False,False,False,False,False,False,False,False,False,False,False,False
+5823802837,data_analyst,India,Cognizant,,,2026-08-01T15:56:29Z,False,True,True,True,True,False,False,False,False,False,False,False
+5782687819,data_analyst,Gurugram,Delhivery,,,2026-07-01T07:15:56Z,True,True,True,True,False,False,False,False,False,False,False,False
+2830210287,data_analyst,Bengaluru,Amagi Media Labs,1000000.0,1400000.0,2022-01-21T04:29:34Z,True,True,False,False,False,False,False,False,False,False,False,False
+5837019508,data_analyst,Chennai,Petrofac,,,2026-08-11T21:41:04Z,False,False,False,False,False,False,False,False,False,False,False,False
+5823363283,data_analyst,Bengaluru,Cognizant,,,2026-08-01T10:50:20Z,False,True,True,True,True,False,False,False,False,False,False,False
+5755724324,data_analyst,India,Ecolab,,,2026-06-08T02:29:31Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852591112,data_analyst,India,Jobgether,,,2026-08-22T21:02:31Z,False,False,False,False,False,False,False,False,False,False,False,False
+5853705521,data_analyst,India,Jobgether,,,2026-08-23T20:56:46Z,False,False,False,False,False,False,False,False,False,False,False,False
+5590143347,data_analyst,India,Hudson Data,900000.0,1200000.0,2026-01-18T10:53:59Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785772797,data_analyst,Hyderabad,Invesco,,,2026-07-03T00:54:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5811159043,data_analyst,India,Invesco,,,2026-07-23T02:11:08Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849640198,data_analyst,Bengaluru,Moody's,,,2026-08-20T20:04:54Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837138934,data_analyst,Bengaluru,Kyndryl,,,2026-08-12T01:59:19Z,False,False,False,False,False,False,False,False,False,False,False,False
+5831965559,data_analyst,India,IntraEdge,,,2026-08-07T17:54:57Z,False,False,True,False,False,False,False,False,False,False,False,False
+5823897300,data_analyst,Noida,Shiv Nadar School,,,2026-08-01T17:31:18Z,False,False,False,False,False,False,False,False,False,False,False,False
+5822232549,data_analyst,Hyderabad,Kanerika Inc,,,2026-07-31T15:27:16Z,False,False,False,False,False,False,False,False,False,False,False,False
+5854537760,data_analyst,Chennai,Standard Chartered Bank,,,2026-08-25T00:07:36Z,False,False,False,False,False,False,False,False,False,False,False,False
+5842123421,data_analyst,Bengaluru,Vontier,,,2026-08-15T00:26:35Z,False,False,True,False,True,False,False,False,True,False,False,False
+5838614310,data_analyst,Mumbai,Capco,,,2026-08-12T22:00:57Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846299540,data_analyst,India,Teamware Solutions,,,2026-08-18T13:09:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841755459,data_analyst,Jaipur,TP,,,2026-08-14T16:34:42Z,False,False,False,False,False,False,False,False,False,False,False,False
+5851314089,data_analyst,Bengaluru,Moneyview,,,2026-08-21T21:27:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840225504,data_analyst,Ahmedabad,Adani Ports and SEZ,,,2026-08-13T16:19:46Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840225372,data_analyst,Mumbai,Team Computers,,,2026-08-13T16:19:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840224669,data_analyst,India,SHYAM METALICS AND ENERGY LIMITED,,,2026-08-13T16:19:03Z,False,False,False,False,False,False,False,False,False,False,False,False
+5812528517,data_analyst,Bengaluru,Accenture,,,2026-07-23T22:17:23Z,False,False,False,False,False,False,False,False,False,False,False,False
+5855233672,data_analyst,India,accel bi corporation,,,2026-08-25T15:45:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139802,data_analyst,Hyderabad,Capco,,,2026-08-12T01:59:42Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841755404,data_analyst,India,Valueonshore  Advisors,,,2026-08-14T16:34:41Z,False,False,True,False,True,False,False,False,False,False,False,False
+5837139003,data_analyst,Bengaluru,Kyndryl,,,2026-08-12T01:59:26Z,False,False,False,False,False,False,False,False,False,False,False,False
+5848642144,data_analyst,Chennai,Tata Consultancy Services,,,2026-08-19T23:19:04Z,True,False,True,True,False,False,False,False,False,False,False,False
+5849577033,data_analyst,India,ValueFirst,,,2026-08-20T17:56:00Z,False,False,False,False,False,False,False,False,False,False,False,False
+5834576533,data_analyst,Noida,R1 RCM,,,2026-08-09T16:11:31Z,False,False,False,False,False,False,False,False,True,False,False,False
+5812528450,data_analyst,Hyderabad,Accenture,,,2026-07-23T22:17:18Z,False,False,False,False,False,False,False,False,False,False,False,False
+5851435816,data_analyst,Bengaluru,Danaher,,,2026-08-22T02:06:03Z,False,False,False,False,False,False,False,False,False,False,False,False
+5820906198,data_analyst,India,Kraft Heinz,,,2026-07-30T13:53:16Z,False,False,False,False,False,False,False,False,False,False,False,False
+5842114972,data_analyst,India,Novartis,,,2026-08-15T00:04:09Z,False,False,False,False,False,False,False,False,False,False,False,False
+5857169972,data_analyst,Bengaluru,Tata Consultancy Services,,,2026-08-26T22:03:13Z,False,False,True,False,False,True,True,False,False,False,False,False
+5822232308,data_analyst,Nashik,ESDS Software Solution Limited,,,2026-07-31T15:27:04Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785772413,data_analyst,Noida,Aristocrat,,,2026-07-03T00:54:25Z,False,False,False,False,False,False,False,False,True,False,False,False
+5840636706,data_analyst,India,Air India Express,,,2026-08-14T00:22:28Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840225112,data_analyst,Hyderabad,Continental Hospitals,,,2026-08-13T16:19:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+5850983542,data_analyst,Ahmedabad,Outsourced,,,2026-08-21T17:26:44Z,False,False,False,False,False,False,False,False,False,False,False,False
+5820906292,data_analyst,India,Kraft Heinz,,,2026-07-30T13:53:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723067,data_analyst,India,Moody's,,,2026-08-18T18:03:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840287288,data_analyst,Bengaluru,GyanSys Inc.,,,2026-08-13T18:27:16Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139949,data_analyst,Bengaluru,Capco,,,2026-08-12T01:59:44Z,False,False,False,False,False,False,False,False,False,False,False,False
+5803594593,data_analyst,Noida,Manufacturing Company Height Access,,,2026-07-17T02:03:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5821146679,data_analyst,Mumbai,PwC,,,2026-07-30T19:26:55Z,False,False,False,False,False,False,False,False,False,False,False,False
+5848120409,data_analyst,India,SWEET DESIGN HUB,,,2026-08-19T17:14:28Z,False,False,True,False,False,False,False,False,False,False,False,False
+5848650875,data_analyst,Delhi,Danaher,,,2026-08-20T00:04:21Z,False,False,False,False,False,False,False,False,False,False,False,False
+5850982673,data_analyst,Kanpur Dehat,PSIT Kanpur ,,,2026-08-21T17:25:46Z,False,False,False,False,False,False,False,False,False,False,False,False
+5848119648,data_analyst,India,Mancer Consulting Services,,,2026-08-19T17:13:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852763512,data_analyst,India,Tata Consultancy Services,,,2026-08-22T23:35:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5825072351,data_analyst,Bengaluru,Tata Consultancy Services,,,2026-08-02T07:33:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840224739,data_analyst,Hyderabad,Kumaran Systems,,,2026-08-13T16:19:06Z,False,False,False,False,False,False,False,False,False,False,False,True
+5848650874,data_analyst,Mumbai,MSCI,,,2026-08-20T00:04:21Z,False,False,False,False,False,False,False,False,False,False,False,False
+5819622570,data_analyst,Mathura,GLA University,,,2026-07-29T15:20:50Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852477255,data_analyst,Ahmedabad,atQor,,,2026-08-22T17:35:48Z,False,False,True,False,False,False,False,False,False,False,False,False
+5855234363,data_analyst,Bengaluru,TIGI HR,,,2026-08-25T15:46:28Z,False,False,False,False,False,False,False,False,False,False,False,False
+5820906298,data_analyst,India,Kraft Heinz,,,2026-07-30T13:53:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139034,data_analyst,Hyderabad,Cornerstone OnDemand,,,2026-08-12T01:59:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139477,data_analyst,Hyderabad,Reckitt,,,2026-08-12T01:59:37Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723284,data_analyst,Jaipur,Deutsche Bank,,,2026-08-18T18:03:36Z,False,False,False,False,False,False,False,False,False,False,False,False
+5822233234,data_analyst,India,White Force Group,,,2026-07-31T15:28:09Z,False,False,False,False,False,False,False,False,False,False,False,False
+5845829628,data_analyst,Chennai,Tata Consultancy Services,,,2026-08-18T07:18:46Z,False,False,False,False,False,False,False,False,False,False,False,False
+5807167486,data_analyst,Kolkata,Shyam Steel Industries Limited,,,2026-07-19T18:12:46Z,False,False,False,False,False,False,False,False,False,False,False,False
+5848120024,data_analyst,India,Würth Industry India,,,2026-08-19T17:13:58Z,False,False,False,False,False,False,False,False,False,False,False,False
+5857213102,data_analyst,India,Bandhan Technologies,,,2026-08-26T23:57:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5843137576,data_analyst,Nashik,ABB,,,2026-08-15T20:01:48Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846300239,data_analyst,India,CADOpt Technologies Private Limited,,,2026-08-18T13:10:12Z,False,False,False,False,False,False,False,False,True,False,False,False
+5851314337,data_analyst,India,Havas Media Network,,,2026-08-21T21:28:17Z,False,False,False,False,False,False,False,False,False,False,False,False
+5850907175,data_analyst,Bengaluru,HP,,,2026-08-21T16:06:20Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852476845,data_analyst,India,Excitel Broadband,,,2026-08-22T17:35:13Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723028,data_analyst,Bengaluru,Danaher,,,2026-08-18T18:03:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139747,data_analyst,India,Capco,,,2026-08-12T01:59:41Z,False,True,False,False,False,False,False,False,False,False,False,False
+5833789508,data_analyst,India,AVASO Technology Solutions,,,2026-08-09T00:05:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+5843137525,data_analyst,Mumbai,MSCI,,,2026-08-15T20:01:42Z,False,False,False,False,False,False,False,False,False,False,False,False
+5819623258,data_analyst,India,Ramraj Cotton,,,2026-07-29T15:21:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5855679542,data_analyst,Bengaluru,Americana Restaurants,,,2026-08-25T23:54:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5855679777,data_analyst,Delhi,Americana Restaurants,,,2026-08-25T23:55:45Z,False,False,False,False,False,False,False,False,False,False,False,False
+5825822956,data_analyst,India,Novartis,,,2026-08-02T21:53:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+5832278810,data_analyst,Ahmedabad,Intas Pharmaceuticals,,,2026-08-07T23:57:11Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846299675,data_analyst,India,EXL,,,2026-08-18T13:09:45Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849578619,data_analyst,Mumbai,Marico Limited,,,2026-08-20T17:58:11Z,False,False,True,False,True,False,False,False,False,False,False,False
+5830417549,data_analyst,Mumbai,HR PLACEMENT CONSULTANTS ,,,2026-08-06T17:51:55Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723096,data_analyst,Bengaluru,Moody's,,,2026-08-18T18:03:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139063,data_analyst,Chennai,Standard Chartered Bank,,,2026-08-12T01:59:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837138796,data_analyst,Chennai,Standard Chartered Bank,,,2026-08-12T01:59:14Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723274,data_analyst,Pune,Deutsche Bank,,,2026-08-18T18:03:36Z,False,False,False,True,False,False,False,False,False,False,False,False
+5831966037,data_analyst,India,SHRI MAHAVIR FERRO ALLOYS PRIVATE LIMITED,,,2026-08-07T17:55:50Z,False,False,False,False,False,False,False,False,False,False,False,False
+5848120265,data_analyst,Thane,Confidential Jobs,,,2026-08-19T17:14:20Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846298839,data_analyst,India,DynaTech Systems,,,2026-08-18T13:09:11Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852763810,data_analyst,Mumbai,The Edge Partnership - The Edge in Asia,,,2026-08-22T23:37:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5828130370,data_analyst,Bengaluru,Kraft Heinz,,,2026-08-04T23:55:03Z,False,False,False,False,False,False,False,False,False,False,False,False
+5821999954,data_analyst,Bengaluru,Kraft Heinz,,,2026-07-31T09:50:11Z,False,False,False,False,False,False,False,False,False,False,False,False
+5848641661,data_analyst,India,Oracle,,,2026-08-19T23:18:26Z,False,False,False,False,False,False,False,False,False,False,False,True
+5855234020,data_analyst,Chennai,MGM Healthcare,,,2026-08-25T15:46:14Z,False,False,False,False,False,False,False,False,False,False,False,False
+5812528535,data_analyst,Bengaluru,Accenture,,,2026-07-23T22:17:24Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139772,data_analyst,Bengaluru,Capco,,,2026-08-12T01:59:42Z,False,False,False,False,False,False,False,False,False,False,False,False
+5820962576,data_analyst,Mumbai,Performics India,,,2026-07-30T15:23:50Z,False,False,False,False,False,False,False,False,False,False,False,False
+5845682582,data_analyst,Mumbai,Hike Education,,,2026-08-18T05:07:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5845683165,data_analyst,Bengaluru,Valueleaf Services  Pvt. Ltd.,,,2026-08-18T05:08:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846297952,data_analyst,India,PwC India,,,2026-08-18T13:08:36Z,False,False,True,False,False,False,False,False,False,False,False,False
+5840225940,data_analyst,Kozhikode,Nucore Software Solutions,,,2026-08-13T16:20:05Z,False,False,False,False,False,False,False,False,False,False,False,False
+5857168318,data_analyst,Hyderabad,Providence India,,,2026-08-26T22:01:23Z,False,False,True,False,False,True,False,False,False,False,False,False
+5852476452,data_analyst,Bengaluru,ZEISS India,,,2026-08-22T17:34:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723016,data_analyst,Bengaluru,Kraft Heinz,,,2026-08-18T18:03:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852164532,data_analyst,Bengaluru,ABB,,,2026-08-22T12:06:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841755178,data_analyst,Bengaluru,USEReady,,,2026-08-14T16:34:24Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840224845,data_analyst,Thoothukudi,Intersnack Cashew India Private Limited,,,2026-08-13T16:19:09Z,False,False,False,False,False,False,False,False,False,False,False,False
+5830417447,data_analyst,Chennai,Yubi Markets,,,2026-08-06T17:51:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852763790,data_analyst,India,PinnacleU,,,2026-08-22T23:37:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5812528362,data_analyst,Hyderabad,Accenture,,,2026-07-23T22:17:09Z,False,False,False,True,False,False,False,False,False,False,False,False
+5845841634,data_analyst,India,Blend360,,,2026-08-18T07:32:47Z,True,False,True,True,False,False,False,False,False,True,False,True
+5829060313,data_analyst,Mumbai,L&T EduTech,,,2026-08-05T17:44:42Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846300363,data_analyst,India,NIIT,,,2026-08-18T13:10:13Z,False,False,False,False,False,False,False,False,False,False,False,False
+5830417566,data_analyst,Bengaluru,Tredence Inc.,,,2026-08-06T17:51:55Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849890035,data_analyst,Mumbai,The Edge Partnership - The Edge in Asia,,,2026-08-20T23:25:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139684,data_analyst,India,Capco,,,2026-08-12T01:59:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+5820906202,data_analyst,India,Kraft Heinz,,,2026-07-30T13:53:16Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837583698,data_analyst,Pune,IntegriChain,,,2026-08-12T07:26:14Z,False,False,True,False,False,False,False,False,False,False,False,False
+4732696918,data_analyst,Pune,Mindpool Technologies,,,2024-06-12T17:20:00Z,False,False,False,False,False,False,False,False,False,False,False,False
+5762945765,data_analyst,India,EXL,,,2026-06-14T02:38:25Z,True,False,True,True,False,False,False,False,False,False,False,False
+5762900938,data_analyst,India,EXL,,,2026-06-14T02:31:46Z,False,False,True,True,True,False,False,False,False,False,False,False
+5806702891,data_analyst,Pune,NICE,,,2026-07-19T07:22:23Z,False,False,True,False,False,False,False,False,True,False,False,False
+5845682797,data_analyst,India,Atica Global,,,2026-08-18T05:07:46Z,False,False,False,False,False,False,False,False,False,False,False,False
+5829060503,data_analyst,Bengaluru,Tata Electronics,,,2026-08-05T17:45:11Z,False,False,False,False,False,False,False,False,False,False,False,False
+5825920177,data_analyst,Mumbai,Hector,,,2026-08-03T01:36:47Z,False,False,False,False,False,False,False,False,False,False,False,False
+5833434648,data_analyst,Mumbai,Bharat Serums and Vaccines Limited,,,2026-08-08T17:59:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5834649757,data_analyst,Mumbai,Deloitte,,,2026-08-09T18:10:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5845682853,data_analyst,Patiala,PW ,,,2026-08-18T05:07:53Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846299660,data_analyst,India,VedaOils,,,2026-08-18T13:09:45Z,False,False,False,False,False,False,False,False,False,False,False,False
+5855325609,data_analyst,Mumbai,Pepper,,,2026-08-25T17:46:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+5843137514,data_analyst,India,Kraft Heinz,,,2026-08-15T20:01:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723122,data_analyst,Mumbai,Morningstar,,,2026-08-18T18:03:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5857213509,data_analyst,Ahmedabad,Zydus MedTech,,,2026-08-26T23:58:24Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846298758,data_analyst,India,TP,,,2026-08-18T13:09:10Z,False,False,False,False,False,False,False,False,False,False,False,False
+5856666924,data_analyst,Hyderabad,Credvest,,,2026-08-26T15:57:12Z,False,False,False,False,False,False,False,False,False,False,False,False
+5850983091,data_analyst,Hyderabad,Epiq,,,2026-08-21T17:26:11Z,False,False,False,False,False,False,False,False,False,False,False,False
+5831966020,data_analyst,India,Kastech Software Solutions Group,,,2026-08-07T17:55:48Z,False,False,False,False,False,False,False,False,False,False,False,False
+5854537708,data_analyst,Hyderabad,MSD,,,2026-08-25T00:07:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5847959689,data_analyst,Chennai,HP,,,2026-08-19T14:04:52Z,False,False,False,False,False,False,False,False,False,False,False,False
+5834882884,data_analyst,India,Mizuho,,,2026-08-10T00:10:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5812528340,data_engineer,Bengaluru,Accenture,,,2026-07-23T22:17:08Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139303,data_engineer,Noida,Kyndryl,,,2026-08-12T01:59:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139580,data_engineer,Bengaluru,Capco,,,2026-08-12T01:59:38Z,False,False,False,False,False,False,True,False,False,False,False,False
+5785772897,data_engineer,Hyderabad,MSD,,,2026-07-03T00:54:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841509271,data_engineer,Hyderabad,Cornerstone OnDemand,,,2026-08-14T14:19:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840277214,data_engineer,Hyderabad,S&P Global,,,2026-08-13T18:00:01Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852164534,data_engineer,Bengaluru,ABB,,,2026-08-22T12:06:34Z,False,False,False,False,False,False,False,False,True,False,False,False
+5843766479,data_engineer,Bengaluru,Kyndryl,,,2026-08-16T06:19:20Z,False,False,False,False,False,False,False,False,False,False,False,False
+5806276961,data_engineer,India,Novartis,,,2026-07-18T22:18:09Z,False,False,False,False,False,False,False,False,False,False,False,False
+5822403362,data_engineer,Bengaluru,Kraft Heinz,,,2026-07-31T19:50:47Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846299669,data_engineer,India,Tiger Analytics,,,2026-08-18T13:09:45Z,False,False,False,False,False,False,False,False,False,False,False,False
+5792883900,data_engineer,India,S&P Global,,,2026-07-08T22:18:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5822403366,data_engineer,Hyderabad,S&P Global,,,2026-07-31T19:50:47Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139650,data_engineer,India,Capco,,,2026-08-12T01:59:39Z,False,True,False,False,False,True,False,False,False,False,False,False
+5821146689,data_engineer,Bengaluru,Quantiphi,,,2026-07-30T19:26:55Z,False,False,False,False,False,False,True,False,False,False,False,False
+5848650906,data_engineer,Mumbai,Morningstar,,,2026-08-20T00:04:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849640193,data_engineer,Bengaluru,Moody's,,,2026-08-20T20:04:54Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139724,data_engineer,Bengaluru,Capco,,,2026-08-12T01:59:41Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139502,data_engineer,Hyderabad,Reckitt,,,2026-08-12T01:59:37Z,False,False,False,False,False,False,False,False,False,False,False,False
+5838614208,data_engineer,Hyderabad,S&P Global,,,2026-08-12T22:00:52Z,False,False,False,False,False,False,False,False,False,False,False,False
+5847959661,data_engineer,Bengaluru,Deutsche Bank,,,2026-08-19T14:04:51Z,False,False,False,False,False,False,False,False,False,False,False,False
+5850907308,data_engineer,Bengaluru,Kyndryl,,,2026-08-21T16:06:25Z,False,False,False,False,False,False,False,False,False,False,False,False
+5850906545,data_engineer,Bengaluru,Kyndryl,,,2026-08-21T16:06:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785770707,data_engineer,Hyderabad,MSD,,,2026-07-03T00:54:10Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723064,data_engineer,Bengaluru,Danaher,,,2026-08-18T18:03:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139377,data_engineer,Hyderabad,Warner Bros. Discovery,,,2026-08-12T01:59:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+5833433932,data_engineer,Hyderabad,MSD,,,2026-08-08T17:56:22Z,False,False,False,False,False,False,False,False,True,False,False,False
+5753863584,data_engineer,India,Cableteque,,,2026-06-06T07:45:16Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723590,data_engineer,Mumbai,Morningstar,,,2026-08-18T18:03:42Z,False,False,False,False,False,False,False,False,False,False,False,False
+5833789471,data_engineer,Bengaluru,Lufthansa Technik Services India Pvt Ltd,,,2026-08-09T00:02:41Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723245,data_engineer,Pune,Deutsche Bank,,,2026-08-18T18:03:36Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840637273,data_engineer,Hyderabad,Kanerika Inc,,,2026-08-14T00:24:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+5822659699,data_engineer,Bengaluru,GyanSys Inc.,,,2026-08-01T01:28:55Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139857,data_engineer,India,Capco,,,2026-08-12T01:59:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139112,data_engineer,Hyderabad,Cornerstone OnDemand,,,2026-08-12T01:59:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785772080,data_engineer,Hyderabad,MSD,,,2026-07-03T00:54:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5513049976,data_engineer,Noida,EXL,,,2025-11-25T23:00:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841755616,data_engineer,Bengaluru,Mareana,,,2026-08-14T16:34:52Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723388,data_engineer,Bengaluru,Moody's,,,2026-08-18T18:03:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5856666912,data_engineer,India,University of Bristol Mumbai,,,2026-08-26T15:57:12Z,False,False,False,False,False,False,False,False,False,False,False,False
+5838756841,data_engineer,Pune,Insight Advisors Private Limited,,,2026-08-13T03:01:51Z,True,True,False,False,False,False,False,True,False,False,False,False
+5826772591,data_engineer,India,Vrinda International,0.0,1400000.0,2026-08-03T22:53:40Z,False,False,False,False,False,False,False,False,False,True,False,False
+5856641998,data_engineer,India,Weekday AI,,,2026-08-26T15:28:46Z,False,False,False,False,False,True,False,False,False,False,False,False
+5851408956,data_engineer,Bengaluru,Match Point Solutions,2000000.0,2700000.0,2026-08-21T23:35:57Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840538047,data_engineer,Pune,nCircle Tech Pvt. Ltd.,,,2026-08-13T23:04:14Z,True,False,False,False,False,False,False,True,False,False,False,False
+5849894374,data_engineer,India,Sparix Global.,70000.0,75000.0,2026-08-20T23:35:54Z,False,False,False,False,False,False,True,True,False,False,False,False
+5830375297,data_engineer,India,Weekday AI,,,2026-08-06T16:38:23Z,True,False,False,False,False,True,False,False,False,False,False,False
+5847087467,data_engineer,India,Vrinda International,1300000.0,1300000.0,2026-08-18T23:18:05Z,True,True,False,False,False,False,False,False,False,True,False,False
+5849894317,data_engineer,India,Trigent Software Private Limited,2200000.0,2200000.0,2026-08-20T23:35:45Z,True,True,False,False,False,True,True,True,False,False,False,False
+5775539042,data_engineer,Noida,Narba Consulting Pvt. Ltd.,1200000.0,1440000.0,2026-06-25T06:21:13Z,True,True,False,False,False,False,False,False,False,False,False,False
+5790436121,data_engineer,Hyderabad,Deservely Technologies Pvt Ltd,960000.0,1200000.0,2026-07-07T06:26:52Z,True,True,False,False,False,False,False,False,False,False,False,False
+5840236895,data_engineer,India,Serko Ltd,,,2026-08-13T16:56:10Z,False,False,False,False,False,False,False,False,False,False,False,False
+5744014976,data_engineer,Pune,AVIGNAAI PRIVATE LIMITED,,,2026-05-29T04:35:45Z,False,False,False,False,False,False,False,False,False,False,False,False
+5847115572,data_engineer,Chauth Ka Barwara,Trigent Software Private Limited,100000.0,4000000.0,2026-08-18T23:35:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+4732696920,data_engineer,Pune,Mindpool Technologies,,,2024-06-12T17:20:00Z,False,False,False,False,False,False,False,False,False,False,False,False
+5845125766,data_engineer,India,Vrinda International,2500000.0,3000000.0,2026-08-17T16:59:48Z,True,True,False,False,False,True,False,False,False,True,False,False
+5806680429,data_engineer,India,i-Qode Digital Solutions Private Limited,600000.0,1200000.0,2026-07-19T06:32:27Z,False,True,False,False,False,False,True,False,False,False,False,False
+5761252339,data_engineer,India,Unison Group,,,2026-06-12T16:39:04Z,False,False,False,False,False,False,False,False,False,True,False,False
+5845541882,data_engineer,Ahmedabad,CCTECH,,,2026-08-18T03:34:10Z,False,True,False,False,False,False,False,False,False,False,False,False
+5847115489,data_engineer,Pune,Acme Services Private Limited,2200000.0,2300000.0,2026-08-18T23:35:35Z,False,False,False,False,False,True,False,False,False,False,False,False
+5819622642,data_engineer,Kolkata,Sundew,,,2026-07-29T15:20:55Z,False,False,False,False,False,False,False,False,False,False,False,False
+5470785216,data_engineer,Pune,EXL,,,2025-10-30T15:17:15Z,True,False,False,False,False,True,True,True,False,False,False,False
+5851313322,data_engineer,Hyderabad,Koantek,,,2026-08-21T21:26:10Z,False,False,False,False,False,False,False,False,False,False,False,False
+5828880519,data_engineer,India,Happiest Resume,1200000.0,3000000.0,2026-08-05T14:47:55Z,False,False,False,False,False,False,True,False,False,False,False,False
+5828880578,data_engineer,India,Happiest Resume,1200000.0,3000000.0,2026-08-05T14:47:57Z,False,False,False,False,False,False,True,False,False,False,False,False
+5804445061,data_engineer,Bengaluru,Amazon,,,2026-07-17T10:43:12Z,False,False,False,False,False,False,False,False,False,False,False,False
+4839916056,data_engineer,Mumbai,Bristlecone,,,2024-08-26T17:01:49Z,True,False,False,True,False,False,False,False,False,False,False,False
+3220530192,data_engineer,Bengaluru,Fragma Data Systems,500000.0,1500000.0,2022-06-12T06:16:07Z,True,False,False,False,False,False,False,True,False,False,False,False
+5382880244,data_engineer,Bengaluru,Bristlecone,,,2025-09-04T17:19:22Z,False,False,False,False,False,False,False,False,False,True,False,False
+5819192154,data_engineer,Pune,Alphacom Systems and Solutions Priavte Limited,,,2026-07-29T07:47:03Z,False,False,False,False,False,False,False,False,False,False,False,False
+1575030887,data_engineer,Bengaluru,Archelons Consulting,1500000.0,3000000.0,2020-06-16T22:00:59Z,False,False,False,False,False,False,False,True,False,False,False,False
+5843168311,data_engineer,India,EXL,,,2026-08-15T20:56:48Z,True,False,False,False,False,False,False,False,False,True,False,False
+5657199614,data_engineer,Bengaluru,Wissen Technology,1000000.0,3300000.0,2026-03-07T11:19:36Z,False,False,False,False,False,True,True,True,False,True,False,False
+4171468211,data_engineer,Bengaluru,Mobile Programming LLC,1000000.0,1500000.0,2023-06-26T17:19:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+5654565343,data_engineer,India,r3 Consultant,1500000.0,2800000.0,2026-03-05T08:33:18Z,False,False,False,False,False,True,False,True,False,False,False,False
+5812188003,data_engineer,Hyderabad,VY SYSTEMS PRIVATE LIMITED,400000.0,2200000.0,2026-07-23T15:56:52Z,True,True,False,False,False,False,False,False,False,False,False,False
+3606071707,data_engineer,Visakhapatnam,"Miracle Software Systems, Inc",200000.0,400000.0,2022-10-20T08:25:35Z,False,False,False,False,False,False,False,True,False,False,False,False
+5849674290,data_engineer,India,dentsu,,,2026-08-20T20:41:37Z,False,False,False,False,False,False,True,False,False,False,False,False
+5836175939,data_engineer,Bengaluru,Fox Corporation,,,2026-08-11T05:43:03Z,False,False,False,False,False,False,False,False,False,False,False,False
+5832796076,data_engineer,Bengaluru,SWISS RE,,,2026-08-08T07:28:18Z,False,False,False,False,False,False,False,False,False,False,False,False
+5266460272,data_engineer,Ahmedabad,Tecblic Private LImited,800000.0,1200000.0,2025-06-25T05:06:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5001819517,data_engineer,Pune,NeoGenCode Technologies Pvt Ltd,100000.0,1200000.0,2025-01-08T13:28:15Z,True,True,False,False,False,False,False,True,False,False,False,False
+5847823784,data_engineer,Noida,Appsierra Group,1000000.0,1200000.0,2026-08-19T10:57:43Z,True,False,False,False,False,False,True,True,False,False,False,False
+5846549998,data_engineer,Hyderabad,Deccan AI,,,2026-08-18T16:03:20Z,False,False,False,False,False,False,False,False,False,False,False,False
+5814512963,data_engineer,Chennai,Orion Innovation,,,2026-07-25T03:29:51Z,False,False,False,False,False,False,False,False,False,False,False,False
+5744382099,data_engineer,Hyderabad,TalentWeave,1200000.0,1400000.0,2026-05-29T12:49:46Z,False,True,False,False,False,False,False,False,False,False,False,False
+5677793279,data_engineer,Kochi,Peak Hire Solutions,1200000.0,2700000.0,2026-03-25T11:35:24Z,False,False,False,False,False,False,False,False,False,True,True,False
+5503837047,data_engineer,Bengaluru,Nova Nurture HR Solutions,,,2025-11-20T00:58:13Z,True,True,False,False,False,False,False,False,False,False,False,False
+5535797413,data_engineer,Bengaluru,Wissen Technology,,,2025-12-10T09:45:24Z,True,True,False,False,False,False,False,True,False,False,False,False
+5728306413,data_engineer,Ahmedabad,RECEX,,,2026-05-14T02:14:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+2721354316,data_engineer,Bengaluru,Vipsa Talent Solutions,800000.0,1500000.0,2021-12-09T02:43:15Z,True,True,False,False,False,False,True,True,False,False,False,False
+4750106248,data_engineer,India,Nielsen,,,2024-06-24T10:18:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5671063249,data_engineer,Hyderabad,Amgen,,,2026-03-19T01:48:39Z,False,False,False,False,False,False,False,False,False,False,False,False
+5842747224,data_engineer,Hyderabad,Inspire Brands Hyderabad Support Center,,,2026-08-15T11:21:02Z,True,True,False,False,False,True,False,False,False,True,False,False
+5393679407,data_engineer,Ahmedabad,FastHire Manpower Solution,300000.0,1200000.0,2025-09-11T08:01:41Z,True,True,False,False,False,True,False,False,False,False,False,False
+5197322517,data_engineer,Bengaluru,Wissen Technology,,,2025-05-14T06:49:41Z,False,True,False,False,False,False,True,False,False,False,False,False
+5374613563,data_engineer,Pune,TIGI HR Solution Pvt. Ltd.,1000000.0,1500000.0,2025-08-30T05:53:51Z,True,False,False,False,False,False,False,False,False,True,False,False
+2539490047,data_engineer,Bengaluru,Rize @ People Konnect Pvt. Ltd.,0.0,4000000.0,2021-10-13T05:52:41Z,True,True,False,False,False,False,True,False,False,False,False,False
+5828880502,data_engineer,India,Happiest Resume,2700000.0,3000000.0,2026-08-05T14:47:55Z,False,False,False,False,False,False,False,False,False,False,False,False
+5850370913,data_engineer,Bengaluru,Yash Technologies Private Limited,,,2026-08-21T07:37:09Z,True,False,False,False,False,False,False,False,False,False,False,False
+2830210888,data_engineer,Bengaluru,Amagi Media Labs,500000.0,1700000.0,2022-01-21T04:29:38Z,False,False,False,False,False,False,False,True,False,False,False,False
+5856112705,data_engineer,Coimbatore,ShyftLabs,,,2026-08-26T05:58:47Z,True,True,False,False,False,False,False,True,False,False,False,False
+5655894386,data_engineer,Hyderabad,Amgen,,,2026-03-06T08:09:57Z,False,False,False,False,False,False,False,False,False,False,False,False
+5831330916,data_engineer,Bengaluru,ALIQAN Technologies,,,2026-08-07T06:41:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+5816837030,data_engineer,Hyderabad,CACI,,,2026-07-27T03:30:30Z,False,False,False,False,False,False,True,False,False,False,False,False
+5008443987,data_engineer,Hyderabad,Indigrators solutions,1800000.0,2400000.0,2025-01-13T13:26:12Z,False,True,False,False,False,False,False,True,False,False,False,False
+5850370915,data_engineer,Bengaluru,Yash Technologies Private Limited,,,2026-08-21T07:37:09Z,False,False,False,False,False,False,False,False,False,False,False,False
+5781956100,data_engineer,Telangana,Procorp Systems,,,2026-06-30T14:52:23Z,False,True,False,False,False,False,False,False,False,True,False,False
+5820582117,data_engineer,Pune,Aspyra Hr Services,,,2026-07-30T07:29:14Z,True,True,False,False,False,False,False,True,False,False,False,False
+5684977516,data_engineer,Ahmedabad,Tops Infosolutions,1200000.0,1800000.0,2026-04-01T11:39:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5746730778,data_engineer,India,Accenture,,,2026-06-01T02:21:50Z,False,False,False,False,False,False,False,False,False,False,False,False
+5225609557,data_engineer,India,Deqode,500000.0,1500000.0,2025-06-01T04:58:11Z,False,True,False,False,False,False,False,True,False,False,False,False
+3605574271,data_engineer,Bengaluru,Seven N Half,1000000.0,1500000.0,2022-10-20T05:48:54Z,True,True,False,False,False,True,False,True,True,False,False,False
+5850375732,data_engineer,Bengaluru,Mindera,,,2026-08-21T07:38:44Z,False,False,False,False,False,False,False,False,False,False,False,False
+5812906677,data_engineer,India,TVH,,,2026-07-24T03:35:49Z,False,False,False,False,False,False,False,False,False,False,False,False
+5056804973,data_engineer,Bengaluru,Vy Systems,500000.0,900000.0,2025-02-20T04:26:27Z,False,False,False,False,False,True,False,True,False,False,False,False
+5824116468,data_engineer,Bengaluru,Altera Semiconductor,,,2026-08-01T20:39:54Z,False,False,False,False,False,True,False,True,False,False,False,False
+5828880767,data_engineer,India,Happiest Resume,1000000.0,1300000.0,2026-08-05T14:48:03Z,False,False,False,False,False,True,False,False,False,False,False,False
+5828880759,data_engineer,Pune,Happiest Resume,1000000.0,1300000.0,2026-08-05T14:48:03Z,False,False,False,False,False,True,False,False,False,False,False,False
+4450345199,data_engineer,Delhi,Career Forge,1200000.0,1500000.0,2023-11-24T15:09:03Z,False,True,False,False,False,True,True,True,False,False,False,False
+4965365450,data_engineer,India,Fatakpay,800000.0,1400000.0,2024-12-06T13:00:02Z,False,False,False,False,False,False,False,False,False,False,False,False
+5817920589,data_engineer,Bengaluru,Hiresquad,,,2026-07-28T07:45:20Z,False,True,False,False,False,True,False,True,False,False,False,False
+5849700508,data_engineer,Bengaluru,Google,,,2026-08-20T21:06:39Z,False,True,False,False,False,False,False,False,False,False,False,False
+4322836515,data_engineer,Bengaluru,New Era India,3000000.0,5000000.0,2023-09-20T13:14:03Z,False,True,False,False,False,False,False,False,False,False,False,False
+5832090312,data_engineer,Pune,Ascentt-India,,,2026-08-07T20:54:48Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840384177,data_engineer,Hyderabad,GCC India,,,2026-08-13T20:51:05Z,False,False,False,False,False,False,False,False,False,False,False,False
+5768610189,data_engineer,India,Accenture,,,2026-06-19T02:43:08Z,False,False,False,False,False,False,False,False,False,False,False,False
+5727189224,data_engineer,Mumbai,Acura Solution,,,2026-05-13T02:08:53Z,False,False,False,False,False,False,False,False,False,False,False,False
+5825067572,data_engineer,Pune,Advent Global Solutions INC,,,2026-08-02T07:31:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841705942,data_engineer,Bengaluru,Inflexion Analytics,500000.0,1200000.0,2026-08-14T16:02:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+5818430137,data_engineer,Haryana,EXL,,,2026-07-28T21:01:13Z,False,False,False,False,False,False,False,False,False,False,False,False
+5678260401,data_engineer,India,EXL,,,2026-03-26T01:37:50Z,False,False,False,False,False,False,False,False,False,False,False,False
+5416884028,data_engineer,Hyderabad,Blurgs,400000.0,1000000.0,2025-09-27T09:15:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5856956671,data_engineer,India,Accenture,,,2026-08-26T20:50:31Z,False,False,False,False,False,False,False,False,False,False,False,False
+5819192933,data_engineer,Hyderabad,Amgen Technology Private Limited,,,2026-07-29T07:50:10Z,False,False,False,False,False,False,False,False,False,False,False,False
+2100653358,data_engineer,Bengaluru,Multi Recruit,600000.0,1400000.0,2021-04-06T05:55:52Z,True,True,False,False,False,False,True,False,False,False,False,False
+5828603253,data_engineer,Bengaluru,Lykora Consulting Services Private Limited,,,2026-08-05T07:25:14Z,False,False,False,False,False,True,False,False,False,False,False,False
+3008423275,data_engineer,India,surusha technology Pvt Ltd,300000.0,600000.0,2022-03-30T05:13:45Z,True,True,False,False,False,True,False,False,False,False,False,False
+5840174975,data_engineer,Bengaluru,Wissen Technology,,,2026-08-13T16:01:05Z,False,True,True,False,False,False,False,True,False,False,False,False
+5840277325,data_engineer,India,Capco,,,2026-08-13T18:00:12Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139442,data_engineer,India,Capco,,,2026-08-12T01:59:37Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849297019,data_engineer,Gurugram,Kyndryl,,,2026-08-20T10:04:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139919,data_engineer,Bengaluru,Capco,,,2026-08-12T01:59:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837138848,data_engineer,India,Kyndryl,,,2026-08-12T01:59:18Z,False,False,False,False,False,False,False,False,False,False,False,False
+5822403300,data_engineer,Hyderabad,Invesco,,,2026-07-31T19:50:45Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139525,data_engineer,Bengaluru,Capco,,,2026-08-12T01:59:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139511,data_engineer,Bengaluru,Capco,,,2026-08-12T01:59:37Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139379,data_engineer,Hyderabad,Warner Bros. Discovery,,,2026-08-12T01:59:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+5834882661,data_engineer,India,Novartis,,,2026-08-09T23:57:36Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849640345,data_engineer,Bengaluru,Danaher,,,2026-08-20T20:04:59Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139575,data_engineer,Bengaluru,Capco,,,2026-08-12T01:59:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139382,data_engineer,India,Capco,,,2026-08-12T01:59:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837120766,data_engineer,Chennai,HCLTech,,,2026-08-12T00:13:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+5854537836,data_engineer,Hyderabad,MSD,,,2026-08-25T00:07:42Z,False,False,False,False,False,False,False,False,False,False,False,False
+5829141740,data_engineer,India,Novartis,,,2026-08-05T19:54:44Z,False,False,False,False,False,False,False,False,False,False,False,False
+5854366394,data_engineer,Bengaluru,AB InBev GCC India,,,2026-08-24T17:43:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5587360744,data_engineer,Bengaluru,IQVIA India,,,2026-01-16T09:55:48Z,False,False,False,False,False,False,False,False,False,False,False,False
+5793571911,data_engineer,Hyderabad,S&P Global,,,2026-07-09T07:31:39Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852164430,data_engineer,Bengaluru,HP,,,2026-08-22T12:06:19Z,False,True,False,False,False,False,False,False,True,False,False,False
+5852476426,data_engineer,Hyderabad,Itvedant Education Pvt. Ltd.,,,2026-08-22T17:34:27Z,True,True,False,False,False,False,False,False,False,False,False,False
+5837843650,data_engineer,Hyderabad,Warner Bros. Discovery,,,2026-08-12T11:59:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840636716,data_engineer,Bengaluru,WPP,,,2026-08-14T00:22:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5848650908,data_engineer,Bengaluru,Moody's,,,2026-08-20T00:04:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5831636975,data_engineer,Bengaluru,ABB,,,2026-08-07T11:59:24Z,False,False,False,False,False,False,False,False,False,False,False,False
+5843766766,data_engineer,Bengaluru,ABB,,,2026-08-16T06:19:46Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139901,data_engineer,Pune,Capco,,,2026-08-12T01:59:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837138887,data_engineer,Bengaluru,Kyndryl,,,2026-08-12T01:59:18Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139664,data_engineer,Pune,Capco,,,2026-08-12T01:59:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+5822403303,data_engineer,Bengaluru,Kraft Heinz,,,2026-07-31T19:50:45Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139561,data_engineer,Hyderabad,Warner Bros. Discovery,,,2026-08-12T01:59:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5820906321,data_engineer,India,S&P Global,,,2026-07-30T13:53:24Z,False,False,False,False,False,False,False,False,False,False,False,True
+5830301696,data_engineer,India,S&P Global,,,2026-08-06T16:01:55Z,False,False,False,False,False,False,False,False,False,False,False,False
+5856130082,data_engineer,Bengaluru,Warner Bros. Discovery,,,2026-08-26T06:09:12Z,False,False,False,False,False,False,False,False,False,False,False,False
+5857168441,data_engineer,Hyderabad,upGrad,,,2026-08-26T22:01:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5795883422,data_engineer,Hyderabad,Invesco,,,2026-07-10T23:43:07Z,False,False,False,False,False,False,False,False,False,False,False,False
+5855325803,data_engineer,Hyderabad,Tata Consultancy Services,,,2026-08-25T17:47:02Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849578805,data_engineer,Hyderabad,Ocugen India Pvt Ltd,,,2026-08-20T17:58:16Z,False,False,False,False,False,False,False,False,False,False,False,False
+5842114970,data_engineer,India,Novartis,,,2026-08-15T00:04:09Z,False,False,False,False,False,False,False,False,False,False,False,False
+5823898881,data_engineer,Ahmedabad,Biotech Healthcare,,,2026-08-01T17:34:30Z,False,False,False,False,False,False,False,False,False,False,False,False
+5791204049,data_engineer,Bengaluru,IQVIA,,,2026-07-07T23:45:14Z,False,False,False,False,False,False,False,False,False,False,False,False
+5829374063,data_engineer,Hyderabad,Persistent Systems,,,2026-08-05T23:51:04Z,False,False,False,False,False,False,False,False,False,False,False,True
+5846299646,data_engineer,India,SBI Card,,,2026-08-18T13:09:44Z,False,False,False,False,False,False,False,False,False,False,False,False
+5806276947,data_engineer,Mumbai,MSCI,,,2026-07-18T22:18:08Z,False,False,False,False,False,False,False,False,False,False,False,False
+5808332749,data_engineer,Bengaluru,Triomics,,,2026-07-21T00:33:21Z,False,False,False,False,False,False,False,False,False,False,False,False
+5815106129,data_engineer,Bengaluru,ABB,,,2026-07-25T14:12:46Z,False,False,False,False,False,False,False,False,False,False,False,False
+5823897883,data_engineer,Mumbai,Architect Hafeez Contractor,,,2026-08-01T17:32:45Z,False,False,False,False,True,False,False,False,False,False,False,False
+5811159087,data_engineer,India,S&P Global,,,2026-07-23T02:11:18Z,False,False,False,False,False,False,False,False,False,False,False,False
+5845682848,data_engineer,Patiala,PW ,,,2026-08-18T05:07:53Z,False,False,False,False,False,False,False,False,False,False,False,False
+5795883265,data_engineer,Hyderabad,Invesco,,,2026-07-10T23:42:22Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846298534,data_engineer,India,IQVIA India,,,2026-08-18T13:09:06Z,False,False,False,False,False,False,False,False,True,False,False,False
+5837138717,data_engineer,Bengaluru,Standard Chartered Bank,,,2026-08-12T01:59:14Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785770838,data_engineer,Mumbai,MSCI,,,2026-07-03T00:54:11Z,False,False,False,False,False,False,False,False,False,False,False,False
+5815611072,data_engineer,India,Novartis,,,2026-07-25T23:45:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5815106134,data_engineer,Hyderabad,MSD,,,2026-07-25T14:12:46Z,False,False,False,False,False,False,False,False,False,False,False,False
+5795883296,data_engineer,Mumbai,Organon,,,2026-07-10T23:42:23Z,False,False,False,False,False,False,False,False,False,False,False,False
+5857251109,data_engineer,Bengaluru,eBay,,,2026-08-27T02:10:26Z,False,False,False,False,False,False,False,False,False,False,False,False
+5845829707,data_engineer,Mumbai,Acme Services,,,2026-08-18T07:18:54Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840636987,data_engineer,India,Innodata India Private Limited,,,2026-08-14T00:23:08Z,False,False,False,False,False,False,False,False,False,False,False,False
+5829060771,data_engineer,Chennai,Great Lakes Institute of Management,,,2026-08-05T17:46:02Z,False,False,False,False,False,False,False,False,False,False,False,False
+5845682934,data_engineer,Mumbai,LSEG,,,2026-08-18T05:08:02Z,False,False,False,False,False,False,False,False,False,False,False,False
+5850983469,data_engineer,India,upGrad,,,2026-08-21T17:26:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5812528491,data_engineer,Mumbai,Accenture,,,2026-07-23T22:17:18Z,False,False,False,False,False,False,False,True,False,False,False,False
+5812528341,data_engineer,Bengaluru,Accenture,,,2026-07-23T22:17:08Z,False,False,False,False,False,False,False,True,False,False,False,False
+5846723209,data_engineer,Pune,Deutsche Bank,,,2026-08-18T18:03:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852477157,data_engineer,Bhopal,upGrad,,,2026-08-22T17:35:39Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723087,data_engineer,Pune,Deutsche Bank,,,2026-08-18T18:03:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5843137505,data_engineer,Mumbai,MSCI,,,2026-08-15T20:01:37Z,False,False,False,False,False,False,False,False,True,False,False,False
+5837139226,data_engineer,Bengaluru,Kyndryl,,,2026-08-12T01:59:31Z,False,False,False,False,False,False,False,False,False,False,False,False
+5825822957,data_engineer,India,Novartis,,,2026-08-02T21:53:34Z,False,False,False,False,False,False,False,False,False,False,False,True
+5857168450,data_engineer,India,Vaayu - A Clothing Brand,,,2026-08-26T22:01:32Z,False,False,False,False,False,False,False,False,False,False,False,False
+5848120051,data_engineer,India,EnQubes,,,2026-08-19T17:13:59Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785771397,data_engineer,Coimbatore,MSCI,,,2026-07-03T00:54:15Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139115,data_engineer,Bengaluru,Standard Chartered Bank,,,2026-08-12T01:59:27Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849577318,data_engineer,Faridabad,Netweb Technologies India Ltd.,,,2026-08-20T17:56:13Z,False,False,False,False,False,False,False,False,False,False,False,False
+5820906335,data_engineer,India,Novartis,,,2026-07-30T13:53:25Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785771708,data_engineer,India,Novartis,,,2026-07-03T00:54:19Z,False,False,False,False,False,False,False,False,False,False,False,False
+5848121532,data_engineer,Hyderabad,Olympus Corporation,,,2026-08-19T17:15:47Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785772255,data_engineer,India,Novartis,,,2026-07-03T00:54:23Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785772925,data_engineer,Hyderabad,MSD,,,2026-07-03T00:54:30Z,False,False,False,False,False,False,False,False,True,False,False,False
+5837843606,data_engineer,Hyderabad,Warner Bros. Discovery,,,2026-08-12T11:59:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723383,data_engineer,Pune,Deutsche Bank,,,2026-08-18T18:03:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+5785772182,data_scientist,Bengaluru,ABB,,,2026-07-03T00:54:23Z,False,False,False,False,False,False,False,False,False,False,False,False
+5851313355,data_scientist,Coimbatore,Kumaraguru College of Technology,,,2026-08-21T21:26:11Z,False,False,False,False,False,False,False,False,False,False,False,False
+5830417509,data_scientist,Solan,Shoolini University,,,2026-08-06T17:51:47Z,False,False,False,False,False,False,False,False,False,False,False,False
+5834649854,data_scientist,Patiala,PW ,,,2026-08-09T18:11:57Z,False,False,False,False,False,False,False,False,False,False,False,False
+5848121172,data_scientist,Vadodara,Parul University,,,2026-08-19T17:15:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+5829060418,data_scientist,India,Axtria - Ingenious Insights,,,2026-08-05T17:45:01Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846663519,data_scientist,Bengaluru,"Birla Institute of Technology and Science, Pilani",,,2026-08-18T17:10:41Z,False,False,False,False,False,False,False,False,False,False,False,False
+5831966515,data_scientist,Bengaluru,Jain ,,,2026-08-07T17:56:37Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723269,data_scientist,Bengaluru,HP,,,2026-08-18T18:03:36Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849889856,data_scientist,Chennai,VyTCDC,,,2026-08-20T23:24:44Z,False,False,False,False,False,False,False,False,False,False,False,False
+5831965499,data_scientist,India,NIIT Limited,,,2026-08-07T17:54:54Z,False,False,False,False,False,False,False,False,False,False,False,False
+5848120293,data_scientist,Bengaluru,KAPITAL,,,2026-08-19T17:14:21Z,False,False,False,False,False,False,False,False,False,False,False,False
+5833434928,data_scientist,Bengaluru,Tredence Inc.,,,2026-08-08T18:01:52Z,False,False,False,False,False,False,False,False,False,False,False,False
+5845683150,data_scientist,Gandhinagar,Karnavati University ,,,2026-08-18T05:08:26Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849640659,data_scientist,India,Novartis,,,2026-08-20T20:05:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+5823897793,data_scientist,India,CHANDIGARH UNIVERSITY,,,2026-08-01T17:32:26Z,False,False,False,False,False,False,False,False,False,False,False,False
+5788599321,data_scientist,India,Confidential Careers,,,2026-07-05T05:29:50Z,False,False,False,False,False,False,False,False,False,False,False,False
+5842123775,data_scientist,India,Quantiphi,,,2026-08-15T00:27:20Z,False,False,False,False,False,False,False,False,False,False,False,False
+5848120837,data_scientist,Rajpura,Chitkara University,,,2026-08-19T17:15:10Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841754981,data_scientist,Jaipur,"Anand International College of Engineering, Jaipur",,,2026-08-14T16:34:06Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840225384,data_scientist,Mumbai,Ivy homes,,,2026-08-13T16:19:44Z,False,False,False,False,False,False,False,False,False,False,False,False
+5837139873,data_scientist,Hyderabad,Reckitt,,,2026-08-12T01:59:43Z,False,False,False,False,False,False,False,False,False,False,False,False
+5823897873,data_scientist,Rajpura,Chitkara University,,,2026-08-01T17:32:44Z,False,False,False,False,False,False,False,False,False,False,False,False
+5787964850,data_scientist,Noida,Amity University,,,2026-07-04T17:06:15Z,False,False,False,False,False,False,False,False,False,False,False,False
+5856363120,data_scientist,Mumbai,Docterz,,,2026-08-26T09:56:14Z,False,False,False,False,False,False,False,False,False,False,False,False
+5830417715,data_scientist,Mathura,GLA University,,,2026-08-06T17:52:05Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852477167,data_scientist,India,Accredian,,,2026-08-22T17:35:39Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840225275,data_scientist,Ahmedabad,RHC India,,,2026-08-13T16:19:34Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840224644,data_scientist,Ahmedabad,RHC India,,,2026-08-13T16:19:02Z,False,False,False,False,False,False,False,False,False,False,False,False
+5645288318,data_scientist,India,EXL,,,2026-02-26T01:46:48Z,False,False,False,False,False,False,False,False,False,False,False,False
+5848121436,data_scientist,India,Himalayan Group Of Professional Institutions,,,2026-08-19T17:15:44Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841755203,data_scientist,India,The NorthCap University,,,2026-08-14T16:34:25Z,False,False,False,False,False,False,False,False,False,False,False,False
+5854365979,data_scientist,India,Accredian,,,2026-08-24T17:42:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5854366211,data_scientist,India,Accredian,,,2026-08-24T17:42:54Z,False,False,False,False,False,False,False,False,False,False,False,False
+5848120110,data_scientist,Ahmedabad,RHC India,,,2026-08-19T17:14:03Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849578959,data_scientist,Patiala,PW ,,,2026-08-20T17:58:23Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723128,data_scientist,Noida,Moody's,,,2026-08-18T18:03:33Z,False,True,False,False,False,False,False,False,True,False,False,False
+5852477366,data_scientist,Bengaluru,Capital One,,,2026-08-22T17:36:12Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723186,data_scientist,Bengaluru,Deutsche Bank,,,2026-08-18T18:03:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846723080,data_scientist,Bengaluru,Moody's,,,2026-08-18T18:03:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5853620536,data_scientist,India,Atidiv,,,2026-08-23T17:38:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5845683487,data_scientist,Ahmedabad,RHC India,,,2026-08-18T05:08:46Z,False,False,False,False,False,False,False,False,False,False,False,False
+5786785250,data_scientist,India,Confidential,,,2026-07-03T17:35:54Z,False,False,False,False,False,False,False,False,False,False,False,False
+5845682960,data_scientist,India,Seamedu,,,2026-08-18T05:08:05Z,False,False,False,False,False,False,False,False,False,False,False,False
+5846663304,data_scientist,India,Accredian,,,2026-08-18T17:10:35Z,False,False,False,False,False,False,False,False,False,False,False,False
+5823897295,data_scientist,Bengaluru,dentsu,,,2026-08-01T17:31:17Z,False,False,False,False,False,False,False,False,False,False,False,False
+5808699400,data_scientist,Coimbatore,Adway Institute Of Management Education Private Limited,,,2026-07-21T06:40:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5845820435,data_scientist,Delhi,Kodetocareer,,,2026-08-18T07:15:45Z,False,True,False,False,False,False,False,False,False,False,False,False
+5794908966,data_scientist,Bengaluru,Blue Peak Capital Ventures Private Limited,,,2026-07-10T06:25:20Z,False,False,False,False,False,False,False,False,False,False,False,False
+5845820536,data_scientist,Thane,Nettech India propmrsarfaraz Ahmed,,,2026-08-18T07:15:46Z,False,False,False,False,False,False,False,False,False,False,False,False
+5808699328,data_scientist,Ahmedabad,Relay Human Cloud India,,,2026-07-21T06:40:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841945751,data_scientist,Mumbai,Precision Development,,,2026-08-14T21:01:28Z,False,False,False,False,False,False,False,False,False,False,False,False
+5510511306,data_scientist,India,EXL,,,2025-11-23T22:46:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5838433187,data_scientist,Pune,Williams-Sonoma,,,2026-08-12T20:41:52Z,False,False,False,False,False,False,False,False,False,False,False,False
+5857005931,data_scientist,Hyderabad,Vrinda International,4200000.0,4500000.0,2026-08-26T21:08:40Z,False,False,False,False,False,False,False,False,False,False,False,False
+5852463013,data_scientist,India,Vrinda International,1800000.0,2200000.0,2026-08-22T17:10:00Z,True,True,False,False,False,False,False,False,False,False,False,False
+5829382908,data_scientist,Shahada,Vrinda International,0.0,700000.0,2026-08-06T00:50:33Z,True,True,False,False,False,True,False,False,False,False,False,True
+5835895815,data_scientist,India,Vrinda International,2500000.0,3000000.0,2026-08-11T00:54:58Z,False,False,False,False,False,False,False,False,False,False,False,False
+5657233086,data_scientist,India,Weekday AI,,,2026-03-07T12:42:11Z,False,False,False,False,False,False,False,False,False,False,False,False
+5849894378,data_scientist,India,Sparix Global.,2500000.0,6000000.0,2026-08-20T23:35:54Z,False,True,False,False,False,False,False,False,False,False,False,True
+5702235807,data_scientist,India,Fuku,,,2026-04-17T10:47:41Z,False,True,False,False,False,False,False,False,False,False,False,False
+5705560469,data_scientist,India,Fuku,,,2026-04-21T04:55:16Z,False,False,False,False,False,False,False,False,False,False,False,False
+5857005987,data_scientist,India,Vrinda International,1500000.0,2500000.0,2026-08-26T21:08:41Z,True,True,False,False,False,False,False,False,False,False,False,False
+5847087475,data_scientist,Hyderabad,Vrinda International,2500000.0,3000000.0,2026-08-18T23:18:05Z,True,True,False,False,False,False,False,False,True,False,False,False
+5845125768,data_scientist,India,Vrinda International,2500000.0,3000000.0,2026-08-17T16:59:48Z,True,True,False,False,False,False,True,False,False,False,False,False
+5819141738,data_scientist,Bengaluru,Team Geek Solutions,1600000.0,1800000.0,2026-07-29T06:56:25Z,False,False,False,False,False,False,False,False,False,False,False,False
+5836227804,data_scientist,Hyderabad,viraaj hr solutions,1000000.0,3000000.0,2026-08-11T06:57:29Z,False,False,False,False,False,False,False,False,False,False,False,False
+5838756709,data_scientist,Hyderabad,Vrinda International,2500000.0,3000000.0,2026-08-13T03:01:47Z,False,False,False,False,False,False,False,False,False,False,False,False
+5801068336,data_scientist,Bengaluru,Slate Technologies,,,2026-07-15T15:37:44Z,False,False,False,False,False,False,False,False,False,False,False,False
+5840603253,data_scientist,Bengaluru,Rocket Learning,,,2026-08-13T23:10:53Z,False,False,False,False,False,False,False,False,False,False,False,True
+5842137292,data_scientist,Bengaluru,Bosch Group,,,2026-08-15T01:30:28Z,False,False,False,False,False,True,False,False,False,False,False,True
+5842137291,data_scientist,Bengaluru,Bosch Group,,,2026-08-15T01:30:28Z,False,False,False,False,False,True,False,False,False,False,False,True
+5848648814,data_scientist,Bengaluru,Trigent Software Private Limited,100000.0,3500000.0,2026-08-19T23:35:26Z,False,True,False,False,False,False,False,False,False,False,False,True
+5828152252,data_scientist,Bengaluru,Bosch Group,,,2026-08-05T01:18:59Z,False,False,False,False,False,False,False,False,False,False,False,False
+5777469064,data_scientist,Pune,Jash Data Sciences Pvt Ltd,500000.0,1600000.0,2026-06-26T14:51:33Z,False,False,False,False,False,False,False,False,False,False,False,False
+5522127566,data_scientist,Noida,EXL,,,2025-12-01T22:56:16Z,False,False,False,False,False,False,False,False,False,False,False,False
+4870531768,data_scientist,Bengaluru,Pixis,,,2024-09-20T17:54:25Z,False,False,False,False,False,False,False,False,False,False,False,False
+5841706006,data_scientist,Bengaluru,NAM Info Pvt Ltd,,,2026-08-14T16:02:31Z,False,False,False,False,False,False,False,False,False,False,False,False
+5856198015,data_scientist,Pune,Infosys Limited,,,2026-08-26T07:38:11Z,False,False,False,False,False,False,False,False,False,False,False,False
+4803838914,data_scientist,Mumbai,UpSolve Solutions LLP,300000.0,800000.0,2024-08-01T10:54:17Z,False,False,False,False,False,False,False,False,False,False,False,False
+4723896617,data_scientist,Mumbai,UpSolve Solutions LLP,300000.0,500000.0,2024-06-06T09:58:08Z,False,False,False,False,False,False,False,False,False,False,False,False
+4493479600,data_scientist,Bengaluru,AVE-Promagne Business Solutions LLP,200000.0,1000000.0,2023-12-23T15:03:21Z,False,False,False,False,False,False,False,False,False,False,False,False
+5120471599,data_scientist,India,Quenzo Tech,1000000.0,2000000.0,2025-04-01T04:34:13Z,False,False,False,False,False,False,False,False,False,False,False,False
+2318122072,data_scientist,Bengaluru,Kaplan,750000.0,2000000.0,2021-07-14T22:44:56Z,False,False,False,False,False,False,False,False,False,False,False,False
+2461074337,data_scientist,India,Carsome,1000000.0,3000000.0,2021-09-16T01:20:42Z,False,False,False,False,False,False,False,False,False,False,False,False
+5857001101,data_scientist,Uttar Pradesh,EXL,,,2026-08-26T21:07:38Z,False,False,False,False,False,False,False,False,False,False,False,False
+2927156051,data_scientist,Pune,Symansys Technologies India Pvt Ltd,500000.0,1500000.0,2022-02-26T04:52:00Z,True,True,False,False,False,False,False,False,True,False,False,False
+5856948218,data_scientist,India,Ecolab,,,2026-08-26T20:47:09Z,False,False,False,False,False,False,False,False,False,False,False,False
+2349832292,data_scientist,Pune,Kavayah People Consulting,2000000.0,5000000.0,2021-07-30T22:01:50Z,False,False,False,False,False,False,False,False,False,False,False,False
