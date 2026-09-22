@@ -2,7 +2,10 @@
 
 This project builds a data pipeline for India’s job market using the Adzuna Jobs API, then cleans and enriches the raw postings to analyze role trends and skill demand across data-focused jobs.
 
+
 ![Project demo](Screenshots%20and%20Recordings/final%20recording.gif)
+
+
 
 ## Project goal
 
